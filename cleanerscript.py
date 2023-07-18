@@ -87,17 +87,6 @@ passes = 20
 iterations = 400
 eval_every = 1
 
-
-# Set training parameters
-num_topics = 10  # number of topics, this can be tuned later
-chunksize = 2000
-passes = 20
-iterations = 400
-eval_every = 1
-
-print(corpus)
-
-print(id2word)
 # Train the LDA model
 model = LdaModel(
     corpus=corpus,
