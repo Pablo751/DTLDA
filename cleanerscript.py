@@ -1,12 +1,15 @@
 import os
 import nltk
+nltk.download('stopwords')
+nltk.download('wordnet')
 import re
+import gensim
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from gensim.corpora import Dictionary
-from gensim.models import LdaModel
+from gensim.models import LdaModel, Phrases
 
-data_dir = '/Users/juanpablocasado/Downloads/20_newsgroups'  # your directory
+data_dir = '/Users/TomKobes/Documents/Unibo/Courses/Digital Text/LDA/DOCS'  # your directory
 
 documents = []
 for dirpath, dirnames, filenames in os.walk(data_dir):
@@ -17,12 +20,10 @@ for dirpath, dirnames, filenames in os.walk(data_dir):
             text = f.read()
             documents.append(text)
 
-print(f"Number of documents loaded: {len(documents)}")
+#print(f"Number of documents loaded: {len(documents)}")
 
 # Debug: Print the first document
-print(f"First document: {documents[0]}")
-
-nltk.download('stopwords')
+#print(f"First document: {documents[0]}")
 
 def clean_document(doc):
     # Remove punctuation
@@ -37,11 +38,9 @@ def clean_document(doc):
 
 documents = [clean_document(doc) for doc in documents]
 
-# Debug: Print the first cleaned document
-print(f"First cleaned document: {documents[0]}")
 
-# Download wordnet if you haven't already
-nltk.download('wordnet')
+# Debug: Print the first cleaned document
+#print(f"First cleaned document: {documents[0]}")
 
 stemmer = PorterStemmer()
 lemmatizer = WordNetLemmatizer()
@@ -54,29 +53,32 @@ def stem_and_lemmatize(words):
 documents = [stem_and_lemmatize(doc) for doc in documents]
 
 # Debug: Print the first stemmed and lemmatized document
-print(f"First stemmed and lemmatized document: {documents[0]}")
-
-from gensim.models import Phrases
+#print(f"First stemmed and lemmatized document: {documents[0]}")
 
 bigram = Phrases(documents, min_count=5)  # at least 5 occurrences for a pair to be considered a bigram
 documents = [bigram[doc] for doc in documents]
 
+
 # Debug: Print the first document with bigrams
-print(f"First document with bigrams: {documents[0]}")
+#print(f"First document with bigrams: {documents[0]}")
 
 # Create a dictionary representation of the documents
-dictionary = Dictionary(documents)
-print(f"Initial dictionary: {dictionary}")
+dictionary = gensim.corpora.Dictionary(documents)
 
-# Filter out words that occur less than 10 documents, or more than 70% of the documents
-dictionary.filter_extremes(no_below=10, no_above=0.7)
-print(f"Dictionary after filtering extremes: {dictionary}")
+#print(f"Initial dictionary: {dictionary}")
+
+    # Filter out words that occur less than 10 documents, or more than 70% of the documents
+    #dictionary.filter_extremes(no_below=10, no_above=0.7)
+    #print(f"Dictionary after filtering extremes: {dictionary}")
 
 # Bag-of-words representation of the documents
 corpus = [dictionary.doc2bow(doc) for doc in documents]
 
 # Debug: Print the first BoW representation
 print(f"First BoW representation: {corpus[0]}")
+
+# Invert the word-to-id mapping to get id2word
+id2word = {v: k for k, v in dictionary.token2id.items()}
 
 # Set training parameters
 num_topics = 10  # number of topics, this can be tuned later
@@ -85,9 +87,17 @@ passes = 20
 iterations = 400
 eval_every = 1
 
-# Make a index to word dictionary
-id2word = dictionary.id2token
 
+# Set training parameters
+num_topics = 10  # number of topics, this can be tuned later
+chunksize = 2000
+passes = 20
+iterations = 400
+eval_every = 1
+
+print(corpus)
+
+print(id2word)
 # Train the LDA model
 model = LdaModel(
     corpus=corpus,
@@ -100,3 +110,9 @@ model = LdaModel(
     passes=passes,
     eval_every=eval_every
 )
+
+# Print the topics learned by the model
+print("Topics learned by the LDA model:")
+topics = model.print_topics()
+for topic in topics:
+    print(topic)
