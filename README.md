@@ -1,6 +1,5 @@
 
-# Project Title
-A brief description of the project. This can be a one-liner that gives a quick idea about the project's purpose.
+# Digital Text Project
 
 ## Introduction
 This project focuses on text processing and analysis, providing functionalities such as topic modeling, sentiment analysis, and text cleaning. The detailed documentation below provides insights into the modules used, functions defined, and the methodologies implemented.
