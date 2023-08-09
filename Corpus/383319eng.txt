@@ -1,0 +1,907 @@
+Synthesis of Decisions  
+on Access to Public Information  
+in Latin America
+Daniel Ospina Celis 
+Catalina Botero MarinoCommunication and Information  
+Discussion Papers
+22
+ISSN: 2301-1424
+Published in 2023 by the United Nations Educational, Scientific and Cultural Organization (7, place de Fontenoy, 
+75352 Paris 07 SP, France) and the UNESCO Regional Bureau for Sciences in Latin America and the Caribbean, 
+UNESCO Office in Montevideo (Luis Piera 1992, Piso 2, 11200 Montevideo, Uruguay). 
+© UNESCO 2023
+ISSN 2301-1424
+This publication is available in Open Access under the Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) license 
+(http://creativecommons.org/licenses/by-sa/3.0/igo/). By using the content of this publication, the users accept to 
+be bound by the terms of use of the UNESCO Open Access Repository (http://www.unesco. org/open-access/
+terms-use-ccbysa-sp).
+Original title: “Síntesis de decisiones de acceso a la información pública en América Latina” published in 2022 by 
+the Regional Bureau for Sciences in Latin America and the Caribbean / UNESCO Montevideo Office, (Luis Piera 
+1992, Piso 2, 11200 Montevideo, Uruguay).
+The designations employed and the presentation of material throughout this publication do not imply the expres -
+sion of any opinion whatsoever on the part of UNESCO concerning the legal status of any country , territory, city or 
+area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+The ideas and opinions expressed in this publication are those of the authors; they are not necessarily those of 
+organizations which coordinated and supported this work, and do not commit them. 
+Authors: Daniel Ospina Celis / Catalina Botero Marino
+Coordination: Rosa María González / Marcos Mendiburu
+Graphic and cover design and typeset: María Noel Pereyra
+Cover graphics: Conny Schneider - Unsplash / Annie Spratt - Unsplash
+Synthesis of Decisions  
+on Access to Public Information  
+in Latin America
+Daniel Ospina Celis
+Catalina Botero Marino5
+An Invitation to Debate
+More than three centuries ago, British thinker, poet and politician John Milton wrote one of the most important 
+and well-known texts against censorship: Areopagitica. It was one of the catalysts for an important debate 
+on the protection of freedom of expression and freedom of the press.
+Many centuries before him, the Greeks had strongly emphasized on the importance of the doxa (opinion) 
+for democracy.
+The debates on the vital importance of freedom of expression and access to information and knowledge 
+for democracies and for the development, protection and promotion of other human rights are by no means 
+new.
+However, there is no doubt that the advent of the new information and communication technologies (ICTs), 
+particularly the expansion of the Internet, offers a unique and original dimension to these discussions.
+The impact on the system for the protection and promotion of human rights, on the consolidation of 
+democracies, on development, decision-making, public policies, and, at the end of the day, on the everyday 
+life of every citizen, is unprecedented.
+The progress of knowledge societies is intimately related to the deepening of the debates on the right 
+to freedom of expression and universal access to information in an increasingly connected world. Press 
+freedom, media development, privacy, the role of ICTs in public policies, open governments, documents’ 
+protection, and media and information literacy, are just a few of the many issues on the agenda.
+In order to deepen the role of the Organization as a laboratory of ideas, UNESCO Office in Montevideo 
+offers its stakeholders these Cuadernos de Discusión de Comunicación e Información (Communication and 
+Information Discussion Papers).
+Written by leading experts from each field, the main objective of these publications is to provide inputs so 
+that decision makers and public policy makers can take into account different angles of the current issues 
+on the international agenda, always having the existing international standards as a reference.
+These papers do not intend to become the final word. Instead, they aim to contribute to an ever increasing, 
+plural and well-informed debate on key issues of yesterday, today and tomorrow.CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...Synthesis of Decisions on Access to Public Information...6
+CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...
+An Invitation to Debate  ............................................................................................................................................................ 5
+Introduction .................................................................................................................................................................................. 7
+1. Jurisprudence of the Inter-American Court of Human Rights ...............................................................................  8
+2. Decisions on the Principle of Maximum Disclosure .................................................................................................  9
+3. Decisions on Mandated Bodies by the Law  ...............................................................................................................  10
+4. Decisions on the Obligation to Produce or Capture Information ......................................................................  11
+5. Decisions on Harm Test .....................................................................................................................................................  13
+6. Decisions on Information Related to Human Rights Violations .........................................................................  14
+7. Decisions on Information Included in Court Records .............................................................................................  15
+8. Decisions on Information Held by the Armed Forces .............................................................................................  17
+9. Decisions on State Budget Information ......................................................................................................................  19
+10. Decisions on Public Servants’ Information ..............................................................................................................  20
+11. Decisions on Information Related to the Implementation of Public Policies .............................................  22
+12. Decisions on Information Related to COVID-19 ....................................................................................................  23
+About the Authors ...................................................................................................................................................................  26Table of contents7
+Introduction
+In the first two decades of this century, Latin America has made significant progress in the exercise of 
+the right to information. In this context, the bodies guaranteeing access to information established in the 
+different legislations had to deal with a significant volume of appeals filed by requesters dissatisfied with 
+the denials of information by the mandated bodies by the Law, which has resulted in the adoption of a set 
+of decisions that constitute a body of jurisprudence relevant to the countries of the region. In this regard, 
+the 2021 report of the Regional Alliance for Freedom of Expression and Information “ Access to Information 
+in the XXI Century: Current Situation and Lessons Learned from Latin America” , which includes a regional 
+analysis of the implementation of access to public information in Latin America during the past 20 years, 
+highlights among its advances the development of jurisprudence in this area. As evidenced in the present 
+document, this has occurred not only at the national level, through resolutions by the oversight bodies and 
+judgments of the judiciaries, but also at the regional level, through decisions of the Inter-American Court of 
+Human Rights, establishing strong standards in favour of open access to information.
+As stated in the Inter-American Model Law 2.0 on Access to Public Information, the role of the bodies 
+guaranteeing the right of access to information is key to the effective operation of national systems regarding 
+access to public information. Two of the main functions of the oversight body are: (i) the monitoring of 
+compliance with the corresponding law through the development of indicators to measure its correct 
+application, and (ii) the resolution of disputes, interpreting the law in the matter. While UNESCO, as the 
+custodian agency of the Sustainable Development Goal (SDG) indicator 16.10.2, contributes to the first 
+function through the implementation of an annual survey among member countries and the preparation 
+of a global report which is available to the public, this document aims to strengthen the capacities of the 
+oversight bodies regarding the second function.
+Commissioned by the UNESCO Regional Office in Montevideo, this document, which has been written by 
+Catalina Botero and Daniel Ospina, of the Los Andes University in Colombia, and has benefited from feedback 
+from a group of bodies guaranteeing the right to information in Latin America, consists of a compilation of 
+decisions of oversight bodies and judgments of judicial courts of the countries of the region.
+This document is intended to contribute to the work of the working group on jurisprudence of the Transparency 
+and Access to Information Network, which encompasses the oversight bodies of Ibero-American countries, 
+and of the International Conference of Information Commissioners (ICIC). The authors are also confident 
+that this document will be useful to judicial officers, as well as to law professors and students from different 
+academic institutions within the region.
+.CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...Synthesis of Decisions on Access to Public Information...8
+CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...
+1.  Jurisprudence of the Inter-American Court of Human Rights 
+In 2006, the Inter-American Court of Human Rights became the first international court to 
+recognize the existence of the right of access to public information as an autonomous right in the 
+case of Claude Reyes et al. v. Chile. This emblematic case not only was important at the time, but 
+continuous to be relevant today, and it is therefore worth detailing its origins, content, and scope.
+The case arises from a request for information made by Marcel Claude Reyes, Sebastián Cox 
+Urrejola and Arturo Longton Guerrero to the Foreign Investment Committee of Chile on the Trillium 
+forestry company and the Río Cóndor project, a project of deforestation and exploitation of forest 
+resources that could eventually impact the environment and prevent sustainable development in 
+Chile. They received only partial information, and the State did not explain why it did not allow 
+the requesters to access all the information. In view of the State’s refusal, the petitioners turned to 
+the Chilean courts, but they were unable to obtain all the information requested. Therefore, they 
+resorted to the Inter-American System of Human Rights.
+In deciding on the case, the Inter-American Court of Human Rights established that “in a democratic 
+society, it is essential that the State authorities are governed by the principle of maximum 
+disclosure, which establishes the presumption that all information is accessible, subject to a 
+limited system of exceptions”.1 Restrictions, such as limitations on human rights, must have been 
+established by law to ensure that they are not at the discretion of public authorities; must respond 
+to a purpose allowed by the American Convention; and must be necessary in a democratic society, 
+consequently, they must be intended to satisfy a compelling public interest. “It corresponds to the 
+State to show that it has complied with the above requirements when establishing restrictions to 
+the access to the information it holds”.2 As the Chilean State failed to meet said burden of proof, 
+the Inter-American Court of Human Rights declared that Chile had violated Article 13 of the 
+American Convention on Human Rights (hereinafter, the Convention or the ACHR) and ordered 
+to provide the petitioners with the information. It also ordered the State to take the necessary 
+measures to guarantee the right of access to information, including adapting its domestic law and 
+training the State bodies, authorities, and agents responsible for responding to requests for access 
+to information on the parameters set out in the judgment. Following the judgment, Chile modified 
+its legal framework to adequately regulate access to public information and created the Council 
+for Transparency, a public entity charged with guaranteeing of this right.3
+A few years after the case of Claude Reyes, the Inter-American Court of Human Rights reiterated 
+the precedent it had established on that occasion. In 2010, when ruling on the case of Gomes Lund 
+et al. (“Guerrilha do Araguaia”) v. Brazil, the Court recalled that the ACHR “protects the right of every 
+person to request access to information under State control”.4 On that occasion, the Court stated 
+that this is the “the right of persons to receive said information and the positive obligation of the 
+State to provide it, in a way that the person will be able to know this information or receive a well-
+1 Inter-American Court of Human Rights. Case of Claude Reyes et al. v. Chile. Judgment of September 19, 2006. 
+Series C No. 151, par. 92.
+2 Inter-American Court of Human Rights. Case of Claude Reyes et al. v. Chile. Judgment of September 19, 2006. 
+Series C No. 151, par. 93.
+3 Chile. Law No. 20.285 of August 11, 2008. Official Bulletin of August 20, 2008.
+4 Inter-American Court of Human Rights. Case of Gomes Lund et al. (“Guerrilha do Araguaia”) v. Brazil. Judgment of 
+September 24, 2010. Series C No. 219, par. 197.9
+founded response when, under one of the reasons permitted by the Convention, the State is able 
+to limit access to it in that specific case.5 
+Most of the closing courts in the countries of the region have followed the standards set out in 
+Claude Reyes when deciding on cases related to access to public information. The following is a 
+thematic selection of recent judgments and decisions by oversight bodies related to the right of 
+access to information, its content, and limits.
+2. Decisions on the Principle of Maximum Disclosure 
+The principle of maximum disclosure states that “access by people to public information should be 
+maximized, with very limited exceptions. To that extent, the general rule should be that all public 
+information is accessible, and only very exceptionally can access be denied to certain specific 
+types of information held by the State”.6 According to the Inter-American Court of Human Rights, 
+this principle is indispensable in a democratic society because it “establishes the presumption that 
+all information is accessible, subject to a restricted system of exceptions”.7
+Because of its central importance to understand the right of access to information, the courts and 
+oversight bodies in most of the countries in the region have applied the principle of maximum 
+transparency as the main criterion for resolving on cases related to access to public information. 
+In many cases, the principle based on which transparency is the rule and secrecy is the exception, 
+is the cornerstone of the decision. Some of these cases are developed in other sections of this 
+document, but it is worth mentioning certain cases that are illustrative to understand the type of 
+decisions that the principle of maximum transparency makes possible.
+In Costa Rica, for example, the Constitutional Chamber of the Supreme Court of Justice has 
+extensively interpreted the principle of maximum disclosure in cases involving environmental 
+information. In 2018, the Constitutional Chamber ordered the Ministry of Environment and Energy 
+to provide an individual information on the topographic profiles of the mining activity in a region.8 
+The court based its decision on the fact that environmental information should be governed by the 
+principle of maximum disclosure. It reached that conclusion after a harmonious interpretation of 
+the right of access to information, the Principle 10 of the Rio Declaration, the Aarhus Convention, 
+and the content of the right to a healthy environment established by the Inter-American Court 
+of Human Rights in Advisory Opinion OC-23/17. This precedent was cited and reaffirmed by the 
+same Constitutional Chamber in 2021, in a decision ordering the delivery to the petitioner of the 
+protocols on which the reform of the Regulation for agricultural aviation activities was based.9
+In Brazil, the Supreme Federal Court faced in 2011 the need to reconcile two apparently 
+conflicting constitutional principles: The disclosure principle and privacy.10 The case arose after 
+the precautionary measures that, at the request of a trade union, prevented the implementation 
+of the decision of the municipality of Sao Paulo to publish on its website, based on the legislation 
+5 Inter-American Court of Human Rights. Case of Gomes Lund et al. (“Guerrilha do Araguaia”) v. Brazil. Judgment of 
+September 24, 2010. Series C No. 219, par. 197.
+6 Caja de herramientas para escuelas judiciales iberoamericanas (UNESCO 2017).
+7 Inter-American Court of Human Rights. Case of Gomes Lund et al. (“Guerrilha do Araguaia”) v. Brazil. Judgment of 
+September 24, 2010. Series C No. 219, par. 199.
+8 Costa Rica. Constitutional Chamber. Resolution No. 20355-2018 of December 7, 2018.
+9 Costa Rica. Constitutional Chamber. Resolution No. 20267-2021 of September 10, 2021
+10 Brazil. Federal Supreme Court. Suspensão de segurança 3902-2011 of June 9, 2011.CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...Synthesis of Decisions on Access to Public Information...10
+CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...
+on transparency, the name, duties, and salary of all its public servants. Faced with the apparent 
+conflict between the privacy of the officers and transparency as a State value, the Supreme Federal 
+Court had to decide whether the decision to suspend the disclosure had been appropriate.
+After describing the State duty to disclose public information as an “eminently republican duty 
+because the management of public affairs should be carried out with the maximum transparency, ” 
+the Court found that, on this specific case, the principle of disclosure should prevail. The 
+remuneration, positions, and duties of public servants is information of public interest which does 
+not have the potential to impact the privacy of individuals. On the other hand, “the predominance 
+of the principle of administrative disclosure is but one of the noblest ways of making the Republic 
+a reality as a form of government. ” For this reason, the Court ordered the suspension of the effects 
+of those judicial decisions that had prevented the disclosure of the information.
+The Constitutional Court of Peru has also recognized the importance of the principle of maximum 
+disclosure. As the Court has stated in a 2010 decision, “this is a principle of constitutional 
+relevance, implicit in the model of the democratic and social rule of law and the republican form 
+of government”.11 It also indicated that “the implementation of the principle of transparency helps 
+to combat corruption in the State and, at the same time, it constitutes an effective tool against 
+the impunity of power by allowing the people to have access to the way in which the delegation 
+of power is exercised. ” In this line of thinking, the Court ordered to provide the interested party 
+with certified copies of the technical file of a publicly-funded infrastructure work. Likewise, the 
+Courts and oversight bodies of Argentina, Chile, Colombia, and Mexico, among others, have used 
+the principle of maximum disclosure to resolve cases on access to information.
+3. Decisions on Mandated Bodies by the Law
+The question of who are mandated bodies by the Law is fundamental to the guarantee of the right 
+of access to information. Only those public or private persons who are guided by the principle 
+of maximum disclosure shall be bounded to deliver the information in their possession. Both 
+the Inter-American Model Law on Access to Public Information of 2010 (Article 3) and the Inter-
+American Model Law 2.0 on Access to Public Information of 2020 (Article 2) establish general 
+rules in this regard. The latter establishes that the mandated bodies by the Law are: (i) any public 
+authority belonging to any branch of government; (ii) independent bodies or entities owned or 
+controlled by the government; and (iii) private entities performing public duties or receiving and 
+executing public funds.
+In addition, the national legislation of most countries in the region includes provisions in this 
+regard, specifically identifying the entities covered by the transparency and access to information 
+legislation. However, the judges and oversight bodies have been responsible for applying such 
+rules to unconventional mandated bodies by the Law or for extending the list.
+For example, the Constitutional Chamber of the Supreme Court of Justice of Costa Rica established 
+in its decision of March 18, 2011, citing precedents dating back to 2003, that public agencies 
+and their bodies, State-owned companies, and “private persons who permanently or temporarily 
+exercise a public power or competence”, are mandated bodies by the Law regarding the right of 
+access to public information.12 For this reason, the Constitutional Chamber ordered the Ministry 
+of Labour and Social Security to provide the requester with a list of legal and natural persons 
+11 Peru. Constitutional Court. File No. 00565-2010. Judgment of September 5, 2010.
+12 Costa Rica. Constitutional Chamber. Resolution No. 03320-2011 of March 18, 201111
+who have been punished for not complying with the payment of a minimum wage. In Peru, the 
+Constitutional Court found that a company providing the public electricity service is legally bound 
+regarding the right of access to information and ordered it to provide the information requested 
+by the petitioners.13
+In Argentina, the Supreme Court of Justice has established that individuals exercising public duties14 
+and companies whose capital is mainly public are mandated bodies by the Law regarding the right 
+of access to information.15 More recently, the Agency for Access to Public Information has established 
+that Telefónica de Argentina S.A., a company that provides the public telecommunications service, 
+is a legally bound subject regarding national legislation on transparency.16 The Agency based 
+its resolution both on the case of Claude Reyes and the Inter-American Model Law on Access to 
+Public Information. The Agency ordered Telefónica de Argentina S.A. to provide the petitioners 
+with information on the number of users to whom it provides its telephone and Internet services 
+in the vulnerable neighbourhoods of the country’s capital. In December 2021, the judiciary, through 
+the Federal Contentious-Administrative Chamber, confirmed the decision of the oversight body.17
+The bodies guaranteeing access to information have also been concerned with establishing who 
+are legally bound entities. In 2021, the Council for Transparency of Chile determined that public 
+and private universities are mandated bodies regarding the right of access to public information 
+as they provide the public service of education.18
+4. Decisions on the Obligation to Produce or Capture Information 
+The right of access to public information also implies the obligation of State authorities to 
+produce or capture information for the performance of their duties. When a legally bound subject 
+must capture or systematize certain information for the proper performance of its duties, the 
+absence of such information cannot be accepted as a response to requests for access. In its 2013 
+Annual Report, the Office of the Special Rapporteur for Freedom of Expression of the IACHR has 
+stated that the right to access to public information “applies to information that is in the custody, 
+administration or possession of the State; information that the State produces, or information 
+that it is legally required to produce; information in the possession of persons who exercise or 
+manage public duties, services, or funds, solely with respect to those services, duties, or funds; and 
+information that the State obtains, and that it is required to collect in the discharge of its duties. ”19
+This has also been recognized by various national legislations in the region. The Colombian 
+legislation, for example, when defining the object of the right, recognizes that it “entails the 
+obligation to produce or capture public information. ”20 Judges and oversight bodies regarding 
+access to public information have ordered mandated bodies by the Law to produce or systematize 
+information in spite of the difficulties faced.
+13 Peru. Constitutional Court. File No. 00390-2007-PHD/TC. Judgment of December 20, 2007.
+14 Argentina. Supreme Court of Justice of the Nation 917-2012.
+15 Argentina. Federal Contentious-Administrative Chamber. File No. 2445-2015. Judgment of September 29, 2015.
+16 Argentina. Agency for Access to Public Information. Resolution No. 175-2019 of September 16, 2019.
+17 Argentina. Federal Contentious-Administrative Chamber. File No. 91-2020. Judgment of December 2, 2021.
+18 Chile. Council for Transparency. Protection Decision No. C4101-2021. August 31, 2021.
+19 IACHR. Annual Report of the Office of the Special Rapporteur for Freedom of Expression 2013, p. 568.
+20 Colombia. Law No. 1712 of 2014, Article 4.CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...Synthesis of Decisions on Access to Public Information...12
+CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...
+The Constitutional Court of Peru was one of the pioneering courts in this matter. In 2001, a citizen 
+requested information on travel expenses incurred by former president Fujimori between 1990 
+and 2000. Although the president’ office provided a statement of expenses, it was incomplete 
+and inaccurate in the opinion of the requestor. When analyzing the case, the Constitutional Court 
+of Peru found that “the right of access to information is not only affected when its release is 
+denied, without constitutionally legitimate reasons, but also when the information provided is 
+fragmented, outdated, incomplete, inaccurate. ”21 Mandated bodies by the Law should produce 
+quality and complete information, regardless of the difficulties this may entail. In this line of 
+thinking, the Court ordered the Executive Power to provide detailed information on the expenses 
+incurred by the former president during his travels.
+In Costa Rica, the Constitutional Chamber of the Supreme Court of Justice ordered the Costa 
+Rican Social Security Fund to produce and deliver wage information in digital format. The case 
+arises from a citizen’s request for information on the salaries of all public servants in the country 
+between 1990 and 2013. The petitioner explicitly requested the data in digital format. The Court 
+considered that, in the light of the principle of maximum disclosure, the State should provide, 
+to whoever may request it, the information that it has the obligation to hold in custody despite 
+the difficulties that its search or systematization may entail. The Court highlighted that “the 
+digitalization of public information requires a progressive adaptation according to the budgetary, 
+technological and human resources capacities of each Administration, ” so the State must make 
+efforts to achieve this.22
+The Supreme Court of Panama has also ordered the production of information in multiple cases. 
+In 2010, for example, it protected the petitioner’s right of access to information after the Ministry 
+of Agricultural Development refused to provide the petitioner with a copy of a record because it 
+had already been filed, which made it cumbersome to access it and there was no staff available 
+to perform the task. In the Court’s view, the difficulty to obtain the information was not a valid 
+argument for denying access.23 
+More recently, in 2020, the same Court faced a case similar to the Peruvian case described above. 
+A member of parliament asked the Land Transit and Transport Authority to provide a complete 
+list of taxi quotas for each province, indicating the vehicle’s license plate number and owner. 
+The entity provided an incomplete list, alleging that it did not have all the information and that 
+systematizing said information was expensive, so the petitioner should request such information 
+before other authorities. The Supreme Court of Panama found this response unsatisfactory and 
+granted the Land Transit and Transport Authority five days to deliver the requested information to 
+the petitioner in due form.24 
+That same year, the National Institute of Transparency, Access to Public Information and Protection 
+of Personal Data (INAI) of Mexico issued a resolution interpreting the obligation to produce 
+information in a novel way. The petitioner requested, in Word (text) and MP3 (audio) format, the 
+Executive Power labour policy for disabled persons and the annual budgets of the three previous 
+presidential periods: Vicente Fox, Felipe Calderón and Enrique Peña Nieto. The legally bound 
+subject provided only part of the information in Word (text) format. For INAI, the response was 
+incomplete and did not consider the delivery format chosen by the petitioner: the MP3 format 
+(audio). For this reason, it ordered the legally bound subject to deliver the missing information 
+21 Peru. Constitutional Court. File No. 1797-2002. Judgment of January 29, 2003.
+22 Costa Rica. Constitutional Chamber. Resolution No. 04037-2014 of March 21, 2014
+23 Panama. Supreme Court of Justice. File No. 1068-2010. Judgment of December 27, 2011.
+24 Panama. Supreme Court of Justice. File No. 394-2020. Judgment of September 8, 2020.13
+and that all the information provided should also be produced in MP3 format (audio), not only as 
+a guarantee of the right of access to public information of the petitioner, but because this format 
+allows people with visual disabilities to access and know public information.25
+The oversight bodies of Chile and Argentina have also ordered the production of information 
+through their decisions. In 2022, for example, the Council for Transparency of Chile asked the Civil 
+Registry and Identification Service to provide the petitioner with statistical information on the 
+number of persons who have changed their name and sex under the Gender Identity Act, issued 
+the previous year. The Council for Transparency rejected the entity’s arguments not to produce 
+the information, as it did not put people’s privacy at risk, nor was it information that, considering 
+its legal duties, the entity did not have at its disposal.26 In 2018, the Agency for Access to Public 
+Information of Argentina determined that State entities have a duty to produce, process, and 
+centralize relevant information necessary for the design, execution, and control of public policies.27 
+The above decision came after a civil association asked the Ministry of Health for information on 
+mental health facilities and this entity provided very little information.
+5. Decisions on Harm T est
+The right of access to information is subject to limitations in accordance with the Article 13.2 of 
+the American Convention on Human Rights. These limitations should be exceptional and subject 
+to restrictive interpretation. Additionally, they should be expressly enshrined in a law in the formal 
+and material sense and aim to achieve one of the legitimate objectives under the American 
+Convention. Restrictions on access to public information should also pass a proportionality test or 
+harm test to be compatible with the standards set by the Inter-American Human Rights System. 
+It must be demonstrated that: (i) there is a relationship to the legitimate objectives justifying 
+the limitation; (ii) the disclosure of the information threatens to cause substantial, effective, and 
+tangible harm to that legitimate objective; and (iii) the harm caused by the disclosure of the 
+information is greater than the public interest in accessing said information. This harm test should 
+be made by the State, and the courts and oversight bodies in the region have relied on it to decide 
+on countless cases.
+Most of the decisions examined in this document use the harm test as a guiding criterion to 
+properly guarantee the right of access to information. However, some of them illustratively 
+show the relevance of the harm test. For example, the Agency for Access to Public Information 
+of Argentina found in 2018 that the Military House of the General Secretariat of the President’s 
+Office the Nation had not demonstrated that the disclosure of the requested information would 
+damage protected interests, so it ordered its release.28 The case arose from a request made by a 
+civil society organization for access records to the Olivos Presidential Residence between 2016 
+and 2018, showing the visits received by the president of the Republic. Although the Argentine 
+government claimed that providing such information, even if anonymized, would jeopardize the 
+security of the president, the body guaranteeing transparency considered that “the reasons why 
+the information requested is covered by the exception are not properly justified” (…) nor is it 
+explained how “it could jeopardize the security of the presidential family. ” For that reason, the 
+Agency ordered the release of the requested information.
+25 Mexico. INAI. RRA 14467-2020. Resolution of February 10, 2021.
+26 Chile. Council for Transparency. Protection Decision No. C1057-2022. Resolution of February 14, 2022.
+27 Argentina. Agency for Access to Public Information. Resolution No. 153-2018 of November 26, 2018.
+28 Argentina. Agency for Access to Public Information. Resolution No. 160-2018 of December 7, 2018.CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...Synthesis of Decisions on Access to Public Information...14
+CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...
+In Chile, both the judges and the Council for Transparency have relied on the inadequate use of the 
+harm test to order the provision of the information requested by the citizens. In 2017, the Court of 
+Appeal of Santiago considered that Carabineros de Chile had failed to satisfactorily demonstrate 
+that the provision of information on expenditures and suppliers of deterrents used during the 
+demonstrations would jeopardize national security.29 The Court was explicit in establishing that it 
+was not enough to assert that the information was related to national security; it was necessary 
+to prove that its disclosure would cause specific harm. In 2020, the oversight body reached a 
+similar conclusion. Also, in a case in which information was requested on the elements used 
+by Carabineros de Chile to control the demonstrations, the Court stated that the claim that its 
+disclosure generically impacts national security does not comply with the standards of the right 
+of access to information. According to the Transparency Council, the State “did not provide enough 
+background information to imply a present or probable impact”; that is, it did not exhaust the 
+harm test, thus violating the petitioner’s right of access to information.30
+6. Decisions on Information Related to Human Rights Violations
+While there are exceptions regarding access to public information, and the information may not 
+be released to requesters fulfilling a high burden of proof, these exceptions have, in turn, a rule 
+to consider: generally, they are not applicable when the information relates to serious human 
+rights violations. The Inter-American Court of Human Rights established in the case of Myrna 
+Mack Chang v. Guatemala that when it comes to information about human rights violations “the 
+State authorities cannot resort to mechanisms such as official secret or confidentiality of the 
+information, or reasons of public interest or national security, to refuse to supply the information 
+required by the judicial or administrative authorities. ”31
+This standard was applied by the First Chamber of the Supreme Court of Justice of the Nation 
+of Mexico in deciding whether the information contained in the preliminary enquiries (a stage 
+of the criminal investigation) was reserved. Although the Supreme Court recognized the validity 
+of the reserved nature of this information because it protects the fair administration of justice, it 
+established that, in cases of serious violations of human rights or crimes against humanity, the 
+public interest of the information outweighs the potential impacts to the fair administration of 
+justice.32 Specifically, it stated that “the reserved nature cannot be invoked when the preliminary 
+enquiry investigates facts constituting serious violations of human rights or crimes against 
+humanity. ” It also established that “the public interest in keeping the preliminary enquiry in reserve 
+is outweighed by the interest of the society as a whole to know all the proceedings that are being 
+carried out for the timely investigation, arrest, trial, and punishment of those responsible. ” For 
+this reason, it ordered the Counsel-General’s Office to allow access to information and to grant 
+certified copies of the preliminary enquiry in the case of Rosendo Padilla Pacheco, in which the 
+Inter-American Court of Human Rights had already determined the existence of serious violations 
+of human rights.33 
+29 Chile. Court of Appeal of Santiago 618-2017. Judgment of July 13, 2017.
+30 Chile. Council for Transparency. Protection Decision No. C1341-2020. July 7, 2020.
+31 Inter-American Court of Human Rights. Case of Myrna Mack Chang v. Guatemala. Judgment of November 25, 2003. 
+Series C No. 101, par. 180.
+32 Mexico. Supreme Court of Justice of the Nation. Protection under review 168-2011. Judgment of November 30, 
+2011.
+33 Inter-American Court of Human Rights. Case of Padilla Pacheco v. Mexico. Judgment of November 23, 2009. Series 
+C No. 209.15
+In the same vein, the Administrative Court of Cundinamarca, in Colombia, had to determine whether 
+the Special Operations Joint Command of the Ministry of National Defence had adequately denied 
+access to the documents related to a military operation. Children who had been forcibly recruited 
+by an outlawed group had died in that bombing. The court found that secrecy is not acceptable 
+when it comes to information related to cases of human rights violations or crimes against 
+humanity, even when the reservation in question is related to national security information.34 For 
+this reason, it ordered the partial release of the information contained in the intelligence reports 
+that served as the foundation for the operation, specifically the sections dealing with the presence 
+of minors at the site of the bombing.
+The same Inter-American Court of Human Rights established a clarification to the standard it 
+had set in Myrna Mack Chang: when the information related to human rights violations is in the 
+possession of a Truth Commission. In the case of Omar Humberto Maldonado Vargas et al. v. Chile,35 
+the Court determined that the refusal of the National Commission on Political Prison and Torture, 
+also known as the Valech Commission, to provide information to a court on the torture of some 
+detainees was legitimate as the confidentiality of the information collected was provided for in 
+the legislation, aimed at ensuring the success of the commission, was necessary to realize the 
+right to the truth by offering more guarantees to those who testified, and was proportional as 
+the restriction on access to information was not disproportionate in relation to the advantages 
+obtained regarding transitional justice. This decision shows that even an exception such as the 
+one concerning information on human rights violations can have limits: The rights of victims. The 
+Council for Transparency of Chile came to a similar decision by refusing to deliver a digital copy 
+of the Valech Commission’s database, considering that the reserved nature of this information is 
+aimed at protecting the rights of the victims of State repression.36
+7. Decisions on Information Included in Court Records 
+Judges and bodies guaranteeing access to information from different countries have wondered if 
+the information included in a court or administrative record is public information which citizens 
+should have access to. In Costa Rica, the Constitutional Chamber of the Supreme Court of Justice 
+wondered if citizens should have access to documents included in a court record even if they 
+are not part of the proceeding.37 Specifically, it had to resolve whether the Ministry of Health’s 
+argument not providing information related to a clandestine landfill —that the document was 
+included in a record in the Environmental Administrative Court and that the petitioner was not 
+part of the proceedings—, met the standards of the right of access to information. In the opinion 
+of the Chamber, such reasons are not valid arguments to deny access to the requested document, 
+especially when it comes to matters of public interest. Thus, it ordered to provide the journalist 
+with the requested information, although it did not rule out that there could be reasonable 
+grounds for denying access.
+In El Salvador, judges have also discussed the scope of the exception regarding access to information 
+included in a court record. The Constitutional Chamber of the Supreme Court of Justice, echoing 
+the inter-American standards, determined in 2014 that the information included in a criminal 
+34 Colombia. Administrative Court of Cundinamarca. File No. 250002341-2020. Judgment of July 3, 2020.
+35 Inter-American Court of Human Rights. Case of Omar Humberto Maldonado Vargas et al. v. Chile. Judgment of 
+September 2, 2015. Series C No. 300.
+36 Chile. Council for Transparency. Protection Decision No. C493-2020. Resolution of January 28, 2020.
+37 Costa Rica. Constitutional Chamber. Resolution No. 12627-2017 of August 11, 2017.CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...Synthesis of Decisions on Access to Public Information...16
+CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...
+proceeding record is, in principle, public and can be reserved only in exceptional cases.38 In arguing 
+that the information cannot be provided because of the existence of a legitimate exception, the 
+State should consider the burden of proof that a harm test requires. In the specific case, the court 
+determined that the criminal proceedings investigating corruption by a former president are not 
+reserved and, therefore, citizens have the right to access all documents. Within a few years, the 
+same court again granted access to information included in a criminal proceeding but in very 
+different circumstances. In its judgment, the Constitutional Chamber determined that not allowing 
+the reopening of a criminal proceeding in which a mass murder was investigated, violated both 
+the right to the truth and the right of access to information. The court referred to the intrinsic link 
+between both in that “the right to know the truth implies free access to objective information 
+on facts that have violated fundamental rights and on the time, personal, material and territorial 
+circumstances surrounding them. ”39 This implies that the victims should have the possibility to 
+request and obtain information held by the State, even if it is included in a criminal record.
+As it was stated in the previous section, the Supreme Court of Justice of Mexico has also contributed 
+to this issue. In 2011, it analysed the validity of considering as reserved the information related to 
+serious human rights violations included in a stage of the criminal investigation called “preliminary 
+enquiries”. The Supreme Court recognized that, in theory, it is possible to consider as reserved the 
+information included in preliminary enquiries in order to protect the fair administration of justice 
+but determined that in cases of serious human rights violations or crimes against humanity, such a 
+reservation was not sustained.40 The public interest to know the information outweighed the need 
+to protect the fair administration of justice. Two years later, in 2013, the Supreme Court slightly 
+modified its jurisprudence and opened a little more the door to the transparency of preliminary 
+enquiries.41 This time, it determined that it was necessary to perform the proportionality test to 
+establish whether access to information included on records could be limited, even when it comes 
+to information not related to human rights. The court found that the rule according to which all 
+the documents included in the preliminary enquiries are reserved was disproportionate.
+In turn, the National Institute of Transparency, Access to Public Information and Protection of 
+Personal Data (INAI) of Mexico determined that the requestor had the right to receive a copy of 
+the complete records related to the investigations being carried out by the Prosecutor’s Office 
+regarding the facts resulting from the rail accident on Line 12 of the public transport system (STC-
+Metro) of Mexico City. For INAI, there is even a “greater public interest in disclosing the names 
+of current or former public servants identified as accused in the above-mentioned investigation 
+record. ”42
+38 El Salvador. Supreme Court of Justice 506-2014. Judgment of June 13, 2014.
+39 El Salvador. Supreme Court of Justice 558-2010. Judgment of November 11, 2016.
+40 Mexico. Supreme Court of Justice of the Nation. Protection Decision No. 168-2011. Judgment of November 30, 
+2011
+41 Mexico. Supreme Court of Justice of the Nation. Protection Decision No. 173-2012. Judgment of February 6, 2013.
+42 Mexico. INAI. RRA 7058-2021. Resolution of August 25, 2021.17
+8. Decisions on Information Held by the Armed Forces 
+The armed forces are also mandated regarding the right of access to public information. Although 
+there are good reasons for national security issues to be classified as reserved, this situation has 
+become widespread in the region, favouring a culture of opacity, and hindering State transparency 
+in the defence sector. In Colombia, the Constitutional Court has made significant efforts to make 
+security- and defence-related information transparent. In 2007, for example, it established that 
+petitioners had the right to know the names and institutional codes, as well as the lines of command 
+and service units, of the members of the law enforcement authorities who had participated in 
+apparently irregular military operations. One of the arguments based on which the Ministry of 
+Defence had refused to disclose the information was that, if it did, it would be recognizing the 
+officers’ responsibility regarding the irregularities. However, the court ordered the Ministry to 
+disclose the information stating that, if it considered it necessary, it could “expressly clarify (…) 
+that the disclosure of said information does not imply any suspicion, indication or recognition 
+regarding the involvement of such public servants in criminal activities. ”43 
+In 2010, the Constitutional Court of Colombia expanded its jurisprudence on security information 
+and reiterated its position. In a similar case, it determined that the refusal of the National Police 
+to provide information on the identity of the agents who had been on duty in the area where the 
+forced disappearance of a person occurred, infringed the petitioners’ right of access to information. 
+In the opinion of the highest court, the possibility that the disclosure of this information would 
+jeopardize the personal safety of police officers was minimal as they were persons residing in 
+Bogotá and not in an area with public order problems. Therefore, it ordered the disclosure of 
+information as the right of access to public information “has become an essential tool for the 
+satisfaction of the right to the truth of the victims of arbitrary actions and human rights violations, 
+and for guaranteeing the right of society to the historical memory. ”44
+Additionally, the Constitutional Court of Colombia declared unconstitutional a rule that sought to 
+create a generic reserved-related category on all the information related to defence and national 
+security matters. For the court, “this kind of generic or vague expressions constitutes a general 
+authorization for the authorities to keep secret such information as they deem appropriate at their 
+discretion, and is clearly contrary to Article 74 of the Political Constitution as it implies a denial 
+of the right of access and prevents citizen’s control over the actions of public servants and State 
+agencies. ”45 
+In Chile, both judges and the body guaranteeing the right of access to public information have 
+ordered the armed forces to disclose information in their possession. In 2017, the Court of Appeal 
+of Santiago had to analyse whether information on the expenditures and suppliers of dissuasive 
+elements, tear gas bombs, and rubber shots used by the State during demonstrations could not 
+be disclosed, under the protection of the national security exemption.46 Carabineros de Chile 
+had refused to disclose the information arguing that it would jeopardize the performance of its 
+duties in relation to national security. In the opinion of the court, stating that the information was 
+related to national security was not enough, since it should be proved that the publication of the 
+information causes specific and determinable damage to constitutional interests. Given that the 
+State had not argued properly and had only stated that “the release of the requested information 
+43 Colombia. Constitutional Court T-1025-2007. Judgment of December 3, 2007.
+44 Colombia. Constitutional Court T-511-2010. Judgment of June 18, 2010.
+45 Colombia. Constitutional Court C-274-2013. Judgment of May 9, 2013.
+46 Chile. Court of Appeal of Santiago. File No. 618-2017. Judgment of July 13, 2017.CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...Synthesis of Decisions on Access to Public Information...18
+CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...
+would damage or harm the due performance of their duties by Carabineros, without mentioning 
+any precedent that proved so, ” the court ordered the provision of the information.
+In 2020, the Council for Transparency of Chile cited the above precedent in a case in which it was 
+also discussed whether the information related to the handling of social demonstrations was 
+reserved. Specifically, it ordered Carabineros de Chile to provide information on the number of 
+bombs or tear gases purchased and used in the last five years, evidencing that the State did not 
+satisfactorily exhaust the harm test. For the Council for Transparency of Chile, “to argue that the 
+disclosure of information on the number of bombs and tear gases purchased and used, would affect 
+or jeopardize the security of the nation is implausible, as the agency has not granted sufficient 
+background that would imply a present or potential impact on the legal assets to be protected. ”47 
+The Court of Appeal of Santiago has promoted transparency in the functioning of other defence 
+and security entities, beyond Carabineros de Chile. In 2021, it ordered the release of the report 
+sheet and resume of the former Commander-in-Chief of the Chilean Navy. The court stated that 
+former public servants’ resumes are public as they are held by public authorities and are prepared 
+with public budgets. Such disclosure does not change when it comes to armed forces’ officials. In 
+addition, in the opinion of the court, “the Chilean Navy only invoked generic allegations on the 
+matter and failed to acknowledge how —specifically— the disclosure of the requested data could 
+affect the legal assets under caution. ”48 
+Access to information produced by the armed forces has also been addressed by the judiciary and 
+the bodies guaranteeing access to information in Guatemala and Argentina. In Guatemala, the 
+Constitutional Court established that the documents on military operations carried out during the 
+military dictatorship of Efraín Ríos Montt are not covered by the national security exemption.49 
+The court considered that the State failed to prove that these documents had the status of 
+national security, which made it imperative to guarantee public access to them. On the other 
+hand, in 2021, the Agency for Access to Public Information of Argentina had to resolve whether 
+the information produced by the Ministry of Defence 50 years ago was exempt from disclosure 
+because it was protected by the national security reserve. For the Agency, exceptions regarding 
+access to information should have a limited —and reasonable— duration (usually, 10 or 15 years, 
+but may be up to 30 years.) For this reason, the Agency found “unreasonable that the legally bound 
+subject should continue to invoke an exemption without properly demonstrating what causes 
+exist as of this date for that situation to persist after more than 50 years since its creation. ”50 Based 
+on this argument, the Agency granted the Ministry of Defence 10 days to deliver the requested 
+information, while the burden of proof falls on the State. The Ministry of Defence finally delivered 
+the requested information.
+In 2019, the Supreme Court of Justice of Argentina had to decide on a case similar to the one 
+that was resolved by the oversight body of the country. The petitioner had requested access to 
+the decrees issued between 1976 and 1983 by those who served as de facto presidents under 
+Argentina’s last military dictatorship. The disclosure of the information had been refused on the 
+grounds that it was classified as “secret” and “reserved. ” Finally, the Court determined that the 
+State’s was incurring in an illegitimate conduct when generically preventing access to decrees 
+which, according to the petitioner, were related to the right to the truth concerning human rights 
+47 Chile. Council for Transparency. Protection Decision No. C1341-2020. July 7, 2020.
+48 Chile. Court of Appeal of Santiago. File No. 576-2021. Judgment of March 11, 2022.
+49 Guatemala. Constitutional Court. File No. 2290-2007. Judgment of March 5, 2008.
+50 Argentina. Agency for Access to Public Information. Resolution No. 249-2021 of December 3, 2021.19
+violations committed in those years.51 Mexico’s INAI also ordered the Secretariat of Defence to 
+provide information on the anti-migration operations that have been carried out from 2018 to 
+December 2021 in the south of the country, the number of operations carried out per month, and 
+the number of migrants rescued in each operation.52 
+9. Decisions on State Budget Information
+Through their decisions, the judiciary and the oversight bodies have guaranteed access to 
+public information related to the State budget and the allocation of public funds. In Peru, the 
+Constitutional Court established, even before the Inter-American Court of Human Rights ruled on 
+Claude Reyes, that the right of access to information obliges the State to provide information on 
+the expenses and work schedules of public servants.53 In Argentina, the Supreme Court of Justice 
+has approached the issue from a different perspective. In 2012 it had to decide if the financial 
+resources invested in advertising by a non-State public body should be disclosed to petitiones.54 
+In the opinion of the court, the National Institute of Social Services for Retired and Pensioners of 
+Argentina had to disclose the information under the principle of maximum disclosure, which also 
+covers entities that provide services of public interest and exercise duties delegated by the State.
+A few years later, in 2015, the Federal Contentious-Administrative Chamber of Argentina 
+condemned the Ministry of Justice and Human Rights for refusing to provide information on the 
+budget and salaries of staff working on a territorial development programme, based on the fact 
+that the petitioner had no legitimate interest in it.55 After analysing the inter-American standards 
+and the national jurisprudence, the court ordered the Ministry of Justice to release the requested 
+budget information. On the same year, this court reached the same determination in a similar case. 
+Some civil society organizations had requested information on the employees, payroll, and budget 
+allocations of the House of Representatives of the Nation. After the State refused to provide 
+part of the information, the Federal Contentious-Administrative Chamber ordered to fully comply 
+with the requests for information, reiterating the standards of the inter-American human rights 
+system.56 That year, the Argentine closing court ruled on another case regarding access to public 
+information related to the State’s coffers. The Supreme Court of the Nation ordered a majority 
+state-owned company to provide a copy of the investment project signed with a foreign company 
+whose object was the joint exploitation of hydrocarbons on Argentine soil.57 The court considered 
+that the company was a legally bound subject regarding the right of access to public information 
+as the executive power had a majority stake in the capital and in corporate decisions. Moreover, it 
+considered that the sole claim that disclosing the information would endanger trade secrets was 
+not sufficient, and therefore it determined that “mandated bodies by the Law can only reject an 
+information request if they present, describe and demonstrate in detail the elements and reasons 
+why the release of the information is likely to cause damage to the legitimately protected purpose. ”
+In Brazil, the Superior Court of Justice has also strengthened, through its decisions, the budgetary 
+transparency of the State. In 2012, it ordered the Ministry of the Secretariat of Social Communication 
+51 Argentina. Supreme Court of Justice of the Nation. File CSJ 315-2013. Judgment of May 7, 2019.
+52 Mexico. INAI. RRA 11825-2021. Resolution of November 10, 2021.
+53 Peru. Constitutional Court. File No. 0959-2004. Judgment of November 19, 2004.
+54 Argentina. Supreme Court of Justice of the Nation. A917. XLVI. Judgment of December 4, 2012.
+55 Argentina. Federal Contentious-Administrative Chamber. File No. 39019-2014. Judgment of February 20, 2015.
+56 Argentina. Federal Contentious-Administrative Chamber. File No. 2445-2015. Judgment of September 29, 2015.
+57 Argentina. Supreme Court of Justice of the Nation 37747-2015. Judgment of November 10, 2015.CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...Synthesis of Decisions on Access to Public Information...20
+CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...
+of the Presidency of the Republic to provide information on official spending on advertising in the 
+first decade of the 21st century. The court considers that this information entails an obvious public 
+interest, which prevails over the potential reservations and exceptions alleged by the Presidency.58
+The Constitutional Chamber of the Supreme Court of El Salvador has not fallen behind. In 2014, it 
+determined that the Legislative Assembly had violated a petitioner’s right of access to information 
+by not providing said petitioner with a copy of the authorizations for the purchase of works of art, 
+Christmas gifts, and alcoholic beverages for 2012; not providing said petitioner with a list of the 
+goods purchased together with the corresponding invoices; and not informing on the origin of the 
+funds to purchase those goods.59 Additionally, in a 201760 decision that highlights the importance 
+for judges to ensure compliance with their judgments in defence of the access to information, the 
+Constitutional Chamber found that the President’s Office had only partially complied with the 
+provision of information on the President’s travels abroad and expenditures on protocol activities, 
+ordered in a previous decision.61 Thus, it reiterated that the President’s Office should deliver the 
+requested information and inform the court once it had done so.
+10. Decisions on Public Servants’ Information
+The right of access to public information is constantly colliding with the rights to privacy and 
+the protection of personal data of public servants. It is essential to adequately weigh the public 
+interest associated with the disclosure of information and the damage it could cause to these 
+rights. The proper interpretation and weighting between both legitimate interests has led judges 
+and bodies guaranteeing access to information in various countries to provide information on 
+wages, background, and names of public servants. In Argentina, the Federal Administration of 
+Public Revenues refused to disclose the labour and administrative records of one of its officials. In 
+response to this refusal, the Supreme Court of Justice of the Nation had to resolve on one of the 
+most common questions in these cases: if the information was reserved only because it contained 
+personal data. In the opinion of the court, the disclosure of the information, as long as it does not 
+include sensitive data, “does not violate the right to privacy nor affect [the] honour” of the person; 
+the requested information should be therefore granted.62 
+In Chile, the Council for Transparency ordered the disclosure of the names and academic degrees 
+of professors hired by the departments of economics, law, and engineering of Chilean universities 
+in 2021. The oversight body considered that “the information requested entails a clear public 
+interest as it relates to important processes in higher education, such as the accreditation process, 
+and consequently, the application process for a free university education. ”63 The decision adopted 
+by the Council for Transparency of Chile refers both to public and private universities as they carry 
+out a public service: education. In another recent resolution, the Council for Transparency of Chile 
+ordered the Office of the Under-Secretary of Public Health to inform the petitioner on the names 
+58 Brazil. High Court of Justice. Special Resource No. 1198727 – MG (2011/0116267-9). Judgment of August 14, 
+2012.
+59 El Salvador. Constitutional Chamber of the Supreme Court of Justice. Amparo 155-2013. Judgment of July 25, 
+2014.
+60 El Salvador. Constitutional Chamber of the Supreme Court of Justice. Amparo 713-2015. Judgment of October 23, 
+2017.
+61 El Salvador. Constitutional Chamber of the Supreme Court of Justice. Amparo 713-2015. Judgment of September 
+1, 2016.
+62 Argentina. Supreme Court of Justice of the Nation 591-2014. Judgment of June 21, 2016.
+63 Chile. Council for Transparency. Protection Decision No. C6805-2021. December 21, 2021.21
+of the attendees to the working meetings of the “COVID Committee”, an advisory body informally 
+created to advise the central government on epidemiological policy decision-making. The Council 
+considered that there is a clear public interest in making transparent the reasons that have caused 
+the adoption of sanitary measures and the “work carried out by inter-ministerial technical advisory 
+bodies such as the one consulted, its members and the agreements adopted. ”64
+In different countries, the judiciary has repeatedly guaranteed that public servants’ salary is public 
+information that should be disclosed to the public. In Guatemala, the Constitutional Court ruled on 
+a lawsuit against the article of the transparency law that establishes that wages, travel allowances, 
+and fees paid to public servants were pro-active public information. In the plaintiff’s opinion, this 
+information should not be public because public servants’ right to privacy would be violated. 
+Instead, the court considered that this type of information is of “public interest due to its origin, 
+which is the national Treasury, generated from the tax burden borne by citizens for the financial 
+sustainability of the State. ”65
+A similar conclusion was reached by the Constitutional Court of the Dominican Republic. In 
+2012, it considered that the names and salaries of public servants constitute public information 
+people should have access to. To think otherwise “would deprive citizens of a mechanism which 
+is essential for the control of corruption in the public administration. ”66 The Supreme Court of 
+Justice of Paraguay has also established that citizens have the right to know public servants’ 
+salaries as their reservation does not outweigh the proportionality test established by the Inter-
+American Court of Human Rights in Claude Reyes regarding limitations on the access to public 
+information.67 In Brazil, the Federal Supreme Court determined that the gross remuneration and 
+position of public servants is public information that can be disclosed without affecting personal 
+privacy.68 These data are directly related to the public service and also make it possible to execute 
+the principle of administrative disclosure.
+In Chile, the Council for Transparency recently established that the payslips of public servants, 
+as well as their duties, are of a public nature, and thus, mandated bodies by the Law cannot 
+rely on reservation causes in order not to provide the information.69 Following a similar line of 
+thinking, in Mexico, INAI requested the Office of the Attorney General of the Republic to report on 
+the complaints received against the person who at the time was the Under-Secretary of Health 
+Prevention and Promotion of the Mexican Ministry of Health.70 For the oversight body, information 
+related to investigations and complaints by public servants should be disclosed to the public. 
+Additionally, it established that the National Autonomous University of Mexico (UNAM) should 
+provide whoever may request it, information on accusations and complaints regarding sexual 
+harassment, sexual abuse, or sexual assault against one of its professors.71 
+64 Chile. Council for Transparency. Protection Decision No. C4101-2021. August 31, 2021.
+65 Guatemala. Constitutional Court 1373, 1412, and 1413-2009.
+66 Dominican Republic. Constitutional Court. Judgment TC 0042-2012 of September 21, 2012.
+67 Paraguay. Supreme Court of Justice. File No. 280-2018. Judgment No. 30 of June 7, 2018.
+68 Brazil. Federal Supreme Court. Suspensão de segurança 3902-2011 of June 9, 2011.
+69 Chile. Council for Transparency. Protection Decision No. C6886-2021 of December 21, 2021.
+70 Mexico. INAI. RRA 7645-2022. Resolution of August 17, 2022.
+71 Mexico. INAI. RRA 4790-2022. Resolution of June 1, 2022.CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...Synthesis of Decisions on Access to Public Information...22
+CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...
+11. Decisions on Information Related to the Implementationof Public 
+Policies
+The right of access to public information has also served to make the implementation and 
+management of public policies more transparent, strengthening democracy, increasing State 
+effectiveness and efficiency, and preventing corruption. The judicial branch and the oversight 
+bodies in different countries have understood this. In Colombia, the Constitutional Court had to 
+decide if the Administrative Unit for the Integral Care and Reparation of Victims had violated a 
+mother’s right of access to information by refusing to provide her with the reasons why her son 
+was not recognized as a victim of the armed conflict.72 In the opinion of the court, the State had 
+no reason to deny such information, since its disclosure was essential to know how public policy 
+works and, moreover, the mother had the right to know said information.
+In Argentina, the Supreme Court of the Nation determined that the citizens have the right to know 
+who the beneficiaries of the State social aid are. In this case, the Centre for the Implementation of 
+Public Policies for Equity and Development had requested access to the list of beneficiaries held 
+by the Ministry of Social Development.73 The court found that the information should be provided 
+because it was not sensitive information, and its disclosure had a positive impact on the political 
+control over the execution of public resources. Following the previous precedent, the Agency for 
+Access to Public Information of Argentina demanded the provision of the list of natural and legal 
+persons who had been benefited by the refund system established for exports carried out in 
+certain ports, based on the fact that expectation of privacy was lower in the case of assets data 
+that justify a tax benefit.74 
+The Constitutional Chamber of the Supreme Court of Costa Rica has also recognized the intrinsic 
+relationship between access to public information and citizen control over public policies. In 2017, 
+it had to resolve on the refusal of the State to provide information related to concessions made by 
+the State in the Santa Cruz Maritime-Terrestrial Zone. The court found that the refusal to disclose 
+the information had violated the petitioner’s right of access to information; the information was 
+public and of interest to the citizens.75 In Uruguay, the Court of Appeal ordered the release of 
+information related to the public policy on education.76 Specifically, it urged the National Public 
+Education Administration to provide information on the number of enrolled, withdrawn, promoted 
+and failing students at each national educational institution in 2011 and 2012. In Chile, the 
+Council for Transparency ordered the Municipality of Yungay to release information on its public 
+policy on street harassment, the environment, social programmes during the health emergency, 
+and sports policies, among others.77 
+The Constitutional Court of Ecuador has also ruled on the implementation of social public policies 
+at the national level.78 In a case in which information was requested on disability cards issued 
+by the Ministry of Health, the Court ordered the Ministry to provide complete information on 
+the authorities involved in the disability qualification process, the cards issued disaggregated 
+72 Colombia. Constitutional Court T-608-2013. Judgment of September 2, 2013.
+73 Argentina. Supreme Court of Justice of the Nation. C. 830. XLVI. Judgment of March 26, 2014.
+74 Argentina. Agency for Access to Public Information. Resolution No. 72-2019 of May 9, 2019.
+75 Costa Rica. Constitutional Chamber. Resolution No. 10085-2017. Judgment of June 30, 2017.
+76 Uruguay. Court of Appeals. Judgment of November 6, 2013. EF 0003-000204/2013.
+77 Chile. Council for Transparency. Protection Decision No. C5716-2021 of December 21, 2021.
+78 Ecuador. Constitutional Court. Judgment No. 11-21-IS-2021 of September 8, 2021.23
+by qualifying unit and delivery date, the comprehensive assessment carried out in each case, 
+and the cards issued during the health emergency. This information should serve the Office of 
+the Ombudsman to conduct a comprehensive evaluation of health and social protection public 
+policies.
+12.  Decisions on Information Related to COVID-19
+The judiciary and the bodies guaranteeing access to public information have spoken out about 
+public transparency in emergency situations such as the one caused by the COVID-19 pandemic. 
+In April 2021, the Inter-American Commission on Human Rights issued a resolution in which it 
+recalled the standards of transparency that States should meet in reference to information related 
+to COVID-19 vaccines79. It stated, for example, that “States must proactively release information 
+on vaccination records, studies, and plans, and generally provide information on the procurement, 
+import, distribution, prioritization, and administering of vaccines. ”
+In line with the determination of the Inter-American Commission on Human Rights, the Council 
+for Transparency of Chile supported the right of access to information of a person who requested 
+copies of the contracts signed by the State to purchase vaccines. The Council determined that the 
+information requested is of public interest, since it facilitates the social control of the national 
+vaccination programme and strengthens the confidence in the process. Therefore, it ordered to 
+provide “a copy of the contracts signed by the Ministry of Health, as of the date of the request, 
+with national or international pharmaceutical companies for the purchase of COVID-19 vaccines, 
+keeping in reserve the information related to the cost structure and the logistics or distribution 
+of the product in question. ”80 This oversight body was consistent in its decision and reiterated 
+that standard in multiple resolutions.81 The Court of Appeal of Santiago ratified the Council for 
+Transparency of Chile’s decision in December 2021. The court considered that the confidentiality 
+clauses that the State had agreed on with the pharmaceutical companies did not comply with 
+constitutional and legal regulations. It also shared that the partial disclosure of the agreements 
+“strengthens citizens’ confidence in the vaccination process, thus encouraging greater voluntary 
+participation in the national vaccination plan, in the benefit and interest of the whole population. ”82 
+The Argentine case is similar. The Agency for Access to Public Information ordered the Ministry 
+of Health to provide the petitioner with a copy of the agreement signed between the Argentine 
+Republic and the Russian Federation for the arrival of the Sputnik V vaccine in the country. In 
+analysing the Ministry’s argument that the State had signed confidentiality clauses that prevented 
+disclosure, the Agency determined that “the answer provided by the legally bound subject, that not 
+only understood that the entire agreement was confidential, but also did not explain the content 
+of those clauses, is not a good practice in terms of access to information. ”83 
+The Administrative Court of Cundinamarca in Colombia arrived at a similar conclusion regarding 
+specifically the disclosure of confidentiality clauses.84 In its judgment, the Court cited the Argentine 
+79 IACHR. Resolution No. 1/2021.
+80 Chile. Council for Transparency. Protection Decision No. C585-2021. June 22, 2021
+81 Chile. Council for Transparency. Protection Decisions No. C1049-21, C1863-21, C2104-21, C2977-21, C3810-21, 
+and C5814-21.
+82 Chile. Court of Appeal of Santiago 375-2021. Judgment of May 12, 2022.
+83 Argentina. Agency for Access to Public Information. Resolution No. 29-2021 of March 29, 2021.
+84 Colombia. Administrative Court of Cundinamarca. Judgment No. 2021-9-178 RI of September 30, 2021.CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...Synthesis of Decisions on Access to Public Information...24
+CI Discussion papers - 22 Synthesis of Decisions on Access to Public Information...
+case mentioned above. This decision originated in a request by a group of citizens concerning 
+confidentiality clauses in vaccine purchase contracts. The competent public authorities refused to 
+disclose the information on the grounds that the confidentiality clauses imposed the non disclosure 
+of the entire contract, and since the clauses were part of the contract, they too were reserved. 
+The court considered that “it was a kind of ad ignorantiam and petitio principii fallacy”, while the 
+State’s argument was circular. The court also analysed the possible impact that the disclosure of 
+the contracts may have on the vaccination policy and found that “empirical evidence shows that 
+the disclosure of information on the purchase of vaccines has not had negative impacts; on the 
+contrary, it allows for best practices, informed controls, and opinions, increasing confidence and 
+transparency. Even to get people to overcome vaccine resistance, both information awareness and 
+the intervention of different sectors of the society are important. ” For that reason, it ordered the 
+disclosure of the information to the petitioners.
+In Ecuador, the Constitutional Court ordered the Ministry of Public Health to provide the Office of 
+the Ombudsman with information on the number of COVID-19 vaccines received in “phase 0”, the 
+list of individuals vaccinated in that phase, and the vaccination protocol used at the time. The Court 
+established that information on the number of vaccines purchased “does not fall within the sphere 
+of what could be considered as confidential information, nor could it be considered confidential 
+because it does not in any way affect national security. ”85 Similarly, the Council for Transparency 
+of Chile ordered the Office of the Under-Secretary of Public Health to provide data on confirmed 
+COVID-19 cases between March 2020 and September 2021 discriminated by location and age.86 
+It is worth highlighting two more cases resolved by the oversight bodies in Argentina and Mexico. 
+In July 2020, the Agency for Access to Public Information of Argentina established that documents 
+related to procurement during the health emergency (which in many countries followed abbreviated 
+procedures) were not exempt from social accountability as citizens could have access to them. For 
+this oversight body, “the public interest of the community in access to information related to the 
+processing of public procurement by the State is clear, particularly in the case of exceptional and 
+simplified selection processes carried out in the context of the current health emergency. ”87 
+The National Institute of Transparency, Access to Public Information and Protection of Personal Data 
+(INAI) of Mexico determined that citizens had the right to receive reliable and truthful information 
+from the State, especially regarding public health. After a public servant of the Secretary of Health 
+claimed that there is no scientific evidence to support that face masks have the ability to prevent 
+the spread of COVID-19, a citizen asked the public entity for the public documents and scientific 
+research that would support said statement.88 Following the incomplete answer by the Ministry 
+of Health, the INAI ordered the legally bound subject to properly seek the information requested 
+and to provide the citizens with quality information to support the statements of public servants 
+in the exercise of their duties. In another resolution, the INAI established that information on 
+the number of vaccines that Mexico had donated to other countries could not be considered as 
+reserved neither for national security reasons nor on the grounds of international negotiations. As 
+a result, it ordered the legally bound subject to guarantee access to said information.89 
+85 Ecuador. Constitutional Court. Judgment TC 29-2021 of December 1, 2012.
+86 Chile. Council for Transparency. Protection Decision No. C7283-21. Resolution of December 21, 2021.
+87 Argentina. Agency for Access to Public Information. Resolution No. 161-2020 of July 1, 2020.
+88 Mexico. INAI. RRA 359-2021. Resolution of April 13, 2021.
+89 Mexico. INAI. RRA 359-2022. Resolution of March 9, 2022.25
+Daniel Ospina Celis is a lawyer and holds a master’s degree 
+in History from the Los Andes University. He is a researcher 
+at Dejusticia, a law, justice, and social studies centre.
+.
+Catalina Botero Marino is the Director of the UNESCO Chair 
+in Freedom of Expression at the Los Andes University; 
+Co-Chair of Facebook and Instagram Oversight Board; 
+and a leading expert of the Columbia Global Freedom of 
+Expression Project at the University of Columbia (NYC).
+She was Special Rapporteur for Freedom of Expression of 
+the Inter-American Commission on Human Rights (IACHR)/
+OAS; dean of the School of Law of the Los Andes University; 
+and a judge in charge and co-judge of the Constitutional 
+Court and the Council of State of Colombia.About the Authors
+UNESCO Montevideo Office
+Communication and Information Sector
+Luis Piera 1992, Piso 2 | Montevideo 11200, Uruguay
+www.unesco.org/montevideo
+montevideo@unesco.org | tel. (598) 2413 2075Communication and Information Discussion Papers, available at: unesdoc.unesco.org
+#1. Gasto público en la educación de América Latina. ¿Puede servir a los propósitos de la Declaración de París sobre los Recursos 
+Educativos Abiertos? Amalia Toledo, Carolina Botero y Luisa Guzmán (Also available in English)
+#2. La información y el conocimiento abierto en el contexto de la cooperación multilateral: Aspectos clave para la revisión del Acuerdo 
+Regional No.7 de ALADI - Juan Carlos Lara y Carolina Rossini
+#3. Principios y “buenas prácticas” para los medios públicos en América Latina. Martín Becerra y Silvio Waisbord. 
+#4 Guía político- pedagógica sobre la incorporación de la temática de libertad de expresión y de acceso a la información pública en la 
+formación de operadores judiciales en América Latina. Catalina Botero.
+#5 Regulación independiente de la radio y teledifusión: Una revisión de políticas y prácticas internacionales. Eve Salomon. (Also available 
+in English and Portuguese)
+# 6 Internet y la libertad de expresión. Andrew Puddephatt. (Also available in English and Portuguese)
+# 7 Concentración de medios y libertad de expresión: normas globales y consecuencias para las Américas. Toby Mendel, Ángel García 
+Castillejo y Gustavo Gómez. (Also available in English). 
+# 8 Acceso a la información: Lecciones de la América Latina. Bill Orme. (Also available in English and Portuguese)
+# 9 Guía para operadores judiciales sobre la Agenda 2030 para el desarrollo sostenible con énfasis en el ODS 16. Javier Benech
+# 10 Mejores prácticas para orientar el diálogo entre el Poder Judical y la prensa. Guía para jueces y periodistas.
+# 11  La seguridad de los periodistas en las agendas de derechos humanos y desarrollo sostenible: oportunidades para mejorar los 
+mecanismos de reporte sobre violaciones de derechos humanos en Guatemala, Honduras y El Salvador. Oscar Antonio Pérez y Luis 
+Enrique Salazar (Also available in English)
+# 12 Manual de periodismo de investigación. Ética / Narrativa / Investigación / Seguridad. Mauricio Weibel Barbosa
+# 13  La convergencia de medios, telecomunicaciones e internet en la perspectiva de la competencia: Hacia un enfoque multicomprensivo. 
+Martín Becerra y Guillermo Mastrini
+# 14 Redes sociales y elecciones. Andrew Puddephatt (Also available in English)
+# 15 Foro de Alto Nivel: Fortalecimiento del Estado de Derecho y los Derechos Humanos para lograr sociedades pacíficas, justas, inclusivas y 
+transparentes. Javier Benech. 
+# 16 Infancia, democracia y libertad de expresión. Emilio García Méndez. (Also available in English)
+# 17  Desafíos y asimetrias regulatorias de los servicios audiovisuales en Internet ¿Qué hacer? OBSERVACOM
+# 18 Manual de periodismo de tecnología. Investigación| Escritura | T emas | Seguridad Natalia Zuazo
+# 19  Niños, niñas y el uso de internet en São Paulo y Buenos Aires: estudios a partir de una perspectiva de igualdad de género 
+# 20  Acceso abierto en instituciones de educación superior en América Latina - Julio Gaitán Bohórquez y María Juliana Soto Narváez
+# 21  La lapicera y la cámara no son enemigos; los uniformes tampoco - Eduardo Bertoni. (Also available in English)

@@ -1,0 +1,670 @@
+Accessible Digital 
+Documentary Heritage
+Guidelines for the preparation 
+of documentary heritage in 
+accessible formats for persons  
+with disabilitiesUnited Nations
+Educational, Scientiﬁc and
+Cultural OrganizationFrom Exclusion to  
+Empowerment  Published in 2020  
+by the United Nations Educational, Scientific and Cultural Organization (UNESCO)  
+7, place de Fontenoy, 75352 Paris 07 SP , France
+© UNESCO 2020
+This publication is available in Open Access under the Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) license (http://creativecommons.
+org/licenses/by-sa/3.0/igo/). By using the content of this publication, the users accept to be bound by the terms of use of the UNESCO Open Access Repository (http://www.unesco.org/open-access/terms-use-ccbysa-en ). 
+The designations employed and the presentation of material throughout this publication do not imply the expression of any opinion whatsoever on the part of UNESCO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. 
+The ideas and opinions expressed in this publication are those of the authors; they are not necessarily those of UNESCO and do not commit 
+the Organization.
+Cover photos:
+Kanjur written with 9 precious stones. © National Library of Mongolia 
+The work of Fray Bernardino de Sahagún (1499-1590). © Real Biblioteca de Madrid.The Bangabandhu Sheikh Mujibur Rahman’s historic March 7th speech © Bangladesh Betar, Bangladesh Film Archive, Liberation War Museum.Background image: Shutterstock.
+Cover design: UNESCO
+Illustrations: UNESCOTypeset: UNESCO
+Printed by UNESCO
+Printed in France
+CI/UAI/2020/PI/1Accessible Digital 
+Documentary Heritage
+A set of Guidelines for the 
+preparation of documentary  
+heritage in accessible formats  
+for persons with disabilitiesTable of contents
+Acknowledgments   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vi
+Foreword  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . vii
+Executive summary   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . viii
+1 . Background and research  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+A.  Introduction .............................................. 2
+B.  Target groups of publication  ................................. 2
+C.  Assistive technologies ...................................... 3
+D.  International accessibility conventions and recommendations  ...... 3
+E.  Current accessible digital heritage platforms  .................... 4
+2 .  Analysis of a digital documentary heritage platform  
+(UNESCO Memory of the World Register)  . . . . . . . . . . . . . . . . . . . . . . . . . 7
+A.  Accessibility of the Memory of the World website ................ 8
+i. Navigation ........................................... 9
+ii. Colour and contrast  ................................... 9
+iii. Links  ............................................... 9
+iv. Images  ............................................ 10
+v. Forms  ............................................. 10
+B.  Accessibility of the Memory of the World website content ......... 11
+i. Nomination forms in PDF format  ........................ 11
+ii. Register entries ...................................... 11
+C.  Summary of analysis  ..................................... 13
+3 . Guidelines for accessible digitized heritage documents  . . . . . . . . . . . . 15
+A.  Basic guidelines  ......................................... 16
+B.  Advanced guidelines ...................................... 17
+References   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21vi •  Accessible Digital Documentary Heritage
+Acknowledgments
+Authors: 
+Prof. Dr. Alireza Darvishy
+Juliet Manning MSc
+Contributor: 
+Jan Bos, Chairperson, Register Sub-Committee (RSC), International Advisory Committee (IAC), Memory of 
+the World Programme
+UNESCO project management, review and editing:
+• Irmgarda Kasinskaite-Buddeberg, Advisor for Communication and Information, Universal Access to 
+Information Section, Communication and Information Sector 
+• Fackson Banda, Documentary Heritage Unit (Memory of the World Programme), Communication and 
+Information Sector
+• Bernards Alens Zako, Programme Specialist, Culture Sector (peer review)
+UNESCO also acknowledges the advice and comments by the following people:
+• Linda Young, Dr., Senior Lecturer in Cultural Heritage & Museum Studies, Deakin University, Melbourne
+• Achim H. Hölter, Professor Dr., M.A., Chair of Comparative Literature, University of Vienna (Universität 
+Wien) and Member of the Executive Council of International Comparative Literature Association
+• Carlos Roberto F. Brandão, Professor Dr.; President of the Brazilian Institute of Museums (Instituto 
+Brasileiro de Museus; IBRAM), Ministério da Cultura, Brasilia; IBERMUSEUS; Museu de Zoologia da 
+Universidade de São Paulo  
+• Papa Momar Diop, Associated Professor, Gaston Berger University of Saint-Louis and Université 
+Cheikh Anta Diop de Dakar.Accessible Digital Documentary Heritage • vii
+Foreword
+In the 2030 Agenda, UN Member States pledged to ensure “no one will be left behind” and to “endeavour 
+to reach the furthest behind first”. The Sustainable Development Goals (SDGs) have further placed great 
+emphasis on persons with disabilities, with ‘disability’ being mentioned dozens of times on issues relative to 
+data collection, education, accessibility, work, justice, inequalities, and more. This speaks volumes about the 
+importance of physical and digital inclusion for persons with disabilities.
+As acknowledged by Target 16.10 of SDG 16, ensuring public access to information is a critical aspect of 
+sustainable development.
+The focus of this publication is on the right to access to documentary heritage by persons with disabilities. 
+In addressing this issue, the publication takes on a key feature of the 2016 Recommendation Concerning 
+the Preservation of, and Access to, Documentary Heritage Including in Digital Form. This is promoting 
+and facilitating maximum inclusive access to, and use of, documentary heritage by empowering memory 
+institutions to provide, among other things, equitable person-to-person access services to original documents.
+The advent of digital cultural archives and collections has spurred significant advancement in global access 
+to culture, including through digitization. This has profoundly enhanced our cultural experience, not only in 
+terms of production, dissemination and new technology-based access, but also in terms of participation 
+and creation, as well as learning and participating in knowledge societies. As the UN agency that fosters 
+the creation of knowledge societies that are inclusive, pluralistic, equitable, open and participatory for all, 
+UNESCO believes that the advantages of digitization should be enjoyed equally by persons with disabilities.
+That is why this publication, researched and authored by someone living with a disability, is such a significant 
+contribution to the existing body of knowledge on how persons with disabilities, governments and other 
+stakeholders can access and experience documentary heritage as a key feature of sustainable development.
+Xing Qu, 
+Deputy Director-General  
+Assistant Director-General for Communication and Information a.i.viii •  Accessible Digital Documentary Heritage
+Executive summary
+This publication recognizes the importance of digitization of culture for persons with disabilities within the 
+fulfillment of their right to universal access to cultural and linguistic heritage. Going beyond providing a general 
+understanding of the barriers faced by persons with disabilities in getting access to digitized documentary 
+heritage, the publication offers a set of guidelines to ensure that digitized heritage documents are accessible 
+to persons of all abilities.
+The guidelines help parties involved in the digitization of heritage documents, such as librarians, archivists, 
+museums workers, curators, conservators and concerned stakeholders in carefully planning digital platforms 
+and contents with a view to incorporating disability and accessibility aspects. By following certain standards 
+for accessibility and incorporating assistive software and hardware tools into the development phase, digital 
+documentary heritage repositories will allow those with vision, hearing, motor, or cognitive impairments to 
+access and participate in culture. 
+The guidelines have been structured in such a way that makes it easy for different types of stakeholder 
+to navigate and assess various aspects to which they must commit to. For this purpose, two types of 
+guidelines are proposed: a) basic guidelines – intended for stakeholders who commission documentary 
+cultural heritage platforms; and b) advanced guidelines – prepared for content creators of these platforms.
+This resource reiterates the commitment of the Communication and Information Sector at UNESCO to 
+support Member States in ensuring universal access to cultural and linguistic heritage without leaving anyone 
+behind, strengthening the foundations for global Knowledge Societies that pave the way for Sustainable 
+Development Goals.Accessible Digital Documentary Heritage • 1
+1. 
+Background  
+and research
+This chapter provides a background of access to cultural heritage, 
+covering key terms, advantages and challenges in digital cultural heritage 
+for persons with disabilities. The important role of “assistive technologies” 
+in digital accessibility is highlighted in this chapter, along with a number 
+of international conventions and standards that secure the right of all 
+persons to access cultural heritage on an equal basis. One of the standards 
+introduced in this chapter is Web Content Accessibility Guidelines 
+(WCAG) 2.1, which promotes accessible web content. Some examples of 
+accessible digital heritage platforms are also presented in this chapter as 
+good practices in accessibility by online museums, galleries, archives and 
+libraries.
+© National Library of Mongolia
+Kanjur written with 9 precious stones. Inscribed in UNESCO  
+Memory of the World Register by Mongolia in 2013.2 •  Accessible Digital Documentary Heritage
+A.  Introduction
+The importance of universal access to cultural and linguistic heritage cannot be understated. It is a right 
+guaranteed by the 1948 Universal Declaration of Human Rights, and has been underscored by numerous 
+normative and legal instruments in the decades since. Nevertheless, many people continue to face significant 
+barriers to accessing and participating in culture.
+Access to cultural heritage is complex and multifaceted issue, one which depends on the diverse needs and 
+interests of individuals and communities. The term “access” is often used to refer to affordability, location, 
+and general ease of finding and interacting with cultural heritage. However, this type of “access” should not 
+be conflated with “accessibility” for persons with disabilities – a population which remains frequently left out 
+of the conversation. And this population is vast: according to the United Nations, persons with disabilities 
+(PWDs) form the world’s largest minority. It is estimated that more than 15 percent of the global population 
+– are living with a disability (World Bank & WHO, 2011). 
+The recent emergence of digital cultural archives and collections – especially online collections – has already 
+brought about a huge leap forward in terms of global access to culture. Many museums, libraries, and 
+research archives have already made some or all of their collections available online in digital format. In most 
+cases, they offer free or low-cost access to visitors, and their digital collections can be accessed at any time, 
+from anywhere – all the user needs is an internet connection and a computer, tablet or smartphone. This 
+carries inherent benefits for many persons with disabilities, especially for users with mobility disabilities, who 
+may have difficulty travelling to a cultural institution or who may encounter physical barriers there (although 
+it is important to note that digitized collections should not be seen as solutions in themselves here – cultural 
+institutions should always take physical accessibility into mind when designing their spaces).
+Despite these advantages, however, digital content remains frequently inaccessible to persons with disabilities 
+– particularly to those with vision, hearing, motor, or cognitive impairments. For example, a user with a vision 
+impairment may not have access to an image on a website, while a user with a hearing impairment may miss 
+out on spoken narration in a video clip. A person with a cognitive impairment may have difficulty navigating 
+through overly complex website menus or layouts. 
+This inaccessibility extends to a great deal of digital cultural heritage. Most cultural institutions – with very 
+few exceptions – do not directly consider accessibility issues when creating digitized content. Digital 
+collections tend to be heavily image-based, and often lack appropriate textual alternatives for users with 
+vision disabilities. Audio and video material is frequently presented without captions or written transcripts 
+for users with hearing impairments. And websites are often complex and cumbersome to navigate, making 
+them inaccessible for users with cognitive or learning disabilities, as well as for anyone who has difficulty 
+using a mouse or a touchscreen. 
+The purpose of this publication is to provide information and a set of guidelines for improving the accessibility 
+of digitized documentary heritage for persons of all abilities. The information provided here is by no means 
+exhaustive; rather, its intent is to provide a basic foundation for persons with little prior experience in the area 
+of digital accessibility. 
+B.  Target groups of publication
+The target groups as relates to these guidelines include librarians, archivists, museums workers, curators, 
+conservators, IT specialists involved in the digitization of documents, relevant professional bodies such 
+as associations working with persons with disabilities, and other stakeholders interested in disability and 
+accessibility aspects.Accessible Digital Documentary Heritage • 3
+C.  Assistive technologies
+The WHO defines assistive technologies as technologies whose purpose is ‘to maintain or improve an 
+individual’s functioning and independence to facilitate participation and to enhance overall well-being. They 
+can also help prevent impairments and secondary health conditions.” This can include everything from 
+wheelchairs to specialized software or custom electronic devices.
+There are many  assistive software  and hardware tools available to help someone with a disability to 
+successfully interact with digital devices and content. These tools may assist the user with either input or 
+output functions, or both. 
+An example of an assistive input device is the “sip-and-puff” switch, a tool which enables users with motor 
+impairments to input commands to a computer with small puffs or sips of air from their mouths, eliminating 
+the need for a traditional keyboard or mouse. Assistive input tools such as this can help a user interact with 
+digital devices more easily. However, it should be noted that poor digital design can make those assistive 
+tools less effective and hinder the user’s ability to interact with digital content. As such, accessibility should 
+be kept in mind when designing user interfaces and platforms. This aspect is discussed in more detail in 
+Chapter 3 below.
+Assistive technologies for output likewise play a crucial role in digital accessibility, as many users rely on 
+assistive technologies to consume digital content. A classic example of an assistive output device is a screen 
+reader, which is software that reads the textual content of a document or webpage aloud, and which is 
+frequently used by blind persons and persons with low vision.
+Ensuring the accessibility of any digitized heritage collection requires that both the platform and its content 
+are compatible with commonly used assistive technologies. In some cases, this might require special 
+intervention, and in others, it is simply a matter of accessibility-conscious design – such as a webpage with 
+a simple, straightforward layout. The guidelines defined in Chapter 3 will consider assistive technologies for 
+both input and output as they relate to the accessibility of digital heritage content.
+D.  International accessibility conventions and 
+recommendations
+The right of all persons to access cultural heritage on an equal basis is secured by a number of international 
+conventions and standards. The Universal Declaration of Human Rights provides that “everyone has the 
+right to freely participate in the cultural life of the community, to enjoy the arts and to share in scientific 
+advancement and its benefits” (Article 27.1), while the States Parties to the International Covenant on 
+Economic, Social and Cultural Rights recognize everyone’s right to participate in cultural life (Article 15). 
+In 1960, UNESCO published and adopted a recommendation for the “Most Effective Means of Rendering 
+Museums Accessible to Everyone”, affirming the ability of such cultural institutions in contributing to 
+intercultural dialogue and enhancing human rights. In 1992 UNESCO established the Memory of the World 
+Programme to increase awareness and protection of the world’s documentary heritage, and to provide for 
+its universal and permanent accessibility. The 2006 UN Convention on the Rights of Persons with Disabilities 
+(CRPD) directly addresses accessibility of culture, information, education and technology. Specifically, Article 
+30 provides that States Parties “must take all appropriate measures to ensure that persons with disabilities: 
+a) enjoy access to cultural materials in accessible formats;
+b) enjoy access to television programmes, films, theater and other cultural activities, in accessible 
+formats;
+c) enjoy access to places for cultural performances or services, such as theaters, museums, cinemas, 
+libraries and tourism services, and, as far as possible, enjoy access to monuments and sites of 
+national cultural importance.”4 •  Accessible Digital Documentary Heritage
+Standards and guidelines have also been created for accessibility of websites, documents, and other 
+digital media. The most universally recognized and widely used guidelines are the WCAG 2.1 (Web Content 
+Accessibility Guidelines). Published by the World Wide Web Consortium in 2008, the WCAG have gone 
+on to become an ISO/IEC standard (called “ISO/IEC 40500:2012”). They are open-access and have been 
+officially translated into 22 languages, along with several unofficial translations in other languages. Prior to 
+the development of the WCAG, there were a number of different sets of web guidelines used by various 
+countries and institutions. In recent years, however, most individual guidelines have been set aside in favour 
+of WCAG 2.1. Many national governments have adopted WCAG into their web accessibility standards. In 
+some cases, the WCAG have even been written into the law: The United States of America, for example, 
+recently updated its Section 508 – a law enacted in 1998 to enforce accessibility in ICT procurement – to 
+align with the WCAG guidelines. The European Standard on Accessibility also draws on the WCAG in its ICT 
+procurement requirements.
+The aim of the WCAG is to promote accessible web content. This has significant implications for persons 
+with disabilities, as websites have been ranked among the most important ICT platforms for fostering 
+inclusion (see Table 1). There is also reason to believe that adopting such guidelines is beneficial to everyone: 
+“empirical evidence shows that the adoption of these guidelines improves user experience and accessibility 
+for all persons, regardless of disability. This fact – that investments in accessibility also introduce benefits for 
+wider groups of the population – is a common and hugely significant finding” (UNESCO et al., 2013).
+Other guidelines and standards exist for a variety of different technologies, such as the “Guidelines for 
+Accessible Information” created by ICT4IAL, which cover many forms of digital media, including video, 
+audio, text, and images. 
+E.  Current accessible digital heritage platforms
+Although most major public heritage archives and collections already offer some or all of their collections 
+digitally, there is still a lot more to be done to make documentary heritage more accessible to persons with 
+disabilities. In August 2019, a large study by WebAIM analysing the top 100,000 websites on the Internet 
+found that 98% of websites failed to conform to WCAG 2.0 standards (WebAIM, 2019). 
+To ensure access to digital documentary cultural heritage, more emphasis must be placed on accessibility 
+by online museums, galleries, archives and libraries. In this regard, there are a number of examples 
+demonstrating good practices. 
+Some libraries offer accessible digital collections, while others offer a range of online and offline services for 
+users with disabilities. A good example is the Alexandria Library in Egypt, which offers a talking book service, 
+e-Audiobooks, and closed-captioned video materials (as well as several in-house services such as live sign 
+language interpretation and home delivery of materials to local residents who are unable to visit the library 
+in person). 
+The Accessible Books Consortium ( www.accessiblebooksconsortium.org ) offers a list of libraries and 
+archives around the world which provide books in accessible formats. They emphasise the importance of 
+the digital EPUB3 format, which allows for the creation of an electronic file that can then be used to produce 
+accessible digital books in various formats, such as audiobooks with a synthesized voice or with human 
+narration, and electronic braille (braille read on a computer with a refreshable braille keyboard).
+There also exist a number of online digital libraries created explicitly for persons with disabilities. A good 
+example is the US-based Bookshare , which has a holding of over 754,787 titles in accessible digital formats. 
+Bookshare has a specialized web-based reader which allows readers to adjust settings like narrator voice, 
+font size and style, colour, and “read-along” highlighting. The platform’s content is also compatible with 
+third-party web readers and devices such as screen readers and Braille displays. Another example is the UK-
+based National Accessible Library , which likewise offers thousands of online titles in a variety of accessible 
+digital formats, including Microsoft Word, plain text, and Braille. Both of these online libraries are free to use 
+for persons with disabilities and are continuously adding new titles to their collections. Accessible Digital Documentary Heritage • 5
+Some online museum and galleries are also beginning to incorporate accessibility in their content. An 
+example is the Sarjeant Gallery of New Zealand, which has made its entire collection available online, with 
+each item accompanied by a text description of its key features (e.g. Figure 1). Some items, but not all, also 
+feature longer, more detailed descriptions of the item’s history or creation process. The website complies 
+with WCAG 2.0 standards and features simple layout and navigation. The website creators report that 
+accessibility standards were kept in mind from day one, noting, “it’s often more difficult to change the 
+design after launch, and accessibility compliance can often be forgotten after the rush of the first phase of 
+development” (Rowe, 2017). 
+Figure 1.  Text description of a painting from the Sarjeant Gallery’s online collection, describing the 
+painting’s content and colour scheme. (Credit: Collection of the Sarjeant Gallery Te Whare o Rehua 
+Whanganui. Gift of Barbara Pettigrew, in memory of her father Walter James White, 2018)
+Another prominent example is the Chicago Museum of Contemporary Art (MCA), which has 
+actually created its own software, called Coyote , to automatically recognize key features of 
+an artwork and describe them with natural language text. Experts can than review and edit 
+the automated descriptions, which are generally no longer than 30 words, to ensure they are 
+accurate and understandable. Currently, only 10% of the images in the MCA’s online collection 
+have descriptions, but this number is expected to increase (Voon, 2019).2. 
+Analysis of a  
+digital documentary 
+heritage platform   
+(UNESCO Memory of the World Register)
+This chapter aims to demonstrate difficulties encountered by persons with 
+disabilities when accessing digital documentary heritage by examining 
+the accessibility of an online repository. UNESCO’s “Memory of the World 
+International Register” has been chosen as an example. This chapter 
+analyses the accessibility of the platform (i.e. navigation, color and contrast, 
+links, images and forms) and the accessibility of the platform’s content 
+(i.e. format of nomination forms and register entries). A brief summary 
+accompanies the analysis with some recommendations. The work of Fray Bernardino de Sahagún (1499-1590). Inscribed in UNESCO  
+Memory of the World Register by Mexico, Italy and Spain in 2015 
+© Real Biblioteca de Madrid8 •  Accessible Digital Documentary Heritage
+Analysis of a digital documentary heritage platform 
+(UNESCO Memory of the World Register) 
+In order to better understand the obstacles faced by persons with disabilities in accessing digital documentary 
+heritage, it is useful to look at existing examples. In this chapter, we will investigate an existing online repository 
+– the UNESCO “Memory of the World International Register”. 
+The purpose of the Memory of the World programme is to safeguard the documentary heritage of the 
+world. Documentary heritage comprises those single documents, or groups of documents, of significant 
+and enduring value to a community, a culture, a country or to humanity generally, and whose deterioration 
+or loss would be a harmful impoverishment for mankind. UNESCO established the programme in 1992. The 
+impetus came from a growing awareness of the perilous state of preservation of and access to documentary 
+heritage in various parts of the world. The vision of the Memory of the World is that the world’s documentary 
+heritage belongs to all, should be fully preserved and protected for all, and should be permanently accessible 
+to all without hindrance.
+The most visible and famous part of the Memory of the World is the International Register: a list of (currently) 
+430 single documents or groups of documents with global significance. The Memory of the World 
+International Register is comparable with the better known World Heritage List, but is limited to documents. 
+In the definition of the Memory of the World, documents include books, manuscripts, archival records, rock 
+inscriptions, letters, diaries, maps, photos and films and also digital publications. Information on the Memory 
+of the World programme and the International Register can be found at its website, https://en.unesco.org/
+programme/mow/ .
+Given the programme’s vision that the world’s documentary heritage should be accessible to all without 
+hindrance, we will first investigate the accessibility of the programme’s homepage. Later on, the accessibility 
+of the website’s content (digital heritage documents) will be discussed. A selection of 10 items from various 
+categories and parts of the world was compiled for the content analysis.
+A.  Accessibility of the Memory of the World 
+website 
+The Web Content Accessibility Guidelines (WCAG) 2.1 from the W3C organisation are recommendations of 
+how web content should be organized so as to be accessible for people with different abilities. Most important 
+parts of the WCAG are used to analyse the Memory of the World platform here. Navigation, images, forms, 
+as well as color and contrast, are the aspects which are considered for analysing the platform. 
+In order to examine the aforementioned aspects, a screen reader software was used. A screen reader reads 
+the content aloud to visually impaired users via speech synthesis. It provides different functions, starting by 
+listing the sections of a webpage (navigation menus, main content, footer, etc.), after which the user can 
+activate different shortcut keys to show further listings, such as lists of link texts, headings, and labelled fields 
+in forms. The visually impaired user then has the option to select any list element, and the screen reader 
+begins reading out information from there. In this way, the user has the possibility to navigate and understand 
+the webpage.
+It should be noted that this analysis is not exhaustive. The goal of this analysis is not to draw any particular 
+conclusions about the Memory of the World website, but rather to simply present examples of common 
+accessibility issues frequently encountered on web platforms, particularly on web platforms presenting 
+digital documentary content. Accessible Digital Documentary Heritage • 9
+i. Navigation
+It is important for users who cannot use a standard mouse handheld to be able to understand and interact 
+with the functions on a website. For instance, by pressing the Tab key, the user should be able to move from 
+one active element to the next. On the Memory of the World website, keyboard navigation is not possible 
+on every page. For example, keyboard users do not have the same possibilities as mouse users to interact 
+with the world map on the homepage (zooming in and out, moving from side to side, clicking on a pointer 
+to go directly to an item description).
+ii. Colour and contrast
+WCAG 2.1 requires a so-called contrast ratio of 4.1:1. On the Memory of the World website, there are some 
+places where this requirement is not fulfilled. There is a tool called WAVE which enables checking the color 
+and contrast of a website. The screenshot below shows the elements on the webpage which do not have 
+a high enough contrast ratio.
+Figure 2a.  Screenshot of the main menu on the UNESCO the Memory of the World homepage. Items marked with 
+a red “ABC” icon have been identified by the WAVE webtool as having severely low contrast. Specifically, the menu 
+line “Home > Memory of the World Register” appears very light against the background, making it difficult to read.
+Figure 2b.  Altered screenshot of the UNESCO the Memory of the World homepage, showing how correct text 
+contrast should appear. The menu line “Home > Memory of the World Register” is now darker and thicker than 
+how it appeared in Figure 2a. The higher contrast of the text makes it more legible for all users.
+iii. Links
+Link texts are very important for screen reader users to understand the target of the links before activating 
+them. On the Memory of the World website, however, there are some link texts which are not understandable 
+for screen reader users. As shown in the screenshot below, link texts such as ‘+’ and ‘—’ are unclear, a 
+visually impaired user would not know what this refers to. Better link texts would be “zoom in (world map)” 
+and “zoom out (world map)”.10 •  Accessible Digital Documentary Heritage
+Figure 3.  Links List on the Memory of the World homepage, as shown by the screen-reader program JAWS. 
+iv. Images
+Screen reader users with visual disabilities can understand images if proper alternative text has been defined 
+by the content creator. On the Memory of the World website however, there are many images (e.g. the world 
+map) which have no proper alternative text.
+v. Forms
+Defining proper labels for form elements is crucial for screen reader users to understand and interact with the 
+fields defined in a form. On the Memory of the World homepage, there are form elements for filtered searches, 
+with which the user can search for register items by country, year, organization, etc. These elements are 
+not clearly labelled, as such a visually impaired user would have no way of knowing what any given form 
+field does. As shown in the screenshot below, the fields called “toggle dropdown button” are not intuitively 
+labelled, and it is unclear what their purpose is.
+Figure 4.  List of interactive form fields on the Memory of the World website, as shown by the screen reader 
+program JAWS.Accessible Digital Documentary Heritage • 11
+B.  Accessibility of the Memory of the World 
+website content
+This section brings some examples of the Memory of the World International Register to demonstrate 
+accessibility issues. Please note that it is not a comprehensive analysis – however, it shows some important 
+accessibility issues that persons with disabilities may encounter.
+i. Nomination forms in PDF format
+On the Memory of the World website, each registered item is accompanied by a nomination form in PDF 
+format, in which more information is given about the history and significance of the item. PDFs present 
+accessibility issues for many users with visual disabilities. One major issue is that elements such as page 
+structure, headings, graphs or embedded images are generally indecipherable for screen readers. In order 
+for this to be remedied, PDF elements require special “tags” to assist screen reader users. On the website, 
+none of the nomination forms feature such tags, making them largely inaccessible for screen reader users.
+ii. Register entries
+• Example 1: Derveni Papyrus
+The Derveni Papyrus is the oldest known European book, dated between 340-320 BC. It describes religious 
+practices and also contains a song ascribed to the mythical singer Orpheus. This partially burned papyrus 
+scroll is of immense importance for the study of early Greek religion and philosophy.
+For persons with disabilities, the Memory of the World webpage on the Derveni papyrus should include 
+alternative text with information about the format of a document (fragment, scroll, book), and information 
+about the type of writings found on them. The Derveni Papyrus in the Memory of the World register contains 
+a photo gallery with 8 images of papyrus fragments. A sighted viewer can discover after carefully observing 
+the images that the fragments originally took the form of a long scroll. This information, however, is not 
+described in textual form in the item’s description on the website. This information is essential for a blind user 
+to get an idea about this document.
+Figure 5.  Image of the Derveni Papyrus, the oldest “book” of Europe, as seen on the Memory of the World Register 
+website. © Archaeological Museum of Thessaloniki12 •  Accessible Digital Documentary Heritage
+• Example 2: Confucian Printing Woodblocks
+This documentary heritage, collectively named the “Confucian Printing Woodblocks in Korea,” comprises 
+64,226 hand-carved blocks, used for printing 718 titles of works written during the Joseon Dynasty 
+(1392–1910). They cover a wide range of subjects, including literature, politics, economy, philosophy, and 
+interpersonal relations. The ultimate theme is creating ideal communities built on Confucian morality.
+Alternative text of images showing 3D items should contain the form, dimensions, and a description of the 
+engraved text or figures. As an example, the Korean Confucian Printing Woodblocks entry in the Memory 
+of the World register contains a photo gallery of several woodblocks, as well as two images of the archive 
+building where they are held. However, in order to be accessible, the images should be accompanied by a 
+textual description of the appearance of the blocks – such as their colour, shape (the blocks have handles 
+on each end), size, or the types of characters engraved on them. 
+Figure 6.  Image of the Confucian Printing Woodblocks as seen on the Memory of the World Register website. 
+© Advanced Center for Korean Studies
+• Example 3: Islamic stone inscription
+Figure 7.  Image of the entry of the Earliest Islamic (Kufic) inscription as seen on the Memory of the World Register 
+website.Accessible Digital Documentary Heritage • 13
+This entry contains only a very brief description of a stone inscription from 644 AD on which date of death 
+of the second Caliph of Islam is written. The short description on the website, shown in Figure 7, is missing 
+key details. For example, it is not written here that the inscription is on a stone, nor is it clear how large the 
+inscription is, where it is located, or where it was found. In order to garner any of these details, it is necessary 
+to open the nomination form, which is a separate PDF. There are no images of the item, either on the website 
+or in the nomination form.
+• Example 4: The Historic 7th March Speech of Bangabandhu Sheikh Mujibur Rahman
+Figure 8.  Image of the Bangabandhu Sheikh Mujibur Rahman’s historic March 7th speech as shown on the 
+Memory of the World Register website. © Bangladesh Betar, Bangladesh Film Archive, Liberation War Museum
+This entry describes an audiovisual recording of a historic speech given by Sheikh Mujibur Rahman of 
+Bangladesh in 1971. There are however no audiovisual materials accompanying this entry on the Memory of 
+the World website, nor are there any links to audiovisual materials. There is a photo gallery available, however, 
+the captions of the images provide relatively little information about the scene – such as the fact that the 
+speaker is standing at a podium with several microphones, facing a crowd of thousands of people. This 
+information is thus unavailable to users with visual impairments. Additionally, in some cases, the captions are 
+written in the incorrect language (in this case, the captions are in French, although the image was visited via 
+the English version of the website). Users can open the nomination form for more information – however, the 
+nomination form is a poor-quality scanned PDF; it is not accessible for screen reader users. 
+C.  Summary of analysis 
+The Memory of the World Register website has some basic accessibility features, nevertheless, the website 
+itself needs to be re-designed to make it more useable and accessible for people of all abilities, while the 
+website’s content (items in the register, images, documents, etc.) should be adapted with better awareness 
+of digital accessibility issues. The guidelines listed below should be applied.Accessible Digital Documentary Heritage • 15
+3. 
+Guidelines for 
+accessible digitized 
+heritage documents
+This chapter presents two types of guidelines for creating an accessible 
+digital documentary heritage repository: a) basic guidelines; b) advanced 
+guidelines. The basic guidelines, which are more generic, are intended 
+for the people commissioning documentary cultural heritage platforms. 
+Meanwhile, the advanced guidelines, which are more technical, are geared 
+towards the content creators of these platforms.“Bayasanghori Shâhnâmeh” (Prince Bayasanghor’s Book of the Kings). Inscribed in UNESCO  
+Memory of the World Register by the Islamic Republic of Iran in 2007 
+© Golestan Palace, Iranian Cultural Heritage and Tourism Organization (ICHTO), Iran.16 •  Accessible Digital Documentary Heritage
+Guidelines for accessible digitized  
+heritage documents
+The short text “Fundamental principles of digitization of documentary heritage”, published by UNESCO 
+(n.d.), provides a helpful procedure for the digitization process, breaking it down into four main stages: 
+Planning, pre-digitization, digital conversion, and post-digitization processes. Each stage includes a series 
+of critical steps, such as assessment of resources needed, selection of materials, collection of metadata, 
+and quality control, to name a few. However, none of the steps take accessibility for persons with disabilities 
+into account.
+In this chapter, two guidelines for setting up an accessible digital documentary heritage repository are 
+introduced: the “basic guidelines” and the “advanced guidelines”. Both guidelines are intended for different 
+target groups: the basic guidelines, which are generic, are for those commissioning documentary cultural 
+heritage platforms (e.g. institutions, project managers, curators), whereas the advanced guidelines are for 
+the content creators of these platforms (e.g. editors, web developers).
+A.  Basic guidelines
+The following are general guidelines that should be taken into consideration prior to the establishment of a 
+digital documentary heritage repository, although it is important to keep them in mind at any stage. 
+1. Consider accessibility at every step of document digitization, rather 
+than fixing accessibility issues post hoc.
+Planning for accessibility from the beginning is more efficient and less costly than attempting to fix issues 
+later. 
+2. Plan to allocate sufficient resources for accessibility.
+Accessibility should be incorporated into the budget of any documentary heritage project or programme. 
+Disability development. Regular accessibility controls and updates should also be incorporated into budgets 
+for existing projects. Disability inclusion does not need to be overly costly, especially if planned during the 
+early stages of development. Regular accessibility controls and updates should also be incorporated into 
+budgets for existing projects.
+3. Involve persons with disabilities and/or accessibility experts in the 
+process.
+This recommendation is specifically defined in the Convention on the Rights of Persons with Disabilities and 
+appears across many publications in the area of accessibility. In order to properly understand the variety 
+of needs of all target users, persons with disabilities must be involved at every stage of development. This 
+could include experts in the field, disability organisations, and potential users with various types of disability. Accessible Digital Documentary Heritage • 17
+4. Work with experts in the subject material and the physical materials 
+of the documents.
+In order for a digitally archived item to be fully accessible, key details about the item must be provided in an 
+accessible form, such as in a text description. An expert in the given subject matter can best identify how to 
+describe this information. 
+5. Describe content using simple, understandable language.
+Describing information in a simple language enables all users, including persons with cognitive difficulties, 
+to better understand the content. Structuring text into paragraphs, creating short sentences, and avoiding 
+technical jargon, are some measures to ensure this.
+6. Digital platforms must be designed with accessibility in mind.
+Digital platforms, such as apps and websites, should be designed using international accessibility norms, 
+like the Web Content Accessibility Guidelines  (WCAG 2.1). Elements such as layout, menus, buttons, forms, 
+search functions and navigation must all be designed with accessibility in mind.
+7. Organize digital accessibility awareness training for different 
+stakeholders.
+The fundamentals of digital accessibility, assistive technologies, and barriers for persons with disabilities, 
+should be discussed in workshops or educational materials. It is recommended to involve persons with 
+disabilities directly in the training, allowing them to explain firsthand the barriers they face.
+The basic guidelines outlined above should be understood as a foundation for making digital documentary 
+heritage accessible. They do not guarantee accessibility in and of themselves – rather, they lay the groundwork 
+for any further, technical steps that may be required. Below is a set of more specific advanced guidelines 
+which should be implemented to ensure accessibility of digital documentary content.
+B.  Advanced guidelines
+1. Digital images should be accompanied by a text description of their 
+subject’s key features (content and form) and should be captured 
+with the highest resolution possible.
+Images make up a large proportion of digital content today and are especially prevalent in digital archives 
+and galleries. In many cases, images are the most efficient way to digitally record a culturally important 
+document, whether it’s a scan of a photograph or text on paper, or an image of a 3D artifact such as an 
+engraving or sculpture. 
+For many persons with visual impairments, digital images are inherently inaccessible. In order to be fully 
+accessible, a digital image must be accompanied by a text description. As described in Chapter 2 above, 
+many persons with visual impairments rely on screen reader technology to access digital content. A text 
+description provides key information about images that would otherwise be inaccessible to persons with 
+visual impairments. It can also be useful for users who rely on a talking browser to read websites due to a 
+learning disability, as well as any users who might have difficulty understanding the meaning or relevance of 
+an image.18 •  Accessible Digital Documentary Heritage
+It is already common practice for digital archives to display basic textual information about each of its 
+digitized items; usually this includes the item’s author/creator, year of creation, materials used, and size 
+dimensions. This information is often shown as a caption or short text next to an image, much like the 
+physical labels next to items in museums and galleries. However, such information, by itself, is not enough 
+to render an image accessible. 
+A good text description should include key details about both the content and the form of the item depicted 
+in the image, with a particular focus on any features or elements that are culturally relevant. For example, a 
+scan of a historically significant handwritten letter should be accompanied by either a full text transcript or an 
+appropriate textual summary of the letter’s contents, whereas other details, such as ink colour or handwriting 
+style, may be of less importance in such a case. On the other hand, page scans from an early biblical or 
+Qu’ran manuscript might require more focus on style (such as illustrated letters, symbols, and drawings in 
+the margins) than on content, which is already familiar to most and which can be easily accessed elsewhere.
+Culturally important documents may have different reasons for being significant. This presents a challenge 
+when it comes to creating an effective text description, because it first has to be established which information 
+about an image should be included and which can be left out of the text description. For this reason, it is 
+recommended that an expert in the relevant subject matter should be involved in creating an appropriate 
+text description. 
+2. Digital images should be resizable and use the highest resolution 
+possible.
+An important aspect to consider in terms of image accessibility is quality and resolution. High resolution 
+not only ensures that the picture is as true to its subject as possible, but also enables image magnification 
+without too much pixilation, making it easier for persons with vision impairments to explore the image by 
+zooming in on it.
+3. PDF documents should be screen-readable.
+The PDF (“portable document format”) is another commonly used format in digital documents. It is most 
+frequently used for scanned text documents, such as book pages or typed letters. Like digital images, PDFs 
+present accessibility issues for many users with visual disabilities. One major issue is that scanned text in a 
+PDF is not always recognisable to screen reader software; this is often the case with scanned handwritten 
+documents, for example. Additionally, important elements such as page structure, graphs or embedded 
+images are generally indecipherable for screen readers as well. 
+In order for a PDF to be fully accessible, both its content and structure must be taken into account. Firstly, 
+any relevant text with the PDF should be computer-recognisable. This is not only important for visually 
+impaired users – it also enables word-searching functions, making it easier for all users to navigate through 
+the document. If it is not possible to make text computer-recognisable, a separate transcript or appropriate 
+summary of the text should be provided. Secondly, and equally important, a fully accessible PDF requires 
+special modifications called “tags.” Tagging provides background-level information on the document’s 
+structure (headings, figures, bullet lists, etc.), allowing screen-reading software to read the document in the 
+correct order. It also allows for text alternatives of embedded images and graphs which would otherwise be 
+inaccessible.
+PDF tagging and accessibility testing can be done using the Adobe Acrobat  application or through an 
+external service such as PAVE . Accessible Digital Documentary Heritage • 19
+4. Videos should be accompanied by captions or sign language 
+interpretation, as well as audio description.
+Digital videos present accessibility issues for users with audio and visual disabilities. As such, it is important 
+to consider the needs of both groups when working with multimedia files. 
+a) Captions
+Captions are text versions of the spoken word presented within multimedia. Though captioning is primarily 
+intended for those who cannot hear the audio, it has also been found to help those that can hear audio 
+content, those who may not be fluent in the language in which the audio is presented, those for whom the 
+language spoken is not their primary language, etc. It is important that the captions are synchronized with 
+the audio, and that they offer a true representation of spoken text and sounds. The captions must also be 
+easily legible in terms of font size and colour contrast. Offering a selection of font sizes and colour/contrast 
+for the captions is the best option, as this allows users to set the captions to suit their specific needs. 
+Captions can be either closed or open. Closed captions can be turned on or off, whereas open captions are 
+always visible. Open captions include the same text as closed captions, but are permanently embedded into 
+the video picture, and cannot typically be turned off. Open captions give content creators more control over 
+how the captions will appear (size, color, font, location, and timing), however, it can be more time consuming 
+and expensive to produce than closed captions. Closed captions are most common, utilizing functionality 
+within video players and browsers to display closed captions on top of or immediately below the video area. 
+The most common web multimedia formats already support captioning.
+b) Sign Language Interpretation
+Another option is to add synchronized sign language interpretation in one corner of the frame. Many persons 
+with auditory disabilities have difficulties with reading and may find sign language easier to follow. In addition, 
+a sign language interpreter’s face and movements can intimate the emotion and rhythm of human speech 
+with much greater nuance than captions or transcripts alone. This could be especially useful for clips that 
+include spoken audio in which the speaker isn’t visible – such as scenes with background narration, for 
+example.
+c) Audio Description
+Audio descriptions are intended for users with visual disabilities. They provide additional information about 
+what is visible on the screen. This allows video content to be accessible to those with visual disabilities. 
+Though they are not commonly utilized in television and movies, it is gaining in popularity. Audio descriptions 
+are helpful in the case where visual content in web video provides important content that is not available 
+through the audio alone. 
+5. Audio should be accompanied by a text transcript.
+Transcripts provide an important part of making web multimedia content accessible, as they allow anyone 
+that cannot access audio content to read a text transcript instead. Transcripts do not necessarily have to 
+be verbatim accounts of every utterance or sound contained in an audio file – however, they should contain 
+any information which is relevant or significant. This is not only limited to dialogue, but should also include 
+additional descriptions, explanations, or comments that may be beneficial, such as indications of laughter or 
+important background sounds.
+6. Provide content should be provided in multiple languages.
+Providing content in multiple languages enables a broader outreach. Automatic translation is a cost-effective 
+way to approach this, although translation quality should always be monitored when this option is used. 20 •  Accessible Digital Documentary Heritage
+7. Consider alternative ways to present your content.
+Providing alternatives to text description, such as interactive 3D scans, virtual reality, or videos describing 
+the archived content, could improve comprehension of documentary heritage items for some people, such 
+as those with cognitive difficulties. Creating 3D scans has the added bonus of providing 3D data, from 
+which institutions or users could then to create 3D printouts. This would provide an opportunity for tactile 
+interaction with a given item, helping all users, particularly those with visual or cognitive disabilities, to better 
+understand and envision archived items.Accessible Digital Documentary Heritage • 21
+References
+Darvishy, Alireza; Manning, Juliet; and Erocal, Denis. (2019). Delivering Together for Inclusive Development: Digital 
+Access to Information and Knowledge for Persons with Disabilities. UNESCO, 01/2019. 
+Darvishy, Alireza. (2018). PDF Accessibility: Tools and Challenges. In: Computers Helping People with Special Needs, 
+edited by Klaus Miesenberger and Georgios Kouroupetroglou, 07/2018. 
+Dolson, Joseph C. (2008). Making video and audio usable for the deaf. Accessed August 4, 2019: https://www.
+practicalecommerce.com/Accessibility-Making-Video-and-Audio-Usable-For-The-Deaf
+ICT4IAL. (2015). Guidelines for Accessible Information. Available in 26 languages. Accessed September 10, 2019: 
+https://www.ict4ial.eu/sites/default/files/Guidelines%20for%20Accessible%20Information_EN.pdf
+Rowe, Paul. (2017). Building an accessible online collection for Sarjeant Gallery. Medium Magazine Online. Accessed 
+September 13, 2019: https://medium.com/@armchair_caver/building-an-accessible-online-collection-for-
+sarjeant-gallery-48cbcac4fdb6
+UNESCO. (2019). Fundamental Principles of Digitization of Documentary Heritage. UNESCO.org. Accessed July 12, 
+2019: http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/mow/digitization_guidelines_for_web.pdf
+UNESCO. (1960). Recommendation concerning the Most Effective Means of Rendering Museums Accessible to 
+Everyone. Accessed December 2, 2019: http://portal.unesco.org/en/ev.php-URL_ID=13063&URL_DO=DO_
+TOPIC&URL_SECTION=201.html
+The United Nations. (2006). Convention on the Rights of Persons with Disabilities. Treaty Series, 2515, 3.
+United Nations. (1948) Universal Declaration of Human Rights. Accessed July 28, 2019. http://www.un.org/en/
+universal-declaration-human-rights/
+Voon, Claire (2019). This Open Source Software Could Make Museum Websites More Accessible. Artsy.net. 
+Accessed September 8, 2019: https://www.artsy.net/article/artsy-editorial-open-source-software-museum-
+websites-accessible
+World Health Organisation. (2019). Assistive devices and technologies. Accessed September 6, 2019: https://www.
+who.int/disabilities/technology/en/
+WebAIM. (2019). The WebAIM Million Update: A 6-month accessibility re-analysis of the top 1,000,000 home pages. 
+Accessed September 13, 2019: https://webaim.org/projects/million/update
+World Bank and WHO. (2011). World Report on Disability. Accessed December 2, 2019: https://www.who.int/
+disabilities/world_report/2011/report/en/The recent emergence of digital cultural archives and 
+collections – especially online collections – has brought 
+about a huge leap forward in terms of global access to 
+culture . Despite this positive development, however, 
+digital content remains frequently inaccessible to 
+persons with disabilities – particularly to those with 
+vision, hearing, motor, or cognitive impairments . This 
+publication captures barriers faced by persons with 
+disabilities in getting access to digitized documentary 
+heritage . Furthermore, this publication offers a set of 
+guidelines for parties involved in the digitization of 
+heritage documents, including librarians, archivists, 
+museums workers, curators, and other stakeholders, 
+with a view to promote the accessibility of digitized 
+documentary heritage for persons of all abilities . 
+Communication and 
+Information Sector
+United Nations
+Educational, Scientiﬁc and
+Cultural Organization
+Communication and Information Sector
+Universal Access to Information Section
+7, place de Fontenoy
+75352 Paris 07 SP , France 

@@ -1,0 +1,295 @@
+Disinfodemic: Dissecting responses to COVID-19 disinformation2This policy brief assesses the emerging responses to the prolific 
+spread of disinformation associated with the COVID-19 pandemic in the context of freedom of expression challenges. It is the companion brief to Disinfodemic: Deciphering  COVID-19 disinformation which described 
+the themes, formats and types of responses to what the World Health Organisation (WHO) has called a “massive infodemic”. 
+The term adopted in this research to describe the falsehoods fuelling the 
+pandemic and its impacts  is disinfodemic - because of the huge ‘viral 
+load’ of potentially deadly disinformation that is described by the UN Secretary General as a poison, and humanity’s other “enemy”  in this crisis. 
+In publishing this policy brief, UNESCO seeks to cast light on the challenges and opportunities associated with the urgent need to ‘flatten the curve’ of the disinfodemic, and to offer possible options for action.
+The background
+The companion policy brief in this series  offers two typologies for 
+understanding the disinfodemic:
+• Firstly, it identifies nine key themes and four main format types associated with disinformation about  COVID-19 and its impacts. The themes range from false information about the origins, spread, infection and mortality rates, through to symptoms and treatments, and include content designed to defraud, along with political attacks on journalists and misrepresentation of credible independent journalism as “fake news”.  The formats used to disseminate pandemic-related disinformation include: highly emotive narrative constructs and memes; fabricated, fraudulently altered, or decontextualized images and videos; bogus websites, data sets and sources; and disinformation infiltrators and orchestrated campaigns.
+• The second typology outlines 10 types of responses to the disinfodemic, which are grouped under four umbrella categories:
+ » Monitoring, fact-checking, and investigative responses aimed 
+at identifying, debunking, and exposing COVID-19 disinformation
+ » Governance-based responses, which include law and policy, 
+and state-based counter-disinfodemic responses 
+ » Curation, technological, and economic responses, which pertain to the policies and practices of institutions mediating content
+ » Normative and ethical; educational; empowerment and credibility labelling responses - all of which are aimed at the audiences targeted by disinformation agents, with citizens and journalists being a particular focus.
+It is this second typology which is analysed in more detail in this policy brief. The assessment gives rise to a list of action options that can be considered by intergovernmental organisations, internet communications companies, governments, civil society organisations, academics, and the news media.
+Disinfodemic: Dissecting responses to COVID-19 disinformation3The human 
+rights context
+It is every person’s right to seek, receive and 
+impart information. UNESCO and its partners work to protect and strengthen this right and build ‘Knowledge Societies’ in a range of ways, including: 
+• Countering the contamination of disinformation, 
+• Supporting independent, quality journalism, 
+• Empowering global citizens with Media and Information Literacy, and
+• Assisting Member States in meeting international standards on freedom of expression. 
+All four lines of action are essential for the right to health, which is one of the economic, social 
+In this policy brief, the 10 types of responses to COVID-19 disinformation (as identified in the companion brief) are scrutinised in greater depth. This analysis is based on research conducted by the authors for a forthcoming ITU-UNESCO Broadband Commission report, for which a hierarchical typology of disinformation responses is being developed. In both cases, the responses are categorised according to their aims, rather than in terms of the actors behind these responses (e.g. social platforms, governments, news media, citizens). 
+Additionally, an evaluation of each response 
+category is provided in terms of its assumptions and general strengths and weaknesses. The discussion examines the relevance of each response to freedom of expression, which is both a fundamental right and key weapon in the struggle against the disinfodemic.
+The circuit of disinformation can be assessed in 
+terms of its production, transmission and reception/consumption. In a fourth dimension, there is the reproduction of the content through ever-onward sharing and amplification beyond the initial cycle.  
+Responses aim to address these four ‘moments’ – 
+cutting the supply and generation of false content; limiting its transmission; inoculating receivers against effects; and preventing onward circulation. 
+For example, labelling responses are aimed at 
+the reception and consumption of disinformation. Like Media and Information Literacy, they may also be effective at the ‘reproduction‘ stage where false content is shared onwards. In comparison, ‘deplatforming’ disinformation actors for their behaviour is a self-regulatory response by internet companies relevant to filtering at the transmission moment. Increasing the supply of anti-and cultural rights recognised by the international community.  They are all essential if humanity is to achieve the UN Sustainable Development Goal (SDG) 16.10 on “public access to information and fundamental freedoms”. This SDG target helps power other SDGs, especially SDG 3 on “good health and wellbeing” that is so critical in these times. 
+In publishing this second policy brief on the 
+topic of the disinfodemic, UNESCO aims to #ShareKnowledge that can help governments, companies, communities and individuals:
+• Understand the big picture of disinformation and have insight into the types of responses being rolled out,
+• Address the challenges/opportunities in these responses, and 
+• Consider options for action that arise from this assessment. 
+disinformation content (counter-messaging) is an intervention at the starting point, as are measures to support the production of independent journalism.  
+In the analysis contained within both this policy 
+brief, and its companion brief  
+, the responses 
+are assessed in terms of modalities that have implications for all four ‘moments’ in the circuit of disinformation. This approach therefore does not classify responses by the type of actors driving the intervention (eg. governments, educators), nor by the actors who are being targeted by the responses (eg. scammers on the one hand, potential consumers on the other).  Instead, by focussing on the modalities of response, it recognises that these have cross-cutting relevance to the different groups.
+In addition, most of the modalities are directly 
+relevant to all of the four ‘moments’ in the circuit of disinformation – production, transmission, reception/consumption, and reproduction. They also encompass various possibilities in relation to the driving forces of disinformation.  An example is where  a person might be motivated to disseminate disinformation about a fake cure, to try to be helpful by sharing seemingly useful information.
+Responses can seek to address this non-punitively 
+within reproduction, such as by exposing the person to Media and Information Literacy. But, where the motive is monetary gain by peddling unproven medications, then the methods of targeting the ‘ecosystem’ - such as with legal and regulatory responses - are relevant.  Looking at the modalities of responses helps to contextualise the different actors and targets, their motivations, and the different ‘moments’ in the circuit of disinformation where interventions are intended to impact.   The big pictureDisinfodemic: Dissecting responses to COVID-19 disinformation4The analysis below covers the following modalities: 
+1.1.  Key assumptions
+1.2. Key challenges1.3. Key opportunities2.1.  Key assumptions2.2. Key challenges2.3. Key opportunities
+3.1.  Key assumptions3.2. Key challenges3.3. Key opportunities4.1.  Key assumptions4.2. Key challenges4.3. Key opportunities1. Identifying 
+disinformation 2. Producers and 
+distributors  
+3. Production and 
+distribution  4. Supporting the 
+target audiences of disinformation Disinfodemic: Dissecting responses to COVID-19 disinformation51 Responses that focus 
+on identifying COVID-19 disinformation 
+This category of responses is concerned 
+with monitoring fast-spreading information, checking its correctness, identifying who published it and why. These are all key to detecting manifestations of the disinfodemic, which is essential for any additional responses – be these legal, technical, ethical, educational or other kinds of interventions.
+1.2 Key challenges 
+The volume and range of COVID-19 disinformation types make it difficult for fact-checking groups,   journalists, and others fulfilling investigative functions, to monitor, report and draw public attention to all instances and all dimensions. This is further complicated by the magnitude of the task of deep investigation, as well as of assessment of the intended and unintended effects of identification, and other types of responses. 
+However, producing such analysis is vital in order 
+to develop or modify responses. 
+The challenge for fact-checkers is to operate 
+effectively in all countries and languages, at scale and with impact. This is necessary to enable societies to access the information needed to ensure that the various responses are both effective against the disinfodemic, and consistent with international standards for freedom of expression and other human rights like privacy.   
+Journalists, as key investigators of disinformation, 
+are under particular stress as a result of COVID-19. This is because of the size and complexity of the reporting task, new and growing revenue shortfalls that threaten newsroom payrolls and capacity to fund investigations, as well as the safety risks linked to coverage.  The mission-critical challenge is that if the news industry is unsustainable, a major force for identifying and exposing disinformation will be lost, leaving the field more open for the disinfodemic to spread. 1.1 Key Assumptions
+Identification responses provide much-needed insights into the disinfodemic, which are the evidence-base upon which other types of disinformation responses depend. Fact-checks, for instance, are  
+used by internet companies to identify and act on the 
+visibility of COVID-19 disinformation, as well as by governments and international organisations which can then decide what, when, and whether they need to launch policy or practical initiatives like targeted counter-disinformation  campaigns.        
+DISINFODEMIC: Deciphering COVID-19disinformation
+It is recognised that fact checks tend to attract 
+fewer user shares on social media than the viral 
+disinformation they are debunking. There is also some concern that drawing attention to falsehoods can help amplify them. Nevertheless, the operating assumption is that the work of verification and debunking remains essential as a mean for surfacing truth, and for holding individuals, public figures, institutions and the news media accountable for inaccurate claims.
+1.3 Key opportunities
+The current crisis is an opportunity for independent monitoring and identification responses to reaffirm the value of facts and science. It is also a chance to encourage public reflection on what content is treated as credible, and what people decide to share.  Identifying COVID-19 disinformation and investigating the responses over time, will also enable continuous  
+assessment of the internet communications companies’ efficacy  in reducing the escalation of the 
+disinfodemic. Identification responses are key for monitoring the impacts on women, children, the elderly, minorities, migrants and other vulnerable citizens and communities.  
+The disinfodemic is also an opportunity to improve 
+the resourcing of identification responses. While  
+WhatsApp, Facebook, Google, and Twitter  have pledged 
+some funding to fact-checking organisations and local journalism, ongoing support throughout and beyond the entire pandemic is needed.  
+Although the economic underpinning of journalism needs addressing (see below), at the level of knowledge and skills, journalists are continuously upgrading their digital investigative skills to aid discovery and exposure of disinformation content, along with the networks that produce and distribute it. Some journalists are also digging into issues around the different responses to the disinfodemic, and promoting policy debate about 
+these. Through all this, the crisis is an opportunity for 
+journalists to strengthen their craft and credibility, and increase the visibility of their indispensable contribution to society in times of emergency.Disinfodemic: Dissecting responses to COVID-19 disinformation6        
+2 Responses governing 
+the production and distribution of COVID-19 disinformation
+This modality refers to responses that cover the use 
+of political power to shape the wider information and content  ecosystem in relation to the disinfodemic.  These efforts are generally aimed at the production and transmission of disinformation (although some touch on consumption as well). The interventions range from steps that criminalise COVID-19 disinformation at one end of the spectrum, through to increasing the supply of corrections to health-related falsehoods at the other, and less commonly, support for independent media. 2.1 Key assumptions
+This category of responses intervenes in the information-disinformation ecology by constraining or rewarding the behaviours of the people and institutions involved in producing, circulating and consuming content. At the same time, attention is also sometimes given to producing official content on the expectation that this will be authoritative. T ogether, these responses aim to directly affect the type of content mix available to the public regarding the proportions and prominence of information versus disinformation. 
+The underlying hope is that changing the 
+communications environment in a centralised way can mitigate the circuit of disinformation, or at least lessen its impact, thereby allowing the society to tackle COVID-19 in scientifically grounded ways. The alignment of the approach to freedom of expression and sustainable development goals depends on the extent to which those who are driving governance responses are motivated by public interest, and that their steps will be relatively apolitical in terms of options and cost-benefits, while also respecting human rights.
+2.2 Key challenges 
+There is a grave risk that restrictive responses to curtail COVID-19 disinformation could also hurt the role of free and quality journalism in its ability to counter the self-same disinfodemic. Such responses can include measures that intentionally or unintentionally criminalise critical journalism, such 
+as so called ‘fake news’ laws. These responses may often violate international standards that require proportionality and necessity assessments to be applied when limiting freedom of expression.  
+In this regard, while presented as ‘cures’, some of these legal and policy steps might actually harm 
+legitimate reportage, speech and policy debate 
+- which are key to surfacing truth and ensuring that it trumps lies. Heavy handed responses to disinformation that restrict freedom of expression rights, such as 'fake news' laws, could actually hobble the work of journalists and others engaged in vital research, investigation and storytelling about the pandemic, and the disinfodemic that helps fuel it. This work includes verification and debunking efforts that are essential for well-informed policy development, along with the implementation and review processes needed to tackle COVID-19.
+There is also the associated risk that laws and 
+regulations  that are rushed through to try to address the disinfodemic could undermine the wider use of the internet by obstructing people’s communications more broadly.  Additionally, there can be collateral damage from restrictions that are not even aimed at issues of information and disinformation. Thus, necessary lockdowns designed to protect public health have a range of unintended consequences, including delivering potentially knock-out blows to a growing number of independent news organisations around the world. The news media is also fighting to survive automated blocks for advertising alongside content using the term coronavirus. Already fragile, the traditional media business models dependent on advertising have now collapsed in some cases,  
+causing a number of news publishers to cease operating. This further reduces access to reliable public interest information and increases people’s  vulnerability and exposure to the disinfodemic.  The current moment has been described as a “media extinction event”. If left unmitigated, this challenge could kill off media enterprises with both short- and long-term consequences for societies. 
+An additional challenge is that restrictive and 
+punitive responses to the disinfodemic can overshadow the potential of using political power and policy to regulate through incentives and empowerment measures, so that various actors, including the news media, are able to strengthen their role against disinformation.Disinfodemic: Dissecting responses to COVID-19 disinformation72.3 Key opportunities 
+Policy and other responses in this category can play a 
+key role in supporting the supply side of information, as an antidote to disinformation.
+There is an opportunity, as some governments, 
+companies and the ITU-UNESCO Broadband Commission are doing, to promote affordable broadband connectivity. There is also an 
+opportunity to lift or suspend internet shut-downs where these exist, remove arbitrary restrictions on expression, and promote Media and Information Literacy (MIL) initiatives.
+A particular opportunity also exists in recognising 
+that news media institutions help to combat the disinfodemic and enable public transparency regarding state and corporate responses to the crisis. There is a window of vital impact through timeous investment in ‘stimulus’ and ‘rescue packages’ for independent journalism and news outlets. This support for independent journalism, including authentic public service media, is essential to ensure the sustainability of journalism as a public good, as the pandemic takes a further toll on media institutions. Before it is too late, policy actions are vital to ensure that journalism, as verifiable information published  in the public realm (as distinct from private messaging), is to continue to be made available as an essential service in the public interest. 
+Authorities have an opportunity to advance progress in 
+achieving Sustainable Development Goal 16.10 - “public access to information and fundamental freedoms” - by combating disinformation through the promotion of active transparency measures. This includes releasing open data sources (e.g. on infection rates, mortality rates, recovery rates, equipment shortages etc - with due respect for individual privacy issues ), and being transparent about public spending related to the pandemic and its impacts.  Such data can help fact-checkers (including journalists) to verify information circulating about the many facets of the crisis. This transparency is also an important aspect of building public trust in official public health communications, and it can especially help to counter disinformation focused on statistics. 
+Internet communications companies (as with 
+governments and donor organisations) have a role to play in using their private power to adopt policies to support the ecosystem of information by providing core funding for media (and for fact-checking efforts). These well-resourced corporate entities can also help make an impact through offering funding for independent journalism projects focused on investigating disinformation themes and networks connected to the COVID-19 disinfodemic. The internet companies could also extend programmes designed to compensate news publishers from revenues they make off their news content. Support such as that 
+offered by Facebook for two countries is a start.  Funding from these companies (and others) offered without strings attached, to avoid interference and the appearance of public relations motivations,   could help underwrite news organisations that are opening up paywalls in order to offer COVID-19 content free to the public. 
+The disinfodemic is also an opportunity for internet 
+access companies to make a positive contribution by providing zero-rated connections to credible news sites. For their part, app stores could reduce the percentage they take for selling subscriptions to news services. 
+                 
+3.3 Responses  within 
+the production and distribution of COVID-19 disinformation 
+This modality of responses focuses on actions within 
+the primary institutions in the communications sphere - such as news media, social media, social messaging and search services. Most of these responses relate to curation (i.e. editing, managing and moderating) of content, which impacts on the presence and prominence of information versus disinformation. In some cases, those designing these responses aim to reduce economic incentives for people seeking to make money out of COVID-19 disinformation, impacting on production; in other cases the responses are focused on reducing transmission of such content.
+3.1 Key assumptions 
+The responses in this category work on the basis that internet communications companies and media organisations have significant leeway to organise the information (and, in certain cases, disinformation) that is transmitted through their services. The responses depend on the extent to which the companies’ business models are not intrinsically favourable to disinformation, and that their leaders are willing to spend money and take measures to avoid capture by 
+producers of COVID-19 disinformation. Disinfodemic: Dissecting responses to COVID-19 disinformation8The responses also rely on the will of these actors 
+to use their economic power to discourage those abusing transmission possibilities for  ‘clickbait’ to promote falsehoods about the crisis. 
+The desired success of these responses is 
+conditional on high social-responsibility, ethical awareness and content competency among owners and employees of these companies, as well as among their users and audiences. Increasingly, these responses place trust in technology measures to accurately implement policies about content, but in practice automation remains a blunt instrument and it is also being rolled out during the crisis without sufficient provision for redress for content wrongly removed under these means.  
+A further assumption is that the owners of these companies are best placed to decide on their internal policy and practice in relation to the disinfodemic, which may be at the expense of their practice of multi-stakeholder consultation and their transparency about standards and implementation.
+3.2 Key challenges 
+It is significant to address the disinfodemic dimensions that occur within internet communications and media companies. However, with most of these curatorial, technical and economic steps being largely in the hands of private actors, there are inconsistent and opaque decisions being made. One such example is the insufficient COVID-19 advertising transparency information provided by internet communications companies, thereby preventing independent scrutiny by journalists and researchers. It is also unclear how they are monitoring the shift to greater automation, in terms of its effect on COVID-19 disinformation and information.
+The patchwork of policies and approaches 
+between different internet companies reflects pluralism and diversity, but it may also hinder an overall effective industry-wide response to COVID-19 disinformation. Additionally, it can  conceal both immediate and enduring risks to the rights to freedom of expression and privacy by corporate and state actors, in regard to protection of personal privacy and the take-down of content. 
+As traditional gatekeeper institutions in the 
+production and transmission of content, media institutions face particular challenges related to the disinfodemic. Media diversity is a valuable contribution to society, but some news publishers  are captured by forces that are unduly politicising the crisis in ways that approach the level of disinformation. Some journalists are also vulnerable to hoaxes, sensationalism, and 
+the ethically problematic practice of wrongly 
+interpreting a commitment to objectivity through a ‘false-balance’ approach, where they weigh untruthful sources  equally against truthful ones. These phenomena can lead to COVID-19 disinformation being legitimised in the news. Such system failures work against the role of journalism as a remedy for disinformation. They reduce the media’s potential to promote public debate about responses to the disinfodemic - as well as the need for promoting evidence-based debate on a society’s wider policy approach  to the pandemic and its impacts.
+3.3 Key opportunities
+This pandemic represents an appropriate and urgent time for internet communications companies to put transparency, accountability mechanisms, and multi-stakeholder engagement into high gear. In this way, they can demonstrate their goodwill beyond the bottom line, and their sincere interest in improving policies and practices to support quality information in the face of COVID-19 disinformation. This could involve curational policies to ensure upgrading credible news outlets and other recognised authoritative content providers, and downgrading or removing false content and the advertising linked to it.
+The current crisis is also an opportunity for 
+news publishers and journalists, who can strengthen their service to the public through reinforced editorial independence, along with adherence to the highest standards of ethics and professionalism, with strong self-regulatory mechanisms. In this way, journalism can demonstrate its accountability to standards, distinguishing itself from the kind of problematic content and interaction prevalent in the expanding space of private and direct messaging (including messaging apps such as WhatsApp), where disinformation and its agents can thrive outside the public gaze and continue unchecked.  News publishers can thus use the crisis to build  trustworthiness as a source of facts and fact-based opinion, and reinforce this by exposing organised actors within the disinfodemic. 
+Similarly, journalism organisations can highlight 
+their important role in ensuring publicly accountable and transparent responses from all actors to both the disinfodemic and the wider COVID-19 crisis. The news media can further help to uphold the need for all COVID-19 interventions to take account of international legal and normative human rights frameworks, and for any imposed restrictions to meet the conditions of international standards on the limitation of rights.Disinfodemic: Dissecting responses to COVID-19 disinformation9           
+4 Responses aimed at 
+supporting the target audiences of COVID-19 disinformation campaigns
+This modality of responses gathers together 
+the interventions that seek to directly address the targets and receivers of disinformation, including online communities, the news media, and their audiences. The category covers: (i) normative interventions like resolutions and statements; (ii) Media and Information Literacy development; and (iii) content credibility labelling initiatives. The responses aim to promote citizens' communications competence, which include critical thinking and digital verification skills. There are also journalism education and training initiatives which recognise that journalists are both key responders to COVID-19 disinformation, as well as targets of it.4.1 Key assumptions
+This set of responses is not about ‘external’ protection of the targets of disinformation, but rather about increasing efforts to prepare people to be active agents in building their own resistance to the disinfodemic. 
+It  assumes that audience behaviours are influenced 
+by norms, ethics, knowledge and skills, and that the interventions will strengthen these in relation to COVID-19 disinformation, and responses to it. The related expectation is that people are moral, rational and open to learning how to ‘inoculate’ themselves, and opposed to being duped as victims of the disinfodemic. Some evidence suggests, however, that many people choose to engage with erroneous information that reinforces their prejudices, in preference to engaging with accurate, credible content that may challenge them to shift their opinions. 
+This modality of response types also operates with the 
+idea that audiences will respond to content-labelling as intended by the labellers i.e. by recognising its falsity and refraining from sharing it, although this is not always the case.  There are also the complex assumptions that labelling content as credible can be a straightforward and non-controversial exercise, and that such ‘quality’ labelling can co-exist with critical Media and Information Literacy skills on the part of the content consumers. 
+The category also relies on the extent to which journalists 
+are both able and willing to adhere to codes of ethics, and 
+that they are interested in improving their coverage of 
+COVID-19 in the face of disinformation challenges. 
+4.2 Key challenges 
+The magnitude of the COVID-19 crisis, and the urgency of responses to the disinfodemic, can lead to changes in what is accepted as normal, such as the suspension or weakening of human rights protections.  Many responses to the disinfodemic could become entrenched as new norms -  for better or worse. It is therefore a challenge to ensure that all interventions are anchored within the legal and normative frameworks of human rights, such as freedom of expression (including access to information) and privacy. This challenge has seen many actors trying to give voice to these issues. They seek to address the challenge of a downgrading of human rights standards by empowering the public (and its representatives in government) to realise that interventions against COVID-19 and related disinformation should, for example, be necessary, proportionate and of  time-limited duration in terms of international standards. However, the impact of these cautions depends on persuading those with power to tack closely to these standards.A further challenge is that educational reactions to the disinfodemic can risk being exclusively short-term in focus, and lose sight of possible links to long-term and institution-based empowerment programmes and policies to build Media and Information Literacy, including for children, in relation to disinformation in general.   
+4.3 Key opportunities 
+The main opportunity is not only to reaffirm and remind people about norms around access to information and freedom of expression, and provide education and signals to help them, but to deepen and reinforce such knowledge, skills and cues in a complex and rapidly changing environment.   
+Immediate normative, educational and credibility labelling 
+steps in countering the disinfodemic can also be taken with an eye to promoting long-term normative and institutional impacts in terms of international standards for human rights.  The same point applies to the role of Media and Information Literacy in terms of its potential significance in  building norms and ethical approaches. Disinfodemic: Dissecting responses to COVID-19 disinformation10Additionally, credibility labelling - i.e. 
+attaching credibility labels to signal COVID-19 disinformation at one end of the spectrum, and designating certain media institutions as trusted sources at the other - can also benefit from being guided by international human rights standards. Such an approach could help deter censorship, uphold freedom of expression rights and avoid validating media that is of dubious performance in relation to promoting disinformation.
+The crisis provides possibilities for the public to 
+learn to approach content with scepticism, not cynicism, and to be empowered to make informed judgements about the disinfodemic and the responses to it.
+Conclusion
+Recapping the background 
+The companion policy brief   to this one 
+describes nine key themes and four main 
+format types associated with the disinfodemic. The themes identified include false information about the origins and spread of COVID-19, infection rates and treatments, along with content designed to defraud, and the dangerous misrepresentation of credible, independent journalism and journalists as “fake news” by certain political leaders. The formats adopted include fabricated or decontextualised images and videos; highly emotive narratives and memes (often sent viral within closed messaging apps); fake websites; and coordinated disinformation campaigns.  
+T o make sense of the range of responses to 
+this content, this second brief builds on the companion brief  which groups responses to the 
+disinfodemic into 10 subcategories. These responses in turn are grouped under four umbrella categories of modalities, as discussed above:
+• Monitoring responses and investigative responses (which contribute to identifying COVID-19 disinformation, debunking it, and exposing it);
+• Law and policy, and state-based counter-disinfodemic responses (which together represent governance of the ecosystem);
+• Curation, technological and  economic responses (that are relevant to the policies and practices of institutions mediating content);
+• Normative and ethical; educational; empowerment and credibility labelling (these are responses aimed especially at the audiences targeted by disinformation).
+This second policy brief has taken the discussion further, looking at the underlying assumptions, the challenges, and the opportunities of each of the 10 response types that are covered under the four categories above. With this ground covered, and with the summary recapping the discussion, it is possible to set out an analysis at the level of common and intersecting issues.
+Cross-cutting assessment
+Assumptions: The responses assessed in this policy brief each rest on a foundation of underlying assumptions, some of which may be open to question and call out for checking. They may be absent in some cases, and in others they may serve to undermine the intended outcomes of the interventions. 
+All the modalities of responses presented 
+here share one common feature: they seek to strengthen and increase the visibility of genuine public interest information (such as independent journalism and legitimate public health information), while quashing (or at least downgrading) COVID-19 disinformation. They therefore imply a 'theory of change'. Even though this is not usually elaborated, the strengths and weaknesses of the particular theory being relied upon are fundamental to the efficacy of the interventions. It is further assumed, in most responses, that it is adequate to base the intervention implicitly or explicitly on repurposing pre-coronavirus strategies against disinformation associated with  subjects like political campaigns, climate change, and vaccination. However, these may not be adequate for the scale, impacts, and conditions of the current crisis.  
+The proportions of disinformation (as the deliberate 
+production and transmission of falsehoods), and misinformation (as the ignorant, even benevolently motivated, circulation of the same), can vary according to the topic. For example, elections are likely to have greater volumes of disinformation in relation to misinformation, while anti-vaccination issues may have the reverse.  For the disinfodemic, the mix and the bottom line outcomes can be different across different countries and communities, and are still dynamic and relatively-unknown. Disinfodemic: Dissecting responses to COVID-19 disinformation11An underpinning assumption in many initiatives 
+of the disinfodemic responses, is that they in effect operate in terms of hunches about what is needed, and how an intervention is expected to work. This is because they operate in the absence of empirical evidence.  Understandably, given the swift rollout of these responses, it is too early for their underlying assumptions to be tested in terms of factual impacts. However, few actors appear to have made provision for independent oversight or impact assessment going forward, including monitoring and evaluation for unintended effects such as any long-term undermining of the right to freedom of expression, including access to information and privacy.  Accountability: It is recognised that most responses are not only swiftly conceived, but are being rolled out under emergency conditions, in a race against the COVID-19 clock, in order to deal with an unprecedented global public health threat with massive social and economic ramifications - one  which is made worse by the disinfodemic. However, a further issue is that accountability for some of the responses is not always obvious or transparent.  It is also apparent that many responses are not cognisant of international standards in terms of limitations to  freedom of expression rights,  in particular with regard to necessity  and proportionality.  Such over-reach infringes the legitimate right to freedom of expression, and especially media freedom which is a precondition for the supply of information that can help overcome the challenge of disinformation. 
+Taking stock of challenges and opportunities
+• Time frames: Some responses - like new regulations - are geared towards immediate results, others such as user empowerment are more medium-term. Then, there are measures like developing critical Media and Information Literacy, which take longer to embed but which may have enduring consequences. Others - like support measures for journalistic coverage of the crisis - are more time-specific. It is worth noting that different problems and opportunities operate within different time-frames. 
+• Complementarities: The 10 types of responses 
+to the disinfodemic outlined in these policy briefs are in many ways complementary to each other. They can be recognised as a holistic package of interventions. For example, in many cases, journalists have exposed online disinformation that had remained undetected by the internet communication companies enabling its transmission. In the bigger picture of responses, actions by these companies need to receive attention. This is because the use of power and policy, and the attention to audiences, are the categories of responses that can fix the disinformation problem outside of actions taken by the industry.  
+• Contradictions: There are cases where one 
+type of response can work against another. An example would be an imbalance whereby there is over-emphasis on having top-down regulation, while at the same time neglecting the need for bottom-up empowerment.  • Another tension would be the act of catching journalists in nets set for disinformation agents through the criminalisation of the publication or distribution of false information in connection with COVID-19, precisely when journalism is needed to fight the disinfodemic.  It can also be noted that counter-information needs to co-exist with, not compete with, nor be at the expense of, independent journalism.  The different interventions therefore need to be aligned, rather than going in separate directions. 
+• Gender: There is gender-blindness in many of the responses to COVID-19 disinformation, which risks missing the subtle differences in how false content often targets people, as well as missing differences in the way people respond to the content concerned. It is also important to note that established patterns of behaviour by disinformation agents include gendered attacks online (with threat modes ranging from abuse to digital security and privacy breaches ). There is also the issue 
+of women and girls’ access to information, which is often restricted in certain contexts, and threatened by the presence of domestic violence. Then, there is the problem that the vast bulk of the authoritative faces and voices of the COVID-19 crisis are male, and there is a clear need for greater female inclusivity in responding to both the disinfodemic and the actual pandemic. 
+• Age demographics, particularly regarding children and the elderly, in response to the disinfodemic are also under-considered in many of the responses.Disinfodemic: Dissecting responses to COVID-19 disinformation12Overview assessment
+Disinformation thrives in the absence of verifiable, 
+trustworthy information. Equally, it can also flourish amid high volumes of content when people may find it difficult to distinguish credible information from disinformation, between what is a verified fact and what is not. It exploits people’s need for sense-making of complex developments, as well as their fears, hopes and identities.  This is why a multi-faceted approach is needed - one that also goes beyond the realm of communication and contested content, to include practical steps like social solidarity, along with effective medical and material support for the vulnerable in times of great change and enormous risk.   
+A crisis as critical to all of humanity as COVID-19 
+calls out for concerted responses across a range of dimensions, with different actors working together in shared global interest. Any coherent strategy to fight the realm of the disinfodemic needs to recognise the value of having a holistic and analytical approach to both the problem, and the 
+Options for action 
+UNESCO could:
+• Increase its technical assistance to Member States to develop regulatory frameworks and policies, in line with international freedom of expression and privacy standards, to address the disinfodemic.
+• Invest in monitoring the disinfodemic, and measuring and assessing the impacts of interventions within human rights frameworks.
+• Increase support to media institutions in developing countries, including through the International Programme for the Development of Communications (IPDC).
+• Consider convening remote conferences, knowledge sharing, and Media and Information Literacy interventions focused on the disinfodemic.   
+• As part of its mandate on freedom of expression, step up its work  on the issue of 
+disinformation in general, in partnership with other UN organisations and the range of actors engaged in this space.
+• Increase its work in Media and Information Literacy and training of journalists as significant responses to the disinfodemic. 
+• Support gender sensitive responses to both the pandemic and the disinfodemic.range of practical and other responses leveraged. In this wider context, it is evident that freedom of expression, access to information and independent journalism - supported by open and affordable internet access - are not only fundamental human rights, but also essential parts of the arsenal against the disinfodemic.
+It should be noted that the fight against COVID-19 
+disinformation is not a call to suppress the pluralism of information and opinion, nor to suppress vibrant policy debate. It is a fight for facts, because without evidence-based information for every person, a common victory against the COVID-19 pandemic will not be possible. Yet, if this quest is successful, many of the methods and strategies applied to combating the disinfodemic could be useful countermeasures in battles to defeat disinformation on other issues going ahead – like climate change, elections and other issues of vital public interest. 
+Other international 
+institutions could:
+• Encourage the strengthening of the range of 
+diverse responses to the disinfodemic, in line with international human rights standards.
+• Encourage donors to invest specifically in countermeasures to COVID-19 disinformation that strengthen Media and Information Literacy, freedom of expression, independent journalism and media development.
+Governments could:
+• Review and adapt their responses to the disinfodemic with a view to conformity with international human rights standards (notably freedom of expression, including access to information, and privacy rights ), and to making 
+provision for monitoring and evaluation.
+• Increase transparency and pro-active disclosure of official information and data especially on COVID-19 related issues, and monitor this performance in line with the right to information and SDG indicator 16.10.2 that assesses the adoption and implementation of constitutional, statutory and/or policy guarantees for public access to information.  
+• Promote affordable connectivity for all in line with UNESCO’s concept of  ‘Internet Disinfodemic: Dissecting responses to COVID-19 disinformation13Universality’  and the four ROAM principles 
+(Rights, Openness, Accessibility and 
+Multistakeholder participation). 
+• Support investment in strengthening independent media, as well as public service media, as the economic impacts of the COVID-19 crisis threaten journalistic sustainability around the world.
+• Earmark funding and support for Media and Information Literacy focused on combating the disinfodemic, especially through educational interventions targeting children, young people and older citizens.
+• Ensure gender sensitivity in the leadership and public responses to both the pandemic and the disinfodemic in many settings.Law enforcement agencies and the judiciary could:
+• Ensure that law enforcement officers are aware of privacy and freedom of expression protections afforded to journalistic actors and others who publish verifiable information in the public interest, in order to prevent arbitrary arrests and detentions during the pandemic.
+• Judicial operators, particularly judges, could pay special attention when reviewing cases related to addressing measures to fight disinformation, guaranteeing that international standards on freedom of expression and privacy are fully respected within those measures.
+Internet companies could:
+• Intensify multi-stakeholder engagement and transparency about their responses, and provide more financial support to fact-checking networks and independent journalism (especially  those focused on investigations targeting disinformation content and networks, and local news 
+organisations which are particularly 
+vulnerable in the crisis), and Media and Information Literacy campaigns and education. 
+• Make the sort of investments outlined above with ‘no strings attached’, and with transparency, in order avoid the appearance of interventions that serve only as public relations exercises.
+• Focus on curation to ensure that users can easily access journalism as verified information shared in the public interest - especially during the pandemic, but also in the aftermath.
+• Work to boost the visibility of credible news content and financially compensate news producers whose content benefits their businesses, especially as many news organisations have removed paywalls and other barriers to content access during the pandemic.
+• Avoid overreliance on automation, especially for content moderation where there is a need to expand  the human review process, and transparently monitor the impact of the pandemic-induced staff shortages with a view to solving redress issues.
+• Apply the lessons learned during the urgent response to the COVID-19 disinfodemic to political disinformation that threatens democracy internationally.The media sector could:
+• Redouble their efforts as professional frontline responders to the disinfodemic, through increased investment in fact-checking, debunking, disinformation investigations, continuing robust lines of questioning about responses to the pandemic and the disinfodemic, and by enhancing accountability and transparency with regard to political actors, states, institutions, and the corporate sector. 
+• Report on the human rights implications of responses to the pandemic, including those impacting on freedom of expression, access to information, and on privacy rights. 
+• Consider mythbusting and investigative collaborations around COVID-19 disinformation with other news organisations and audiences - including internationally. Partnerships with member-based audiences  
+can also be successful.
+• Push the boundaries of innovation in the context of newsroom shutdowns and staff shortages by  producing public health information in more broadly accessible and engaging formats, such as infographics, podcasts and moderated online 
+forums with medical experts, and increasing 
+reliance on User Generated Content (UGC) which has been subjected to rigorous fact-checking.
+• Ensure that experiences in a range of developing countries are not overlooked in coverage of the disinfodemic.
+• Ensure preparedness of staff for safety risks 
+associated with reporting on the disinfodemic e.g. increased security threats, online abuse, physical attacks, and including an emphasis on gender sensitivity.Disinfodemic: Dissecting responses to COVID-19 disinformation14Civil society groups could:
+• Reinforce the call for responses to the 
+disinfodemic to conform to international human rights standards. 
+• Partner with journalists and news organisations on investigative and monitoring projects about COVID-19 disinformation and responses to it.
+• Strengthen the roll-out of Media and Information Literacy projects, and of programmes that support independent journalism.
+• Work collaboratively with one another to ensure intergovernmental organisations are responding appropriately to the disinfodemic and its impacts.
+• Consider programmes targeting children as well as older citizens who are under-served by Media and Information Literacy campaigns, and therefore more susceptible to exploitation by 
+disinformation agents. 
+Researchers could:
+• Re-orientate their research agendas to focus on 
+the disinfodemic, the responses to it, and the impacts of these. 
+• Study under-researched formats such as interactive gaming where disinformation and countermeasures may effectively target young people. 
+• Embark on Participatory Action Research projects that respond to critical incidents connected to the disinfodemic, and can also provide urgent practical support.
+• Collaborate with journalists, news organisations, and civil society groups on projects that help surface and combat disinformation, along with monitoring and assessment exercises focused on responses to the disinfodemic.
+• Study cross-platform disinformation campaigns to get a more rounded, holistic perspective on the disinfodemic.
+• Pursue independent quantitative and qualitative evaluation and ongoing monitoring of the COVID-19 responses implemented by the internet communications companies.
+• Ensure female expertise  is visible as a way of addressing gender inequalities in international debates on the disinfodemic.UNESCO’s mandated programme in Communication and Information is increasingly relevant in relation to the disinfodemic. The ongoing work involves:
+• Freedom of Expression and Safety of Journalists – this advances free, pluralistic, independent, and safe quality journalism, which is an antidote to disinformation (and also to over-reactions that can unjustifiably restrict expression).
+• Access to Information – this 
+work promotes transparency and 
+proactive disclosure by governments, which helps produce authoritative information of official origin, as an 
+alternative to rumours and lies.
+• Digital Innovation and Technologies 
+– this examines how technology produces, prioritises, shares and assesses information (and disinformation).
+• Media Development and Society – work here promotes resilience through Media and Information Literacy, advancing gender equality in and through media, and community media as essential to media pluralism. 15What UNESCO is doing about the 
+disinfodemic
+In response to the crisis, UNESCO's Communications and Information 
+Sector has stepped up its work  in relation to the 'supply', 'demand' and 
+'transmission' dimensions of the disinfodemic.
+On the “supply side”, the Sector is working to point out that in order to 
+counter rumours, governments can step up official transparency, and increase proactive disclosure and open data, in line with Right to Information law and policy.  This is because access to information which comes with official provenance is key for credibility and communications in this crisis. 
+At the same time, this important area of “supply-side” action is not 
+a substitute for the information that is produced by the news media.  Therefore, the Sector seeks to persuade authorities to consider free and professional journalism as an ally in the fight against disinformation. This is especially because news media works openly in public space, whereas much disinformation is under-the-radar on social messaging apps, and it is not easy for those involved to be held accountable. The campaign for World 
+Press Freedom Day, 3 May, 2020 reinforces recognition that journalism 
+without fear or favour is especially vital during the pandemic. 
+As part of the campaign, UNESCO – as with other UN actors - urges 
+governments not to impose restrictions on freedom of expression that might harm the essential role of independent journalism. Instead, states are encouraged to recognise journalism as a power against disinformation - even when it generates verified information and informed opinion that may annoy some in power. The Organisation’s Communication and Information Sector is also sharing good practices such as official recognition of media as an essential service at this time, and as one that - with provisos for independence and transparency - is also worthy of state support during such turbulent economic times.
+UNESCO works further to strengthen journalism professionalism in coverage 
+of this crisis. A call for co-operation through the International Association of Media and Communications Research (IAMCR) has set in motion 20 translations of the publication Journalism, 'Fake News' 
+and Disinformation: 
+A Handbook for Journalism Education and Training. A Massive Open Online Course to be rolled out in multiple languages is being developed with the UNESCO Chair in Communication at the University of Austin, T exas.
+As regards the “transmission” of disinformation, UNESCO works to promote 
+Internet Universality as a means to align digital development to sustainable development. This involves advancing norms based on the R.O.A.M 
+principles agreed by our Member States. Accordingly, we work with Internet 
+companies, governments, civil society and others to ensure that the Internet respects human rights, is open, accessible to all, and governed through multi-stakeholder processes. UNESCO’s publication series on Internet 
+Freedom provides pointers on how digital networks can respect freedom of 
+expression and privacy, while avoiding hate-speech and radicalisation for violent extremism which are found fused together with disinformation. 

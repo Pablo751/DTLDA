@@ -1,0 +1,2525 @@
+A STEADY  
+PATH FORWARD
+UNESCO 2022 Report  
+on Public Access to Information 
+(SDG 16.10.2)
+Published in 2023 by the United Nations Educational, Scientific and Cultural Organization
+7, place de Fontenoy, 75352 Paris 07 SP, France
+© UNESCO 2023 
+ISBN 978-92-3-100594-7
+This publication is available in Open Access under the Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) license 
+(http://creativecommons.org/licenses/by-sa/3.0/igo/ ). By using the content of this publication, the users accept to 
+be bound by the terms of use of the UNESCO Open Access Repository ( http://en.unesco.org/open-access/terms-
+use-ccbysa-en ).
+For the use of any material not clearly identified as belonging to UNESCO, prior permission shall be requested 
+from: publication.copyright@unesco.org or UNESCO Publishing, 7 place de Fontenoy, 75352 Paris 07 SP 
+The designations employed and the presentation of material throughout this publication do not imply the 
+expression of any opinion whatsoever on the part of UNESCO concerning the legal status of any country, territory, 
+city, or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. 
+The ideas and opinions expressed in this publication are those of the authors; they are not necessarily those of 
+UNESCO and do not commit the Organization. The same disclaimer applies to commissioned UNESCO research 
+cited in this study. 
+This study should be cited as follows: A Steady Path Forward: UNESCO 2022 Report on Public Access to 
+Information (SDG 16.10.2), Paris.
+Researcher:
+Andrey Richter, Professor at the Comenius University in Bratislava.
+UNESCO Research team:
+Jaco Du Toit, UNESCO Chief of the Section for Universal Access to Information, Marius Lukosiunas, UNESCO 
+Communication & Information Advisor, Ingrid Mondet, UNESCO Consultant. 
+Contributors:
+Lida Ayoubi, Senior Lecturer, the Auckland University of Technology.
+Graphic design, cover design and typeset:
+Billy Anderson
+Acknowledgements:
+UNESCO wishes to thank the following partners that supported the UNESCO 2022 Survey on Public Access to 
+Information in the preparation of this report: the International Conference of Information Commissioners (ICIC); 
+Red de Transparencia y Acceso a la Informacion (RTA); Global Alliance for Reporting Progress on Peaceful, Just 
+and Inclusive Societies; Marcos Mendiburu, UNESCO Consultant; national SDG focal points for data collection; and 
+Permanent Delegations for UNESCO. 
+This report is supported through the International Programme for the Development of Communication (IPDC).
+Printed in FranceSHORT SUMMARY
+“Since wars begin in the minds of men and 
+women it is in the minds of men and women 
+that the defences of peace must be constructed”.As the UN custodian agency for Sustainable Development 
+Goals (SDG) Indicator 16.10.2, UNESCO continues to report on 
+progress on the adoption and the implementation of Access 
+to Information guarantees. The 2022 report shed light on the 
+relevance of access to information to the attainment of the 
+SDG  as well as countering disinformation and 
+balancing the right to information with 
+the right to privacy. It also focuses on 
+national and regional good practices, 
+including Small Island Developing 
+States.
+“A Steady Path Forward” report 
+captures these dimensions, presenting 
+key findings from the 2022 UNESCO 
+Survey on Public Access to Information 
+and assessing progress in 123 participating 
+countries and territories. It equips policymakers, civil society, 
+academia and those interested in SDG issues with case studies 
+and good practices, concentrating on reinforcing communities 
+and public institutions with more access to information.The Path Forward for Public 
+Access to Information
+123
+countries and territories 
+participated in the
+2022 survey on 
+SDG16.10.2A STEADY   
+PATH  FORWARD
+UNE SCO 2022 Report  
+on Publi c Access t o Info rmation 
+(SDG 16.10. 2)Short Summary  3
+Executive Summary  6
+1. BACKGROUND AND CONTEXT  8
+ 1.1 Access to Information and Sustainable Development  9
+ 1.2 UNESCO and the monitoring and reporting on SDG Indicator  9 
+  16.10.2
+2. TRACKING PROGRESS ON SDG INDICATOR 16.10.2 IN  12 
+ 2022
+ 2.1 Global overview: Adoption of Access to Information legal  13 
+  guarantees
+ 2.2 Mutual reinforcement of rights of access to information and to  14 
+  privacy
+ 2.3 Highlights from 2022 UNESCO Survey on Public Access to  15 
+  Information
+3. ACCESS TO INFORMATION REPORTING IN  21 
+ VOLUNTARY NATIONAL REVIEWS
+4. USING ACCESS TO INFORMATION TO ADVANCE THE  27 
+ SDGS: CASE STUDIES AND GOOD PRACTICES
+ 4.1 Privacy rights in the digital world of Access to Information  28
+ 4.2 Focusing on Small Island Developing States  31 
+ 4.3 National Focus: Access to information in Armenia as an  32
+  instrument to counter disinformation
+ 4.4 National Focus: Mandating proactive release of information in  33 
+  Australia
+Conclusion  35Table of Contents:6
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)Summary Executive
+27
+USAGE LOGO: COLOUR  VERSIONSDG LOGO FOR ENTITIES WITHIN UN SYSTEM
+HORIZONTAL LOGOLOGO
+The COLOUR VERSION of the Sustainable Development Goals logo 
+is ONLY to be used on a white or light grey background. See colour 
+values to the right. LIGHT GREY
+PMS:  Cool Gray 1C
+R 241 G 241 B 241
+C 4 M 3 Y 3 K 0
+Target 16.10:  
+“Ensure public access to 
+information and protect 
+fundamental freedoms, in 
+accordance with national 
+legislation and international 
+agreements.”
+Indicator 16.10.2:
+“Number of countries that adopt and implement 
+constitutional, statutory and/or policy guarantees for 
+public access to information.”
+* UNESCO as Custodian AgencyGoal 16:
+“Promote peaceful and 
+inclusive societies for 
+sustainable development, 
+provide access to justice 
+for all and build effective, 
+accountable and inclusive 
+institutions at all levels and 
+inclusive societies.”Although more and more countries and territories 
+adopt constitutional, statutory and/or policy 
+guarantees for public access to information, 
+their practical implementation is still faced with 
+various problems, often of a global scale. Risks and 
+uncertainties posed by the current international 
+context, such as climate change-induced drought 
+and floods, which put pressure on food security, other 
+man-made and natural disasters emerge to challenge 
+the implementation of the national reforms and the 
+achievement of development goals. 2
+Tracking progress on access to information (or, ATI) in 
+the past three years through legal guarantees and their 
+implementation, shows an overall recognition of the 
+role of access to information, as a critical instrument 
+for development and protecting fundamental human 
+rights. This is proven by the key findings from the 2022 
+UNESCO Survey on Public Access to Information based 
+on data collected from 123 countries and territories, 
+and additional expertise. 
+The report also offers case studies and good practices 
+on privacy protection in the context of the digital 
+transformation and existing access to information 
+standards, as reflected in the questions of the survey on 
+SDG Indicator 16.10.2. It includes a discussion on the role 
+of private entities, digital accessibility of information, 
+the use of artificial intelligence and Internet-of-things 
+and the processing of personal data.
+The case of Small Island Developing States (SIDS) 
+is presented, explaining the issues at stake for the 
+adoption and the implementation of regimes favorable 
+to access to information in SIDS specifically. It points to 
+inadequate resources and lack of budgetary support 
+as deterrents on the way to transparency of public 
+institutions.
+From national perspectives, two case studies are put 
+forward. One case study focuses on Armenia and the 
+role of access to information to counter disinformation. 
+Another case study focuses on Australia and the 
+importance of proactive disclosure of government 
+information, as a means to ensure transparency and 
+accountability. 
+ 2  See: Ethiopia 2022 VNR, https://hlpf.un.org/sites/default/files/vnrs/2022/
+VNR%202022%20Ethiopia%20Report_1.pdf ; and The Gambia 2022 
+VNR, https://hlpf.un.org/sites/default/files/vnrs/2022/VNR%202022%20
+Gambia%20Main%20Messages.pdf7
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)Summary Executive
+As the UN custodian agency for SDG Indicator 
+16.10.2, UNESCO continues to report on progress on 
+the adoption and the implementation of Access 
+to Information legal guarantees worldwide. This 
+year’s survey used the same methodology as the 
+one approved by the UN’s Inter-Agency and Expert 
+Group on the Sustainable Development Goal 
+Indicators (IAEG-SDGs). The survey itself comprises 8 
+questions3, each with values between 0 and 2. Upon 
+the completion of the survey, a country can get a total 
+score of 0-9, enabling it to track progress over time. 
+The total score of each country is the basis for global 
+analysis of trends as reported here and is not assigned 
+to any level category (e.g.: low, medium, or high). 
+Launched in April 2022, the survey engaged responses 
+by 123 countries and territories, an increase by 
+20.6% compared to the previous year. This positive 
+phenomenon demonstrates a continued interest 
+in reporting on access to information within the 
+framework of the SDGs. 
+The 2022 survey also yielded insights into the main 
+features in the implementation of legal guarantees for 
+public access to information worldwide. 
+Data collected confirms the overall existence of a 
+limited scope of exemptions for protected interests, 
+that are explicitly mentioned in the national Access to 
+Information guarantees, but the number for countries 
+and territories that keep disaggregated data on 
+refusals to Access to Information requests on the basis 
+of exceptions is still not sufficient. 
+Looking at the data related to independence of the 
+oversight bodies, a significant change in the reporting 
+process can be observed: the recipient of the oversight 
+reports is increasingly the legislative rather than the 
+executive branch of power, the legislatures are also to 
+approve the budget for oversight activities, while the 
+appointment of the head of the oversight institution is 
+more often made by the executive. As to the mandated role of the oversight institution, 
+one can distinguish a significant drop in the proportion 
+of countries and territories that require them to publish 
+an annual report, to provide implementation guidance 
+to the public officials, to engage in raising public 
+awareness and even to keep statistics. 
+Finally, a stable and significant proportion of all requests 
+for information – about three quarters – being granted 
+can be observed from the survey submissions in both 
+2021 and 2022. However, this observation is based on 
+a rather small number of countries and territories that 
+provided statistics on the numbers of actual requests 
+submitted. 
+The annual UNESCO survey, which provides a 
+standardized approach to monitoring SDG 16.10.2, has 
+proven useful for countries in measuring and reporting 
+progress at the national level, including in their 
+Voluntary National Reviews (VNRs) of progress made 
+on the SDGs. In this regard, this report also presents 
+an analysis of countries’ reporting on SDG 16.10.2 in the 
+VNRs from 2019 to 2022. 
+While 135 UN Member States have statutory guarantees 
+for public access to information, the remaining states 
+that have not adopted such guarantees could learn 
+from the trends and good practices encompassed in 
+this report. It can also help countries and territories 
+confronted with new global challenges to build public 
+trust, strengthen their institutions, improve public 
+service delivery and address corruption.
+With less than eight years left to achieve the SDGs 
+by 2030, and with global challenges becoming more 
+interconnected, the message stays clear that access 
+to information is a central driver for the successful 
+implementation of the 2030 Agenda. 
+3 The questions are based on “Principles of Access to Information”, and 
+which highlight essential components for effective implementation of 
+access to information at the country level. These Principles are synthesized 
+from existing frameworks and documents recognized internationally and 
+include Article 10 of the United Nations Convention against Corruption; 
+resolutions of the UN General Assembly and Human Rights Council; the 
+Commonwealth’s Model Freedom of Information Bill; Organization of 
+American States (OAS)’s Model Law on Access to Information; African 
+Union’s Model Law on Access to Information and reports from the UN 
+the Special Rapporteur on the promotion and protection of the right to 
+freedom of opinion and expression.01
+BACKGROUND 
+AND CONTEXT
+‘Access to reliable information saves lives. Misinformation and rumours 
+can cost them. This simple lesson is one we have learnt to our detriment 
+in recent years. Whether fighting a global pandemic or supporting public 
+debate, we need free, reliable and independent information as the 
+foundation upon which democratic societies are built.’
+Ms Audrey Azoulay , Director-General of UNESCO, on the occasion of the International Day for 
+Universal Access to Information 28 September 20219
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)1.1. Access to Information and 
+Sustainable Development
+Conceptually, ‘public access to information’ refers to 
+an effective system to meet citizens’ rights to seek 
+and receive information, particularly that held by or 
+on behalf of public authorities. Access to information 
+has been recognized as a key element of sustainable 
+development since the adoption of the Rio Declaration 
+at the ‘Earth Summit’ in 1992.4
+In 2015, the 2030 Agenda for Sustainable Development5 
+acknowledged access to information as a necessary 
+enabling mechanism for transparent, accountable 
+and participatory governance, the rule of law and 
+peaceful societies. It was epitomized by Sustainable 
+Development Goal (SDG) number 16: ‘Peace, Justice 
+and Strong Institutions’. Target 16.10 calls for states 
+to “ensure public access to information and protect 
+fundamental freedoms, in accordance with national 
+legislation and international agreements”. 
+The Human Rights Council in its 2020 resolution on 
+freedom of opinion and expression recognizes that 
+“public authorities should strive to make information 
+available, whether the information is proactively 
+published electronically or provided upon request...”.6 
+On 10 January 2022, during the 49th session of the UN 
+Human Rights Council, the first report by the Office 
+of the United Nations High Commissioner for Human 
+Rights (OHCHR) on access to information held by public 
+bodies was presented.7 It constitutes authoritative 
+guidance to state actors on the developments of laws 
+and policies on matters affecting this right. The text 
+of the report focuses on good practices including the 
+elements in the design of access to information laws, 
+capacity building and other measures to ensure their 
+effective implementation.
+The Windhoek+30 Declaration8 was adopted on 3 May 
+2021, during the global celebration event of the World 
+Press Freedom Day, affirming the need to uphold 
+4 https://www.un.org/en/conferences/environment/rio1992
+5 Adopted in 2015 by all 193 UN member states, the 2030 Agenda for 
+Sustainable Development ( https://sustainabledevelopment.un.org/
+post2015/transformingourworld/publication ) is a 15-year plan of action 
+“to end poverty, protect the planet and ensure prosperity for all, while 
+strengthening universal peace in larger freedom”.
+6	 UN	Human	Rights	Council,	Resolution	‘Freedom	of	opinion	and	expression’,	
+16 July 2020, A/HRC/RES/44/12,  
+https://undocs.org/Home/Mobile?FinalSymbol=A%2FHRC%2FRES%2F44%2F 
+12&Language=E &DeviceType=Desktop&LangRequested=False
+7 https://digitallibrary.un.org/record/3956409
+8 Windhoek + 30 Declaration: information as a public good, World Press 
+Freedom Day 2021, https://unesdoc.unesco.org/ark:/48223/pf00003781589 The survey comprises 8 questions, each of them values between 0 and 2. 
+Upon the completion of the survey, a country can get a total score of 0-9, 
+enabling it to track progress over time.information as a public good that serves as a shared 
+resource for the whole of humanity. Emphasizing the 
+importance of press freedom, independence and 
+pluralism to guarantee access to information, the 
+Declaration also sets out recommendations to secure 
+information as a public good by addressing media 
+viability, promoting Internet company transparency 
+and enhancing citizens’ media and information literacy 
+competencies.
+Within the perspective of the 2030 Agenda, access to 
+information remains critical for empowering the public 
+to make informed decisions, holding governments 
+accountable, evaluating public officials in implementing 
+and monitoring the SDGs, and facilitating effective 
+public participation.
+1.2. UNESCO and the monitoring 
+and reporting on SDG 
+Indicator 16.10.2
+Standard-setting on monitoring and reporting
+Following the approval of the SDG framework in 2017 
+by the UN General Assembly, UNESCO was designated 
+as the custodian agency for Indicator 16.10.2. Under 
+this mandate, UNESCO monitors and reports to the 
+UN Secretary-General each year on “the number of 
+countries that adopt and implement constitutional, 
+statutory and/or policy guarantees for public access 
+to information”, giving attention to both components: 
+“adoption” and “implementation”.
+UNESCO continues to report not only on progress on 
+the adoption and the implementation of access to 
+information guarantees worldwide, but also promotes 
+capacity development efforts around the issue. 
+UNESCO uses a scoring system9 to enable global 
+analysis of the results. For example, the analysis of data 
+collected in 2022, shows that countries and territories 
+with legal guarantees on Access to Information that 
+include the provision for an oversight institution – have 
+an average score of 7.2, while those with Access to 
+Information guarantees but no oversight institution 
+score on average 3.3 points. This finding suggests that 
+countries and territories that have a specialized Access 10
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)to Information oversight institution are generally 
+likely to perform better while implementing access 
+to information legal framework in comparison with 
+those without an oversight institution or those where 
+framework is implemented just by the judiciary. 
+In its 2020 Decision on Monitoring and Reporting of 
+SDG Indicator 16.10.2, the Intergovernmental Council 
+of UNESCO’s International Programme for the 
+Development of Communication (IPDC) encouraged 
+Member States to enhance legal regulatory 
+frameworks on access to information at the national 
+level as well as the effective implementation of these 
+frameworks, as part of their commitments to advance 
+the 2030 Agenda on Sustainable Development. The 
+Council encouraged Member States to respond to 
+‘UNESCO’s annual survey, and to engage – where 
+applicable – the oversight bodies responsible for 
+access to information in the collection of data’.10
+In 2021 and 2022, UNESCO invited all UN Member 
+States to participate in annual surveys on SDG 
+Indicator 16.10.2. To help establish a reporting link for 
+SDG 16.10.2 at the national level, UNESCO sent the 
+2022 survey invitation to both the central oversight 
+institutions responsible for access to information (e.g., 
+information commission/er; data protection or privacy 
+commission/er; national human rights institution; 
+ombuds institution; department/ ministry/ agency) 
+and national SDG focal points (usually the national 
+statistics offices). In some countries and territories, the 
+invitation was sent to only one of these entities, due 
+the absence of one or another. 
+UNESCO also joined forces with networks of oversight 
+institutions responsible for access to information, 
+such as the International Conference of Information 
+Commissioners (ICIC) and regional associations: 
+Red de Transparencia y Acceso a la Información  
+(RTA, the Regional Network of Access to Information 
+Practitioners in Latin America and the Caribbean) and 
+the African Network of Information Commissioners 
+(ANIC), to increase participation of countries and 
+territories in the survey. Such outreach is important as 
+these networks play an important role in advocating 
+for SDG monitoring and reporting, as well as mobilizing 
+their members in taking part in global-wide activities 
+related to the SDGs. 
+10 Thirty-second session of the Intergovernmental Council of the International 
+Programme for the Development of Communication (IPDC) Decisions, 
+https://unesdoc.unesco.org/ark:/48223/pf0000374994/PDF/374994eng.pdf.
+multiIt is equally important to strengthen the involvement 
+of civil society in the monitoring and reporting on 
+SDG 16.10.2. While the UNESCO survey provides 
+an opportunity for governments to make a self-
+assessment against their own performance, monitoring 
+and reporting by civil society can offer alternative 
+data and perspective. Having a direct access to the 
+grassroots level, civil society can also help ensure that 
+women and vulnerable groups, including persons with 
+disabilities, are included in the Access to Information 
+agenda. The IPDC supported project entitled Voces 
+del Sur: Monitoring safety of journalist and access to 
+information in Colombia in the framework of SDG 
+16.10.1 and 16.10.2 serves as an example.
+Capacity-building and awareness raising
+In the 2020 Decision of the IPDC Council, the IPDC 
+Bureau was encouraged to ‘continue supporting 
+grass-roots projects that will help Member States in 
+data-collection and reporting on SDG indicator 16.10.2 
+on access to information, including strengthening 
+monitoring and reporting capacities of oversight 
+bodies responsible for access to information’.11 
+In this respect, efforts have been made to assist 
+Member States in advancing the right to information. 
+In cooperation with the International Conference of 
+Information Commissioners, UNESCO presented at its 
+13th meeting in Puebla, Mexico from 22 to 24 June 2022 
+a self-paced online course developed with the Centre 
+for Law and Democracy (Canada) and explored 
+possibilities to reinforce a wide range of stakeholders’ 
+capacities on access to information laws and policies. 
+UNESCO also supported Information Commissioners 
+from Africa to participate in the meeting and is working 
+with the commissioners to finalize the African Network 
+of Information Commissioners (ANIC) statutory 
+documents and outreach efforts. 
+Additional support has been provided to facilitate 
+capacity development initiatives and awareness 
+raising efforts in several countries, such as, Ethiopia, 
+Ghana, Mexico, Morocco, Namibia, Paraguay, Samoa, 
+Senegal, Sierra Leone, South Sudan, Thailand and 
+Tunisia.12 Examples of such initiatives include, providing 
+capacity-building assistance to the information 
+commission of South Sudan to develop training 
+11 Thirty-second session of the Intergovernmental Council of the International 
+Programme for the Development of Communication (IPDC), Decisions, 
+25-26 November 2020. Item 12, para 3, p. 19. https://unesdoc.unesco.org/
+ark:/48223/pf0000374994
+12 While activities in the Latin American region were mostly carried out 
+through a regional approach, UNESCO is also supporting national initiatives, 
+for example in Honduras and in Mexico11
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)manuals on access to information and launching an 
+advocacy project to draft a policy that will lead to 
+the preparation of access to information legislation in 
+Samoa.13
+The IPDC Council, in both the 201814 and 202015 decisions 
+on monitoring SDG indicator 16.10.2, appreciating 
+Voluntary National Reports (VNRs) to the UN General 
+Assembly which have included analysis based on 
+Indicator 16.10.2, further encouraged Member States 
+to continue monitoring and reporting progress on 
+SDG indicator 16.10.2 through forthcoming VNRs. In this 
+regard, participating in the UNESCO Survey on Public 
+Access to Information has been proven to be useful 
+for countries and territories as they can repurpose 
+the data submitted to the survey for their VNRs. For 
+instance, Eswatini, Ghana, Greece, Jordan, Liberia, 
+Malawi, and Sao Tome and Principe have used the 
+data collected through the survey to report on their 
+Access to Information progress in their VNRs in 2022. 
+UNESCO also commissioned in 2022, guidelines 
+for information commissioners on ‘The Universal 
+Periodic Review and its potential to foster access to 
+information’,16 which provide practical advice on how 
+to use the Universal Periodic Review (UPR) exercise 
+to promote the right of access to public information. 
+Another policy brief, ‘Access to information laws: 
+a guarantee of inclusion and disability rights: Issue 
+brief’,17 published in 2022, provides an analysis of 
+the inclusion of persons with disabilities in Access to 
+Information legislations across the globe, based on 
+the existing Access to Information laws in 132 countries 
+and territories. The report further presents a series of 
+recommendations to advance the rights of persons 
+with disabilities within the scope of the right of access 
+to information. Another policy brief was developed 
+on ‘Promoting gender equity in the right of access to 
+information’,18 focusing on how women can effectively 
+exercise their right of access to information. With a 
+specific focus on gender parity, the brief investigates 
+international and national mechanisms to help 
+13 Freedom of opinion and expression. Report of the Office of the United 
+Nations High Commissioner for Human Rights, 2022. Para 42. https://
+digitallibrary.un.org/record/3956409
+14 https://unesdoc.unesco.org/ark:/48223/pf0000266235
+15 https://unesdoc.unesco.org/ark:/48223/pf0000374994/PDF/374994eng.pdf.
+multi
+16 Legault, Suzanne, The Universal Periodic Review and its potential to foster 
+access to information: guidelines for information commissioners, Paris: 
+UNESCO, 2022, https://unesdoc.unesco.org/ark:/48223/pf0000380590?posI
+nSet=5&queryId=436adf20-a075-4a8a-9117-1ea4f766dad7  
+17 Ayoubi, Lida, Access to information laws: a guarantee of inclusion and 
+disability rights: Issue brief, Paris: UNESCO, 2022, https://unesdoc.unesco.
+org/ark:/48223/pf0000380470_eng
+18 Neuman, Laura, Promoting gender equity in the right of access to 
+information, Paris: UNESCO, 2022, https://unesdoc.unesco.org/ark:/48223/
+pf0000381684_eng19 See: https://en.unesco.org/commemorations/accesstoinformationday/2021/  
+and https://en.unesco.org/news/iduai-2021-urgent-need-expand-access-
+information-laws-and-their-effective-implementationovercome the obstacles that women face in exercising 
+their right to information.
+Within the framework of UNESCO’s Communication 
+and Information programme aimed to strengthen 
+the right to information, the development of updated 
+Policy Guidelines for the Development and Promotion 
+of Governmental Public Domain Information is 
+ongoing. The new version of the Guidelines is to be 
+developed to strengthen national frameworks of 
+Access to Information and their implementation by 
+assisting countries and stakeholders in assessing the 
+compatibility of their national Access to Information 
+legal and policy framework with international standard-
+setting instruments on the right to information and 
+considering SDG 16.10.2 national commitments. These 
+Guidelines are meant to be strictly advisory; they are 
+not intended as a prescriptive or normative instrument.
+The annual celebration of the International Day for 
+Universal Access to Information on 28 September 
+constitutes a keystone of UNESCO’s awareness raising 
+efforts on access to information. The Day continues 
+to provide a platform for UNESCO to discuss key 
+findings of data collection on SDG 16.10.2, as well as 
+to disseminate takeaways from studies on access to 
+information and cross-cutting issues, such as gender 
+equality and inclusion of persons with disabilities. In 
+2021, the theme of the International Day for Universal 
+Access to Information highlighted the role of access 
+to information laws and their implementation to 
+build back strong institutions for the public good and 
+sustainable development, as well as to strengthen the 
+right to information and international cooperation in 
+the field of implementing this human right.1902
+TRACKING 
+PROGRESS ON 
+SDG INDICATOR 
+16.10.2 IN 2022
+ ‘At UNESCO, we firmly believe that access to information must be recognized as a pillar 
+of sustainable development, and as a prerequisite for the promotion and protection 
+of all human rights. As we adapt our societies to face common challenges, the right to 
+information must be at the centre of efforts to ensure a more informed and resilient 
+tomorrow.’
+Ms Audrey Azoulay , Director-General of UNESCO, on the occasion of the International Day for 
+Universal Access to Information 28 September 202113
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)Global overview: Adoption of Access to Information 
+legal guarantees2.1.
+Progress has been recorded in terms of binding laws and policies giving individuals a right to access information 
+held by public authorities with 135 UN Member States that have adopted access to information laws (see Figure 
+1). In total, 25 countries and territories have adopted access to information laws and four have adopted decrees/
+regulations since the adoption of the 2030 Agenda in 2015.20
+20 Information from email by David Banisar, Article 19.
+21 Based on information from Global Right to Information Rating by the Centre for Law and Democracy, https://www.rti-rating.org/country-data/
+22 Israel withdrew from UNESCO on 31 December 2018. 
+23 Lichtenstein is not a member of UNESCO.
+24 The United States of America withdrew from UNESCO on 31 December 2018.Europe and North America (51)
+Latin America and the Caribbean (26)
+Asia and the Pacific (27)
+Africa (23)
+Arab States (8)1. Albania
+2. Andorra
+3. Armenia
+4. Austria
+5. Azerbaijan
+6. Belarus
+7. Belgium
+8. Bosnia and 
+Herzegovina
+9. Bulgaria
+10. Canada
+11. Croatia
+1. Antigua and 
+Barbuda
+2. Argentina
+3. Bahamas
+4. Belize 
+5. Bolivia (Plurinational 
+State of)
+1. Afghanistan
+2. Australia
+3. Bangladesh
+4. China
+5. Cook Islands
+6. Fiji 
+1. Angola
+2. Benin
+3. Burkina Faso
+4. Côte d’Ivoire
+5. Ethiopia
+1. Jordan
+2. Kuwait13. Czechia
+14. Denmark
+15. Estonia
+16. Finland
+17. France
+18. Georgia
+19. Germany
+20. Greece
+21. Hungary
+22. Iceland
+23. Ireland
+24. Israel22
+6. Brazil
+7. Chile
+8. Colombia
+9. Costa Rica
+10. Dominican Republic
+11. Ecuador 
+12. El Salvador
+7. India
+8. Indonesia
+9. Iran (Islamic 
+Republic of)
+10. Japan
+11. Kazakhstan
+6. Gambia
+7. Ghana
+8. Guinea
+9. Kenya
+10. Liberia
+3. Lebanon
+4. Morocco 25. Italy
+26. Latvia
+27. Liechtenstein23
+28. Lithuania
+29. Luxembourg
+30. Malta 
+31. Monaco
+32. Montenegro
+33. Netherlands
+34. North Macedonia
+35. Norway
+36. Poland
+13. Guatemala
+14. Guyana
+15. Honduras
+16. Jamaica
+17. Mexico
+18. Nicaragua
+19. Panama
+12. Kyrgyzstan
+13. Maldives
+14. Mongolia
+15. Nepal
+16. New Zealand
+17. Pakistan 
+11. Malawi
+12. Mozambique
+13. Niger
+14. Nigeria
+15. Rwanda
+5. Saudi Arabia
+6. Sudan 37. Portugal
+38. Republic of 
+Moldova
+39. Romania
+40. Russian Federation
+41. San Marino
+42. Serbia
+43. Slovakia
+44. Slovenia
+45. Spain 
+46. Sweden
+47. Switzerland
+20. Paraguay
+21. Peru
+22. Saint Kitts and 
+Nevis
+23. Saint Vincent and 
+the Grenadines
+18. Palau
+19. Philippines
+20. Republic of Korea
+21. Sri Lanka
+22. Tajikistan
+23. Thailand
+16. Seychelles
+17. Sierra Leone
+18. South Africa
+19. South Sudan
+20. Togo
+7. Tunisia
+8. Yemen48. Türkiye
+49. Ukraine
+50. United Kingdom of 
+Great Britain and 
+Northern Ireland
+51. United States of 
+America24
+24. Trinidad and 
+Tobago
+25. Uruguay
+26. Venezuela 
+(Bolivarian Republic 
+of)
+24. Timor-Leste
+25. Uzbekistan
+26. Vanuatu
+27. Viet Nam
+21. Uganda
+22. United Republic of 
+Tanzania
+23. ZimbabweFIGURE 1. UN Member States that have adopted statutory guarantees for public access to information 
+(grouped based on the execution of regional activities by UNESCO)2114
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)In 2022, three countries, Andorra, Gambia and 
+Venezuela, reported to UNESCO that they passed and 
+enforced their national laws on access to information 
+in 2021, but after the publication of the UNESCO 2021 
+Report on Public Access to Information (SDG 16.10.2). 
+The Netherlands reported that the new Open 
+Government Act ( Wet open overheid ) replaced, on 1 
+May 2022, the Freedom of Information Act, and contains 
+a number of changes, including the establishment of 
+the permanent independent Advisory committee on 
+public access and information management.
+Five countries in the UNESCO survey indicated an 
+absence of any access to information guarantees, 
+including one country (Palestine) noting that the right 
+is only “indirectly mentioned in some legislation (Law 
+No. 9 (1995) on publications and publishing and the 
+General Statistics Law No. 4 (2000), Law No. 7 (1999) 
+on the environment). Articles in theses legislations 
+required the publication of certain information to the 
+public.” Another country (Singapore) acknowledged 
+having a non-binding policy on access to information 
+by saying that “[i]n June 2013, the Infocomm Media 
+Development Authority of Singapore (IMDA) and the 
+Ministry of Finance jointly released a statement that 
+the Government will make more Government data 
+available to the public.” 
+Efforts are currently underway in the Democratic 
+Republic of the Congo, Madagascar, Samoa, and 
+Senegal towards the adoption of access to information 
+legislation. 
+In the summer of 2022, both chambers of the 
+Parliament in Namibia have also passed an Access to 
+Information Bill to be signed into law by the President.252.2.Mutual reinforcement 
+of rights of access to 
+information and to 
+privacy26
+The need to consider the rights to privacy and of access 
+to information as complementary rights, rather than 
+opposing ones was stressed at a first training workshop 
+for privacy commissioners from Africa, Arab region, 
+Asia and Latin America. Co-organized by UNESCO, in 
+partnership with the Global Privacy Assembly (GPA) 
+and the National Institute for Transparency, Access to 
+Information and Personal Data Protection of Mexico 
+(INAI), the training took place in Uruguay within the 
+framework of the 2022 World Press Freedom Day 
+Conference.27  This need can be also detected in the 
+2022 survey results. There is an increase of the number 
+of countries and territories where the oversight of the 
+access to information procedures is entrusted to a 
+data protection or privacy commission(-er) and/or 
+to a converged body that combines both the data/
+privacy protection function and access to information 
+oversight (see Figure 3).
+25	See:	Vatileni,	Eino,	‘Namibia:	Information	Bill	Sails	Through	National	Council’,	
+The Namibian, 18 August 2022, https://allafrica.com/stories/202208230377.
+html26 In part extracted from: Doneda, Danilo, Guidelines for Judicial Actors on 
+Privacy and Data Protection, Paris: UNESCO, 2022, https://unesdoc.unesco.
+org/ark:/48223/pf0000381298 , and a study Right to Access to Information 
+and the Right to Privacy commissioned by UNESCO to Lida Ayoubi, PhD, 
+Senior Lecturer at the School of Law Auckland University of Technology, 
+New Zealand. For the purpose of this Report, only the most relevant 
+findings are presented.
+27 https://www.unesco.org/en/articles/unesco-organizes-first-training-
+privacy-commissioners-privacy-right-data-protection-and-freedomFIGURE 3. Countries and territories where access 
+to information oversight is combined with privacy 
+protection
+Data protection or privacy commission/er
+A converged body that combines data/privacy 
+protection and ATI
+Number of countries and territories (percentage, based on the 
+total number of countries with oversight bodies)12%
+23%16%
+26%2021
+20212022
+20229
+1816
+2715
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)28 https://en.unesco.org/news/iduai-2021-urgent-need-expand-access-
+information-laws-and-their-effective-implementationIn total, out of the countries and territories that 
+responded to the UNESCO survey in 2022 and have 
+constitutional, statutory and/or policy guarantees for 
+access to information, 91 percent indicated availability 
+of permissible exceptions from these guarantees in 
+case of privacy protection.
+Several challenges exist for effective mutual 
+reinforcement of the two rights by protecting privacy 
+and maximizing access to information. First, it is 
+evident that a comprehensive and sufficiently precise 
+and efficient framework for balancing the restriction 
+of access to information on the basis of protection of 
+privacy interests works when taking into account the 
+role of the public interest in that balance. 
+Second, appropriate training for administrative and 
+judicial authorities is to be provided to ensure that they 
+strike the right balance when maneuvering the overlap 
+of the access to information and right to privacy. 
+Third, it is important that relevant guidelines are 
+widely available about the procedures, storage and 
+availability to the public of personal data, as well as the 
+available legal and other measures for the protection 
+of individuals’ privacy.2.3.Highlights from 2022 
+UNESCO Survey 
+on Public Access to 
+Information
+2.3.1 Legal frameworks for Access 
+to Information: growth of countries 
+reporting on legal and policy 
+guarantees for access to information
+Out of the total number of 123 countries and territories 
+that responded to the survey in 2022, 93% (114)  
+indicated that they have constitutional, statutory and/
+or policy guarantees for access to information. In 2021, 
+out of the 102 respondent countries and territories, 
+89% or 91  countries and territories indicated having 
+such guarantees.
+Out of the 114 countries and territories with access to 
+information guarantees, 90% (103) reported in 2022 
+that these provisions specify the need of a dedicated 
+oversight institution(-s). As many as 79% (90) pointed 
+that these guarantees specifically provide for the need 
+for public bodies (ministry/agency/department) to 
+appoint public information officers or a specific unit to 
+handle access to information. Out of the 90, 89% (80) 
+said that these requirements are for all public bodies, 
+while the rest – only to some of the bodies. Implementation [of laws] is where 
+things are falling down. And that’s 
+why it’s absolutely critical to have 
+independent commissioners or an 
+oversight body that can ensure that 
+things are actually moving forward, 
+that governments are putting things 
+into place, that it doesn’t stop at the 
+law, that it goes into implementation 
+so that people actually have the 
+ability to have someone to turn to if 
+those rights are not being realized 
+in practice. Without having someone 
+looking at the store, nothing happens.
+Quinn McKew , Executive Director of Article 1928FIGURE 4. Number of countries and territories that 
+participated in UNESCO survey exercise in 2020-
+2022
+69
+2020 2021 2022102 12316
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)The current phenomenon is a steady growth of both 
+the number and the proportion of national regulation 
+systems conducive to access to information as evident 
+from the surveys. These systems largely include the 
+need for an oversight body and a requirement for the 
+public bodies to appoint officers handling access to 
+information issues.
+2.3.2. Exemptions: limited scope, but 
+overall existence to protect public 
+interests and human rights
+Out of the 114 responding countries and territories 
+with access to information legal guarantees, 96% 
+(110) reported that their respective legal guarantees 
+explicitly mention having permissible exemptions 
+that are elaborated in well-defined categories and 
+terms of which certain requests for information may 
+be legally denied. Figure 5 shows the proportion of 
+permissible exemptions in access to information legal 
+guarantees, as indicated by the respondents.Certain types of metadata, when aggregated, can 
+reveal personal information that can be no less 
+sensitive than the actual content of requests or appeals 
+and can give an insight into an individual’s behaviour, 
+including someone’s movements, social relationships, 
+political activities, private preferences and identity. 
+Keeping the data disaggregated prevents such risks. 
+Therefore, access to information oversight institutions 
+in 28 out of 44 countries and territories that provided 
+specific data on ‘Access to Information requests’ in 
+2021 reported that they indeed kept data on the 
+reasons for non-disclosure and partial disclosure on 
+the basis of the legitimate exemptions disaggregated. 
+As it relates to specific data on ‘Appeals’ in the same 
+period, 33 out of 60 respondents reported that they 
+kept disaggregated data (see Figure 6).
+FIGURE 5. Permissible exemptions in Access to 
+Information legal guarantees (in percentage)FIGURE 6. Countries and territories that keep 
+disaggregated data for non-disclosure and partial 
+disclosure based on the permissible exemptions in 
+2021
+96%
+67%
+28
+55%
+3333%
+16
+45%
+2768%
+58%
+82%
+91%
+77%
+40%
+54%
+23%
+46%National security
+International relations
+Public health and safety
+Prevention, investigation 
+and prosecution of legal 
+wrongs
+Privacy
+Legitimate commercial 
+and other economic 
+interests
+Management of the 
+economy
+Fair administration of 
+justice & legal advice 
+privilege
+Conservation of the 
+environment
+Legitimate policy making 
+and other operations of 
+public bodiesAccess to 
+Information 
+Request
+Appeals
+Countries and territories keeping disaggregated data
+Countries and territories not keeping disaggregated data17
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)These data confirm the overall existence of a limited 
+scope of exemptions for protected interests: human 
+rights (such as privacy) and public interests (such as 
+national security), that are explicitly mentioned in the 
+national access to information guarantees. At the 
+same time, the number of countries and territories 
+that keep data disaggregated on refusals to requests 
+for information on the basis of exceptions is still low. 
+2.3.3. Oversight mechanism: growth in 
+numbers and broadness of mandates to 
+implement the laws
+Oversight mechanisms may take the form of an 
+institution tasked with ensuring the process of 
+supervision, monitoring, evaluation of performance 
+and review to ensure compliance with laws, 
+regulations and policies. They are an essential element 
+to ensure accountability for the implementation of 
+access to information. The same or another body 
+may also review appeals, although hearing appeals 
+is a distinct function from oversight and is often done 
+by a separate body. While judicial review is typically 
+available, it is ‘often not serving the oversight function 
+well’, in particular, because the court ‘is an incredibly 
+slow dispute resolution process’.29 Therefore, in some 
+countries and territories, there exists more than one 
+oversight institution, depending on the different tasks 
+that they perform.
+In 2022, out of the 114 responding countries and 
+territories with access to information guarantees, 90% 
+(103) reported that these legal guarantees specify 
+the need of a dedicated oversight institution(-s). In 
+2021, 87% (79) of the 91 countries and territories with 
+access to information guarantees confirmed that their 
+guarantees recognized such a need. 
+Today, Information Commission/ers are the most 
+common type of oversight mechanism (47), followed by 
+governmental departments/ministries/agencies (33) 
+and ombudspersons/institutions (29). Other oversight 
+mechanisms include converged bodies that combine 
+data/privacy protection and Access to Information (27), data protection or privacy commission/ers (16), 
+and the human rights commissions (10). In 22 cases, 
+the reports of the countries and territories with Access 
+to Information guarantees pointed to “Other” in the list 
+of oversight institutions (see Figure 7).30
+In the majority of countries and territories, these 
+oversight institutions reportedly operate at the 
+national level, with only few of them – typically 
+federative states – indicating the existence (also) of 
+the subnational level.
+FIGURE 7. Types of oversight institution
+29 Karanicolas, Michael & Kwoka, Margaret B., Overseeing Oversight, 
+Connecticut Law Review , Volume 54, May 2022, Number 3, p. 673.30 A detailed review of their answers, though, discovers some 
+misunderstanding as the other institutions turned out also to be 
+information commissions under a different name (board, council, authority 
+and agency), “personal data authorities”, government bodies, other than 
+the ministries and departments, as well as courts and prosecution which 
+anyway have a general right to overview compliance with a law. In two 
+cases noted was that in 2022 the Access to Information oversight is done 
+by a media regulator (Media Commission and Office of the Inspector of 
+Journalist Ethics).46% 47
+33
+29
+27
+16
+10
+2232%
+28%
+26%
+16%
+10%
+21%Information Commission/
+er 
+Department/Ministry/
+Agency
+Ombudsperson/
+institution
+A converged body that 
+combines data/privacy 
+protection and Access to 
+Information
+Data protection or 
+privacy commission/er
+Human Rights 
+Commission
+Other18
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)The mandates of the oversight institutions in 91 out of 
+the 103 countries and territories that provide for them, 
+according to their 2022 submissions to UNESCO, 
+authorize the oversight bodies to conduct an oversight 
+(legal responsibility to ensure implementation of the 
+Access to Information guarantee). The same number 
+– conduct monitoring of access to information 
+implementation.31 Review of the appeals is reportedly 
+possible by 80 oversight Access to Information 
+institutions, while the same number of oversight 
+bodies have the authority to enforce compliance with 
+the access to information legal guarantee(s). Just 43 
+countries and territories reported that their institutions 
+might take the role of mediation, an alternative solution 
+to resolve a dispute before proceeding to any formal 
+procedure, on Access to Information issues (see Figure 
+8).
+Oversight and monitoring of the implementation of 
+the access to information legal guarantees remain the 
+prime task of the oversight institutions in the majority 
+of countries and territories that responded to the 
+survey. Other important tasks cited by respondents 
+are the review of appeals and the enforcement of 
+compliance. Mediation is still largely undeveloped as a 
+mandated role of such bodies.2.3.4. Oversight mechanism: recipient 
+of the oversight reports and budget-
+approver is increasingly the legislative, 
+while the appointment of the head of 
+the oversight institution is more often 
+made by the executive
+The independence of oversight institutions is essential 
+for them to play an effective role. Factors such as the 
+appointment process of the head of the oversight 
+institution, the way the institution is financed, and to 
+whom it reports, determine the independence of the 
+oversight body. 
+The survey revealed that out of the 103 countries and 
+territories with access to information legal guarantees 
+that specify the need of a dedicated oversight 
+institution(-s), the majority (63) indicate that the head  
+of the access to information oversight institution is 
+appointed  by the ‘Executive’.32 The ‘Legislative’ branch 
+is the second most answered (36), followed with ‘Other’ 
+(21)’33 and ‘Judiciary’ (3).
+In response to the survey question about the approval 
+of the budget  for the access to information oversight 
+institution, 62 respondents indicated that this budget 
+is approved by the ’Legislative’ branch, while 47 
+indicated that it is approved by the ’Executive’, and 
+three indicated that it is approved by the ’Judiciary’. 
+Meanwhile, 12 countries indicated ‘Other’ in their 
+responses, explaining, for example, that the budget 
+of the Access to Information institution comes from 
+that of the Ministry of Justice, or is approved through 
+a complex procedure involving different stakeholders. 
+In response to the survey question about to whom 
+the Access to Information oversight institution directly 
+reports about its activities34, 68 respondents indicated 
+that the budget is approved by the ’Legislative’ 
+branch, while 49 indicated that it is approved by the 
+’Executive’, and four indicated that it is approved by 
+the ’Judiciary’, while 19 indicated ‘Other’. For the latter, 
+some respondents said that the institution reports 
+to “the public”, while others explained they do not 
+report to any branches of state power. Further, several 
+countries and territories either put “government”, a 
+specific “ministry” or “parliament” under ‘Other’ (see 
+Figure 9).
+32 For this question, respondents could choose one or more branches of 
+government, as applicable.
+33 Such as the Head of State or an elaborate procedure involving several 
+branches of power.
+34 For this question, respondents could choose one or more branches of 
+government, as applicable.88%
+88%
+78%
+78%
+42%Oversight (legal responsibility to 
+ensure implementation of the Access 
+to Information guarantees)
+Monitoring of Access to Information 
+implementation
+Review of the appeals
+Enforcement of compliance with the 
+Access to Information guarantee(s)
+MediationFIGURE 8. Roles of Access to Information oversight 
+institutions as mandated by the legal guarantees
+91
+91
+80
+80
+43
+31 For this question, respondents could choose one or more branches of 
+government, as applicable.19
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)Looking at the data related to independence of the 
+oversight bodies, a significant change can be observed 
+in the reporting process since the previous report. The 
+recipient of the oversight reports is increasingly the 
+legislative rather than the executive branch of power, 
+the legislatures are also specified as approving the 
+budget for oversight activities, while the appointment 
+of the head of the oversight institution is more often 
+made by the executive.In response to the survey question whether reporting 
+on the activities performed by such institution(-s) is 
+required, 98 out of the 103 countries and territories with 
+Access to Information guarantees for a dedicated 
+oversight institution(-s) indicated a positive reply to the 
+question, but only 83 countries and territories said that 
+an annual report was indeed published in 2021.
+On the survey question about the types of activities 
+performed by the dedicated access to information 
+oversight institutions, the respondents indicated that 
+these bodies provided implementation guidance 
+and/or offered training to officials from public bodies 
+(ministry/agency/department) in 84 cases; were 
+engaged in activities to raise public awareness – in 
+87 cases; kept statistics on requests and/or appeals – 
+in 82 cases; and/or requested public bodies to keep 
+statistics of their activities and decisions – in 65 cases 
+(see Figure 10). 
+However, there is a caveat here. Some countries and 
+territories that reported on keeping statistics did not 
+provide specific data to UNESCO in their response to 
+the relevant questions. On the other hand, few others 
+reported that they did not keep statistics, but still 
+provided specific data in their reports. This may speak 
+of some inconsistencies in record-keeping practices.FIGURE 9. Appointment, financing and reporting of 
+Access to Information institutions
+35%
+60%
+66%61%
+46%
+48%3%
+3%
+4%20%
+12%
+18%Who appointed the Head of Access to Information 
+oversight institution(-s)?
+Who approved the budget of Access to 
+Information oversight institution(-s)?
+To whom Access to Information oversight 
+institution(-s) reports on its activities?Legislative
+Legislative
+LegislativeExecutive
+Executive
+ExecutiveJudiciary
+Judiciary
+JudiciaryOther
+Other
+Other36
+62
+6863
+47
+493
+3
+421
+12
+19FIGURE 10. Activities of Access to Information 
+oversight institutions
+81%
+82%
+84%
+80%
+63%83
+84
+87
+82
+65Publish an annual report
+Provide implementation 
+guidance and/or offer 
+training to officials from 
+public bodies 
+Activities to raise public 
+awareness
+Keep statistics on 
+requests and/or appeals
+Request public bodies 
+to keep statistics of their 
+activities and decisions20
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)03A number of survey responses pointed to other activities 
+of the access to information oversight institutions, such 
+as proactive publication of information, for example 
+minutes of Cabinet meetings; facilitation of access 
+to people with disabilities; establishing transparency 
+platforms; strengthening public awareness on Covid-19 
+vaccination. These activities can also be considered 
+good practices in terms of Access to Information 
+standards.
+In addition, good practices with regard to promoting 
+gender equality in access to information were 
+described in 24 reports in 2022. These included 
+such activities as implementing action plans and 
+specific policies on gender mainstreaming, as well 
+as awareness raising through seminars and other 
+programmatic activities. 
+Some of the reports from Latin America provided more 
+detailed answers. For example, in El Salvador, a Letter 
+of Understanding was signed between the Attorney 
+General’s Office and the Institute for Access to Public 
+Information (IAIP) aimed to strengthen women’s rights 
+on access to information within the framework of the 
+“Citizen Participation and Comptrollership, Related 
+to Inclusion and Gender” project. The IAIP held a 
+workshop with women’s organizations to articulate 
+a roadmap on transparency, gender and access to 
+information. In Colombia, the institutional commitment 
+‘Incorporation of actions for the inclusion of women 
+in the strategy of access to public information of 
+the Attorney General’s Office’ was adopted within 
+the framework of the Fourth National State Action 
+Plan Open Alliance for Open Government / Open 
+Government Partnership. In its turn, the ICT Ministry 
+of Colombia formally requested the subjects of the 
+Access to Information Law to provide on their official 
+websites an identification of information specifically of 
+interest for women.
+As to the mandated role of the oversight institution, 
+a worrisome phenomenon is the significant decrease 
+since 2021 in the proportion of countries and 
+territories that require to publish an annual report, 
+to provide implementation guidance to the public 
+officials, to engage in raising public awareness and 
+even to keep statistics.
+For ensuring optimum Access to Information, it remains 
+crucial to assess, both qualitatively and quantitatively, the implementation of the right, so that countries and 
+territories can take corrective actions where needs 
+be. An important indicator that can help monitor 
+effectiveness of the oversight bodies is the availability 
+of data on the number of requests received by them 
+and the manner they were responded. Out of the 114 
+responding countries and territories with access to 
+information guarantees in 2022, only 51 (45%) could 
+provide precise data on the number of requests; 
+moreover, 12 of these 51 responses (24%) were not 
+based on the year 2021 as reporting year, submitting 
+instead data from 2020, 2019, or even from 2018, as 
+the latest available. Of the remaining 63 countries 
+and territories without data, it is important to note 
+that quite a few respondents still confirmed keeping 
+statistics on requests and/or appeals, even though 
+they were unable to mobilize such data for the survey 
+response. 
+From the data collected in 2022, 39 countries and 
+territories reported that the majority of requests for 
+information were granted (3,531,063 or 77% of the 
+received requests) in full or in part. Although the range 
+of the number of requests for information received 
+is tremendous – from several requests to hundreds 
+of thousands per year per country or territory, these 
+figures generally show that there is both the demand 
+for and positive response by these countries and 
+territories in implementing access to information 
+guarantees. 
+In 2022, 59 out of the 103 oversight institutions 
+reportedly confirmed that they had received reports 
+on requests for information from the public bodies 
+(ministry/agency/department) at the national level.
+Thus, a stable proportion of about three quarters of 
+all requests for information being granted can be 
+observed from the survey. However, this is based on 
+rather small number of countries and territories that 
+provided statistics on the numbers of actual requests 
+submitted.
+The results of the survey also demonstrate a 
+significant proportion, almost 60 percent, of the 
+national executive bodies reporting on requests 
+for information to the oversight institutions. Both 
+observations still indicate that there is space for 
+improvement of the actual situation with the 
+responses to individual requests for information. 21
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)03
+ACCESS TO 
+INFORMATION 
+REPORTING IN 
+VOLUNTARY
+NATIONAL 
+REVIEWS
+We must encourage governments to adopt access to information laws and support the 
+implementation of such guarantees when they already exist. Importantly, we must also 
+ensure that capacities and resources exist to ensure that legal frameworks translate 
+into real access to information and this real benefits for citizens.
+Tawfik Jelassi , UNESCO’s Assistant Director-General for Communication and Information35
+35 https://en.unesco.org/news/iduai-2021-urgent-need-expand-access-information-laws-and-their-effective-implementation22
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)The 2030 Agenda for Sustainable Development 
+encourages countries to “conduct regular and inclusive 
+reviews of progress at the national and sub-national 
+levels, which are country-led and country-driven”. In 
+this regard, Voluntary National Reviews (VNRs)36 serve 
+as a follow-up and review mechanism through which 
+countries assess and present progress in achieving the 
+SDGs. Countries present the VNRs voluntarily, at the 
+UN High-level Political Forum (HLPF) on Sustainable 
+Development, an annual meeting under the auspices 
+of the UN’s Economic and Social Council (ECOSOC).37
+In 2022, out of 44 countries that submitted their 
+reviews, 25 responded in the survey that they 
+have a constitutional, statutory and/or other legal 
+guarantee that recognizes access to information as 
+a fundamental right.38 The VNRs of 17 countries (39%) 
+describe ‘access to information’ activity, including nine 
+referring to their national law on access to information.
+Some countries, although not reporting on SDG 
+indicator 16.10.2 in their VNRs, still pointed to progress 
+on access to information in other contexts, such as in 
+relation to access to education, healthcare, countering 
+corruption, availability of business opportunities, etc.One of the countries that reported on SDG 16.10.2 in 
+2022 is Malawi . The country reported having enacted 
+appropriate legislation and developed the necessary 
+regulations and guidelines to guarantee access to 
+information. The national Access to Information Act, 
+which became fully operationalized in January 2021, 
+is said to provide step-by-step procedures that are 
+to be followed by information holders as well as 
+information users in the exercise and fulfilment of the 
+right to access to information. The country reported 
+that the oversight institution is the Human Rights 
+Commission, which has since carried out a number 
+of awareness raising and capacity building initiatives 
+to ensure popularization and smooth operation of 
+access to information. In addition, over 5,000 copies 
+of the Act,40 which includes the Regulations, have 
+been distributed. The Act has also been translated 
+into one vernacular (Chichewa) language to facilitate 
+accessibility. Despite the efforts being made, reports 
+the VNR, it is worth noting that most people are still 
+not fully aware of what is required for one to request 
+for, and access information. The report points to the 
+challenge of improving governance systems ‘through 
+mind-set change programmes, citizen empowerment 
+and implementation of the Access to Information Act.’41  
+Greece  reported that ensuring the right to public 
+access to information is a key priority of the 
+Government. Constitutional provisions (art. 5.1, 5a 
+of the Constitution42), ratification of international 
+conventions (United Nations Economic Commission 
+for Europe Convention on Access to Information, 
+Public Participation in Decision-making and Access to 
+Justice in Environmental Matters, Aarhus Convention), 
+and national legislation, including the transposition of 
+European Union directives (law 4727/2020 on digital 
+governance), ‘shape the recent operating framework 
+of a digital governance rooted in the principles of 
+transparency, equality, protection of personal data and 
+accessibility.’ A special emphasis is put on accessibility 
+of information online for people with disabilities and for 
+the inhabitants of insular and mountainous regions.43
+36 https://hlpf.un.org/vnrs
+37 https://hlpf.un.org
+38 Full Reports by The Gambia and Tuvalu are not assessed due to their 
+unavailability on the VNR Database as of August 2022.
+39 Full Reports by The Gambia and Tuvalu are not assessed due to their 
+unavailability on the VNR Database as of August 2022.40 Population of Malawi comprises just under 20 million. https://data.
+worldbank.org/indicator/SP.POP.TOTL?locations=MW
+41 Malawi VNR 2022, https://hlpf.un.org/sites/default/files/vnrs/2022/
+Malawi%202022%20Voluntary%20National%20Review%20%28VNR%29%20
+Report.pdf  
+42 Greek Constitution, https://www.constituteproject.org/constitution/
+Greece_2008.pdf?lang=en
+43 Greece VNR 2022, https://hlpf.un.org/sites/default/files/vnrs/2022/VNR%20
+2022%20Greece%20Report.pdf .FIGURE 11. Number of countries that reported on SDG 
+16.10.2 in VNRs from 2019 to 202239
+24
+6
+171814
+Africa
+Europe & North America Latin America & the CaribbeanArab States Asia & the Pacific23
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)In its turn, Ghana reported that since the application of its 2019 Right to Information Act began in January 2020, a 
+total of 223 information requests have been formulated to 47 government institutions. Out of these, 180 (80.72%) 
+information requests were granted.45
+In order to guarantee the right of access to information, Côte d’Ivoire  in 2013 adopted the Law on access to 
+information of public interest, according to the country’s VNR report.46 For the operationalization of this framework, 
+all stakeholders participated in activities to popularize the law and were trained on the legal and regulatory 
+mechanisms relating to access to information. The Government’s efforts have consisted in the implementation 
+of an ‘open government’ strategy, with the establishment of a number of access to information platforms.47 
+With regard to the proportion of responses given by the Government to formal requests for information or 
+documents each year, the examination of activity reports produced by public bodies revealed that they received 
+154,948 requests in 2021 compared to 37,536 in 2020 and 8,820 in 2017.48 The main good practice is proactive 
+dissemination through the monitoring of the websites of public bodies and updated sites, which allows citizens 
+to have better access to public documents and information of public interest.
+Several countries reported that thanks to a better access to information, they are steadily improving their place 
+in the Perception of Corruption Index of 180 countries by the NGO Transparency International.49
+45 Ghana VNR 2022, https://hlpf.un.org/sites/default/files/vnrs/2022/VNR%202022%20Ghana%20Report_0.pdf . 
+46 Côte d’Ivoire VNR 2022, https://hlpf.un.org/sites/default/files/vnrs/2022/VNR%202022%20Cote%20dIvoire%20Report_0.pdf . 
+47 data.gouv.ci , http:/eadministration.gouv.ci  and others
+48 https://hlpf.un.org/sites/default/files/vnrs/2022/VNR%202022%20Cote%20dIvoire%20Report_0.pdf .
+49 The Corruption Perceptions Index (CPI) is a global corruption ranking carried out by the NGO Transparency International. It measures how corrupt each 
+country’s public sector is perceived to be, according to experts and businesspeople. See more: https://www.transparency.org/en/news/how-cpi-scores-are-
+calculated . The latest CPI is for 2021: https://www.transparency.org/en/cpi/2021 . 
+50 The UN Security Council adopted a resolution 2626 (2022) to secure a formal presence in Afghanistan, whose current de facto authorities are unrecognized 
+by the international community. https://documents-dds-ny.un.org/doc/UNDOC/GEN/N22/291/52/PDF/N2229152.pdf?OpenElementFIGURE 12. SDG 16.10.2 Reporting in the VNRs (2019-2022)
+Country
+Afghanistan50
+Algeria
+Andorra 
+Antigua and Barbuda
+Argentina
+Austria
+Azerbaijan
+Bangladesh
+Belarus 
+Bhutan
+Botswana 
+Bulgaria
+Cabo Verde
+Cameroon
+Chile
+Colombia
+Congo (Republic of the)2021
+2019
+2022
+2021
+2020, 2022
+2020
+2019
+2021
+2020
+2022
+2021
+2022
+2020
+2021
+2019, 2022
+2019
+2021
+2019
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+**
+*
+
+
+*Year of 
+VNRsAdopted a specific Access 
+to Information law for public 
+access to informationReported on “Adoption 
+of Access to Information 
+guarantees”
+Marked in a dashboard as making progress, but 
+without any details Reported on “Access 
+to Information 
+Implementation”*24
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)Country
+Côte d’Ivoire
+Croatia
+Cuba
+Czechia
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+El Salvador
+Equatorial Guinea
+Eritrea 
+Eswatini 
+Ethiopia 
+Gabon 
+Gambia
+Ghana
+Greece 
+Grenada 
+Guinea-Bissau
+Guyana
+Iceland
+Indonesia
+Israel51
+Italy 
+Jamaica 
+Japan
+Jordan 
+Kazakhstan 
+Kenya
+Kuwait
+Kyrgyzstan
+Latvia 
+Lesotho
+Liberia 
+Luxembourg 
+Madagascar
+Malawi
+Malaysia2019, 2022
+2019
+2021
+2021
+2021
+2022
+2022
+2021
+2020
+2022
+2022
+2022
+2022
+2022
+2022
+2020, 2022
+2019, 2022
+2022
+2022
+2022
+2019
+2019
+2019
+2021
+2019
+2022
+2022
+2021
+2022
+2022
+2020
+2019
+2020
+2022
+2019, 2022
+2022
+2022
+2021
+2020, 2022
+2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*
+
+
+*
+
+*
+
+
+
+
+
+
+
+
+
+
+*
+
+
+Year of 
+VNRsAdopted a specific Access 
+to Information law for public 
+access to informationReported on “Adoption 
+of Access to Information 
+guarantees”Reported on “Access 
+to Information 
+Implementation”*
+51 Israel withdrew from UNESCO on 31 December 201825
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)Country
+Mali 
+Marshall Islands
+Mauritius
+Mexico
+Micronesia (Federated
+States of)
+Mongolia
+Montenegro 
+Morocco
+Namibia
+Netherlands 
+New Zealand
+Nicaragua
+Norway
+Pakistan 
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Qatar
+Republic of Moldova
+Rwanda
+San Marino
+Sao Tome and Principe
+Senegal
+Seychelles
+Sierra Leone
+Somalia
+South Africa
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Thailand
+Timor-Leste2022
+2021
+2019
+2021
+2020
+2019
+2022
+2020
+2021
+2022
+2019
+2021
+2021
+2022
+2019
+2020
+2020
+2021
+2020
+2019, 2022
+2021
+2020
+2019
+2021
+2022
+2022
+2020
+2021
+2022
+2019
+2021
+2022
+2022
+2022
+2021
+2022
+2021
+2019 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+**
+*
+
+*
+
+
+
+
+ 
+
+
+
+
+
+
+
+**
+*Year of 
+VNRsAdopted a specific Access 
+to Information law for public 
+access to informationReported on “Adoption 
+of Access to Information 
+guarantees”Reported on “Access 
+to Information 
+Implementation”*
+Marked as making progress, but without any 
+details26
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)52 Karanicolas, Michael & Kwoka, Margaret B., Overseeing Oversight, Connecticut Law Review , Volume 54, May 2022, Number 3, p.679.04Country
+Togo
+Tunisia
+Turkey
+Tuvalu
+United Arab Emirates
+United Kingdom of
+Great Britain and 
+Northern Ireland
+United Republic of 
+Tanzania
+Uruguay
+Vanuatu
+Zambia
+Zimbabwe2022
+2019
+2021
+2019
+2022
+2022
+2019
+2019
+2021, 2022
+2019
+2020
+2021 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Year of 
+VNRsAdopted a specific Access 
+to Information law for public 
+access to informationReported on “Adoption 
+of Access to Information 
+guarantees”Reported on “Access 
+to Information 
+Implementation”*
+*For the purpose of this report, implementation here refers to either implementation of Access to Information legal guarantees 
+or implementation of access to information in a broader view, including by countries that have not adopted an Access to 
+Information guarantee. However, this report does not include any review on SDG 9.C which focuses on access to ICT by 
+measuring the “proportion of population covered by a mobile network, by technology”. 
+** The implementation aspect reported by these countries is more related to ‘access to media and ICT’, and other human-
+rights issues, rather than ‘access to information held by public authorities’ as inscribed in SDG 16.10.2
+*** Reported on the Constitution guaranteeing Access to Information
+Access to information reporting, such as in VNRs, facilitates sharing of knowledge of the good practices. 
+Experts believe, that although every state operates in its own specific administrative and institutional context, 
+‘the experiences of other countries in combating common challenges to the right to information, particularly 
+concerning how to promote compliance and a culture of openness, can be instructive in considering possible 
+avenues to reform.’5227
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)04
+USING ACCESS TO 
+INFORMATION TO 
+ADVANCE THE SDGS: 
+CASE STUDIES AND 
+GOOD PRACTICES28
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)4.1. Privacy rights and 
+processing of information in 
+the digital environment =
+According to the right to privacy , no one shall be 
+subjected to arbitrary or unlawful interference with his 
+or her privacy, family, home or correspondence.53
+Data-intensive technologies contribute to creating 
+a digital environment in which both governments 
+and business enterprises are increasingly able to 
+track, analyze, predict and even manipulate people’s 
+behavior to an unprecedented degree, thus presenting 
+very significant risks for human dignity, autonomy and 
+privacy, if applied without effective safeguards. 
+At the same time, Internet and digital technologies 
+provide enormous opportunities to enable and 
+reinforce the right of access to information and 
+proactive dissemination thereof. For example, currently 
+all 136 countries and territories under review in the 
+Global Right to Information Rating54 allow for requests 
+for information  to be submitted by any means of 
+communication, including online,55 which is an enabling 
+element of the access procedure but also requiring 
+safeguards for the privacy of the requestors. 
+The potential offered by digital technologies to enable 
+access to public information is well-illustrated by 
+Greece  in its 2022 VNR. The country informed the High-
+Level Political Forum on Sustainable Development on 
+the recent digital governance policy initiatives (related 
+to SDG 16.6 and SDG 16.10), established by law. These 
+include:
+(i) Digital Accessibility , regulating the accessibility 
+requirements of the websites and mobile 
+applications of public sector bodies;  (ii) Open Data : extending the principles of open 
+availability and re-usability of documents, 
+information and data that are either in the 
+possession of public bodies, or funded by public 
+resources;  
+(iii) Digital Transparency  - The Transparency 
+Programme, which obliges all government 
+institutions to upload their acts and decisions on 
+the Internet, otherwise they are not valid;  
+(iv) creation of the National Register of 
+Procedures that aims at recording, mapping and 
+modelling the administrative procedures of the 
+State in a transparent way, while there can be no 
+deviation from any competent public authority in 
+the implementation of the registered procedures; 
+and  
+(v) establishment of the Register of Greek Public 
+Administration Websites  that is fully accessible 
+to the public authorities and legal and natural 
+persons via the Unified Digital Portal of Public 
+Administration (GOV.GR).56 
+Another example is Sri Lanka , where according to 
+countries Voluntary National Report public institutions 
+were able to lead innovative solutions to enhance 
+public access to delivery of services and access to 
+information via digitalization efforts. These efforts have 
+been accelerated due to the COVID-19 pandemic.57
+Still, the rapid pace of technological development 
+enhances the capacity of governments, business 
+enterprises and individuals to take up new and 
+emerging technologies , such as those developed in the 
+fields of surveillance, artificial intelligence, automated 
+decision-making and machine-learning and of 
+profiling, tracking and biometrics, including facial and 
+emotional recognition, for surveillance, interception, 
+hacking and data collection. When applied without 
+proper safeguards, such practice may violate or abuse 
+all human rights, but in particular – the right to privacy 
+and the right of access to information. It is therefore 
+an issue of increasing public concern with regard to 
+the intrusiveness and impact of contemporary data-
+gathering practices. 
+This is highlighted in the Tashkent Declaration on 
+Universal Access to Information, adopted at the 
+International Day for Universal Access to Information 
+2022 global conference, which advocates for digital 
+policies guided by openness, universal internet 53 See article 12 of the Universal Declaration of Human Rights and article 17 of 
+the International Covenant on Civil and Political Rights.
+54 The Right to Information Rating is a programme founded by Access Info 
+Europe (AIE) and the Centre for Law and Democracy (CLD). It is based 
+on 61 discrete indicators – each looking at a particular feature of a strong 
+legal regime for ATI – divided into seven main categories – namely Right 
+of Access, Scope, Requesting Procedure, Exceptions & Refusals, Appeals, 
+Sanctions & Protections, and Promotional Measures. The central idea 
+behind the Rating is to provide ATI advocates, reformers, legislators and 
+others with a tool for comparatively assessing the overall strength of 
+a legal framework for Access to Information. The Rating indicates the 
+strengths and weaknesses of the legal framework, and provides a means 
+for pinpointing areas in need of improvement. See more: https://www.rti-
+rating.org/. 
+53 See: https://www.rti-rating.org/country-data/by-indicator/15/ .56 Greece VNR 2022, https://hlpf.un.org/sites/default/files/vnrs/2022/VNR%20
+2022%20Greece%20Report.pdf . 
+57 Sri Lanka VNR 2022, https://hlpf.un.org/sites/default/files/vnrs/2022/
+VNR%202022%20Sri%20Lanka%20Report.pdf . 29
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)access, transparency, accountability, multilingualism, 
+inclusiveness, and gender equality based on the 
+concept of Internet Universality outlined in the 
+UNESCO ROAM principles.58 These and other 
+challenges to privacy rights in the digital world were 
+noted in the Global survey on internet privacy and 
+freedom of expression59, commissioned by UNESCO 
+and published ten years ago. The publication explored 
+international law and the national practice in terms of 
+respecting privacy on the Internet, considering potential 
+conflicts with other rights, in particular freedom of 
+information. It contained recommendations to states 
+and corporations for better practice based on authors’ 
+research and consultations. The recommendations 
+covered legal and regulatory measures, corporate 
+policy and practice and awareness raising.
+The authors of the Global survey on internet privacy 
+and freedom of expression  pointed to important 
+differences between protection of privacy and data 
+protection rules. The latter are designed to address 
+the specific problems that can arise when public or 
+private bodies engage in the systematic collection 
+of data about individuals. Data protection rules 
+are different from privacy, both in their scope and 
+substantive rules. Data protection applies only to the 
+automated processing of personally identifying data. 
+The problem that the authors of the Report saw is 
+that, unlike legal interpretations of the right to privacy, 
+data protection rules do not recognize a general public 
+interest override or an exemption from the main rules 
+where data processing is carried out for journalistic, 
+artistic or literary purposes, as necessary to respect 
+the right to freedom of expression, including freedom 
+of information. 
+In Africa , the Declaration of Principles on Freedom of 
+Expression and Access to Information in Africa  pointed 
+out that ‘freedom of expression and privacy are 
+mutually reinforcing rights that are essential for human 
+dignity and the overall promotion and protection of 
+human and peoples’ rights.’ While everyone has the 
+right to privacy, including the confidentiality of their 
+communications and the protection of their personal 
+information, proclaimed the Declaration, privacy laws 
+shall not to inhibit the dissemination of information of 
+public interest.60So far, only about half of African countries and 
+territories have adopted laws to protect personal 
+data. Even then, in many countries and territories, 
+the laws are yet to be fully operationalized through 
+the adoption of implementing regulations.62 Some of 
+these laws in countries such as Chad, Kenya, South 
+Africa, Tunisia, Uganda, and Zimbabwe, prohibit the 
+collection of certain categories of personal data, 
+including specific types of biometric data generally, or 
+whenever certain conditions are not complied with.63  
+In Kenya , the public discussion over safety of the data 
+related to issuance of ID cards, including regarding 
+measures needed to avoid abuse of personal data for 
+commercial benefit, has influenced on the delays in 
+the entry into force of the relevant law (‘the Huduma 
+Bill’) since 2021. Most recently, the Court of Appeal in 
+its ruling acknowledged that the bill had complied to 
+the provisions of Data Protection Act in respect to data 
+protection impact assessment.65
+58 The UNESCO conference in Tashkent, Uzbekistan, discussed access 
+to information in the digital era, https://www.unesco.org/en/articles/
+unesco-conference-tashkent-discussed-access-information-digital-
+era?hub=66657  
+59 https://unesdoc.unesco.org/ark:/48223/pf0000218273.locale=en . 
+60 Declaration of Principles on Freedom of Expression and Access to 
+Information in Africa , adopted by the African Commission on Human and 
+Peoples’ Rights (the African Commission) at its 65th Ordinary Session (21 
+October to 10 November 2019, Banjul, The Gambia), Preamble, Principles 21 
+and 40, https://www.achpr.org/legalinstruments/detail?id=69 .61 Declaration of Principles on Freedom of Expression and Access to 
+Information in Africa , adopted by the African Commission on Human and 
+Peoples’ Rights (the African Commission) at its 65th Ordinary Session (21 
+October to 10 November 2019, Banjul, The Gambia), Principle 42 (2), https://
+www.achpr.org/legalinstruments/detail?id=69 . 
+62 Collaboration on International ICT Policy for East & Southern Africa, 
+Mapping and Analysis of Privacy Laws in Africa, November 2021, p. 7, 
+https://cipesa.org/?wpfb_dl=479
+63 Ibid., p. 35.
+65 Rotich, Kenneth, How Huduma Bill ensures protection of data , The 
+Standard, 5 June 2022, https://www.standardmedia.co.ke/sports/amp/
+opinion/2001447199/how-huduma-bill-ensures-protection-of-dataFIGURE 13. Principles of processing personal 
+information in Africa.61
+The processing of personal 
+information shall by law be:
+a. with the consent of the individual 
+concerned;
+b. conducted in a lawful and fair manner;
+c. in accordance with the purpose for 
+which it was collected, and adequate, 
+relevant and not excessive;
+d. accurate and updated, and where 
+incomplete, erased or rectified;
+e. transparent and disclose the personal 
+information held; and
+f. confidential and kept secure at all
+ times30
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)In Uganda , 2019 the Data Protection and Privacy Act 
+lists obtaining or disclosing personal data in an unlawful 
+manner as an offence punishable by a fine of UGX 
+4.8 million (USD 1,327) or imprisonment for 10 years or 
+both. The 2015 Registration of Persons Act, in addition, 
+provides sanctions for breach of personal data: an 
+officer of the National Identification and Registration 
+Authority who discloses, submits, or transfers data 
+from the register to an outsider, commits an offence 
+and is liable on conviction to a fine of up to UGX 1.44 
+million (USD 408) or imprisonment of up to five years 
+or both.66
+A change in approach as to the transparency of 
+collecting personal information by private companies 
+is currently under way in European Union countries  
+where the national law will mirror the provisions of a 
+number of the European Union legislative instruments, 
+including the Digital Markets Act (DMA), the Digital 
+Services Act (DSA), the Data Governance Act (DGA) 
+and the Data Act. They are designed in full compliance 
+with existing rules on data protection, including the 
+General Data Protection Regulation (GDPR) and the 
+ePrivacy Directive67. European regulation is based on 
+the idea that the data subjects —the citizens— must 
+be in control of their own data by means of a set of 
+rights that need to be actively guaranteed, by both 
+private or state actors when they use their data, as 
+well as a body of principles that shape and impose 
+limits to every personal data processing activity.
+In particular, under the new rules of the Digital 
+Services Act, providers of online platforms that are 
+accessible to minors will be required to put in place 
+appropriate measures to ensure high level of privacy 
+on their services. Platforms will no longer present 
+advertisements to their users based on profiling that 
+rests on special categories of personal data, such as 
+their ethnicity, political views or sexual orientation.68
+The role of private entities  in gatekeeping personal 
+information, as well as artificial intelligence (AI) 
+that they employ as an instrument of their business 
+models, increases.69 The right of access to information 
+is traditionally viewed by many constitutional norms and relevant laws as a right to access to information 
+held by public authorities. This view, however, may no 
+longer reflect the reality of how personal information is 
+held and processed, which calls for a new approach to 
+the regulation of collection and storage of and access 
+to private data. This is particularly significant in light 
+of the collection of data by social media platforms 
+and apps whenever users provide information about 
+themselves – knowingly or not.70 
+On 7 October 2021, the UN Human Rights Council 
+(UNHRC) adopted a resolution on ‘The right to privacy 
+in the digital age’ . Its adoption was triggered, in 
+particular, by the Council’s concern that individuals 
+‘often do not and/or cannot provide their free, explicit 
+and informed consent to the collection, processing and 
+storage of their data or to the re-use, sale or multiple 
+re-sale of their personal data, as the collecting, 
+processing, use, storage and sharing of personal data, 
+including sensitive data, has increased significantly in 
+the digital age’. Such worries were recently aggravated 
+when assessing the technological means, developed 
+or deployed in response to disasters, epidemics and 
+pandemics, especially the COVID-19 pandemic, 
+including digital exposure notification and contact 
+tracing. The UNHRC resolution noted that ‘violations 
+and abuses of the right to privacy in the digital age can 
+affect all individuals, with effects on women, children, 
+persons with disabilities and older persons, as well 
+as persons in vulnerable situations and marginalized 
+groups.71
+Historically marginalized groups may be more 
+susceptible to data discrimination despite existing 
+laws. Data generated from individuals’ use of Internet-
+of-Things devices and associated mobile applications 
+combined with other sources of information could 
+also be used to enable discrimination and negatively 
+impact the opportunities that individuals receive.72
+There is an increasing intersection of the right of 
+access to information and the right to privacy, which 
+has recently become evident and important due to 
+the growth of the Internet and digital technologies , 
+particularly concerning the collection and processing 
+66 Collaboration on International ICT Policy for East & Southern Africa, 
+Mapping and Analysis of Privacy Laws in Africa, November 2021, p. 40, 
+https://cipesa.org/?wpfb_dl=479
+67 https://digital-strategy.ec.europa.eu/en/policies/digital-privacy
+68 See: https://ec.europa.eu/commission/presscorner/detail/en/
+QANDA_20_2348  
+69 See for a discussion of the relevance of AI to RTI and privacy, Article 19 
+and Privacy International, “Privacy and freedom of expression in an age 
+of artificial intelligence” (London, 2018); Human Rights council, “Report of 
+the Special Rapporteur on the promotion and protection of the right to 
+freedom of opinion and expression” UN Doc A/73/348 (29 August 2018).70 Human Rights Council, “Disinformation and freedom of opinion and 
+expression: Report of the Special Rapporteur on the promotion and 
+protection of the right to freedom of opinion and expression” UN Doc A/
+HRC/47/25 (13 April 2021) at [66].
+71 See https://undocs.org/Home/Mobile?FinalSymbol=A%2FHRC%2FRES% 
+2F48%2F4&Language=E&DeviceType= Desktop&LangRequested=False .
+72 Elvy, Stacy-Ann , Data privacy and the Internet of Things, 9 February 2022, 
+https://en.unesco.org/inclusivepolicylab/analytics/data-privacy-and-
+internet-things . 31
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)of information, including personal data. The evolving 
+communication landscape – in the context of privacy 
+rights and access to information – also points to the 
+digital and online tools and platforms continuing to 
+further dominate how private information is created, 
+stored and shared.
+ 4.2. Focusing on Small Island 
+Developing States
+According to the information from Global Right to 
+Information Rating73, 18 UN Member States that are 
+SIDS in the region have adopted statutory guarantees 
+for public access to information.74 Nine Small Island 
+Developing States (SIDS)75 responded to the UNESCO 
+survey in 2022, and seven more submitted VNRs.76 
+Among these countries, eight countries have Access 
+to Information laws and one is in the process of 
+elaborating such a law. 
+The Voluntary National Report of Sao Tome and 
+Principe, states that ‘the Public Transparency System 
+of the country, is based on the Access to Information 
+Law (Law No. 9.871/2012), which aims to promote state 
+transparency and ensure that all citizens have access 
+to public information. Therefore, in Sao Tome and 
+Principe there are constitutional and legal guarantees 
+so that access to public information is guaranteed 
+to all. Sao Tome and Principe has a Human Rights 
+institution, but it has not yet been accredited.’77
+Six countries also reported having a dedicated 
+oversight institution. For three of these countries, the 
+oversight institution takes the form of an Information 
+Commission. Five countries reported that their legal 
+guarantee on Access to Information specifies the need 
+for public bodies to also appoint public information 
+officers or a specific unit to handle requests for 
+information. Five countries reported provisions for the 
+dedicated Access to Information oversight institutions 
+to provide monitoring of access to information 
+implementation.A report, prepared by the United Nations Pacific 
+Regional Anti-Corruption Project, a joint initiative by the 
+United Nations Office on Drugs and Crime (UNODC) 
+and United Nations Development Programme 
+(UNDP), provides an insight into the state of access 
+to information in 14 Small Island Developing States in 
+the Pacific Region.78 Under the Pacific Plan 2005,79 UN 
+Pacific Strategy80 and 2018 Boe Declaration81, countries 
+in the Pacific are urged to put strategies in place to 
+implement and/or monitor access to information 
+legislation. The report reviews laws on access to 
+information in the Cook Islands, Fiji, Palau and Vanuatu, 
+as well as draft laws in Micronesia and the Solomon 
+Islands. It notes that that even the Pacific Small Island 
+Developing State without access to information laws 
+have environment ‘generally favourable to the public’s 
+exercising of their right to information’.82 For example, 
+UNESCO is providing technical assistance to Samoa 
+through the India-UN Development Partnership Fund 
+supported programme, which is paving the way for 
+the Government’s on a freedom of information act, 
+with the Ministry of Communications and Information 
+Technology (M.C.I.T.) leading the way.83
+The report also provides an analysis of the 
+implementation of the laws. It points to a number of 
+areas that need improvement or require availability 
+of additional data.84 One of the conclusions of the 
+report is that ‘[n]otwithstanding a well-designed law, 
+inadequate resources and lack of budgetary support 
+can stymie implementation.’ 85
+73 See footnote 54.
+74 See https://www.rti-rating.org/country-data/ . 
+75 See https://en.unesco.org/sids/about  
+76 Full Report by Vanuatu is not assessed due to its unavailability on the VNR 
+Database as of August 2022.
+77 Sao Tome and Principe, VNR 2022, https://hlpf.un.org/sites/default/files/
+vnrs/2022/VNR%202022%20Sao%20Tome%20and%20Principe%20Report.
+pdf. 78 Cook Islands, Federated States of Micronesia (FSM), Fiji, Kiribati, Marshall 
+Islands, Nauru, Niue, Palau, Papua New Guinea (PNG), Samoa, Solomon 
+Islands, Tonga, Tuvalu and Vanuatu.
+79 The Pacific Plan was endorsed by Leaders at the Pacific Islands Forum 
+meeting in 2005, and includes initiative 12.3 to enhance governance 
+mechanisms such as FOI. See: https://www.adb.org/sites/default/files/
+linked-documents/robp-pacific-2013-2015-pacific-plan.pdf . 
+80 Outcome 5 of the UN Pacific Strategy is that people and communities 
+in the Pacific will contribute to and benefit from inclusive, informed, and 
+transparent decision-making processes. See: United Nations in the Pacific. 
+2017. United Nations Pacific Strategy (2018 – 2022), https://unsdg.un.org/
+resources/united-nations-pacific-strategy-2018-2022 . 
+81 The Boe Declaration Action Plan includes the adoption and implementation 
+of constitutional, statutory and/or policy guarantees for public access 
+to information as a measure for success in ensuring peace and security 
+across the region. See Boe Declaration on Regional Security (2018): https://
+www.forumsec.org/boe-declaration-on-regional-security/ . 
+82 Status of the Right to Information in Pacific Island Countries, UNODC, 
+2020, p. 5, https://www.unodc.org/documents/southeastasiaandpacific/
+pacific/2020/UN-PRAC_Paper_-_Status_of_Right_to_Information_in_
+Pacific_Island_Countries.pdf .
+83 https://www.samoaobserver.ws/category/samoa/62468
+84 Status of the Right to Information in Pacific Island Countries, UNODC, 2020, 
+pp. 39-47, https://www.unodc.org/documents/southeastasiaandpacific/
+pacific/2020/UN-PRAC_Paper_-_Status_of_Right_to_Information_in_
+Pacific_Island_Countries.pdf .
+85 Status of the Right to Information in Pacific Island Countries, UNODC, 
+2020, p. 5, https://www.unodc.org/documents/southeastasiaandpacific/
+pacific/2020/UN-PRAC_Paper_-_Status_of_Right_to_Information_in_
+Pacific_Island_Countries.pdf .32
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)4.3.National Focus: Access to 
+information in Armenia as 
+an instrument to counter 
+disinformation
+As the COVID-19 pandemic has so vividly shown, access 
+to information has the potential to save lives. The 
+crisis has underlined how reliable information readily 
+available in multiple languages, including indigenous 
+languages, can address surges in disinformation. It has 
+also underscored those immediate measures must be 
+catered to those most in need, including persons with 
+disabilities.86
+Surges in disinformation have recently become 
+widespread and, heavily relying on social media, 
+contribute to a global information disorder.87 In a 
+way, social media create bubbles which are affecting 
+people’s access to diverse information, as observed by 
+Latvia in its 2022 VNR.88
+The UN General Assembly (UNGA) adopted in 2021 a 
+resolution,89 that stresses that responses to the spread 
+of disinformation must comply with international 
+human rights law and the principles of legality, 
+necessity and proportionality. Moreover they should 
+promote and protect everyone’s freedom of expression 
+and freedom to information – and not violate it. Free, 
+independent, plural and diverse media and access to 
+independent, factual and evidence-based information 
+are, in fact, important to counter disinformation. 
+According to the 2021 ‘Disinformation and 
+misinformation in Armenia’ study from Freedom 
+House90, countering disinformation and spread of 
+misconceptions in the country is reportedly effective 
+when public institutions disseminate fast, coordinated and non-contradictory information. It is successful 
+when the authorities provide strategic communication 
+in responding to journalists’ inquiries, available 
+‘procedures and mechanisms for responding to the 
+information circulated in the public domain.’ Otherwise, 
+according to the study, people remain vulnerable to 
+false narratives that fill the information vacuum.91
+Such needs served as a reason for Armenia to become 
+the first among the countries of the European Union 
+Eastern Partnership92 to develop a national strategy 
+to combat disinformation, including through better 
+access to information. It was presented for public 
+discussion at an event organized in Yerevan in July 
+2022 by the Public Relations and Information Center 
+of the Prime Minister’s Office and the Freedom of 
+Information Center with the support of the Center for 
+International Private Enterprise.93
+There have been a number of initiatives and projects 
+aimed at tackling disinformation, however they all 
+had a common disadvantage: the efforts have been 
+fragmented and uncoordinated, consequently, their 
+impact was so. As a result, the Armenian civil society 
+and the government initiated the development of the 
+Strategy against Disinformation for creating strategic 
+responses and building national resilience. The strategy 
+unites the efforts of the government, civil society and 
+citizens to combat disinformation’.95
+The prime pillar of the draft strategy, is ‘strengthening 
+the capabilities of public institutions of Armenia 
+to detect, analyze and expose disinformation’ 
+by improving the strategic communication in the 
+government agencies, strengthen the human, financial 
+and technical resources of their public communication 
+departments, improving the proactive transparency 
+of government agencies and introducing a self-
+assessment and evaluation system of transparency 
+and accountability of the government agencies.
+86 The Information for All Programme of UNESCO tackles disinformation 
+through impactful projects that promote access to information and digital 
+literacy, 18 June 2021, 
+  https://en.unesco.org/news/information-all-programme-unesco-tackles-
+disinformation-through-impactful-projects-promote . 
+87 Information Disorder: Toward an interdisciplinary framework for research 
+and policymaking. By Claire Wardle and Hossein Derakhshan. Published 
+by the Council of Europe, October 2017, https://rm.coe.int/information-
+disorder-report-november-2017/1680764666 . 
+88 Latvia, VNR 2022, https://hlpf.un.org/sites/default/files/vnrs/2022/VNR%20
+2022%20Latvia%20Report%201.pdf
+89	‘Countering	disinformation	for	the	promotion	and	protection	of	human	
+rights and fundamental freedoms’, UN General Assembly resolution, A/
+RES/76/227, 24 December 2021, https://undocs.org/A/RES/76/227
+90 Freedom House, Disinformation and Misinformation in Armenia, https://
+freedomhouse.org/sites/default/files/2021-06/Disinformation-in-Armenia_
+En-v3.pdf . 91 Freedom of Information Center, National Strategy Against Disinformation 
+2022-2024, Yerevan, 2022. 27 pp.
+92 https://www.eeas.europa.eu/eeas/eastern-partnership_en
+93 http://www.foi.am/en/news/item/2274/
+95 http://www.foi.am/en/news/item/2252/33
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)4.4.National Focus: Mandating 
+proactive release of 
+information in Australia96
+The proactive disclosure of government information 
+ensures transparency, accountability and provides a 
+necessary assurance that elected officials and other 
+publicly funded senior decision makers, place the public 
+interest above their private interests as demanded by, 
+and expected of, public office. Importantly, disclosure 
+of interests minimizes the risk of fraud and corruption.
+Under the national Constitution, the constituent 
+states of the Commonwealth of Australia essentially 
+have power to legislate on many subjects, in 
+particular with respect to public services and local 
+government. To take one example, in New South 
+Wales, a southeastern state of the Commonwealth of 
+Australia, the Government Information (Public Access) 
+Act 2009  requires that government agencies publish 
+information proactively. Independent oversight of 
+these requirements is essential to addressing risks of 
+corruption. As new integrity issues arise it is important 
+that mandated proactive disclosure requirements 
+respond to those risks and relevant public interest 
+considerations in favour of disclosure. Contemporary 
+risks to integrity include the use of machine learning. 
+The Government Information (Public Access) Act 2009  
+applies to all New South Wales government agencies, 
+and also extends to Ministers and their staff, local 
+councils, state-owned corporations, courts in their 
+non-judicial functions, and to certain public authorities, 
+such as universities.97
+The oversight of its implementation is vested upon 
+the Information Commissioner. In particular, under the 
+Government Information (Public Access) Act 2009 , 
+local councils must publish information about the 
+returns of pecuniary interests lodged by councilors 
+and designated persons. Upon becoming aware of 
+non-compliance with these requirements the New 
+South Wales Information Commissioner undertook 
+a compliance audit. The resultant education and 
+governance recommendations have secured greater 
+levels of transparency and accountability. Contract registers can contribute to improved 
+performance of outsourced services, increased 
+efficiency and value for money. They are also an 
+important tool to proactively manage potential 
+conflicts of interest and ensure that public value is 
+demonstrably realized. Similarly, the acquisition and 
+disposal of major assets by agencies present integrity 
+risks warranting specific disclosure requirements under 
+any access to information regime. When the New South 
+Wales Information Commissioner became aware of 
+possible non-compliance with contract disclosure 
+requirements by the New South Wales Government’s 
+insurance and care scheme provider and undertook 
+compliance audits. The agency’s implementation of 
+the Information Commissioner’s recommendations has 
+resulted in systemic improvements in accountability 
+and transparency. 
+Increasingly the care and protection of the environment 
+is a significant matter of public interest and in some 
+jurisdictions, agencies are required to publish waste 
+management and other environmental plans. 
+The Information and Privacy Commission of New 
+South Wales has identified and promoted some key 
+practices to promote proactive release including:
+• Encourage a corporate culture of transparency 
+and accountability (e.g., through a code of 
+conduct or mission statement)
+• Establish clear governance arrangements to 
+manage the proactive release of documents 
+(e.g., establish a working group; include 
+proactive release as a standard agenda 
+item in senior management meetings; place 
+responsibility for proactive release in specific 
+roles including risk management and audit 
+functions)
+• Incorporate proactive release as part of records 
+management and business systems
+• Consider, from the outset, whether documents 
+should be proactively released
+• Engage with stakeholders to establish 
+information release priorities (e.g., through 
+community surveys, workshops and consultation 
+processes)
+• Analyze data collected from across public 
+institutions on requests for information, to 
+identify trends and documents that could be 
+released proactively.98
+96 Based on the information provided to UNESCO by Elizabeth Tydd, CEO, 
+Information Commissioner from the New South Wales Information and 
+Privacy Commission in Australia. 
+97 https://www.ipc.nsw.gov.au/resources/government-information-public-
+access-act-2009-gipa-act  98 See https://www.ipc.nsw.gov.au/fact-sheet-authorised-proactive-release-
+government-information  34
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)All Australian Information Commissioners and Ombudsmen collectively issued in 2021 a Statement of Principles 
+to support proactive disclosure of government-held information (see Figure 15)99. 
+This Statement of Principles has application in all jurisdictions of the Commonwealth of Australia and is 
+particularly important in its constituencies that do not mandate proactive release of information under their 
+Right to Information legislation.
+The Australian case suggests that pro-active disclosure of government-held information becomes an important 
+factor for enabling Access to Information as it is an efficient service, which promptly informs the public, increases 
+its interest, participation in community life, and eventually – trust and confidence in the public institutions. To be 
+appropriate and relevant, such procedures must be required by law and influence the decision-making process. 
+Information oversight institutions can play a crucial role in their implementation in practice.
+99 Joint Statement of Principles to support proactive disclosure of government-held information – developed by all Australian Information Commissioners 
+and Ombudsmen, 24 September 2021, https://www.ipc.nsw.gov.au/information-access/open-government-open-data-public-participation/statement-of-
+principles .
+100 Ibid.FIGURE 15. Reasons for pro-active disclosure of information in Australia.100
+Principles to support 
+disclosure of government-
+held information recognize 
+that appropriate, prompt 
+and proactive disclosure 
+of government-held 
+information:o informs community, 
+o increases participation and 
+enhances decision-making, 
+o builds trust and confidence, 
+o improves service, 
+o is required or permitted by 
+law, 
+o improves efficiency.35
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)CONCLUSION36
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)Conclusion
+Reporting on SDG 16.10.2 serves as an incentive for countries and territories to improve 
+their legal regulatory frameworks, their implementation and/or their enforcement of 
+access to information. In this regard, the UNESCO survey, which provides a standardized 
+approach to monitoring SDG 16.10.2, has proven useful for countries and territories in 
+measuring and reporting progress on Access to Information at the national level, including 
+through the Voluntary National Reviews, the Universal Periodic Review that concerns the 
+human rights records. 
+Tracking progress on access to information in the past year through legal guarantees and 
+their implementation, with a particular focus on the mandates, sustainability and activities 
+of national oversight institutions, points to an overall steady progress of countries and 
+territories on the path of further enabling public access to information, a UN-recognized 
+instrument for sustainable development. As countries and territories make consistent 
+efforts to emerge from several crises of the global scale, the role of access to information 
+is widely reported by them as critical in strengthening communities and public institutions. 
+The need for openness, transparency and accountability remains to be on the top of the 
+governmental agendas. This is also a result of the growing public demand for information 
+that is accurate, timely, pro-active and reliable. As civic space became less vibrant during 
+the COVID-19 pandemic, access to information online has increased and moreover 
+significantly helped counterbalance the situation, enabling public participation and civic 
+engagement, stability and trust. 
+The findings from the UNESCO Survey on Public Access to Information, and voluntary 
+national reports (VNRs) in 2022 point to the significant and even growing number and 
+ratio of responding countries and territories that indicated having constitutional, statutory 
+and/or policy guarantees for access to information. Importantly, these guarantees 
+largely include the need for an oversight body and a requirement for the public bodies 
+to appoint officers handling access to information issues. These measures facilitate the 
+implementation of the guarantees, especially when the oversight body, typically an 
+Information Commission or Commissioner, is an independent institution. 
+As to the mandated role of the oversight institution, a worrisome situation that needs to be 
+further investigated is the significant drop in the proportion of countries and territories that 
+require from the oversight body to publish an annual report, to provide implementation 
+guidance to the public officials, and/or to engage in raising public awareness and even to 
+keep statistics. 
+36 A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)37
+A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)The survey points to a stable ratio of about three quarters of all requests for information 
+being granted worldwide, but this figure is still based on rather small number of countries 
+and territories that provided statistics on the numbers of actual requests submitted. 
+The report also observes a mutual reinforcement of the right of access to information 
+and the right to privacy. Digital and online tools and commercial platforms continue to 
+further dominate how private information is created, stored and shared. In 2022, the 
+Tashkent Declaration on Universal Access to Information recommended that internet 
+intermediaries implement internal policies guided by openness, transparency and respect 
+for human rights, including as it concerns data retention, accountability, multilingualism, 
+gender equality, and inclusiveness, in particular for persons with disabilities and other 
+marginalized and vulnerable groups, as well as to commit to a framework for transparency 
+of their algorithms and both human and automated decision-making. 
+The report points that data protection is still insufficiently provided for in national and 
+international law and policies. Imminent conflicts between the rights of access to 
+information and to protect privacy interests are successfully resolved when taking into 
+account the role of the public interest in that balance. 
+Taken together, the reported efforts made by the global community, firmly put the 
+situation with the implementation of the right of access to information on a steady path 
+forward, to sustainability and progress.
+With less than eight years left to achieve the SDGs, and with global challenges becoming 
+even more interconnected, the message is clear that access to information should remain 
+to be the link that binds together the diverse actions in rebuilding communities and 
+strengthening public institutions towards 2030 and beyond.
+37 A Steady Path Forward: UNESCO 2022 Report on Public Access to Information (SDG 16.10.2)

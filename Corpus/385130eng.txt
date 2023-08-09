@@ -1,0 +1,190 @@
+ 
+216 EX/19.II.INF  
+PARIS, 14 April 2023 
+English and French only  
+ 
+ 
+ 
+ Job: 202300627Executive Board  
+Item 19 of the provisional agenda  
+IMPLEMENTATION OF STANDARD-SETTING INSTRUMENTS  
+PART II 
+IMPLEMENTATION OF THE 2003 RECOMMENDATION  CONCERNING  
+THE PROMOTION AND USE OF MULTILINGUALISM AND UNIVERSAL  
+ACCESS TO CYBERSPACE  – ANALYSIS OF THE 2003 RECOMMENDATION  
+SUMMARY  
+Pursuant to paragraph 6 of 214 EX/Decision 13.IV, this 
+information document provides an analysis of the 
+2003 Recommendation which takes into account 
+developments in technologies and science and considers, inter alia, the objectives of the International 
+Decade of Indigenous Languages (2022-2032). 
+ 
+   Two hundred and sixteenth session  216 EX/19.II.INF 
+ Background 
+1. Information and knowledge are key determinants of wealth creation, social transformation, and 
+human development. U niversal access to information and knowledge, and respect for cultural and 
+linguistic diversity  also are two pillars of knowledge societies. L anguages enable the delivery of 
+information and knowledge coded in different sociocultural, political, and economic contexts. 
+Realizing the ever-increasing  penetration of  the Internet globally and the role of digital inclusion in 
+the developmental process , the UNESCO General Conference, at its 32nd session, adopted the 
+Recommendation concerning the Promotion and Use of Multilingualism and Universal Access to Cyberspace (hereinafter “the 2003 Recommendation”)  on 15 October 2003. 
+2. The 2003 Recommendation urges Member States to take appropriate legislative and/or other 
+steps to give effect to the norms and principles set forth in this R ecommendation within their 
+respective territories and jurisdictions. Within this framework, Member States are urged to develop 
+multilingual content and systems, facilitate access to the Internet, develop public domain content 
+and by doing so pay specific attention to intellectual property rights. The 2003 R ecommendation also 
+requests Member States to report back to UNESCO on measures taken at the country level to 
+implement this recommendation every four years. 
+Multilingualism in the sphere of development  
+3. Globally, awareness pertaining to the importance of linguistic diversity and multilingualism  has 
+increased since the adoption of the 2003 Recommendation. This is manifested in developmental 
+frameworks such as the World Summit on the Information Society Action Line on “Cultural diversity 
+and identity, linguistic diversity and local content”, the celebration of the International Year of Indigenous Languages i n 2019 and the recently launched International Decade of Indigenous 
+Languages 2022-2032. However , more can be done to acknowledge linguistic diversity and 
+multilingualism in mainstream developmental activities . The 2003 Recommendation plays a key role  
+in providing a normative framework to promote and use multilingualism on the Internet.  
+4. As the Internet has become one of the most important conduits to share information, the 
+Recommendation assert s a rights -based approach in accessing multilingual information on the 
+Internet. The 2003 Recommendation recognize s the Internet as an instrument for promoting the 
+realization of human rights as defined in Articles 19 and 27 of the Universal Declaration of Human Rights , and the Human Rights Council, at its 47th session
+1, asserted “the importance of access to 
+information and communications technology for the full enjoyment of human rights, strengthening democracy, the rule of law and empowering civic engagement, for attaining the Sustainable Development Goals and for the response to and a sustainable, inclusive and resilient recovery from 
+the coronavirus disease (COVID-19) pandemic, and recognizing also the need to bridge digital 
+divides”.  
+5. While the impact of multilingualism in cyberspace fans across all 17 Sustainable Development 
+Goals, specific attention is given to public access to information and fundamental freedoms  in 
+SDG  16, where national governments have an obligation to monitor and report progress on their 
+commitments and actions to guarantee public access to information. Access to i nformation also plays 
+a pivotal role to expand access to quality health a s more  health services are offered online (SDG 3), 
+inclusive and equitable quality education are offered online (SDG  4) and enable women and girls 
+access content online (SDG  5).  
+6. Since the COVID -19 pandemic , many development processes and services have gone online, 
+which has  facilitated service delivery, but at the same time has  resulted in inadvertent exclusion for 
+many language speakers, including persons with disabilities. Access to public services in different 
+ 
+1  A/HRC/RES/47/16  216 EX/19.II.INF – page 2 
+languages therefore has become a prerequisite for creating prosperous, just and inclusive societies.  
+There is also a need to enhance implementation of ICT initiatives and programmes tailored for 
+persons with disabilities. 
+7. The Global Action Plan of the International Decade of Indigenous Languages2 recognizes that  
+the right of free unimpeded choice of language use, expression and active engagement in public life 
+without fear of discrimination is a prerequisite for inclusiveness and equality as key conditions for 
+the creation of open and participatory societies . The 2003 Recommendation provides concrete 
+actions by Member States to digitally enable all language speakers to become active contributors 
+to, and beneficiaries of, sustainable development.  
+Status of m ultilingual content and systems in cyberspace 
+8. The global narratives for multilingualism  in cyberspace are changing with the rapid 
+developments of the Internet and digital technologies, such as artificial intelligence, and the question 
+of multilingualism remains  central to ensuring digital inclusion. Within  this sphere, the report of the 
+Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression 
+submitted to the 66th session of the United Nations General Assembly noted that “[w]ith a few 
+languages dominating the online environment, language barriers can also be a further impediment to access online content”
+3.  
+9. T he total number of I nternet users in 2003, when the 2003 R ecommendation was adopted, 
+was 608 million or about 10.5% of the world population. The same figure for the end of 2022 stood 
+at 5.3 billion people or 66% of the world population4. Although the number of I nternet users has 
+grown, still only a few languages are prevalent on the Internet. Only 14 languages share more than 
+91.4% of the content on the I nternet .  
+Status of facilitation of access to networks and systems  
+10. As urged in the 2003 Recommendation to automate translation services accessible to all, o f 
+late language translation processes and tools have been developed to support multilingualism  in 
+cyberspace. Machine translation is the process of automatically translating content from one 
+language to another without any human input. What started out as rule -based machine translation 
+and statistical machine translation process es have recently received a significant boost with artificial 
+intelligence- enabled n eural network translation. The latter shows promise but is currently available 
+only to a few selec ted languages. Both digital resources and training data are not sufficient to 
+generate acceptable solutions to address broader application of the technology . During 2020-2021, 
+UNESCO undertook a project to enhance digital resources for n ine low-resourced languages in 
+Africa . The project shows that m ore research and efforts are needed  to reach out to other  low-
+resourced languages and develop a standard replicable methodology. It is noted that i mplementation 
+of such initiatives requires policy shif ts and establishment of effective South-South and triangular 
+cooperation  as encouraged by the 2003 Recommendation. Member States should consider  
+formulating appropriate national policies in favour of multilingualism and linguistic diversity in the 
+cyberspace . 
+11. There are still significant steps and resources needed to encourage collaborative participatory 
+research and development on, and local adaptation of, operating systems, search engines and Internet browsers with extensive multilingual capabilities, online dictionaries and terminologies. In 
+this context, efforts like the UNESCO World Atlas of Languages, which is in the process of 
+development with much needed scientific backstopping, has advanced. The World Atlas of 
+Languages is an interactive and dynamic online tool that documents different aspects and features 
+ 
+2  https://unesdoc.unesco.org/ark:/48223/pf0000379853.locale=en   
+3 A/66/290  
+4 https://www.itu.int/en/ITU -D/Statistics/Pages/stat/default.aspx   216 EX/19.II.INF – page 3 
+of language status in countries and languages around the world. The 2003 Recommendation calls 
+for more efforts to encourage open access solutions including the formulation of technical and 
+methodological standards for information exchange, portability and interoperability, as well as online accessibility of public domain information on global information networks. 
+12. The Global Plan of Action of the International Decade of Indigenous Languages  has urged the 
+global community to strengthen linguistic diversity and multilingualism as a key driver of sustainable 
+development. In this spirit, it is essential to ensure that effective steps are taken during these coming 
+years to make certai n that  through their languages, i ndigenous peoples become active contributors 
+to, and beneficiaries of, sustainable development. The Global Plan of Action urges that “favourable 
+conditions are established for digital empowerment, freedom of expression, media development, access to information and language technology .” 
+Development of public domain content 
+13. There is a major drive to i nternationalize domain names
+5, which hitherto were  only available in  
+Latin characters. E volutions in this field have positively  contributed to increase multilingualism online. 
+However more efforts are needed to internationalize domain names in different languages and allow 
+using unicod e characters  in domain names . Incentives in this area are still needed to encourage new 
+innovations.  
+14. I n this context, the resolution adopted by the U nited Nations  General Assembly  in 20226 
+welcomed “the activities of the United Nations Educational, Scientific and Cultural Organization, 
+aimed at fostering respect for and the promotion and protection of all languages, in particular endangered ones, linguistic diversity and multilingualism ”. As creation of accessible language 
+repositories in the public domain was emphasized in the 2003 Recommendation, UNESCO is co-
+creating the World Atlas of Languages as a collaborative online observatory on multilingualism and 
+multilingual resources.  
+15. In addition, with a view to increas ing digital content online and to broaden inclusion, UNESCO 
+Member States have adopted a Recommendation on Open Educational Resources  (OER) in 
+2019 during the 40th session of the General Conference and a Recommendation on Open Sciences 
+in 2021 during the 41st session of the General Conference. The 2019 Recommendation seeks to 
+increase openly licensed content online and foster supportive policies and capacity building for no-
+cost access, re-use, re-purpose, adaptation and redistribution of content. Similarly, the 
+2021 Recommendation encourages M ember States to release o pen access content in cyberspace.  
+This is in line with  the 2003 Recommendation which encourages use of open access solutions 
+including the formulation of technical and methodological standards for information exchange, 
+portability and interoperability, as well as online accessibility of public domain information on global 
+information networks . 
+Reaffirmation of equitable balance between the interests of rights-holders and the public 
+interest 
+16. As per the I nternational Telecommunication Union (ITU )7, the world still has 2.7 billion people 
+offline. Gender-based divides remain in terms of I nternet access8, and the rural -urban disparity and 
+the quality of the I nternet still dampens efforts to deliver digital content online. T he Global Plan of 
+Action for the International Decade of Indigenous Languages reaffirm s the importance of equitable 
+access to information in indigenous languages in cooperation with multistakeholder mechanisms  to 
+(i) promot e advocacy and awareness -raising within the context of the World Summit on the 
+ 
+5  https://www.icann.org/resources/pages/idn- 2012 -02-25-en 
+6  A/RES/76/268  
+7  https://www.itu.int/en/ITU -D/Statistics/Pages/stat/default.aspx  
+8 https://itu.foleon.com/itu/measuring -digital -development/gender- gap 216 EX/19.II.INF – page 4 
+Information Society (WSIS), the United Nations Group on the Information Society (UNGIS), 
+community and public -private partnerships including with i nformation technology industry players ; 
+and (ii) implement normative instruments .  
+17. As urged by the 2003 Recommendation, over 2 billion items of content with c reative commons 
+licenses have been released thus far9. It is equally important to enhance the functional usage of 
+different languages across disciplines and domains, including in international forums, thereby 
+providing opportunities for people to express themselves in the language of their choice. Since most 
+of these efforts are increasingly delivered and received offline, enabling digital mechanisms to facilitate these processes have become critically i mportant.  
+Conclusions 
+19. The 2003 Recommendation continues to be a highly relevant framework for guiding the action 
+of different stakeholders to improve the use of multilingualism and universal access to cyberspace. 
+Since its adoption, efforts have been made to support the usage of i nternationalized domain names 
+(IDNs) and to make the Internet more accessible to users who do not use the Latin alphabet. Some 
+efforts have also been made to make language -specific tools and resources widely available, but 
+more user -friendly efforts are needed for those who do not speak English as their first language. 
+Similarly, more efforts are still needed to make content in multiple languages to help guarantee that 
+users who speak languages other than English have access to information and resources on the 
+Internet. Policy reforms to adopt open licenses could still be developed to support multilingualism.  
+20. There are hopes that the rapid technological developments, including in the field of  artificial 
+intelligence, will provide a major boost to enhance multilingualism online. Member States  have a key 
+role to play  to foster multilingualism  to empower  citizens and increase the number of people who 
+can participate in the online world in their mother tongue. Similarly , supporting research in language 
+technologies, such as machine translation and natural language processing, will assist in raising the 
+standard and precision of multilingual material on the Internet. Recent efforts on multilingualism by 
+the U nited Nations, including the International Year of Indigenous Languages and the ongoing 
+International Decade of Indigenous Languages 2022-2032 demonstrate the global commitment for 
+multilingualism. However, sustained efforts are needed to create an enabling environment that 
+encourages linguistic diversity and appreciates the significance of multilingualism in the digital age. 
+ 
+ 
+9  https://creativecommons.org/wp-content/uploads/2022/04/CC -2021-State -of-Commons -AR.pdf  
+Printed on recycled pape r 

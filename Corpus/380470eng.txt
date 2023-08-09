@@ -1,0 +1,637 @@
+Issue brief
+Access to Information laws:
+a guarantee of inclusion and disability rights
+Key highlights:
+The importance of access to information (ATI)  as an internationally 
+recognised human right for all, including for persons with disabilities , 
+has long been acknowledged. However, the realisation of this right for 
+those with disabilities remains a challenge . 
+The 2030 Agenda for Sustainable Development  calls upon countries 
+to ensure public access to information, as embedded in Indicator 
+16.10.2, and to create enabling environments by, for and with persons 
+with disabilities, in accordance with the UN Convention on the Rights 
+of Persons with Disabilities  (CRPD) . Thus, it is important to recall and 
+support the States Parties as stipulated in the CRPD, Art. 21: “States 
+Parties shall take all appropriate measures to ensure that persons with 
+disabilities can exercise the right to freedom of expression and opinion, 
+including the freedom to seek, receive and impart information and ideas 
+on an equal basis with others and through all forms of communication of 
+their choice […]”. 
+According to UNESCO data, the rights of persons with disabilities are 
+absent  from most ATI laws. Where reference is made to persons with 
+disabilities and accessibility of information, the scope of the disabilities 
+covered and the rights secured for persons with disabilities are rather 
+limited,  or not always clear . 
+Of the 132 countries with ATI laws examined for this report, 37 explicitly 
+refer to persons with disabilities and their rights to varying degrees. 
+Effective accessibility criteria  are missing from many existing legislative 
+frameworks, or that implementation is hindered by factors such as 
+inadequate awareness  and training around the rights of persons with 
+disabilities and insufficient funding .  
+Countries should consider steps towards an inclusive and 
+comprehensive  legislative framework containing minimum mandatory 
+accessibility standards that ensure access to information for persons with 
+disabilities, without discrimination based on type of disability, geographical 
+location, financial means, and language capabilities, among other factors.  
+Monitoring and reporting of Indicator 16.10.2  also provides an 
+opportunity for countries and other concerned stakeholders to improve 
+actual implementation of the provisions of normative instruments such as 
+the CRPD.
+CI/UAI/2022/PI/01 
+
+
+
+
+
+Reaching the Furthest Behind First2The 2030 Agenda for Sustainable Development  calls upon countries to ensure the full and equal 
+participation of persons with disabilities  in all spheres of society, in accordance with the UN 
+Convention on the Rights of Persons with Disabilities  (CRPD). As acknowledged by Sustainable 
+Development Goal (SDG) Indicator 16.10.2 , ensuring public access to information is a critical aspect 
+of sustainable development. Access to information (ATI) also facilitates the realisation of other human 
+rights. According to the former UN Special Rapporteur on the rights of persons with disabilities, 
+Catalina Devandas-Aguilar, “when accessible information and communications are not available, 
+a range of persons with different disabilities cannot effectively benefit from public policies and 
+programmes”.
+UNESCO within the areas of its mandate contributes to the implementation of the CRPD, particularly 
+related to the Article 9 on Accessibility; Article 21 Freedom of Expression and Access to Information; 
+Article on 24 Education; and Article 31 on International Cooperation. UNESCO also contributes to 
+the implementation of the 2030 Agenda for Sustainable Development and relevant Goals through 
+its involvement in the UN Interagency Support Group on the CRPD and the UN Disability Inclusion 
+Strategy. 
+UNESCO is also the UN custodian agency for the global monitoring of SDG Indicator 16.10.2: Number 
+of countries that adopt and implement constitutional, statutory and/or policy guarantees for public 
+access to information. UNESCO has included in its monitoring and reporting instrument for SDG 
+Indicator 16.10.2, under the ‘Institutional Questionnaire’, a specific question related to accessibility 
+for persons with disabilities. 
+This report provides an analysis of the inclusion of persons with disabilities or lack thereof in ATI 
+legislations across the globe, based on the existing ATI laws in 132 countries.1 The report further 
+presents a series of recommendations to advance the rights of persons with disabilities within the 
+scope of the right to information.
+“When accessible information and 
+communications are not available, 
+a range of persons with different 
+disabilities cannot effectively 
+benefit from public policies and 
+programmes”.
+- Catalina Devandas-AguilarIntroduction
+1 As this research primarily focused on ATI legislations, the author acknowledges that it is subject to a number of limitations. For instance, in 
+some countries the rights of persons with disabilities may not be mentioned in the ATI legislation, but there are other laws that specifically set 
+out the principles of provision of accessible information for persons with disabilities. This research did not explore any such laws. Additionally, 
+any national, regional, or local codes, policies, standards, regulations, rules, or guidelines were not investigated. The research also did not focus 
+on private or commercial practices or initiatives that may facilitate access to information for persons with disabilities. Finally, the research was 
+conducted based on the legislative status quo; therefore, any ongoing or prospective law reform in the countries discussed was left outside the 
+scope of this research.Reaching the Furthest Behind First3The importance of access to information (ATI)  as an internationally recognised human right for all, 
+including for persons with disabilities, has long been acknowledged. 
+The right to “freedom of opinion and expression” and to “seek, receive and impact information 
+and ideas”  was first recognised in Article 18 of the Universal Declaration of Human Rights (UDHR)  
+and later reiterated, almost word for word, in Article 19 (2) of the International Covenant on Civil 
+and Political Rights (ICCPR) . The same wording was later used in Article 13 of the Convention on 
+the Rights of the Child (CRC)  and Articles 9(1) (b) and 21 of the UN Convention on the Rights of 
+Persons with Disabilities (CRPD) .
+The CRPD  recognises that civil and political rights, such as the right to information, are a vital 
+precondition in order for persons with disabilities  to achieve their rights and overcome exclusion. 
+The approach of the CRPD to the right to freedom of expression and access to information is 
+unique in two ways. First, the Convention discusses equality for persons with disabilities in accessing 
+information. Second, it places the right to information in the context of disability accessibility.2  
+Article 9(1) requires States Parties to take appropriate measures to ensure access to information 
+for persons with disabilities on an equal basis with others.3 It goes on to require States to eliminate 
+obstacles and barriers to accessibility of information.4 Article 9(2) suggests measures such as 
+providing training for stakeholders on accessibility,5 and promoting “other appropriate forms of 
+assistance and support to persons with disabilities to ensure their access to information”.6
+Additionally, Article 19 of the CPRD further emphasises the States Parties’ obligations vis-à-vis 
+persons with disabilities regarding the realisation of their right to “freedom of expression and 
+opinion, including the freedom to seek, receive and impart information and ideas”. Similarly, Article 
+21 calls for measures that enable persons with disabilities to “seek, receive and impart information 
+and ideas on an equal basis with others and through all forms of communication of their choice […]”.7 
+Article 2 of the Convention defines communication as “[b]raille, tactile communication, large print, 
+accessible multimedia as well as written, audio, […] human-reader and augmentative and alternative 
+modes, means and formats […] and accessible information and communication technology”.8
+One of the measures that some UN Member States have adopted is the inclusion of provisions in 
+their respective national legislations on Access to Information (ATI) which recognise the specific 
+rights and needs of persons with disabilities. While this is a step in the right direction, the level 
+of conformity of these provisions with the normative standards of international human rights 
+instruments is quite varied. Of the 132 countries with ATI laws9 examined for this report, 37 explicitly 
+refer to persons with disabilities and their rights to varying degrees.10I. Disability rights vis-à-vis Access to Information within 
+international normative instruments
+II. Conformity of provisions on disability rights vis-à-vis Access to 
+Information with international normative instruments
+2 CRPD, arts 9(1) and 21(a).
+3 Art 9(1).
+4 Art 9 (1)(b).
+5 Art 9 (2)(c).
+6 Art 9 (2)(f).
+7 Art 21.
+8 Art 2.
+9 The 132 countries were based on UNESCO’s database as at August 2021. 
+10 These countries are Afghanistan, Antigua, Azerbaijan, Bangladesh, Brazil, Bulgaria, Burkina Faso, Canada, Colombia, Ethiopia, Fiji, Ghana, India, 
+Ireland, Kazakhstan, Kenya, Liberia, Malawi, Maldives, Mexico, Montenegro, Mozambique, Nicaragua, Nigeria, Pakistan, Sierra Leon, Saint Kitts and 
+Nevis, Saint Vincent and the Grenadines, Seychelles, South Africa, Sudan, Tanzania, Tunisia, Uganda, Ukraine, Vanuatu, and Vietnam.Reaching the Furthest Behind First4The common themes in these laws relate to placing a request for access to information in 
+accessible formats , and provisions for further assistance  to persons with disabilities.
+With regard to placing a request for access to information, 11 countries allow applicants with 
+disabilities to submit an oral request where a written one would normally be required.11 Additionally, 
+six countries require the information provider to assist the persons with disabilities in submitting 
+their request when their disability prevents them from doing so in a manner generally prescribed by 
+the law.12
+Of the 11 countries that specifically mention the provision of information to persons with disabilities 
+in an accessible format, 10 use broad wording that refers to an “alternative format” or a similar 
+concept. Of these, three limit the provision of information in alternative formats to conditions such as 
+cost, time and copyright law restrictions. One country only refers to content accessibility for persons 
+with disabilities when information is provided on websites.
+When assessing further the conformity with the CPRD of the provisions on the rights of persons with 
+disabilities in these ATI laws, the research reveals the following key findings:
+1. Reference to the rights of persons with disabilities remains vague and brief.  Wording 
+of the laws could go further and assert firmly the rights of persons with disabilities. Using 
+weak terms such as: “assistance, consideration” or “necessary conditions” and “mechanisms” 
+minimizes the impact, importance and scope of the rights.  These wordings would not be 
+conducive to effective provision of access for persons with disabilities as it provides neither 
+sufficient understanding and guidance for public authorities of their obligations, nor for 
+persons with disabilities of their rights.13 The legislation should ensure that the obligation to 
+provide accessibility and reasonable accommodation for persons with disabilities is sufficiently 
+recognised.14 
+2. The legislation does not provide clear criteria for the provision of government 
+information to persons with disabilities online.  The Office of the United Nations High 
+Commissioner for Human Rights (OHCHR) recommends that ATI legislation should “guarantee 
+full access of public sector websites and apps, and availability of government information in 
+alternative formats” for persons with disabilities.15 In 2018, a study of government portals of 
+the 193 UN Member States found limited availability of accessibility features for those with 
+11 These countries are Afghanistan, Antigua, Azerbaijan, Ethiopia, Ghana, Maldives, Saint Kitts and Nevis, South Africa, Sudan, Tanzania, and 
+Uganda. 
+12 These countries are Kenya, Liberia, Pakistan, Seychelles, Ukraine, and Vietnam.
+13 Open Society Justice Initiative, “Transparency and Silence: A Survey of Access to Information Laws and Practices in 14 Countries”, 2006, at page 
+92 recommending that “in countries where the law stipulates that public officials should assist illiterate or disabled requesters to convert oral 
+requests to writing, appropriate procedures should be established to ensure that such assistance is provided”.
+14 OHCHR, “Human Rights Indicators on the CPRD, Article 5: List of illustrative indicators on equality and non-discrimination”, 2020, at page 4.
+15 OHCHR, “Human Rights Indicators on the CPRD, Article 5: Illustrative indicators accessibility”, 2020, at page 2. See also OHCHR, “Human Rights 
+Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to information”, 2020, at page 3.Reaching the Furthest Behind First5visual impairments, hearing difficulties, or other forms of disabilities.16 Among countries with 
+specific reference to persons with disabilities in their ATI legislation, only the laws of Brazil and 
+Mexico arguably cover online information which should be made available to persons with 
+disabilities, either proactively or upon request.  
+3. The legislation does not clarify the scope of disabilities subject to the Act or is restrictive 
+regarding the disabilities covered.  As the CRPD Committee has established, “accessibility 
+should be provided to all persons with disabilities, regardless of the type of impairment”.17 
+This is supported by the view of the OHCHR of Article 5 of the CRPD that any legislation that 
+implements the Convention should “explicitly cover all persons with disabilities, including 
+[…] hard-of hearing persons, deaf persons and people with psychosocial disabilities.”18 The 
+OHCHR has further stipulated that ATI legislation should ensure that “procedures to request 
+public information are accessible and usable by all persons with disabilities  [emphasis added]”.19 
+While the legislation of some of the countries analysed use broad wordings such as  “due 
+to disability”,20 “disabled persons”,21 or “persons with disabilities”,22 the wording in some 
+other legislation appears restrictive. These includes only referencing terms such as “physical 
+disability”, “perceptual handicapped”, “persons with impaired sight, hearing or speech”.  
+Additionally, some of the language used may not be consistent with the Convention regarding 
+the concept of disability. Based on the Convention, several other terms such as “handicapped”, 
+“physical incapacity”, “physically challenged”, or “person of different abilities” may not be 
+consistent enough and risk of not being universally understood.  
+4. The legislation only refers to the submission of a request for access to information for 
+persons with disabilities, but omits to insist on the provision of such access and clarify 
+its modalities.23 It could be argued that when the submission of a request is mentioned, it 
+is implied that provision of access to such information would follow. However, lack of clear 
+reference to how access is to be made possible could cause uncertainty both for providers of 
+information and persons with disabilities. Clear language would better prevent misinterpreting 
+the conditions under which access is provided.
+16 UN Department of Economic and Social Affairs, “Disability and Development Report: Realizing the Sustainable Development Goals by, for and 
+with persons with disabilities”, 2018, at page 184.
+17 Committee on the Rights of Persons with Disabilities, “General comment No. 2, Article 9: Accessibility”, CRPD/C/GC/2, 22 May 2014, at para 13.
+18 HRC, “Equality and non-discrimination under article 5 of the Convention on the Rights of Persons with Disabilities, Report of the Office of the 
+United Nations High Commissioner for Human Rights”, A/HRC/34/26, 9 December 2016, at para 68.
+19 See OHCHR, “Human Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to 
+information”, 2020, at page 5.
+20 Afghanistan, Antigua, Ghana, Ireland, Kenya, Mexico, Pakistan, Saint Kitts and Nevis, South Africa, Tanzania, Tunisia, Uganda, Ukraine, and 
+Vanuatu.
+21 Kazakhstan, Montenegro, Mozambique, Nigeria, and Sudan.
+22 Brazil, Burkina Faso, Colombia, Fiji, Sierra Leone, and Vietnam.
+23 Afghanistan, Antigua and Barbuda, Azerbaijan, Ethiopia, Ghana, Kenya, Maldives, Nigeria, Saint Kitts and Nevis, Sudan, and Ukraine.Reaching the Furthest Behind First65. The legislation only covers direct requests for information by persons with disabilities 
+without covering proactive disclosure.  An illustrative indicator on accessibility, according 
+to the OHCHR, is the number of reports published by public authorities intended to the 
+general public in accessible formats.24 In a few countries,25 the legislation requires that public 
+information is made available in accessible formats. In other countries, the ATI information only 
+focuses on provision of accessible information when a specific request is made by a person 
+with disabilities. This may lead to indirect discrimination against people with disabilities when 
+accessing information, which would be against the spirit of equality.26 
+6. The legislation does not cover the issue of the cost of making information accessible to 
+persons with disabilities.  The OHCHR recognises that a legislative framework ensuring access 
+to information for by persons with disabilities should do so “without additional cost”.27 Burkina 
+Faso, Ghana, South Africa, and Uganda address the issue of cost in this respect in their ATI 
+legislation. In the remainder of countries analysed, the legislation makes no reference to the 
+cost of access to information for persons with disabilities.  
+7. The legislation imposes restrictive conditions on provision of access to information for 
+by persons with disabilities.  In a number of countries assessed, the ATI legislation mandates 
+access for persons with disabilities with the reference to time needed; or, without it causing “a 
+disproportionate or undue burden” or unreasonable interference with the “operations of the 
+information holder”.  
+8. The legislation does not provide for appeal and oversight mechanisms in relation 
+to access to information for persons with disabilities.  As recommended by the CRPD, 
+accessibility legislation “should provide for the mandatory application of accessibility 
+standards and for sanctions, including fines, for those who fail to apply them.”28 Montenegro 
+is an example of a country that includes fines for failure to provide access to persons with 
+disabilities. Other countries, for example Antigua and Barbuda, include provisions relating 
+to fines generally in their national legislation, which may be of relevance to persons with 
+disabilities.29
+24 OHCHR, “Human Rights Indicators on the CPRD, Article 5: Illustrative indicators accessibility”, 2020, at page 2. See also  OHCHR, “Human Rights 
+Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to information”, 2020, at page 3.
+25 Brazil, Colombia, Mexico, and Vietnam.
+26 See OHCHR, “Human Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to 
+information”, 2020, at page 5 clarifying that ATI legislation should “prevent any restriction that directly or indirectly discriminates against persons 
+with disabilities”.
+27 OHCHR, “Human Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to 
+information”, 2020, at page 2.
+28 Committee on the Rights of Persons with Disabilities (CRPD Committee), “General comment No. 2, Article 9: Accessibility”, CRPD/C/GC/2, 22 May 
+2014, at para 28.
+29 The Freedom of Information Act 2004, s 48(2).Reaching the Furthest Behind First730 Secretariat for the CRPD, “Operationalizing the 2030 Agenda: Ways forward to improve monitoring and evaluation of disability inclusion”, 15 
+March 2016, at page 3.
+31 UN General Assembly Seventy-First Session, “Report of the Special Rapporteur of the Human Rights Council on the rights of persons with 
+disabilities”, A/71/314, 9 August 2016, at para 36.
+32 OHCHR, “Human Rights Indicators on the CPRD, Article 9: Illustrative indicators accessibility”, 2020, at page 2.
+33 Committee on the Rights of Persons with Disabilities, “General comment No. 2, Article 9: Accessibility”, CRPD/C/GC/2, 22 May 2014, at para 10.
+34 UN General Assembly Seventy-First Session, “Report of the Special Rapporteur of the Human Rights Council on the rights of persons with 
+disabilities”, A/71/314, 9 August 2016, at para 39.Several challenges to the provision of access to information for persons with disabilities in general, 
+and to the implementation of access to information legislation that recognises the rights of persons 
+with disabilities in particular, have been identified by UN treaty bodies, governments, civil society, and 
+other stakeholders alike. These challenges are summarised below:
+1. There is a lack of effective accessibility standards.  The Secretariat for the CRPD highlighted, 
+in 2016, that the lack of accessibility standards and measures prevent “the review and follow-
+up of SDG targets related to accessibility”. According to the Secretariat, even when accessibility 
+guidelines exist in certain countries, “accessibility assessments are seldom conducted”.30 
+Furthermore, research by the former UN Special Rapporteur on the rights of People with 
+Disabilities showed that “standards and regulations on accessibility are fragmented by sector, 
+which tends to hinder effective coordination between different institutions, departments or 
+companies in charge of their implementation”.31  
+ 
+The OHCHR has recently explained that an illustrative indicator on accessibility as recognised 
+under Article 9 of the CRPD is the enactment of legislation that ensures the right to access, 
+on an equal basis with others, to information and communications for persons with 
+disabilities. This, according to the OHCHR, requires the establishment of mandatory standards 
+on accessibility of information. This goes hand in hand with the need for “existence of a 
+comprehensive national accessibility strategy and/or plan to identify and eliminate all existing 
+barriers to accessibility.”32 The lack of, or the inefficiency of, a national accessibility strategy, 
+plan or action is also among the challenges identified by the CRPD Committee in some of the 
+countries where the ATI legislation includes an explicit reference to persons with disabilities.  
+2. Existing accessibility standards or plans are not effectively implemented.  According 
+to the CRPD Committee, one common challenge among States is the “lack of an adequate 
+monitoring mechanism to ensure the practical implementation of accessibility standards and 
+relevant legislation”.33 As of 2016, the report of the former UN Special Rapporteur on the 
+rights of persons with disabilities highlighted the “low level of implementation of accessibility 
+policies or programmes worldwide”.34 This extends to implementation of accessibility policies 
+in relation to ATI for persons with disabilities. For instance, when the legislation calls for 
+alternative modes of submission of a request by persons with disabilities, or general assistance 
+in request submissions, other measures are needed to guarantee such accommodation is 
+indeed provided. A research project by the Open Society Justice Initiative in 2006 showed a 
+much lower compliance rate by public information providers for members of excluded groups 
+(including people with disabilities) as compared to other requesters. This was partly attributed III. Challenges in the implementation of ATI guarantees for persons 
+with disabilitiesReaching the Furthest Behind First8to the lower compliance rate for oral requests, which in many of the countries assessed 
+in this paper is the prescribed alternative method of request submission by persons with 
+disabilities.35  
+3. There is insufficient awareness regarding ATI for persons with disabilities among 
+information providers.  The increased difficulty for persons with disabilities in accessing 
+information can also be explained by the fact that a recent survey of 73 public authorities 
+in countries with ATI legislation showed that “only 58 percent provided specialised training 
+on the right to information for their information officers.”36 Lack of sufficient awareness 
+among information providers due to no, or inadequate, training would be a hurdle in the 
+implementation of ATI legislation that recognise the rights of persons with disabilities.  
+4. There is a lack of sufficient information and data on the different aspects of access 
+to information for persons with disabilities.  A significant challenge to the meaningful 
+implementation of ATI legislation, as highlighted by the CRPD Committee, is the lack of any 
+“specific mechanisms for evaluating compliance with accessibility legislation”.37 This is part of 
+the larger issue of “quality data on persons with disabilities and the evidence base on what 
+works to practically implement the CRPD” being limited.38 Accurate, up-to-date, and relevant 
+information and statistical data play an important role in assessing compliance, as without 
+such insight, the identification and bridging of any existing gaps would prove difficult. What 
+cannot be measured cannot be improved.  
+ 
+The CRPD Committee has expressed concerns regarding the lack of sufficient information 
+on access to information for persons with disabilities in its concluding observations on the 
+Convention’s Member States’ reports.39 The OHCHR recognises the existence of information 
+on the “number and proportion of requests of public information being granted to persons 
+with disabilities in accessible formats” as an indicator for the realisation of Article 21 of the 
+CRPD.40 The CRPD Secretariat has identified the “perception that disability data collection is too 
+costly”41  and the lack of involvement by persons with disabilities and their organisations42 as 
+contributing factors to the challenge of collecting sufficient disability data.
+35 Open Society Justice Initiative, “Transparency and Silence: A Survey of Access to Information Laws and Practices in 14 Countries”, 2006, at page 
+94 for a case study of attempts to submit oral request by a disabled woman in South Africa, and at page 164.
+36 UNSTATS, “SDG 16: More countries now have freedom-of, information laws, but their implementation could be stepped up” available at https://
+unstats.un.org/sdgs/report/2020/goal-16/  (accessed 20 June 2021).
+37 Committee on the Rights of Persons with Disabilities, “Concluding observations on the initial report of Mexico”, CRPD/C/MEX/CO/120, 27 October 
+2014, at para 19.
+38 UNPRPD, “Strategic Operational Framework 2020-2025”, July 2020, at page 9.
+39 See e.g.  CRPD Committee, “Concluding observations on the initial report of Canada”, CRPD/C/CAN/CO/1, 8 May 2017, at para 39 (c) where the 
+Committee notes its concern with “the absence of information about compliance with standards of accessibility for websites in the public and 
+private sectors.”; CRPD Committee, “Concluding observations on the initial report of Kenya”, CRPD/C/KEN/CO/1, 30 September 2015, at para 
+39(b) where the Committee expresses its concern about “the lack of information on low-cost information and communications technology for 
+persons with disabilities, including those living in rural areas.”; CRPD Committee, “Concluding observations on the initial report of South Africa”, 
+CRPD/C/ZAF/CO/1, 23 October 2018, at para 8(e) where the Committee expresses concern regarding “the absence of information on the legal 
+remedies and measures of redress and compensation for persons with disabilities subjected to discrimination”.; CRPD Committee, “Concluding 
+observations on the initial report of Ukraine”, CRPD/C/UKR/CO/1, 2 October 2015, at para 58 where the Committee notes with concern “the lack of 
+statistical information about the situation of persons with disabilities in the State party, particularly by impairment group, and the absence of data 
+disaggregated by disability across all sectors, which impedes effective policy formulation”.
+40 OHCHR, “Human Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to 
+information”, 2020, at page 4.
+41 Secretariat for the CRPD, “Operationalizing the 2030 Agenda: Ways forward to improve monitoring and evaluation of disability inclusion”, 15 
+March 2016, at page 6.
+42 Ibid at page 8.Reaching the Furthest Behind First95. There is a lack of sufficient funds for facilitating ATI for persons with disabilities.  In 2014, 
+the CRDP Committee highlighted the low number of qualified sign language interpreters, lack 
+of easy-to-read formats and augmentative and alternative modes of communication, prejudice 
+against persons with disabilities, and a lack of adequate training of the staff providing access 
+to information services as being the main barriers to the realisation of the Right to Information 
+for persons with disabilities.43 A common denominator for many these challenges  would be 
+the allocation of sufficient funds to facilitate the use of alternative modes of communication 
+for persons with disabilities, e.g., sign language, and the provision of alternative and accessible 
+formats of information, e.g. Braille, large print, or audio.44 The UNPRDP, in its Strategic 
+Operational Framework for 2020-2025, identifies “a lack of dedicated financial resources” as 
+one of the significant barriers to the implementation of CRPD,45 which would in turn impact the 
+implementation of ATI legislation addressing the rights of persons with disabilities.  
+ 
+On the issues of budgeting and training, disparities between the conduct of central and local 
+governments could also lead to unsatisfactory implementation of ATI legislation and the 
+provision of access for persons with disabilities. The former UN Special Rapporteur for persons 
+with disabilities has noted that “the lack of a coordinated response between national and 
+local authorities has a negative impact on the availability and quality of services for persons 
+with disabilities, in particular those living in disadvantaged rural and remote areas”.46 With 
+the exception of a few countries analysed for this paper, the ATI legislation does not seem 
+to recognise the intersectional issues that relates to persons with disabilities living in rural or 
+remote areas, belonging to various ethnic and socio-economic groups.
+44 See e.g.  CRPD Committee, “List of issues in relation to the initial report of Burkina Faso”, CRPD/C/BFA/Q/1, 15 October 2020, at para 19. 
+45 UNPRPD, “Strategic Operational Framework 2020-2025”, July 2020, at page 9.
+46 UN General Assembly Seventy-First Session, “Report of the Special Rapporteur of the Human Rights Council on the rights of persons with 
+disabilities”, A/71/314, 9 August 2016, at para 57.
+47 OHCHR, “Human Rights Indicators on the CPRD, Article 9: Illustrative indicators on accessibility”, 2020, paras 9.4 and 9.6; and OHCHR, “Human 
+Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to information”, 2020, 
+paras 21.1 and 21.1.1.
+48 CRPD Committee, General Comment No. 2 (2014) Article 9: Accessibility, CRPD/C/GC/2, 22 May 2014, para 28.1. Adoption of a legal framework and relevant policies.  The existence of a legal framework 
+establishing mandatory standards on accessibility of information and communication, 
+and legislation regulating the availability of government information in accessible formats, 
+are important indicators of accessibility of information as required under the CRPD.47 
+The CRPD Committee recommends that states carry out a comprehensive review of their 
+laws on accessibility, if any, to identify, monitor, and address the gaps in their legislation 
+and implementation mechanisms.48 Therefore, the first step for the realisation of right to 
+information for persons with disabilities is for countries to assess whether, and to what extent, 
+their legislation and policies secure that right. In countries where general ATI legislations 
+already exist, such laws can be amended to include provisions for ATI for persons with 
+disabilities. Alternatively, new and separate laws can be adopted to address the rights of 
+persons with disabilities. In countries that have not adopted ATI laws yet, it is suggested that 
+the lawmakers consider the inclusion of provisions that facilitate access for persons with IV. Recommendations to advance the rights of persons with 
+disabilities within the larger scope of right to informationReaching the Furthest Behind First10disabilities.  In any case, a legal framework for ensuring access to information for people with 
+disabilities should meet certain criteria that are discussed in point 2 below.  
+2. Requirements of an effective legislative framework.  When adopting or amending their 
+legislative frameworks for provision of access to information for persons with disabilities, states 
+should pay special attention to the following points:
+a. The legislative framework should recognise the rights of all persons with any 
+physical or intellectual disability  that hinders their access to information, without 
+any discrimination based on the type or extent of the disability. The use of the phrase 
+“persons with disabilities” in legislation, policies and any other relevant instruments 
+should help ensure that persons with disabilities are not discriminated against based 
+on the type of their disability.
+b. A legislative framework for the realisation of the right to information for persons 
+with disabilities should contain mandatory minimum accessibility standards.49 
+Such standards and guidelines need to be comprehensive, regulate a time frame 
+and the nature of interventions required, and be adopted in consultation with the 
+representatives of persons with disabilities.50 Mandatory accessibility standards 
+should include those for web content accessibility. The 2018 UN Flagship Report on 
+Disability and SDGs states that many governments have adopted the Web Content 
+Accessibility Guidelines (WCAG) 2.0.9 into their basic web accessibility standards, 
+and in some cases, the WCAG have even been written into the law.51 Similarly, the 
+accessibility guides and model standards developed by the likes of the International 
+Organization for Standardization and the International Telecommunication Union can 
+be adopted and adapted to country-specific contexts.52 This would help ensure online 
+access to information for persons with disabilities and digitalization does not leave 
+anyone behind. The CRPD Committee also recommends that minimum accessibility 
+requirements are included in the “public procurement legislation and policies for 
+goods and services”.53
+c. The legislative framework should ensure that the process of requesting and 
+obtaining accessible government information is accessible itself.54 In doing 
+so, vague and brief language, especially in the absence of regulations enforcing the 
+legislation, should be avoided. For instance, in countries where the law stipulates that 
+public officials should assist disabled requesters to convert oral requests to writing, 
+appropriate procedures should be established to ensure that such assistance is 
+49 CRPD Committee, General Comment No. 2 (2014) Article 9: Accessibility, CRPD/C/GC/2, 22 May 2014, para 25; OHCHR, “Human Rights Indicators 
+on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to information”, 2020, para 21.1.2.
+50 HRC, Tenth Session, “Thematic Study by the Office of the United Nations High Commissioner for Human Rights on enhancing awareness and 
+understanding of the Convention on the Rights of Persons with Disabilities”, A/HRC/10/48, 26 January 2009, para 41; and See HRC, “Thirty-fourth 
+session, Equality and non-discrimination under article 5 of the Convention on the Rights of Persons with Disabilities”, A/HRC/34/26, 9 December 
+2016, para 63 on the need for consultation with and involvement of People with Disabilities in law and policy making; and OHCHR, “Human Rights 
+Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to information”, 2020, para 
+21.19.
+51 UN Department of Economic and Social Affairs, “Disability and Development Report: Realizing the Sustainable Development Goals by, for and 
+with persons with disabilities”, 2018, page 185-6.
+52 UN General Assembly Seventy-First Session, “Report of the Special Rapporteur of the Human Rights Council on the rights of persons with 
+disabilities”, A/71/314, 9 August 2016, para 35.
+53 CRPD Committee, “Concluding observations on the initial report of India” CRPD/C/IND/CO/1, 20 October 2019, para 21(b). Ireland and Bulgaria 
+have incorporated the 2016 EU Directive on the accessibility of the websites and mobile applications of public sector bodies and its 2020 
+Regulations.
+54 OHCHR, “Human Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to 
+information”, 2020, footnote i.Reaching the Furthest Behind First113. Ensuring the implementation of legislation recognising ATI for persons with disabilities. 
+According to the OHCHR, States must ensure “the proper monitoring of compliance with 
+legislation and policies on equality and non-discrimination, including the provision of 
+reasonable accommodation”.64 A study by the Open Society Justice Initiative mentioned above 
+that even in countries with legislation that include provisions regarding the rights of persons 
+with disabilities, the enforcement of such legislation may not be satisfactory, resulting in 
+failure to provide persons with disabilities with accessible information.65 Therefore, it is crucial 
+that various measures are taken to ensure the effective implementation of the legislative 
+framework that guarantees access to information for persons with disabilities.provided.55 This could include the adoption of measures to ensure the availability and 
+provision of alternative means of communication for official interactions.56
+d. The legislative framework should ensure the availability of all government 
+information in accessible formats online and offline.  Consequently, the legislative 
+framework should ensure the proactive disclosure of government information in 
+formats accessible to persons with disabilities, in addition to facilitating the obtaining 
+of information upon request by persons with disabilities.57 
+e. The legislative framework should recognise the obligation for ensuring both the 
+accessibility of government information as well as the provision of reasonable 
+accommodation.58 It is of outmost importance that the two are not confused or 
+conflated. Developing a satisfactory reasonable accommodation framework for ATI 
+requests requires the allocation of funding mechanisms to ensure the provision of 
+reasonable accommodation.59 
+f. The legislative framework should ensure that persons with disabilities are not 
+discriminated  against when obtaining accessible information due to the burden of 
+access costs.60
+g. The legislative framework should ensure not to place any unreasonable restrictive 
+conditions61 on the provision of information in accessible formats to persons with 
+disabilities.62 
+h. The legislative framework should contain “concrete, enforceable, and time-bound 
+benchmarks for monitoring and assessing”  improvements to accessibility of 
+information for persons with disabilities.63  
+55 Open Society Justice Initiative, “Transparency & Silence: A Survey of Access to Information Laws and Practices in 14 Countries”, 2006, page 92.
+56 See e.g.  OHCHR, “Human Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and 
+access to information”, 2020, footnote iv suggesting such measures as inclusion of sign language interpreters, Braille printers, and communication 
+support. 
+57 For instance, the law in Brazil requires the “mandatory disclosure” of government information online.
+58 See HRC, Thirty-fourth session, “Equality and non-discrimination under article 5 of the Convention on the Rights of Persons with Disabilities”, A/
+HRC/34/26, 9 December 2016, para 39.
+59 OHCHR, “Article 5: List of illustrative indicators on equality and non-discrimination”, page 4.
+60 For instance, Ghana, Sierra Leone, South Africa, and Uganda address the issue of cost in their ATI legislation.
+61 Restrictive conditions could relate to the type of disability covered under the legislation, e.g. in the legislation of Azerbaijan, Ethiopia, Liberia, and 
+Maldives, Bangladesh, and Bulgaria as highlighted in Table 6 in the Annex. See also Part III. 7. above for examples of other restrictive conditions. 
+62 OHCHR, “Human Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to 
+information”, 2020, footnote i. 
+63 CRPD Committee, General Comment No. 2 (2014) Article 9: Accessibility, CRPD/C/GC/2, 22 May 2014, para 11.
+64 HRC, “Equality and non-discrimination under article 5 of the Convention on the Rights of Persons with Disabilities, Report of the Office of the 
+United Nations High Commissioner for Human Rights”, A/HRC/34/26, 9 December 2016, para 71.
+65 Open Society Justice Initiative, “Transparency & Silence: A Survey of Access to Information Laws and Practices in 14 Countries”, 2006.Reaching the Furthest Behind First12a. States should invest in awareness-raising and education programmes  on the 
+implementation of accessibility requirements.66 Well-elaborated standards and 
+guidelines are useless unless they are known and understood by those who need 
+to apply them.67 Understanding of standards can partly be achieved through the 
+“development of guidance documents on accessibility of information for all relevant 
+stakeholders”.68 Additionally, states should introduce awareness-raising campaigns 
+and activities  to promote accessibility across all services open to the public and 
+to promote knowledge of universal design and accessibility standards by relevant 
+professionals, as well as informing individuals of their rights and responsibilities 
+as they relate to accessibility.69 States are encouraged to work with civil society, 
+educational institutions, and representative organisations  for the promotion of 
+information accessibility. States can utilise already existing international platforms 
+such as the activities around the International Day for Universal Access to 
+Information  held annually on 28 September and the International Day of Persons 
+with Disabilities  on 3 December to raise much needed awareness. Discrimination 
+against and the stereotyping of persons with disabilities can be rooted in customs and 
+beliefs, including those held by public officials.70 Education could translate to better 
+protection and realisation of the rights of persons with disabilities when accessing 
+government information. It is also vital that persons with disabilities are kept informed 
+of their rights and recourses available to them regarding access to information.
+b. States should promote the provision of “live assistance and intermediaries  
+(including guides, readers and professional sign language interpreters)”71 and other 
+accessible communication technologies and systems, such as low cost assistive 
+software and technology.72 To ensure access to all government information for 
+persons with disabilities, states should carry out an assessment and evaluation 
+of “government websites and apps that comply with accessibility standards”.73 
+Capacity-building on web accessibility for web designers and programmers is crucial 
+in encouraging the development of accessible websites and was provided in some 
+countries. Disseminating information on accessibility guidelines for information 
+and communications technologies (ICTs) “has been another way to raise awareness 
+and promote accessibility”.74 States should also share such information with public 
+information offices and ATI oversight bodies by way of providing training and capacity 
+building for ensuring access for persons with disabilities. 
+66 OHCHR, “Human Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to 
+information”, 2020, para 21.11.
+67 UN General Assembly Seventy-First Session, “Report of the Special Rapporteur of the Human Rights Council on the rights of persons with 
+disabilities”, A/71/314, 9 August 2016, para 42.
+68 OHCHR, “Human Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to 
+information”, 2020, footnote viii. 
+69 OHCHR, “Human Rights Indicators on the CPRD, Article 9: Illustrative indicators accessibility”, 2020, page 2.
+70 HRC, “Equality and non-discrimination under article 5 of the Convention on the Rights of Persons with Disabilities, Report of the Office of the 
+United Nations High Commissioner for Human Rights”, A/HRC/34/26, 9 December 2016, para 71.
+71 CRPD Committee, General Comment No. 2 (2014) Article 9: Accessibility, CRPD/C/GC/2, 22 May 2014, para 21.
+72 In Canada, for instance, the “Guidance on Implementing the Standard on Web Accessibility” initiative enables the departments of Government 
+of Canada to assess and advance their web accessibility. This document accompanies the “Standard on Web Accessibility” which requires that 
+deputy heads of government departments monitor adherence to the standard, including the implementation of a two-year plan. Similarly in India, 
+government departments may use a compliance matrix for self-assessing their websites for compliance with “Guidelines for Indian Government 
+Websites”.
+73 OHCHR, “Human Rights Indicators on the CPRD, Article 9: Illustrative indicators accessibility”, 2020, page 2; OHCHR, “Human Rights Indicators on 
+the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to information”, 2020, para 21.15.
+74 UN Department of Economic and Social Affairs, “Disability and Development Report: Realizing the Sustainable Development Goals by, for and 
+with persons with disabilities”, 2018, page 185-6.Reaching the Furthest Behind First13c. States should ensure that there is coherence across sections  providing persons with 
+disabilities with accessible information and a “coordinated response between national 
+and local authorities”.75 Lack of such a response would negatively affect vulnerable 
+groups and those living in remote or rural areas, in particular. 
+d. States should ensure that they monitor the implementation of the legislative 
+framework and policies  that facilitate access to information for persons with 
+disabilities. The gradual removing of barriers to access for persons with disabilities, 
+the CRPD Committee suggests, should be done in a “systemic and, more importantly, 
+continuously monitored manner”.76 To achieve this, representatives of persons with 
+disabilities and their organisations should be consulted and engaged with.77 Due to 
+the differences in the socio-economic, political, and other structures of countries, it 
+is important that state-specific benchmarks, timeframes, and measurable goals are 
+developed. “Initial and periodic” audits to identify barriers to accessibility are key to the 
+effective implementation of the legislative framework discussed above. Furthermore, 
+monitoring should have an enhanced focus on the situation of the most marginalised 
+(such as persons with albinism, in certain contexts, and those with psychosocial 
+disabilities).78 Participating in the UNESCO’s Survey on Public Access to Information 
+(SDG 16.10.2)  also provides an opportunity for countries and other concerned 
+stakeholders to improve actual implementation of the provisions of normative 
+instruments such as the CRPD.  
+e. State should allocate sufficient budgeting  for measures aimed at ensuring access 
+to information of persons with disabilities, disaggregated by kind of measure (e.g. 
+awareness raising, development of capacities, direct provision of accessibility 
+measures, etc.)79
+f. The CRPD Committee has, on multiple occasions, expressed concern over the lack 
+of sufficient information on the situation of access to information for persons with 
+disabilities. Article 31 of the CRPD requires States to collect data on equality of 
+persons with disabilities regarding their various rights under the convention, which 
+extends to the right to access to information.80 The Human Rights Council and the 
+CRPD Committee both recommend that such data should be disaggregated by 
+factors such as “sex, age and impairment”.81 This would be in line with the need for 
+special consideration being given to vulnerable groups when developing a legislative 
+75 UN General Assembly Seventy-First Session, “Report of the Special Rapporteur of the Human Rights Council on the rights of persons with 
+disabilities” A/71/314, 9 August 2016, para 57.
+76 CRPD Committee, General Comment No. 2 (2014) Article 9: Accessibility, CRPD/C/GC/2, 22 May 2014, para 14.
+77 OHCHR, “Human Rights Indicators on the CPRD, Article 9: Illustrative indicators accessibility”, 2020, para 9.16.
+78 HRC, “Equality and non-discrimination under article 5 of the Convention on the Rights of Persons with Disabilities, Report of the Office of the 
+United Nations High Commissioner for Human Rights”, A/HRC/34/26, 9 December 2016, para 71.
+79 OHCHR, “Human Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and access to 
+information”, 2020, para 21.18; OHCHR, “Article 5: List of illustrative indicators on equality and non-discrimination”, 2020, paras 5.9 and 5.12.
+80 See HRC, Thirty-fourth session, “Equality and non-discrimination under article 5 of the Convention on the Rights of Persons with Disabilities”, A/
+HRC/34/26, 9 December 2016, para 65; and CRPD/C/DNK/CO/1, para 17.
+81 Ibid; See also OHCHR, “Human Rights Indicators on the CPRD, Article 21: List of illustrative indicators on freedom of expression and opinion, and 
+access to information”, 2020, paras 21.20 and 21.23.Reaching the Furthest Behind First14framework for ATI. Therefore, states should ensure better reporting and the 
+availability of more in-depth and detailed information on access to information for 
+persons with disabilities. This would also assist countries with the improvement and 
+more effective implementation of their accessibility standards and policies. 
+g. States should introduce, or adjust the existing, appeal mechanisms that oversee 
+the provision of accessible information to persons with disabilities  in line with 
+the country’s legislative framework, mandatory standards and accessibility policies. 
+Such mechanisms in the form of either an overarching rights-based entity or a specific 
+body dealing solely with ATI-related concerns should be available to persons with 
+disabilities to reach out to, when they feel that information providers have failed to 
+comply with adopted policies and programmes.82 Additionally, as part of the provision 
+of an appeals mechanism for persons with disabilities trying to access information, 
+states should collect disaggregated data on the proportion of discrimination-
+based complaints regarding access to information.83 This would help the effective 
+monitoring of compliance with the legislation and policies focused on provision of 
+access to information for persons with disabilities. In addition to legislative provisions, 
+the Special Rapporteur on the rights of persons with disabilities also suggests the 
+adoption of “ethical codes of conduct … to assist service providers in fulfilling their 
+duties.”84 Such codes of conduct can also prove useful when grievances are brought 
+by persons with disabilities to the existing or future appeal mechanisms. 
+h. Finally, states should consider the introduction of sanctions for unreasonable 
+failure  to provide persons with disabilities with access to information. Persons with 
+disabilities should have access to information and simple and effective remedies 
+to assess governmental action.85 The OHCHR has recommended that an indicator 
+on accessibility of information is whether the legislative framework ensuring access 
+for persons with disabilities includes “effective dissuasive sanctions for violation 
+of accessibility standards”.86 The Special Rapporteur on the rights of persons with 
+disabilities has also recommended that states introduce meaningful penalties and 
+sanctions for non-compliance when complaints are placed and investigated.87 
+82 UN General Assembly Seventy-First Session, “Report of the Special Rapporteur of the Human Rights Council on the rights of persons with 
+disabilities” A/71/314, 9 August 2016, para 68.
+83 OHCHR, “Article 5: List of illustrative indicators on equality and non-discrimination”, 2020, para 5.15; and OHCHR, “Human Rights Indicators on 
+the CPRD, Article 9: Illustrative indicators accessibility”, 2020, para 9.21.
+84 UN General Assembly Seventy-First Session, “Report of the Special Rapporteur of the Human Rights Council on the rights of persons with 
+disabilities”, A/71/314, 9 August 2016, para 49.
+85 HRC, “Equality and non-discrimination under article 5 of the Convention on the Rights of Persons with Disabilities, Report of the Office of the 
+United Nations High Commissioner for Human Rights”, A/HRC/34/26, 9 December 2016, para 71.
+86 OHCHR, “Human Rights Indicators on the CPRD, Article 9: Illustrative indicators accessibility”, 2020, at footnote i. 
+87 UN General Assembly Seventy-First Session, “Report of the Special Rapporteur of the Human Rights Council on the rights of persons with 
+disabilities” A/71/314, 9 August 2016, paras 68 and 69.Communication and 
+Information Sector
+The importance of access to information (ATI) as an internationally recognised human 
+right for all, including for persons with disabilities, has long been acknowledged. 
+However, the realisation of this right for those with disabilities remains a challenge.
+This brief comes as part of UNESCO’s work as the custodian agency for SDG Indicator 
+16.10.2 on Public Access to Information. With a specific focus on disability rights, the 
+brief looks into the inclusion of persons with disabilities or their lack thereof in ATI 
+legislations worldwide. It serves as a reference for Member States, NGOs, academia, 
+media organizations and the public in general who are interested in the issues of 
+Access to Information and Persons with Disabilities.  
+For more resources, visit: https://en.unesco.org/themes/access-information    
+The designations  employed  and  the  presentation  of  material  throughout  this  
+publication  do  not  imply  the  expression  of  any  opinion  whatsoever  on  the  part  
+of  UNESCO  concerning  the  legal  status  of  any  country,  territory,  city  or  area  or  
+of  its  authorities,  or  concerning  the  delimitation  of  its frontiers or boundaries. The 
+ideas and opinions expressed in this publication are those of the author; they are not 
+necessarily those of UNESCO and do not commit the Organization.
+Dr Lida Ayoubi is a Senior Lecturer in Law at the Auckland University of Technology 
+(AUT) Law School in New Zealand, specialising in intellectual property law and human 
+rights law, specifically the rights of persons with disabilities and indigenous peoples. 
+She has researched, published, and presented extensively on the rights of people 
+with disabilities to access to information. For her LLM thesis on the World Intellectual 
+Property Organization’s (WIPO) Marrakesh Treaty for the visually impaired, she 
+completed internships at the WIPO and the Raoul Wallenberg Institute of Human 
+Rights. This formed the basis for her doctoral research on the broader interface of 
+copyright law and human rights of persons with disabilities. She has also collaborated 
+with different NGOs working on equality and access for persons with disabilities.
+Design and layout: Billy Anderson
+Acknowledgements are also due to the UNESCO staff: Jaco du Toit, Dian Kuswandini, Khalid Aoutail.
+Published in 2021 by the United Nations Educational, Scientific and Cultural 
+Organization, 7, place de Fontenoy, 75352 Paris 07 SP, France © UNESCO 2021. 
+This document is available in Open Access under the Attribution-ShareAlike 3.0 
+IGO (CC-BY-SA 3.0 IGO) license ( http://creativecommons.org/licenses/by-sa/3.0/
+igo/). By using the content of this publication, the users accept to be bound by 
+the terms of use of the UNESCO Open Access Repository ( http://en.unesco.org/
+open-access/terms-use-ccbysa-en ).About this brief
+About the author

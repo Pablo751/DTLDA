@@ -1,0 +1,502 @@
+Muriel Poisson
+Developing open school data policies: 
+Basic principlesThe views and opinions expressed in this publication are those of the authors and do 
+not necessarily represent those of UNESCO or IIEP. The designations employed and the 
+presentation of material do not imply the ex pression of any opinion whatsoever on the part 
+of UNE  SCO or IIEP concerning the legal status of any country, territory, city, or area, or its 
+authorities, or concerning its frontiers or boundaries.
+This publication is available in Open Access under the Attri  bution-ShareAlike 3.0 IGO (CC-
+BY-SA 3.0 IGO) licence (http://creativecommons.org/licenses/by-sa/3.0/igo/). By using the 
+content of this publication, the users accept to be bound by the terms of use of the UNESCO 
+Open Access Repository (http://www.unesco.org/open-access/terms-use-ccbysa-en). The 
+present licence applies exclusively to the text content of the publication.
+Published by:
+International Institute for Educational Planning
+7–9 rue Eugène Delacroix, 75116 Paris
+info@iiep.unesco.org
+www.iiep.unesco.org
+Cover photo: Shutterstock
+© UNESCO 20213
+iiep.unesco.orgDeveloping open school data policies: 
+Basic principlesOpen School Data: Preamble
+The term ‘Open school data’ refers to all information about school inputs, processes, and/or 
+outputs that are shared with the general public.
+Open school data (OSD) are primary data, disaggregated at school level, which allow school 
+inputs, processes, and/or outputs to be quantified. They cover, for instance, school budgets; 
+student enrolment; teacher numbers, qualifications, and attendance; pupil/teacher ratios; 
+condition of school facilities; textbook availability; and student test results. They are shared 
+with the general public, in either paper or electronic format. To be useful, however, they need 
+to be relevant, comprehensive, accurate, timely, accessible, and free of charge.
+The release of school data to the public is being implemented in a growing number of countries. 
+Several factors have contributed to this 
+worldwide trend: the exponential increase in 
+data availability due to the development of 
+new technologies and the internet; the growing 
+recognition of citizens’ right to information in a 
+context of the democratization of societies; the 
+rising importance of anti-corruption measures 
+on the public agenda; and the emergence of 
+a new administrative culture characterized by 
+data-driven decision-making and performance-
+based evaluation. 
+Open school data policies should aim at promoting inclusive and equitable quality education 
+for all.
+Open school data should be used to help monitor the services provided by the school, hold 
+school and education authorities accountable accordingly, and support their actions in 
+furtherance of inclusive and equitable quality education for all, using a collaborative approach. 
+These data equip citizens with a powerful tool to exert social control over the use of public 
+resources, and thereby help them to stand up for their rights. 
+To help decision-makers and educational planners and managers take informed decisions 
+regarding the development of open school data policies, eight key principles should be applied:
+1. Designing OSD as part of the school planning cycle
+2. Promoting accountability at the core of OSD
+3. Giving priority to data that can drive positive change
+4. Considering OSD as a public good, building on EMIS
+5. Presenting and sharing data in multiple, creative ways
+6. Ensuring that the public know how to use OSD
+7. Making OSD 'actionable'
+8. Addressing ethical risks up-frontWhat factors contribute to OSD 
+development?
+ yData revolution
+ yDemand for more democracy and 
+citizen involvement
+ yAccountability and anti-
+corruption agenda
+ yFocus on public sector 
+performance and evaluation 4
+iiep.unesco.orgDeveloping open school data policies: 
+Basic principlesPrinciple 1. Open school data policies should be designed as part of the school 
+planning cycle, with the aim of responding more effectively to community 
+concerns.
+When designing open school data policies, decision-makers should start by reviewing the 
+main reasons why various categories of stakeholder would access and use such data. Their 
+first responsibility should be to those for whom this information is new yet of key importance, 
+since these are the primary users of educational services –  parents, pupils, and communities. 
+Decision-makers should also give due attention to teachers as stakeholders, since experience 
+shows that they can play a very active role in making use of the data. Finally, decision-makers 
+should determine clearly who needs what data and for which purposes.
+Table 1. Data beneficiaries and their reasons for accessing data
+Data beneficiaries Reasons for accessing data
+ •Central/local education 
+authorities •Central/local planning
+ •Monitoring of school performance
+ •Holding school authorities accountable
+ •School authorities  •School planning and development
+ •Reporting to central/local education authorities
+ •Reporting to parents and communities
+ •Collecting feedback from users
+ •Teachers  •Monitoring of school status and performance
+ •Monitoring of pupil advancement and performance
+ •Reporting to parents and communities
+ •Collecting feedback from users
+ •Asking for better school conditions
+ •Holding school/education authorities accountable
+ •Parents, pupils, 
+communities •Monitoring of school status and performance
+ •Taking informed decisions about schooling
+ •Asking for better school conditions
+ •Holding school/education authorities accountable
+ •Civil society  •Conducting advocacy work
+Open school data policies should be conceived as part of the school planning cycle. They can 
+improve the analysis of the status of education at school level, which helps in finding solutions to 
+the problems identified, as well as in 
+monitoring and evaluating the progress 
+achieved. A policy framework should be 
+put together on this basis, setting 
+manageable objectives and formulating 
+a theory of change explaining how to 
+reach those objectives. It should clarify 
+the roles and responsibilities of all the 
+stakeholders involved, giving due 
+attention to incentives needed to 
+encourage them to participate. Adequate 
+funding and time should be set aside for 
+implementing the framework.
+© Shutterstock5
+iiep.unesco.orgDeveloping open school data policies: 
+Basic principlesFigure 1. Theory of change linking stakeholders’ motivations and changes in behaviour
+Source: Cheng and Moses, 2016.
+Principle 2. Promoting accountability should be placed at the core of open school 
+data policies.
+Open school data policies should be used to strengthen three main domains of accountability: 
+financial accountability, to ensure that resources are allocated and used in a correct and 
+timely manner; management accountability, to guarantee that all management operations 
+(e.g. admission process, staff management, procurement, and organization of exams) follow 
+official procedures; and pedagogical accountability, to make sure that students’ results are in 
+line with the standards set by education authorities.
+Table 2. Major domains of accountability targeted by open school data policies 
+Three domains where OSD can be used to hold public authorities/schools accountable
+Resources are allocated/
+used in a timely and correct 
+mannerAll management-related 
+activities follow proceduresStudents’ results are in line 
+with set standards
+Financial  
+accountabilityManagement  
+accountabilityPedagogical  
+accountability
+In order to encourage school actors to use open school data to fight against corruption, input 
+tracking data should be given priority. Data related to school budgets, school equipment, number 
+of teachers, number of textbooks, and parental fees can indeed help monitor areas that are 
+particularly vulnerable to corrupt practices. Open school data policies should be included as part 
+of a broader framework for addressing unethical and corrupt practices in the education sector.
+An active campaign should be launched to encourage school actors to make use of open 
+school data in order to inquire about corrupt practices and to denounce them. These efforts 
+should be supported with adequate training. Hotlines and complaint mechanisms should also 
+be put in place, so that cases of fund leakage, ghost teachers, or corrupt purchasing practices, 
+for instance, can be easily reported. Measures to protect complainants against retaliation 
+should be adopted. The consequences of breaking the rules should be clearly established, 
+and proportionate sanctions imposed when needed.6
+iiep.unesco.orgDeveloping open school data policies: 
+Basic principlesAt the same time, however, open school data should not be used as a tool to challenge the 
+authority of educational bodies, particularly at school level. Rather, they should serve as a tool 
+to promote mutual accountability, to foster trust, and to build a culture of open government 
+within the education system. This is possible only when all stakeholders –  teachers, parents, 
+and the community –  can be held responsible through the use of open school data. The 
+importance of user participation and of collaborative planning should be valued accordingly.
+Principle 3. Not all data are useful: data that can drive positive change should be 
+given priority.
+A wide variety of data on school inputs (e.g. funding), processes (e.g. teacher attendance), 
+and outputs (e.g. student achievement) can be shared with the general public, but they 
+should be selected carefully and limited in number. Six main categories of data should be 
+considered: (i) basic information about the school, e.g. its location and status; (ii) school 
+finance, including parental funding; (iii)  availability and condition of school goods and 
+services; (iv) school governance and operation, covering parent participation in particular; (v) 
+school efficiency and performance as measured by student achievement; and (vi) parent and 
+pupil satisfaction. Data should be presented primarily in statistical form, although some can 
+be of a qualitative nature.
+Table 3. Six main categories of data to be considered
+School 
+profile •School location (urban/rural)
+ •Status (public/private)
+ •Accreditation
+ •Enrolment figures
+ •Special education 
+information
+ •Language of instruction
+ •Health and nutritional status
+ •School newsFinance •School budget
+ •Parental contributions
+ •Other sources of income
+ •Donations
+ •Stipends
+Condition of 
+services •Number of teachers
+ •Qualification of teachers
+ •Availability of facilities, 
+equipment, and materials
+ •Condition of facilities, 
+equipment, and materials
+ •School safetySchool 
+governance  
+and 
+operation •Governance structure
+ •Inspection
+ •School projects
+ •Community participation
+Efficiency 
+and 
+performance •Promotion, repetition, 
+completion, retention, 
+dropout rate
+ •Pupil attendance
+ •Teacher presence
+ •Student learning outcomes
+ •School awardsParent/pupil 
+satisfaction •Parent/pupil satisfaction
+ •Complaints
+Several types of data should be given particular consideration: (i) data of particular relevance 
+for users – mainly those related to the learning environment and to learners; (ii) data that are 
+problem-focused –  for instance, on the lack of availability of midday meals or textbooks, or low 
+teacher attendance – and call for immediate solutions; and (iii) data with the potential to hold 
+public and school authorities accountable for whatever forms part of their duties. In a context 
+of public education, particular attention should be given to any financial contributions that 
+parents make to the school. 7
+iiep.unesco.orgDeveloping open school data policies: 
+Basic principlesThe data thus selected should provide an accurate picture of the current situation of each school. 
+Ideally, they should be at least partially standardized and consistent over time, in order to allow 
+comparisons between schools, to situate each school with reference to national standards, and 
+to monitor the progress made by every school. In addition, given the important role played by 
+private schools in most countries, data from them should also be included as much as possible.
+Principle 4. Open school data should be considered a public good, building on the 
+strength of the educational management information systems in place.
+What are basic data 
+requirements?
+ •Quality
+ •Accuracy
+ •Timeliness
+ •Comparability
+ •Consistency over time
+ •AccessibilityMinistries of education (or offices in charge of 
+educational statistics) should take the lead in disclosing 
+school data to all citizens, building on existing 
+educational management information systems (EMIS). 
+Educational data should be considered a public good 
+and their disclosure mandated by law. EMIS managers 
+should be equipped with new software and electronic 
+tools that make it easier to manage, clean, analyse, and 
+share big data on a large scale. Efforts should be made 
+to digitize and synchronize data at all levels of the 
+system in order to reduce errors, manipulations and time lag.
+In their handling of open school data, especially in combining management and participation-
+oriented approaches, government authorities could learn from the experience of civil society 
+organizations. A management-oriented approach encourages local and school authorities 
+to use school data to identify strengths and weaknesses, to inform the school improvement 
+plan, and to direct budgetary operations accordingly. A participation-oriented approach 
+encourages the school community at large to make use of school data to voice their concerns 
+and to hold schools and/or local authorities accountable.
+Figure 2. Combining management-  and participation-oriented approaches
+Management-oriented 
+approach (top-down 
+feedback)
+  Participation-oriented 
+approach (bottom-up 
+feedback)
+  Mixed approach 
+(combination of the two)
+In order to reduce the risk of 
+misinterpretation and/or errors, as 
+well as any tensions generated by the 
+disclosure of itself, a number of good 
+practices should be adopted: limiting the 
+number of administrative levels involved 
+in data collection; diversifying sources 
+of information; organizing technical 
+training for the local staff in charge of 
+data collection and monitoring; involving 
+users in data collection and monitoring; 
+undertaking regular data checks and 
+audits; reducing time lag between data 
+collection and release; updating data in 
+real time, on a continuous basis.
+School notice board in Brisbane, Australia
+© Shutterstock8
+iiep.unesco.orgDeveloping open school data policies: 
+Basic principlesPrinciple 5. The diversification of communication methods produces multiple, 
+creative ways to present and share data with the public.
+Data should be presented in a simple way, using school report cards. Users should be given 
+access to several levels of presentation, ranging from a simplified and easy-to-understand 
+level to more technical and complex ones. The language used should be easy to grasp by 
+a wide audience. All statistical and technical terms should be clearly defined. An attractive 
+design should be favoured, using an appropriate font and colours. Summary tables, graphics, 
+icons, and other types of illustration should be inserted whenever possible.
+Multiple methods for data dissemination should be explored and adapted to meet the needs 
+of users. Both offline and online channels should be made use of. Offline channels display 
+information on paper in an area that is easy for all to view, such as the school’s public notice 
+board (see photo) or during public meetings. Online channels are databases made accessible 
+through the internet, using computers or mobile devices. Online channels offer greater 
+opportunities to present and cross-check information, and even to produce tailored reports, 
+but offline channels are of particular importance for individuals who do not have access to the 
+internet, and/or are not computer literate.
+  
+Source: CERCA (Civic Engagement for Education Reform Program in Central America); MySchool (https://www.myschool.edu.au/)
+Data comparisons should be properly framed: to avoid the risk of oversimplification or 
+misinterpretation, comparisons between schools should be limited to schools with similar 
+socio-educational characteristics. In order to highlight the development of schools over time, 
+time series should be encouraged. The experience of high-gain schools, whose performance 
+has rapidly increased over time, should be analysed and widely disseminated. Success stories 
+should also be shared as a source of inspiration. Finally, regular enquiries should be carried out 
+in order to collect feedback from users about the relevance, clarity, and usefulness of the data 
+that have been publicly shared in this way.
+Principle 6. The public should not only be made aware of the existence of open 
+school data, they should also know how to use them. 
+Ordinary people have no reason to access and use open school data if they don’t know how to 
+interpret them, if they don’t realize the potential of the data to promote inclusive and equitable 
+quality education for all, and if they don’t know 
+how to generate change based on these data. 
+For these reasons, awareness campaigns 
+aimed at informing citizens about their rights 
+and entitlements regarding education, as 
+well as the possibility for them to provide 
+feedback and suggest improvements, should 
+be encouraged. Such campaigns should be 
+conducted in local languages, using radio, local 
+press, banners, posters, leaflets, and any other 
+media suitable for maximum outreach. 
+Awareness campaigns and training 
+should help to avoid:
+ yOversimplification of complex 
+issues
+ yMisinterpretation of data
+ yEmpowering the empowered
+ yFrustrations and tensionsOnline school report cards in Australia
+ Offline school report cards in El Salvador9
+iiep.unesco.orgDeveloping open school data policies: 
+Basic principlesBeyond awareness activities, a comprehensive capacity-building programme targeting 
+various groups of stakeholders should be offered. It should aim to impart the necessary 
+knowledge and tools that will allow them to access and use data in a meaningful way. More 
+specifically, it should guide them on how to interpret data, how to use them to monitor the 
+school budget or introduce pedagogical changes, and, more generally, how to build on this 
+information to suggest possible improvements. School administrators, school management 
+committee members, and teachers should be mobilized to organize cascade training (training 
+of trainers) designed especially for mothers.
+Table 4. Examples of training to be provided by various categories of stakeholder
+Categories of stakeholder Examples of training topics
+ •Local education 
+authorities •How to collect, manage, and control data
+ •School authorities and 
+teachers •How to analyse data and draw useful conclusions from them
+ •How to use data to introduce pedagogical changes
+ •How to share data with parents and communities
+ •How to encourage feedback and use it to introduce changes
+ •Parents  •How to monitor the school budget
+ •How to use data for school improvement
+ •How to speak with a collective voice
+ •Students  •How to use data for school improvement
+ •Civil society/facilitators  •How to facilitate meetings with the school community
+ •How to ensure the participation of lower socio-economic 
+groups
+Principle 7 . Open school data should be ‘actionable’: stakeholders should be given 
+the authority to take action based on the information provided. 
+In order to foster dialogue, school authorities should be required to organize face-to-face 
+meetings with parents (including mothers) and other community members. During those 
+meetings, data should be presented and discussed. The objective should be to help the 
+public understand data, interpret them, and draw conclusions from them. The success of the 
+meetings is conditioned by the capacity of facilitators to moderate exchanges in an inclusive 
+way, so that everyone’s voice is heard.
+In illiterate or semi-illiterate communities, specific measures should be taken to enable 
+everyone to participate. These include providing refreshments to encourage disadvantaged 
+groups to come to the school; reading 
+the data out loud during meetings; 
+using traditional communication 
+modes, such as dance, drama, and 
+folk songs when sharing information; 
+breaking into smaller groups that 
+encourage everyone to take the floor 
+(see photo); holding separate events 
+just for pupils; rewarding those 
+most actively involved; and setting 
+up information desks to respond to 
+queries. 
+Community meeting in Jodhpur, India
+© Shutterstock10
+iiep.unesco.orgDeveloping open school data policies: 
+Basic principlesWhen organizing face-to-face meetings, school authorities should build as far as possible 
+on existing consultation and exchange platforms, such as school management committee 
+meetings, mothers’ gatherings, and community assemblies. They should also piggyback on 
+special events such as Education Day, the Day of Excellence, or other school ceremonies. 
+Whenever appropriate, civil society groups and community organizations should be mobilized 
+to facilitate dialogue, reduce possible tensions, and elicit contributions productive of action.
+Education authorities should be compelled to provide timely responses to the requests and 
+proposals thus formulated. According to the issues raised, different administrative levels 
+–  school, local, or central –  may need to be involved. The principle of subsidiarity, whereby 
+decisions are taken at the most decentralized or local level, should apply here. Roles and 
+responsibilities for addressing requests should be made clear. In cases where no follow-up 
+action is taken, citizens should be given the right to raise a complaint at a higher level.
+Principle 8. The ethical risks associated with open school data should be 
+addressed up-front.
+Even though open school data are published at institutional rather than individual level, their 
+publication can raise a series of ethical problems: 
+ • Open school data build on large databases which gather individual data about pupils 
+and teachers. In order to avoid any attempts to track or commercialize such information, 
+individual data privacy should be carefully protected by law and adequate security 
+protocols.
+ • When schools are very small in size –  one-teacher schools, for instance –  it becomes quite 
+easy to link school information to specific individuals. Therefore, in order to prevent any 
+risk of disclosing ‘direct identifiers’, a minimum threshold for reporting aggregated data 
+should be set.
+ •Some data related to the profile of populations whose children are enrolled at school, such 
+as ethnicity, caste, or religion, can foster stigmatization and bias. In order to avoid exclusion 
+or eviction, such data should not be published.
+ • In fragile countries or during a state of emergency (see photo), ordinary information, such as 
+geo-localization data, can raise safety problems. Profile data related to certain populations 
+benefitting from school services, such as minority groups or refugees, may also raise security 
+problems. Here again, disclosure should be avoided.
+Refugee pupils in Bangladesh
+© Shutterstock11
+iiep.unesco.orgDeveloping open school data policies: 
+Basic principlesTable 5. Selected ethical issues associated with open school data
+What ethical risks? How to address them
+ •No respect of data privacy
+ •Tracking of individuals
+ •Commercialization of 
+individual data •Adopt adequate legislation to protect individual data privacy in 
+education
+ •Establish strong security protocols to protect large databases, 
+including individual data
+ •Set a minimum threshold for reporting aggregated data
+ •Make sure that direct identifiers are not disclosed
+ •Stigmatization and bias, 
+leading to exclusion or 
+eviction •Identify data that can lead to stigmatization and bias 
+depending on context, and take the decision not to publish 
+them
+ •Safety issues  •Identify data that can lead to security issues in certain 
+contexts, and take the decision not to publish them
+Table 6 below summarizes the actions needed to design and implement open school data 
+policies, by stakeholder group.Developing open school data policies: 
+Basic principles12
+iiep.unesco.orgTable 6. Matrix of actions needed to design and implement open school data, by stakeholder group
+ActionsCentral 
+governmentLocal  
+authoritiesSchool 
+authoritiesParents  Pupils  Community Civil society
+Design an open data policy framework X
+Adopt legal provisions on school data 
+disclosureX
+Select critical data with potential to 
+generate positive changeX X X
+Set up robust education information 
+management systemsX X
+Organize/participate in training on data 
+collection, monitoring, and controlX X X
+Implement and monitor data collection X X X X X
+Set up online and offline channels to 
+access dataX X
+Conduct advocacy campaigns X X X
+Organize/participate in training to 
+interpret and act upon informationX X X X X X X
+Organize/participate in meetings 
+to discuss data and improvement 
+strategiesX X X X X
+Introduce hotlines and complaint 
+mechanismsX X X
+Provide timely responses to requests 
+received and proposals formulatedX X X13
+iiep.unesco.orgDeveloping open school data policies: 
+Basic principlesFurther reading
+Ten books have been published by IIEP-UNESCO in connection with its research programme 
+‘Using open school data to improve transparency and accountability in education’ and as part 
+of its series on Ethics and Corruption in Education. They analyse and draw conclusions from 
+more than 60 open school data initiatives carried out in about 50 countries from all regions of 
+the world.
+Bordoloi, Mridusmita; Kapoor, Varun. 2018. India: Using Open School Data to Improve 
+Transparency and Accountability.
+Brito, Alejandra. 2019. Información y transparencia: cuadros de indicadores de las escuelas en 
+América Latina.
+Cheng, Xuejiao Joy; Moses, Kurt. 2016. Promoting Transparency through Information: A Global 
+Review of School Report Cards.
+Dupain, Jonathan; Thuphuong Nguyen, Lena. 2019. Information and Transparency: School 
+Report Cards in Sub-Saharan Africa.
+Felicia, Nisa. 2018. Indonesia: Using Open School Data to Improve Transparency and 
+Accountability.
+Khan, Kashmali. 2018. Punjab, Pakistan: Using Open School Data to Improve Transparency and 
+Accountability .
+Parafina, Redempto S. 2018. Philippines: Using Open School Data to Improve Transparency and 
+Accountability .
+Poisson, Muriel. 2020. Open School Data: What Planners Need to Know .
+Rabinowitz, Stanley. 2018. Australia: Using Open School Data to Improve Transparency and 
+Accountability .
+Roy, Dipu; Said Md. Juel Miah, Abu. 2018. Bangladesh: Using Open School Data to Improve 
+Transparency and Accountability .
+For more information on the research programme entitled ‘Ethics and Corruption in 
+Education’, visit the ETICO resource platform: http://etico.iiep.unesco.org . Over 40 titles 
+published under this IIEP series are available for download.About the basic principles
+The release of school data –  i.e. all information about school inputs, 
+processes, and/or outputs that are shared with the general public –  is 
+being implemented in a growing number of countries. These data equip 
+citizens with a powerful tool to exert social control over the use of 
+public resources, and thereby help them to stand up for their rights. 
+To help decision-makers and educational planners and managers 
+take informed decisions regarding the development of open 
+school data (OSD) policies, this document formulates eight key 
+principles: from considering OSD as a public good building on 
+existing information systems, to giving priority to data that can 
+drive positive change, and addressing ethical risks up front.  
+About the author
+Muriel Poisson is a Programme Specialist at IIEP-UNESCO, in charge 
+of the Institute’s project on ‘Ethics and Corruption in Education’. She is 
+responsible for research and training activities in this area, on subjects 
+including public expenditure tracking surveys, teacher codes of conduct, 
+transparency in the management of pro-poor incentives, academic 
+integrity, open school data, and open government in education.

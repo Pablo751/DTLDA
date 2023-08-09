@@ -1,0 +1,292 @@
+IIEP Policy Brief / Open Government in Education N°4 / 2021
+As part of its research project on ‘Open 
+government (OG) in education: Learning 
+from experience’, the UNESCO International 
+Institute for Educational Planning (IIEP) has 
+prepared five thematic briefs illustrating 
+various forms of OG as applied to the education 
+field: open government, open budgeting, open 
+contracting, open policy-making and crowd-
+sourcing, and social auditing. This brief deals 
+specifically with open policy-making and 
+crowd-sourcing. 
+What is open policy-making?
+‘Open policy-making’ refers to the use of 
+collaborative approaches to inform and develop 
+policies that meet the dynamic needs of citizens. 
+The goal here is threefold: (i) to build on collective 
+intelligence for problem-solving, drawing on 
+various sources of expertise, including that of 
+end users who can enrich the process using 
+their lived experience of the issues discussed; 
+(ii) to make the decision-making process more 
+inclusive by tapping the inputs provided by 
+people outside the traditional boundaries of 
+administrative institutions and authorities; 
+and (iii) to promote ownership of the policies 
+adopted by seeking contributions from a larger 
+and broader group of people in order to gain 
+greater acceptance and feasibility, and possibly 
+also smoother implementation.Open policy-making can occur at different 
+stages of the policy cycle, from problem 
+identification to policy formulation, drafting, 
+revision, implementation, monitoring, and 
+evaluation. It can take place at the national 
+level (for instance when a new education law or 
+reform is in preparation), or at the local/school 
+level when education policies or projects that 
+are more limited in scope are being debated. From Open Policy-Making to Crowd-Sourcing  
+Illustrative forms of open government  
+in education
+© Transparency International Bangladesh
+Useful resources
+The Government of the United Kingdom 
+has published a manual dealing with open 
+policy-making which also provides tools and 
+techniques for creating more open and user-
+led policy.
+The Governance Lab at New York University 
+has formulated eight recommendations  for 
+open and engaged policy-making, looking at 
+four basic stages: understanding the prob -
+lem, developing solutions, drafting, and eval -
+uation and assessment.
+In recent years, a number of private 
+companies, mostly North American and 
+European (such as citizenlab, Civocracy, 
+Decidim, Dyntra, and Emergreen, to mention 
+a few), have developed digital citizen 
+participation tools and platforms at the 
+request of municipal authorities  for cities 
+such as Barcelona, Gent, and Vancouver.Local-level approaches are particularly 
+important in ensuring that the perspectives and 
+needs of underprivileged groups are duly taken 
+into account. Simply by bringing in new actors, 
+open policy-making can expand the range of 
+possible solutions, thanks to diversified and 
+renewed sources of information, viewpoints, 
+and approaches.
+‘Open policy-making’ refers to the 
+use of collaborative approaches to 
+inform and develop policies that 
+meet the dynamic needs of citizens.
+What is crowd-sourcing?
+During recent years, new technologies have 
+encouraged the development of crowd-sourcing 
+approaches within the education sector. 
+Although they remain largely marginal, they 
+are useful for fostering collective intelligence 
+by selecting ‘functions which until present have 
+been performed by employees, and transferring 
+them, in the form of an open online call, to 
+an ‘undefined virtual community’ (Lenart-
+Gansiniec, 2017). Such functions can cover 
+financial resources (‘crowd-funding’), curricula 
+(‘open education’), ideas (‘open innovations’), 
+expertise, and so on. More particularly, 
+crowd-sourcing can help to better analyse 
+and understand complex issues, encourage 
+creativity, collect new ideas, design new 
+methodologies or tools, and obtain feedback 
+on alternative solutions. Online platforms and 
+consultation tools open up new opportunities 
+for public authorities to use crowd-sourcing.
+Examples of open policy-making and 
+crowd-sourcing
+With a view to creating spaces for reflection 
+and consultation, the Government of Mada-
+gascar has established ‘Local Consultation 
+Structures’ (SLCs) in all the country’s 
+municipalities. SLC members include, for 
+example, officials from decentralized 
+administrations, traditional leaders, members 
+of local political parties and organizations, 
+representatives from associations of women, 
+young people, vulnerable groups, and economic 
+actors. With the support of the NGO SAHA, the 
+results of citizen participatory surveys aimed at assessing the performance of the health, 
+education, and land sectors were submitted 
+to 46 SLCs for debate in spring 2020. Those 
+exchanges led to the setting of priorities during 
+the development of annual municipal plans and 
+budgets. Requests from citizens to improve 
+the functioning of educational services were 
+taken into account on the same occasion 
+(Ravelomanantsoa and Andrianarivelo, 2021).
+‘Crowd-sourcing’ refers to the practice 
+of consulting citizens, drawing on their 
+expertise to collectively find solutions 
+to the complex problems faced by 
+public authorities.
+In 2015, the Raymond A. Mason School of 
+Business at the College of William & Mary 
+in Virginia, USA, launched a crowd-sourcing 
+platform aimed at seeking ideas to revamp 
+the School’s MBA programme. The School’s
+administration set up a contest, establishing 
+clear parameters for idea submissions and 
+providing an easy-to-use social media platform. 
+The contest challenged former and current 
+students, the business community, and human 
+resources specialists to brainstorm ideas for 
+new subjects and skills, and an overall strategy 
+for the next MBA programme. Discussions 
+were open to anyone and included various 
+categories to guide inputs, such as courses 
+and skills; scholarships and financing; 
+lifelong learning and community; and 
+marketing. At the end of a seven-week period, 
+a jury of CEOs and top executives selected 
+the best among the 200+ ideas submitted. 
+Some of these formed the foundation 
+of the School’s 2016 MBA programme.IIEP Policy Brief / Open Government in Education N°4 / 2021
+© ShutterstockOpen policy-making implementation 
+framework
+Opening up specific stages of the policy-
+making process, including analysis of problems, 
+crafting of solutions, and commenting on a draft 
+policy or project document, requires sufficient 
+time and resources. The major steps involved 
+are summarized below and illustrated in Figure 1 .
+ —Smooth and efficient open policy-making 
+(OP) requires that the objectives for the 
+consultation process are clearly set from its 
+inception, based on transparent information 
+and communication; the major issues 
+submitted for discussion should also be 
+clearly delineated.
+ —Public authorities then have to decide 
+whether they want to open the consultation 
+process to any person interested in 
+participating, or to restrict it to a limited 
+number of people (e.g. a representative 
+citizens’ panel). In this case, selection criteria 
+should be clearly specified as they will 
+condition the legitimacy of the inputs made. —Various communication platforms should be 
+envisaged for collecting inputs: traditional 
+ones, in order to limit the effects of the 
+digital divide; more high-tech ones, such 
+as annotation platforms to draft policy or 
+project documents collectively; and crowd-
+sourcing platforms that enable a more rapid 
+clustering and analysis of responses through 
+artificial intelligence.
+ —One critical responsibility for public 
+authorities is to ensure that their conclusions 
+reflect the diversity of the opinions 
+expressed, while at the same time reaching 
+consensus: when some people’s opinions are 
+ignored, this can lead to frustration, tension, 
+or even conflict.
+ —Public authorities have the obligation to 
+inform participants about how they have used 
+the feedback received, and how the final 
+decisions were taken. Finally, all participants 
+should receive a guarantee of confidentiality 
+for their inputs and be assured that their 
+privacy will be protected.IIEP Policy Brief / Open Government in Education N°4 / 2021
+Figure 1. Open policy-making (OP) implementation steps
+Source : Author.Issues to be 
+discussedAnnotation 
+platformsEstablished 
+groupsStep 1  
+OP frameworkStep 2  
+Selection of 
+participantsStep 3  
+Communication 
+platforms
+Info and 
+communicationCrowd-sourcing 
+platformsCitizen panelsTaking final 
+decisions Feedback on 
+arbitrationsStep 5  
+Public  
+reportingStep 4  
+Looking for 
+consensus
+Setting 
+objectivesPublic forums Open to allInvolving young people in open 
+policy-making
+Youth councils and parliaments have been 
+structured at international (e.g. UN), regional 
+(e.g. European Union), national (e.g. Canada), and 
+municipal (e.g. Barcelona) levels. The government 
+of the State of Alberta, Canada, for instance, has 
+established the Minister’s Youth Council, a platform 
+for students to share inputs and perspectives on 
+provincial programmes and initiatives on a number 
+of education topics. It is composed of 41 junior and 
+senior high school students (secondary level) with 
+diverse interests, identities, and backgrounds 
+from all regions of Alberta. They are selected for a
+10-month period that coincides with the academic 
+year, and are expected to attend three meetings 
+over this period. They engage with teachers, school 
+leaders, and other educational stakeholders on a 
+diverse range of issues related to learning.
+Open policy-making can help fight 
+corruption
+When engaging in open policy-making, public au-
+thorities accept the principle that citizens should 
+be informed and should be able to influence the decisions made on their behalf. As a result, the 
+opacity surrounding many government delib -
+erations and decisions will tend to diminish. By 
+limiting the discretionary powers of public admin-
+istration officials and redefining policy-making as 
+a co-creation process for the common good, an 
+environment is created that fosters more integrity, 
+good behaviour, and responsive practices. IIEP Policy Brief / Open Government in Education N°4 / 2021
+Contact information 
+This brief was written by Muriel 
+Poisson, IIEP Programme Specialist 
+and Coordinator of the Institute’s 
+research project on ‘Open government 
+in education: Learning from 
+experience’. It has benefitted from an 
+initial document search carried out by 
+Sanskruti Gholsakar, Consultant. 
+For further information, contact:  
+Muriel Poisson 
+m.poisson@iiep.unesco.org
+IIEP-UNESCO
+7-9 rue Eugène Delacroix
+75016 Paris, France
+Tel: +33 1 45 03 77 00
+Fax: +33 1 40 72 83 66
+info@iiep.unesco.org
+www.iiep.unesco.orgReferences
+Lenart-Gansiniec, R. 2017 . ‘Factors 
+influencing decisions about crowdsourcing 
+in the public sector: A literature review’. 
+In: Acta Universitatis Agriculturae et 
+Silviculturae Mendelianae Brunensis,  
+65(6), 1997–2005.
+Ravelomanantsoa, H.; Andrianarivelo, R. 
+2021. Politique ouverte: structures locales 
+de concertation dans les municipalités de 
+Sahanivotry et Masindray, Madagascar. Paris: 
+IIEP-UNESCO, Antananarivo: SAHA, https://
+etico.iiep.unesco.org/en/politique-ouverte-
+structures-locales-de-concertation-dans-
+les-municipalites-de-sahanivotry-et.Further reading
+Huss, O.; Keudel, O. 2020.  Open Government 
+in Education: Clarifying Concepts and 
+Mapping Initiatives. Paris: IIEP-UNESCO, 
+https://unesdoc.unesco.org/ark:/48223/
+pf0000373142.locale=en .
+To learn more about IIEP’s research in the 
+area, consult the ETICO online platform  
+devoted to ethics and corruption in 
+education. You can also contact us by e-mail 
+at: etico@iiep.unesco.org .
+Also in this series of briefs: Poisson, M. 
+202I. Open Government/Open Budgeting/
+Open Contracting/Social Auditing: Illustrative 
+Forms of Open Government in Education. 
+Paris: IIEP-UNESCO.
+The designations employed and the presentation of material throughout this review do not imply the expression of any opinion whatsoever on the part of 
+UNESCO or IIEP concerning the legal status of any country, territory, city or area or its authorities, or concerning its frontiers or boundaries. 
+© UNESCO 2021 — This publication is available in Open Access under the Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) licence (http://creativecommons.
+org/licenses/by-sa/3.0/igo/). By using the content of this publication, the users accept to be bound by the terms of use of the UNESCO Open Access 
+Repository (http://www.unesco.org/open-access/terms-use-ccbysa-en). The present licence applies exclusively to the text content of the publication.
+Youth Parliament in Brussels© Shutterstock

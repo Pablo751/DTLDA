@@ -1,0 +1,264 @@
+United Nations
+Educational, Scientiﬁc and
+Cultural Organization
+ASSESSING 
+INTERNET 
+DEVELOPMENT IN 
+BRAZIL  
+Using UNESCO’s Internet Universality ROAM-X Indicators
+UNESCO SERIES OF INTERNET UNIVERSALITY NATIONAL ASSESSMENTSEXECUTIVE 
+SUMMARYIntroduction
+How can the Internet develop in line with, and contribute to sustainable 
+development? It is through the concept of Internet Universality that UNESCO strives to bring answers to this question.
+At its core, Internet Universality is tied to the four ROAM principles – meaning that UNESCO 
+stands for an Internet that is human-Rights based, Open, Accessible to all, and governed through 
+Multistakeholder participation. This concept, which constitutes the basis of the present national 
+assessment report of UNESCO’s Internet Universality Indicators in Brazil, has been at the heart of UNESCO’s positioning on Internet issues ever since its Member States endorsed it in 2015, during the 38
+th General Conference. 
+By evaluating a given country’s Internet environment against the ROAM-X indicators, the national assessment process aims to:
+•
+ Present a comprehensive and substantive understanding of the national Internet environment and
+policies;
+• Assess their alignment to 
+UNESCO’s R.O.A.M. principles and their contribution to sustainable
+development;
+• Develop policy recommendations and practical initiatives that will enable the country to improvetheir Internet ecosystem as advanced ICT
+s evolve.
+The present voluntary assessment report of Internet Universality Indicators 
+in Brazil is a first, and paves the way for other countries to follow suit. Its production is owed to the excellent work of the Regional Center for Studies 
+on the Development of the Information Society (Cetic.br), of the Brazilian Network Information Center (NIC.br), and to the fruitful engagement of the Multisakeholder Advisory Board, represented by the Brazilian Internet Steering Committee (CGI.br). 
+It is my hope that the insights and options for action included in this Report will trigger 
+fruitful policy discussions, and thereby help bring the Internet in Brazil a step closer to universality and relevance to sustainable development.“
+Moez Chakchouk 
+Assistant Director-General for Communication and Information, UNESCO
+The report is authored by the Regional Center for Studies on the Development of the Information Society (Cetic.br) / Brazilian Network Information Center (NIC.br).
+  The full report of Brazil can be downloaded at:   
+https://en.unesco.org/internet-universality-indicators/national-assessments
+UNESCO Project Coordination: Xianhong Hu
+Email: internet.indicators@unesco.org 
+Project Website: http://en.unesco.org/internetuniversality 2
+CLD 676.20            CI-2020/WS/3R
+RightsO
+OpennessA
+Accessibility 
+to AllM
+Multistakeholder 
+participationX
+Cross-Cutting 
+issues
+THEME A Policy, legal 
+and regulatory 
+frameworkPolicy, legal 
+and regulatory 
+frameworkPolicy, legal 
+and regulatory 
+frameworkPolicy, legal 
+and regulatory 
+frameworkGender
+THEME B Freedom of 
+expressionOpen standards Connectivity and 
+usageNational Internet 
+governanceChildren
+THEME C Right of access to 
+informationOpen markets Affordability International and 
+regional Internet 
+governanceSustainable 
+development
+THEME D Freedom of 
+association and 
+the right to take 
+part in public 
+affairsOpen content Equitable access Trust and security
+THEME E The right to 
+privacyOpen data and 
+open governmentLocal content and 
+languageLegal and ethical 
+aspects of the 
+Internet
+THEME F Social, economic 
+and cultural rightsCapacities/
+competencies
+UNESCO’S INTERNET UNIVERSALITY 
+INDICATORS PUBLICATION  is currently available in English, French, Spanish, and Chinese,  and they are available for downloading at : https://en.unesco.org/internet-universality-indicators/roamx-indicators
+UNESCO’S 
+INTERNET 
+UNIVERSALITY 
+INDICATORS8QLWHG1DWLRQV
+(GXFDWLRQDO6FLHQWL¿FDQG
+&XOWXUDO2UJDQL]DWLRQ
+A Framework for Assessing Internet Development3Major findings in Brazil
+The development of the national environment of the Internet in Brazil is strong and positive, and in line with international 
+standards when considering the regulatory framework. However, there are enforcement problems in some areas and significant shortcomings in access and connectivity for citizens.
+Although there has been an increase in access to the Internet for Brazilians, there are still inequalities in the conditions for 
+use and appropriation of ICTs, which can be pointed out as one of the most critical national issues for Internet development.
+RIGHTS
+Brazil has a structured sectorial regulatory framework. Its guiding principles are present in the Federal Constitution of 1988 and can be applied to the digital environment. This is the case for individual rights and guarantees, such as freedom of expression, the right to information, and privacy. Since 2014, the Brazilian Civil Rights Framework for the Internet
+1 has been 
+the main Internet sectorial legislation approved. The Civil Rights Framework can be considered an international reference for its novel approach, which clearly defines the civil rights that are to be protected online. It is strongly aligned with human rights standards and affirms that access to the Internet is essential to the exercise of citizenship. The law also provides strong protection for net neutrality and freedom of expression.
+There are, however, enforcement challenges for the guarantees contained in the Brazilian Civil Rights Framework for the 
+Internet, such as freedom of expression, which is sometimes curtailed by decisions of the Judiciary or online platforms.
+Although Brazilian legislation does not provide for sanctions such as blocking or filtering, since 2015 there have been nine 
+judicial cases requesting the blocking of applications such as WhatsApp and Facebook; four were carried out, mostly justified by non-compliance with judicial orders for data delivery. 
+The Personal Data Protection Law (LGPD) was approved in 2018. It is in line with international standards, in particular the 
+European General Data Protection Regulation (GDPR); however, it is not clear how the implementation of the law will be carried out since there was a presidential veto of some of its provisions when the Law was approved.
+The Access to Information Law (LAI)
+2 has been in force since 2011. The LAI has heralded a new culture of transparency and 
+accountability in the public sector, especially in federal administrative bodies. However, its application is still fragile in certain 
+federal administrative bodies and, more emphatically, in other federation units (states and municipalities). In recent years, there have also been cases of threats, intimidation, harassment and constraint for seeking public information through this law.
+OPENNESS
+Regarding innovation, the legal and regulatory framework is to some extent conducive to innovative practices and the establishment of new businesses. The situation differs depending on the perspective analyzed. The legal framework for the Internet is considered positive for fostering innovation. The general framework for business is bureaucratic and criticized by the private sector. Policies to foster innovation have recently been changed and cannot yet be assessed.
+1  L aw nº 12.695/2014, available at http:/ /www.planalto.gov.br/CCIVIL_03/ _Ato201 1-2014/2014/Lei/L12965.htm
+2
+  L
+aw nº 12,527 /201 1, available at http:/ /www.planalto.gov.br/ccivil_03/ _ato201 1-2014/201 1/lei/l12527 .htm4The Brazilian Open Data Policy, enacted in 20163, has strong foundations. Its objectives include the promotion of transparency 
+and social participation and the development of government services. Exceptions are made for technical requirements essential 
+to the adequate provision of services and applications and prioritization of emergency services.
+ACCESSIBILITY
+Internet connectivity is a critical point of the Brazilian digital scenario. Although Brazil has an increasing number of Internet 
+users, there is still a large population without any type of access, especially among the poorest, those who are over 60 
+years old, and those living in rural areas. Data also indicates that fixed access, especially among groups with lower rates 
+of connection, has not evolved to the point of being considered as contributing to universalization, since mobile connections 
+are the main driver of Internet diffusion.
+Another area of concern is the use of ICTs in schools. As the set of indicators reveal, although some specific public policies have 
+been implemented over the last decade, access to and use of ICTs in Brazilian schools have not yet progressed satisfactorily. 
+Different sectors that have been interviewed for this research have pointed out that persistent challenges to universalization 
+in the last decade are related to: lack of effectiveness of government telecommunication development policies, especially 
+in poorer regions and those not served by high-speed networks; failure to invest resources, especially sectorial funds, in 
+universalization policies; lack of support for small Internet Service Providers (ISPs) operating in regions of low commercial 
+interest; and continued influence of a model that places fixed telephony at the centre of sectorial regulation. 
+Accessibility for people with disabilities is another issue where enforcement is far from complying with the law. Although the 
+Brazilian Inclusion Law and the Brazilian Civil Rights Framework for the Internet define a clear reference for government and 
+the business sector in this field, in neither case is accessibility a reality.
+MULTI-STAKEHOLDER
+The Internet governance environment is led by the Brazilian Internet Steering Committee (CGI.br)4, the purpose of which is to 
+coordinate and integrate Internet service initiatives in Brazil and to promote technical quality, innovation and dissemination 
+of Internet services. The committee is made up of representatives from the government, the corporate sector, the third sector 
+and the academic community, and has been directly electing representatives from civil society since 2004.
+The multi-sectoral environment anchored in CGI.br also allowed the development and consolidation of the national Internet 
+Governance Forum5, currently in its ninth edition, which has increased Brazilian participation in international governance 
+forums, especially the Regional IGF (LAC IGF) and global IGF.
+CROSS-CUTTING ISSUES
+Although the Internet opens up new possibilities for participation, emancipation, and promotion of human rights, new types 
+of human rights violations also find fertile ground in the digital environment. From this perspective, data on online abuse and 
+harassment are worrying.
+In general, experts recognize the existence of a Brazilian legal framework to protect women against violence and abuse 
+and some policies implemented by the federal administration. However, there are still problems in its applicability because 
+of endogenous problems with the judicial and public security systems.
+3  Presidential Decree nº 8.777 /16, available at http:/ /www.planalto.gov.br/ccivil_03/ _Ato2015-2018/2016/Decreto/D8777 .htm
+4  Information in English about CGI.br is available at http:/ /www.cgi.br/about/
+5  Brazilian Internet Forum: http:/ /forumdainternet.cgi.br/5Key Policy Recommendations  
+for Actions in Brazil
+OVERARCHING RECOMMENDATIONS
+• Consolidate and develop the national multi-stakeholder governance model, expanding the participation of the various sectors in 
+forums and organizations related to Internet governance and telecommunications policy and regulation in Brazil.
+• Record and publish quantitative and qualitative data on the participation of the different sectors (private, public and third sector) 
+in IGF (including LAC IGF), ITU and ICANN forums.
+GOVERNMENT
+• Create an independent National Personal Data Protection Authority and a National Council for the Protection of Personal Data, 
+complementing the normative framework put into force with the enactment of the Personal Data Protection Law6.
+• Expand and improve policies for the preservation and promotion of cultural heritage online.
+• Promote policies and regulations focused on overcoming barriers to new digital businesses and start-ups.
+• Guarantee full accessibility for persons with disabilities on government portals and public websites. 
+• Ensure adequate levels of resources for the monitoring and supervisory activities of regulatory bodies.
+• Ensure that telecom norms and regulations avoid unnecessary and bureaucratic rules and properly enforce those that guarantee 
+public interest.
+• Promote technical measures for ensuring technical monitoring of network neutrality.
+• Fully apply the open data policy, publishing open data plans and all databases or information not protected by law.
+• Make all public websites, especially those that support public services, available on any browser.
+• Implement an access and telecommunications development policy that addresses infrastructure bottlenecks in localities identified 
+as having little or no service by broadband networks, with a focus on rural areas and locations of low economic attractiveness. 
+• Update regulatory models that switch the focus from fixed telephony to broadband.
+• Enforce the provision of accessibility for persons with disabilities included in the Statute on Inclusion of Persons with Disability 
+and the Brazilian Civil Rights Framework for the Internet.
+• Seek universal access to the Internet in urban and rural public schools based on high standards of connectivity that overcome 
+bottlenecks in access and use.
+• Supply all the necessary inputs for effective pedagogical use in schools, such as high-speed connections, devices, high-quality 
+digital content, and teacher training.
+• Promote public materials for training the workforce on ICT use and development.
+• Strengthen the instruments for online participation and consultation on topics of social interest in all institutional bodies at all 
+levels of government.
+6 Editor’s Note (August 2019): Since the completion of this report, the Personal Data Protection Law has been modified by an Executive Order, which created the Data 
+Protection Authority directly linked to the Presidency, leaving room for a revision in two years that can lead to a switch to indirect administration, with more independence 
+and autonomy.6• Extend and accelerate the digitization of public services and strengthen the application of the Access to Information Law in 
+all public agencies of all units of the federation, overseeing compliance comprehensively at the federal level and promoting 
+enforcement at the state and municipal levels.
+• Record and publish government submissions to international forums concerned with ICT and the Internet.
+• Enhance law enforcement against the crime of online harassment and violence against women.
+• Promote initiatives for receiving claims and gathering data about human rights violations on the Internet, particularly discrimination, 
+harassment and other crimes committed against children and women, and promote a culture of peace and respect in the online 
+environment.
+• Include the private and third sectors in the debate on cybersecurity, maintaining the principles of caution and confidentiality.
+JUDICIARY
+• Avoid over-inclusive first-instance decisions that generate blocking of apps or of entire Internet segments. 
+• Protect freedom of association online and refrain from considering illegal any situation that may violate the right to peaceful 
+assembly and association.
+PRIVATE SECTOR
+• Report on governmental or judicial attempts to hold companies liable for content that infringes on third parties, in conflict with 
+the Brazilian Civil Rights Framework for the Internet.
+• In their report on governmental or judicial requests for content removal, platforms should differentiate judicial and executive orders, 
+and separate all the different cases (such as IP infringement) by country.
+• Guarantee full accessibility for persons with disabilities on private portals and apps, with special attention to public service 
+providers.
+• Enhance 4G coverage in the country, reaching all municipalities, and enable mobile communication in all districts.
+• Promote materials for training the workforce on ICTs use and development.
+• Deepen and strengthen existing initiatives for monitoring and combating human rights violations on the Internet, particularly 
+discrimination, harassment and other crimes committed against children and women, and promote a culture of peace and 
+respect in the online environment.
+• Report on the incidence of breaches and the numbers of individuals and businesses affected.
+CIVIL SOCIETY
+• Monitor and periodically report on violations of the rights supported by the Brazilian Civil Rights Framework for the Internet.
+• Monitor and periodically report on accessibility for persons with disabilities on public and private websites and apps.
+• Monitor and periodically report on network neutrality violations through citizens’ assessment of their connections. 
+• Monitor the provision of accessibility for persons with disabilities included in the Statute on Inclusion of Persons with Disabilities 
+and the Brazilian Civil Rights Framework for the Internet.
+• Deepen and strengthen existing initiatives for monitoring and combating human rights violations on the Internet, particularly 
+discrimination, harassment and other crimes committed against children and women, and promote a culture of peace and 
+respect in the online environment.
+ACADEMIC AND TECHNICAL COMMUNITY
+• Develop systematic research on new challenges to ensuring freedom of expression, access to information and privacy in the 
+digital realm.
+• Evaluate the positive and negative effects of different billing models on the democratization of access to the Internet.
+• Provide proposals for curricula, activities and training materials regarding the use of ICT at all educational levels.
+• Promote studies and recommend procedures, rules and technical and operational standards for the security of the network and 
+services on the Internet.
+• Monitor and publicly report on the incidence of breaches and the numbers of individuals and businesses affected.7“Ten years ago, in 2009, the 
+“Principles for the Governance 
+and Use of the Internet in Brazil,” 
+known as the CGI.br Decalogue 
+of Principles, was approved and 
+disseminated. It was received with enthusiasm 
+by the global Internet community when it was 
+announced internationally during the 2010 Internet 
+Governance Forum (IGF) in Vilnius, Lithuania. These 
+principles represented the key components of the 
+discussion that led to the approval of the Brazilian 
+Civil Rights Framework for the Internet in 2014. 
+This achievement put the international spotlight on 
+the country for establishing a framework for the 
+development and protection of the Internet based 
+on civil rights.
+There is still much to be done to achieve universal 
+Internet access, ensure the protection of citizens’ rights online, and maintain an innovative and open environment. For 
+these reasons, it is imperative to have extensive knowledge about the ecosystem of Internet development in the country. 
+Traditionally, international frameworks for measuring information and communication technologies have been focused 
+on the dimensions of access and infrastructure. With the publication of the United Nations Educational, Scientific and 
+Cultural Organization’s (UNESCO) “Internet Universality Indicators,” we are given the opportunity to use a developed 
+concept of the national Internet universality to help comprehend future developments.”
+Demi Getschko 
+Brazilian Network Information Center – NIC.br
+38TH GENERAL CONFERENCE RESOLUTION 
+In November 2015, UNESCO’s 38th General Conference endorsed the CONNECTing the Dots Outcome Document and 
+the concept of Internet Universality. This concept summarizes UNESCO’s updated positions in the digital age and points to 
+four fundamental R.O.A.M principles: the Internet should be (i) human Rights-based (ii) Open, (iii) Accessible to all, and (iv) 
+nurtured by Multi-stakeholder participation. 
+31ST IPDC COUNCIL RESOLUTION 
+In November 2018, the 31st session of UNESCO’s Intergovernmental Council of the International Programme for the 
+Development of Communication (IPDC) “endorsed the use of the Internet Universality Indicators on a voluntary basis as a 
+useful resource available for Member States”. The Council further “encouraged interested Member States and all stakeholders 
+to conduct national assessments of Internet development with the Internet Universality Indicators” and to “use the research 
+findings for evidence-based policy discussions and recommendations”. 
+United Nations
+Educational, Scientiﬁc and
+Cultural Organization
+The full report of Brazil can be downloaded at:  
+https://en.unesco.org/internet-universality-indicators/national-assessments

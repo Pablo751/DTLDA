@@ -1,0 +1,742 @@
+The Right to Information in Times of Crisis1The Right to 
+Information in 
+Times of Crisis:
+Issue brief in the UNESCO series:  
+World Trends in Freedom 
+of Expression and Media 
+DevelopmentKey Highlights:
+ Æ Public access to information serves public health 
+and economic goals and should be seen as part 
+of the response and not as an external burden.
+ Æ The right to information is a fundamental human 
+right. The experience of many countries shows 
+that it is possible to maintain right to information 
+systems during a health emergency. 
+ Æ States are under a positive obligation to disclose 
+on a proactive basis key emergency-related 
+health, budgetary, policy-making, procurement, 
+economic, benefits-related and other information.
+ Æ A health emergency may result in logistical 
+barriers to the processing of requests for 
+information, such as an inability to access 
+physical documents or to provide information 
+to requesters who are not digitally enabled. 
+Workarounds should, as far as possible, be 
+sought to this.
+ Æ The view that public authorities are too busy 
+to process requests for information during a 
+health emergency can be addressed, in part, by 
+extensive proactive disclosure as a way to limit 
+the volume of requests.  
+ Æ Digital technologies provide robust means to 
+maintain right to information systems during 
+health emergencies.Building on lessons learnt 
+during the COVID-19 pandemic, States should 
+put in place robust digital systems for the right to 
+information, including in preparation for possible 
+crises.
+CI-2020/WTR/4Access to Information – 
+Saving Lives, Building Trust, 
+Bringing Hope! 
+#AccessToInfoDayThe Right to Information in Times of Crisis2I. Introduction
+The right to access information held by public authorities, or the right to information, 
+is recognised under international law as a fundamental human right. Access to 
+information is important in its own right, and as a means to protect other rights, 
+including democracy, and to support sustainable development. Its importance was 
+recognised in Sustainable Development Goal Target 16.10, which calls on States to 
+“Ensure public access to information”. UNESCO is the designated UN agency for 
+monitoring and reporting on this target in regard to guarantees for, and implementation 
+of, the right to information across the world.
+The COVID-19 pandemic has highlighted the heightened importance of information 
+in times of crisis. Access to accurate and timely information helps people make safe 
+choices, for themselves and their families, with governments having a corresponding 
+obligation to disseminate widely public interest information and to address 
+disinformation. Access to information also promotes accountability regarding the 
+highly impactful decisions governments make during emergencies. At the same 
+time, the pandemic has disrupted normal administrative procedures, including those 
+relating to information, such as the processing of requests for information or ensuring 
+that relevant information is still being recorded.
+II. The Right to Information 
+During a Health Emergency
+2.1 The Right to Information as a Fundamental Human Right
+The right to information is recognised as a fundamental right under international 
+law, to “impart” but also to “seek” and “receive” information and ideas. This right 
+places a positive obligation on States to recognise the right and develop user-friendly 
+systems to enable practical access to information, both by responding to requests 
+for information and by disclosing information proactively. There has, since the 1990s, 
+been an explosion in the number of States which have adopted right to information 
+laws to institutionalise these systems.1 
+1 According to CLD’s RTI Rating (rti-rating.org), which ranks global right to information laws, 129 countries currently have right to 
+information laws. The Right to Information in Times of Crisis32 The RTI Rating was prepared by the Centre for Law and Democracy (CLD) and Access Info Europe. See: www.RTI-Rating.org
+3  International Mandates for Promoting Freedom of Expression, Joint Declaration on Access to Information and on Secrecy Legislation, 6 December 2004. 
+Available at: https://www.osce.org/fom/99558?download=true.
+4 As summarised in Helen Darbishire, Proactive Transparency: The Future of the Right to Information, World Bank Institute, 14 September 2010, p. 21. 
+Available at: http://documents1.worldbank.org/curated/en/100521468339595607/pdf/565980WP0Box351roactiveTransparency.pdf.
+5  Committee on Economic, Social and Cultural Rights, General Comment No. 14: The Right to the Highest Attainable Standard of Health (Art. 12), 11 August 
+2000, para. 44. Available at: https://undocs.org/E/C.12/2000/4.
+6 Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters, adopted 25 June 1998, in 
+force 30 October 2001. Available at: https://www.unece.org/env/pp/treatytext.html.2.1.a Requests for Information
+States should establish user-friendly systems for providing information, For this 
+purpose, right to information laws set out details such as how to make a request, 
+how quickly a response needs to be provided and what charges may be levied. The 
+RTI Rating, an internationally recognised methodology for assessing the strength of 
+legal frameworks for the right to information, lays out standards for  these issues.2  
+While responsiveness to requests for information remains core to the right, particular 
+attention can be given to the role of proactive disclosure during the current historical 
+moment. The more effective the disclosure, the less the public has to resort to 
+making requests. And the more official the disclosure, the less space is available for 
+misinformation, disinformation and rumour.
+2.1.b Proactive Disclosure of Information
+In terms of the proactive disclosure of information, States should generally disclose 
+a “range of information of public interest” and progressively increase the amount of 
+information which is disclosed proactively over time.3 Such disclosure should not be 
+confused with government communications such as media liaison or public health 
+campaigns. Core categories of information have emerged as minimum general 
+international standards for proactive disclosure, for example to ensure transparent 
+public administration, informed public participation and the control of corruption.4  
+Beyond these general obligations, it is clear that States need to disclose proactively 
+a range of types of health information, for example as part of the rights to health 
+and life. The UN Committee on Economic, Social and Cultural Rights has called on 
+States to provide “access to information concerning the main health problems in the 
+community, including methods of preventing and controlling them”, as part of the core 
+obligation to protect the right to health.5
+Disseminating health information is of particular importance during a health emergency. 
+The Aarhus Convention sets clear standards for this, stating:
+In the event of any imminent threat to human health or the environment . . . all 
+information which could enable the public to take measures to prevent or mitigate 
+harm arising from the threat and is held by a public authority is disseminated 
+immediately and without delay to members of the public who may be affected.6The Right to Information in Times of Crisis4Some key types of information that should be released proactively during a public 
+health crisis include information about: the progression of the disease, broken 
+down as granularly as possible; steps governments are taking to protect individuals 
+and how to maximise the effectiveness of those steps; decision-making around 
+responding to the crisis; allocation of emergency funding; procurement of emergency 
+equipment; the allocation of grants; and how to access government programmes and 
+benefits introduced in response to the pandemic. The disclosure of this information 
+is particularly important from an accountability perspective, given the momentous 
+decisions governments are likely to be making during a crisis and the fact that more 
+formal accountability mechanisms may not be operating as effectively as in normal 
+times. 
+Proactively disclosed information should be released routinely and in a format that is 
+understandable and accessible in “medium, format and language”.7  During a health 
+emergency, this means going beyond merely posting information on a website, 
+since it is vital that key information reaches everyone. This may require imaginative 
+uses of ICTs and social media platforms so as to reach diverse audiences. It may 
+also require the disclosure of information in a range of local languages, including 
+indigenous languages. In addition, the information should be based on underlying 
+scientific evidence and governments should take care to avoid presenting information 
+in a skewed, propagandistic or incomplete way.8 Availing the range of data and 
+statistics underlying information, with due regard to privacy protection, is essential 
+for harnessing computer power to help combat the crisis. In addition, the information 
+should be based on underlying scientific evidence and data, with due regard to 
+privacy protection, and governments should take care to avoid presenting information 
+in a skewed, propagandistic or incomplete way. 
+2.1.c Restrictions on Rights
+The right to information is not an absolute right. Access to certain information – such 
+as private information about a third party or sensitive national security information – 
+may be refused. Under international law, limitations on the right to information must 
+be justified in one of two ways. First, limited restrictions on these rights are allowed, 
+during both normal times and emergencies, in accordance with a strict three-part test. 
+Second, special derogations from this right may be allowed during an emergency.
+7 Inter-American Commission on Human Rights, Model Inter-American Law on Access to Public Information (2010), preamble, available at: https://www.oas.
+org/dil/AG-RES_2607-2010_eng.pdf; and African Commission on Human and Peoples’ Rights, Model Law on Access to Information for Africa (2012), sections 
+8  (2)(ii) and 66(3), available at: http://www.achpr.org/files/instruments/access-information/achpr_instr_model_law_access_to_information_2012_eng.pdf.
+ Model Law on Access to Information for Africa, ibid., sections 65(2)(ii) and 66(3).  59  Council of Europe, Committee on Culture, Science and Education, Protection of Privacy and Personal Data on the Internet and Online Media, para. 16, May 
+2011. Available at: http://assembly.coe.int/CommitteeDocs/2011/RihterviepriveeE.pdf..
+10  Special Rapporteur on the Right to Privacy, Task Force on Privacy and the Protection of Health-Related Data, Recommendation on the Protection and Use 
+of Health-Related Data, 6 November 2019,para 32.1. Available at: https://www.ohchr.org/Documents/Issues/Prvacy/SR_Privacy/FINALHRDDOCUMENT.pdf.Any restriction of the right to information is legitimate only if it:
+1) Is provided by law: must be accessible; give clear direction 
+as to what is being restricted, and not grant “unfettered 
+discretion” to others to restrict rights (both quotes: UN Human 
+Rights Committee, General Comment No. 34, note 4, para. 25)
+One of the interests which may conflict with the right to information during a health 
+emergency is the right to privacy, which is also protected as a human right under 
+international law. The right to information supports privacy by giving individuals 
+access to information held by the government about themselves, while privacy is also 
+universally recognised as an exception to the right to information. Privacy interests 
+are particularly high in relation to health information, which constitutes “one of the 
+core elements of a person’s private life and human dignity.”9  As a result, in general, 
+health data should be released to the public only after it has been anonymised so that 
+individuals cannot be personally identified, even if the data is merged with other data 
+sets.10  This remains true during a public health emergency, despite the high public 
+interest in rapid access to health information. Under international law, any conflict 
+between the right to information and privacy should be resolved by considering what 
+best serves the overall public interest. As a result, it may be necessary to disclose 
+certain private information to protect the larger public good.2) Protects a legitimate interest (the rights or reputations of 
+others, national security, public order, public health or public 
+morals) – includes public health so will usually be met during a 
+health emergency
+3) Is “necessary” to protect the legitimate interest: the 
+elements to take into account are: not be overbroad; least 
+restrictive from among available options should be used; 
+proportionate (i.e. balance between harm to flow of information 
+and protecting health)  (UN Human Rights Committee, General 
+Comment No. 34, note 4, paras. 33-34)
+The Three-Part TestThe Right to Information in Times of Crisis62.2 The Right to Information under emergencies
+Not every disturbance or even catastrophe qualifies as a public emergency. Historically, 
+most emergencies have been based on security threats rather than public health 
+crises, but international standards suggest that an emergency may exist where there 
+is a threat to the “physical integrity of the population” and the “basic functioning of 
+institutions indispensable to protecting human rights”.11 The COVID-19 pandemic has 
+risen to this level of threat in many countries. However, this does not necessarily mean 
+that it justifies derogations from the right to information, which would be legitimate only 
+where necessary to respond to the health threat. The UN Human Rights Committee 
+has stressed that each right should be subject to a separate analysis “based on an 
+objective assessment of the actual situation”.12
+In addition, derogations must be of an “exceptional and temporary nature” and cease 
+as soon as the circumstances necessitating them comes to an end. Furthermore, 
+principles of legality and the rule of law should still apply. This means that derogations 
+should be properly authorised under the domestic legal framework. In addition, it 
+should be possible to challenge the legitimacy of any derogation before an independent 
+oversight body (such as a court).13
+2.3 Emerging Standards Under COVID-19
+Numerous international statements have stressed, in general terms, the importance 
+of access to information during the COVID-19 pandemic. The UN Secretary-General 
+has noted the need for the “free flow of timely, accurate, factual information and 
+disaggregated data”, including to enable the scrutiny and critique of the effectiveness 
+of government measures responding to the pandemic.14 The international special 
+rapporteurs on freedom of expression have noted the obligation of governments to 
+“provide truthful information about the nature of the threat posed by the coronavirus.”15 
+The Office of the UN High Commissioner for Human Rights has also stressed the 
+importance of transparency during health emergencies.16
+General statements have also been made about restrictions on and derogations from 
+the right to information. The Council of Europe has noted: “Any restriction on access 
+to official information must be exceptional and proportionate to the aim of protecting 
+public health.”17 Others have called for caution when relying on emergency powers 
+to restrict rights.18
+11 Siracusa Principles on the Limitation and Derogation Provisions in the International Covenant on Civil and Political Rights, 1 July 1984, Principle 39. 
+Available at: https://www.icj.org/wp-content/uploads/1984/07/Siracusa-principles-ICCPR-legal-submission-1985-eng.pdf.
+12 General Comment No. 29, States of Emergency (Article 4), 31 August 2001, paras. 3-4. Available at: https://undocs.org/CCPR/C/21/Rev.1/Add.11.
+13 General Comment No. 29, ibid.; and Siracua Principles, note 16, Principle 64.
+14  United Nations, COVID-19 and Human Rights: We are All in This Together, April 2020. Available at: https://www.un.org/sites/un2.un.org/files/un_policy_
+brief_on_human_rights_and_covid_23_april_2020.pdf.
+15 UN Special Rapporteur on the Promotion and Protection of Freedom of Opinion and Expression, OSCE Representative on Freedom and the Media, OAS 
+Special Rapporteur on Freedom of Expression, COVID-19: Governments Must Promote and Protect Access to and Free Flow of Information during Pandemic, 
+16 March 2020. Available at: http://www.oas.org/en/iachr/expression/showarticle.asp?lID=1&artID=1170.
+16 OHCHR, Emergency Measures and COVID-19: Guidance, 27 April 2020. Available at: https://www.ohchr.org/Documents/Events/EmergencyMeasures_
+COVID19.pdf.
+17  Respecting democracy, rule of law and human rights in the framework of the COVID-19 sanitary crisis: a toolkit for member states, 7 April 2020, Information 
+Documents SG/Inf(2020)11, para. 3.3. Available at: https://rm.coe.int/sg-inf-2020-11-respecting-democracy-rule-of-law-and-human-rights-in-th/16809e1f40.
+18  OHCHR, note 21; Special Rapporteurs, note 20; and IACHR, La CIDH llama a los Estados de la OEA a asegurar que las medidas de excepción adoptadas 
+para hacer frente la pandemia COVID-19 sean compatibles con sus obligaciones internacionales, 17 April 2020, available in Spanish at: http://www.oas.org/
+es/cidh/prensa/comunicados/2020/076.asp.The Right to Information in Times of Crisis719  Statement on Derogations from the Covenant in Connection with the COVID-19 Pandemic, 24 April 2020, para. 2. Available at: https://www.ohchr.org/
+Documents/HRBodies/CCPR/COVIDstatement.docx.
+20  General Comment No. 29, note 17, para. 4.
+21  Report on Disease pandemics and the freedom of opinion and expression, 23 April 2020, para. 17. Available at: https://freedex.org/wp-content/blogs.
+dir/2015/files/2020/04/A_HRC_44_49_AdvanceEditedVersion.pdf.
+22  Ibid., para. 20. 
+23  Inter-American Commission on Human Rights, Resolution No. 1/2020, Pandemic and Human Rights in the Americas, 10 April 2020, para. 32. Available at: 
+http://www.oas.org/en/iachr/decisions/pdf/Resolution-1-20-en.pdf.
+24  Open Government Partnership Civil Society Members, Statement on the COVID-19 Response from Civil Society Members of OGP Steering Committee, 
+25 Note 26, paras. 20-21.The UN Human Rights Committee has suggested that States should not adopt 
+emergency derogations from rights where public health emergency needs can 
+be addressed via the normal regime of restrictions.19  In particular, the Committee 
+stressed the similar nature of the tests for both derogations and restrictions on 
+freedom of expression, noting that the proportionality test is common to both: “[T]he 
+obligation to limit any derogations to those strictly required by the exigencies of the 
+situation reflects the principle of proportionality which is common to derogation and 
+limitation powers.”20  The UN Special Rapporteur on freedom of expression went even 
+further, suggesting that the normal regime for restrictions provides a sufficient basis 
+for protecting public health.21  The high value of public access to information during 
+a crisis must be taken into account before imposing any limitation. As the Special 
+Rapporteur noted, a “government that deprives the public of reliable information puts 
+individuals at risk and can justify such deprivation only on the narrowest grounds and 
+with the greatest degree of necessity to protect a legitimate interest.”22
+It is important to continue to respond to requests for information during a pandemic. 
+As the Inter-American Commission on Human Rights has noted, States should:
+Ensure the right to access public information in the framework of the emergency 
+caused by COVID-19, and not set general limits based on reasons of security or 
+public order. The bodies and officials that guarantee this right should give priority 
+to requests for access to information related to the public health emergency . . 
+. If deadlines for requests for information on matters not linked to the pandemic 
+have to be extended, governments should explain the denial, set a time period in 
+which the obligation will be met, and allow for appeals against such decisions.23
+Similarly, the civil society members of the OGP Steering Committee have called for 
+“specific measures to maintain the functioning of access to information laws and 
+timeframes for responding” to requests, as well as the prioritisation of requests related 
+to the pandemic.24  The UN Special Rapporteur noted that resource constraints may 
+justify some temporary disruptions of the processing of requests, for example due 
+to the inability of staff to meet in person or hold hearings. However, he noted that 
+this should happen only when necessary and that governments should develop 
+longer-term solutions to maintain right to information systems, given that emergency 
+measures are likely to remain in place for some time.25 
+In terms of proactive disclosure, a number of international actors have called on States 
+to make pandemic information widely available. Some specific recommendations 
+include: The Right to Information in Times of Crisis826  Press Statement on Human Rights Based Effective Response to the Novel COVID-19 Virus in Africa, 24 March 2020, available at: https://www.achpr.org/
+pressrelease/detail?id=483.
+27  Resolution No. 1/2020, note 28. 
+28  Open Government Partnership Civil Society Members, note 29; Article 19; Ensuring the Public’s Right to Know in the COVID-19 Pandemic, 11 May 2020, 
+available at: https://www.article19.org/resources/ensuring-the-publics-right-to-know-in-the-covid-19-pandemic/; IDFI, Proactive Publication of Information by 
+Governments during Covid-19 Crisis, 10 April 2020, available at: https://idfi.ge/en/guidelines_on_the_proactive_publication_of_information_by_governments_
+during_the_covid-19_crisis_and_on_covid-19_related_public_procurement; and IDFI, Guidelines on COVID-19 Related Public Procurement, 10 April 
+2020; Reducing Corruption Risks with Data, Public Procurement Transparency and Integrity, available at: https://www.access-info.org/wp-content/uploads/
+RECORD_Transparency-in-Emergency-Procurement-1.pdfHealth
+Financial
+Organisational
+Legal & Human 
+Rights• Disaggregated data on COVID-19 cases, deaths and tests 
+conducted.
+• Information on health care facilities, supplies and capacity. 
+• Models and assumptions used to predict disease spread or other 
+health predictions.
+• Information on vaccine or treatment trials.
+• Emergency and contingency plans.
+• Information on authorities’ operations, projects and contact 
+information during the pandemic. 
+• Staffing changes due to the pandemic. 
+• Public services which are suspended or provided during the 
+pandemic.• Details on budgets and funds disbursed in response to the 
+pandemic.
+• Details on contracts, procurement.
+• Tender procedures during the emergency, particularly for 
+emergency supplies and equipment.
+• Information on any emergency budget and pandemic-related 
+grants or loans.
+• Budget oversight, inspection and audit information.
+• Laws, regulations and policies related to the pandemic, especially those 
+which alter normal procedures or which are of high public interest.
+• Information on the human rights impacts of COVID-19 policies including 
+information on prosecutions and penalties imposed under COVID-19 
+laws.
+• Actions taken in response to disinformation/“fake news”. 
+• Information on the use of apps to contact trace or quarantine individuals, 
+including data protection assessments.
+• Policies and information aimed at specific vulnerable groups.
+• Domestic violence data and resources.28 • African Commission on Human and Peoples’ Rights: “In times of public 
+health emergencies, members of the public have the right to receive factual, 
+regular, intelligible and science-based information on the threat COVID19 
+poses to their health, the role and impact of the measures adopted for 
+preventing and containing the virus, the precautionary measures that 
+members of the public should take, and on the scale of the spread.”26
+• Inter-American Commission on Human Rights: States should “proactively 
+report in detail on the impact of the pandemic and on emergency spending, 
+and do so in an open format accessible to all vulnerable groups, in accordance 
+with best practices internationally”.27 
+Some civil society groups have developed quite specific guidance on 
+proactive disclosure of information during the COVID-19 health emergency: 
+929 Council of Europe, COVID-19 Crisis: Vital that Authorities also Communication in Regional and Minority Languages, 30 March 2020, available at: https://
+www.coe.int/en/web/portal/-/covid-19-crisis-vital-that-authorities-also-communicate-in-regional-and-minority-languages; United Nations, COVID-19 and 
+Human Rights, note 19; ACHPR, Press Statement on the COVID-19 Crisis, 28 February 2020, available at: https://www.achpr.org/pressrelease/detail?id=480; 
+ACHPR, Press Statement on Human Rights Based Effective Response to the Novel COVID-19 Virus in Africa, 24 March 2020, available at: https://www.achpr.
+org/pressrelease/detail?id=483; and IACHR Resolution 1/2020, note 28.
+30  Available at: www.rti-rating.org/covid-19-tracker.
+31  The real number may be larger than 20 as the Tracker might have missed some of the changes due to the pace at which they were being adopted, language 
+barriers and other challenges in collecting this information.
+32 Guatemala, Congressional Decree 12-2020. Available at: https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/90f74-12-2020.pdf.
+33  Argentina, Access to Public Information Agency, Resolution 70/2020, 14 April 2020. Available in Spanish at: https://www.boletinoficial.gob.ar/detalleAviso/
+primera/227825/20200415.
+34  Office of the Australian Information Commissioner, How can agencies meet statutory timeframes during the COVID-19 pandemic?, 18 March 2020. 
+Available at: https://www.oaic.gov.au/freedom-of-information/frequently-asked-questions/how-can-agencies-meet-statutory-timeframes-during-the-covid-19-
+pandemic/. Information Commissioner of Canada, Statement from the Office of the Information Commissioner on the Impact of the COVID-19 Pandemic, 
+20 March 2020. Available at: https://www.oic-ci.gc.ca/en/resources/news-releases/statement-office-information-commissioner-impact-covid-19-pandemic. 
+Ombudsman New Zealand, Chief Ombudsman’s Statement on Official Information Response Times during the COVID-19, 24 March 2020. Available at: https://
+www.ombudsman.parliament.nz/news/chief-ombudsmans-statement-official-information-response-times-during-covid-19-emergency.Many statements have also stressed the need to ensure that proactive disclosures 
+reach minorities, women and others with limited access to mainstream communications. 
+The UN Secretary-General, the Council of Europe, the African Commission on Human 
+and Peoples’ Rights and the Inter-American Commission on Human Rights have all 
+affirmed the importance of information in: “readily understandable formats”, minority 
+and indigenous languages, and formats which enable access by persons with 
+disabilities or specific needs, the poor and those who lack access to Internet and 
+primary media sources.29 
+III. Measures Taken by States 
+during COVID-19
+This section of the Brief is significantly informed by the Centre for Law and Democracy’s 
+(CLD) COVID-19 Tracker.30  
+3.1 Legal Changes to Right to Information Laws
+This part focuses on countries which introduced legal changes to their right to 
+information laws in response to the pandemic, but it should be noted that most 
+countries did not make any changes. CLD’s COVID-19 Tracker only lists some 20 
+countries which have made such changes out of 129 countries globally with right to 
+information laws.31 
+Several countries explicitly affirmed that their right to information obligations would 
+remain in place. Guatemala’s Congressional Decree 12-2020 generally suspended 
+administrative deadlines but explicitly exempted the right to information law from this.32  
+Argentina’s Access to Public Information Agency adopted a resolution specifying 
+that the decree generally suspending administrative deadlines did not apply to the 
+right to information, on the basis that even if the emergency justified a suspension 
+of this human right, the government would need to do that explicitly, which it had 
+not. The Agency also cited international standards and emphasised the importance 
+of maintaining the right to information during emergencies.33 Oversight bodies in 
+Australia, Canada and New Zealand, where right to information obligations were not 
+formally suspended, affirmed that public authorities were still required to process 
+requests in line with the legislation, although they also highlighted ways in which their 
+respective right to information laws incorporated some flexibility to take into account 
+extenuating circumstances.34  The Right to Information in Times of Crisis1035  Decreto 491 de 2020. Available in Spanish at: http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/30039011.
+36 Decree No. 179/2020. Described in English in Dóra Petrányi, Katalin Horváth and Márton Domokos, Hungarian Government Overwrites the GPDR in 
+its COVID-19 State-of-Emergency Decree, Lexology, 7 May 2020. Available at: https://www.lexology.com/library/detail.aspx?g=e8a01f55-caf3-43c5-b07e-
+c73fb41eb675.
+37  Ivana Nokolic, et al., Central and Eastern Europe Freedom of Information Rights ‘Postponed’, BIRN, 6 April 2020. Available at: https://balkaninsight.
+com/2020/04/06/central-and-eastern-europe-freedom-of-information-rights-postponed/
+38 Coronavirus (Scotland) Act, Schedule 6. Available at: https://www.legislation.gov.uk/asp/2020/7/contents/enacted.
+39  Coronavirus (Scotland) (No. 2) Act, 20 May 2020, Schedule 6. A version of the bill as it was passed is available at: https://beta.parliament.scot/-/media/files/
+legislation/bills/current-bills/coronavirus-scotland-no2-bill/stage-3/coronavirus-scotland-no2-bill-as-passed.pdf.
+40  New Zealand Ombudsman, FAQs: Official Information Requests during COVID-19, May 2020, p. 11. Available at: https://www.ombudsman.parliament.nz/
+sites/default/files/2020-05/OMB_FAQs_Official_information_requests_during_COVID-19_May_2020.pdf.
+41  Decreto 491 de 2020, note 40.
+42 Coronavirus (Scotland) Act 2020, Schedule 6, note 43.Many public authorities adjusted their working methods and procedures to 
+accommodate new working arrangements, whether these were social distancing or 
+work-from-home arrangements. In a few cases, this involved formal legal changes. 
+Both Colombia41 and Scotland, in the United Kingdom42 for example, enabled 
+electronic notice to be provided, respectively for all administrative procedures and In the United Kingdom, Scotland is an example of what became a more tailored 
+approach to extending deadlines. The original Coronavirus (Scotland) Act, 
+passed on 1 April 2020, introduced an essentially blanket extension of the time 
+to respond to requests to 60 days from the normal 20.38  However, amendments 
+adopted on 20 May removed the extensions, instead permitting the Information 
+Commissioner to take the pandemic into account when deciding whether or 
+not an authority had complied with the time limits and requiring him or her to 
+take the “public interest” into account when evaluating whether a failure to 
+meet the time limits was reasonable.39 
+In New Zealand, normal timeframes were not amended but the Chief 
+Ombudsman stated that his office would consider “extenuating circumstances” 
+when evaluating complaints based on delays. A detailed guidance document, 
+however, noted that delays still needed to be justified on the grounds in the law 
+for such extensions and that simply referring to the emergency as a justification 
+was not sufficient. These grounds are where either the volume of information 
+to be searched through or needed consultations mean that it is unreasonable 
+to meet the original deadline. COVID-19 might affect either of these grounds.40 Alternatives to Blanket Time ExtensionsMost formal amendments to right to information rules extended the deadlines for 
+responding to requests for information. The following countries extended the deadline 
+by a set period of days: Colombia (up to 35 days instead of the normal ten, or 
+exceptionally up to 70 days),35  Hungary (45 days instead of the normal 15, with the 
+possibility of another 45 day extension)36 and the Republic of Moldova (45 days, up from 
+the normal 15, although this was not enforced as it was deemed unconstitutional).37  
+A number of others suspended entirely the deadlines for responding to requests, 
+providing that they would resume either at a future date, which was in some cases 
+specified and in others not, or a certain number of days after the end of the emergency. 
+Both of these approaches represent blanket extensions, applying to all requests for 
+information.The Right to Information in Times of Crisis1143  Decree No. 179/2020, note 41. 
+44 Honduras, Institute of Access to Public Information (IAIP), Communication, 29 March 2020. Available in Spanish at: https://pbs.twimg.com/media/
+EUVCoAjWsAAv4gX?format=jpg&name=medium.
+45  Honduras, IAIP, Communication, 13 April 2020. Available in Spanish at: https://web.iaip.gob.hn/wp-content/uploads/2013/03/Comunicado-IAIP-13-04-2.
+pdf.
+46  Italy, Decree-Law 17 March 2020, n. 18, Article 67(3), available in Italian at: https://www.gazzettaufficiale.it/eli/id/2020/03/17/20G00034/sg; and Ministry of 
+Public Administration, Comunicato del Dipartimento della Funzione Pubblica, 9 April 2020, available in Italian at: http://www.funzionepubblica.gov.it/articolo/
+dipartimento/27-03-2020/comunicato. Described in English at https://www.rti-rating.org/covid-19-tracker/.
+47  INAI, Determina Inai Reanudar Plazos para que Instituciones con Actividades Esenciales Durante Cuarentena Atiendan Solicitudes, 1 May 2020. Available 
+in Spanish at: http://inicio.inai.org.mx/Comunicados/Comunicado%20INAI-137-20.pdf.
+48  As reported to CLD and documented in the RTI Rating, COVID-19 Tracker. Available at: https://www.rti-rating.org/covid-19-tracker.
+49  Goce Trpkovski, North Macedonia’s State of Emergency Weakens Institutions’ Transparency, BIRN, 24 April 2020. Aavailable at: https://balkaninsight.
+com/2020/04/24/north-macedonias-state-of-emergency-weakens-institutions-transparency/.
+50  Moldova People’s Advocate, Freedom of Expression, including Free and Timely Flow of Information, is an Essential Factor for the Media’s Ability to Report 
+Pandemic Issues, 16 April 2020. Available at: http://ombudsman.md/en/news/avocatul-poporului-libertatea-de-exprimare-inclusiv-fluxul-liber-si-la-timp-de-
+informatii-este-un-factor-esential-pentru-capacitatea-mass-mediei-de-a-raporta-problemele-legate-de-pandemie/specifically for requests for information. Hungary issued a Decree specifying that 
+requests could not be submitted in person or orally.43  In other cases, changes were 
+made informally, such as when the Honduran oversight body announced that requests 
+and appeals would continue to be received but only through the electronic portal and 
+not in person.44  It is not clear that existing legal frameworks always authorised these 
+informal changes.
+A few countries took formal steps to prioritise requests for information relating to the 
+pandemic. Following the communication noted above by the Honduran oversight 
+body, it subsequently announced that public authorities which were part of the 
+national risk management system or which worked in a municipality and were handling 
+emergency funds would continue to process requests for information relating to the 
+emergency.45  In Italy, the original Decree-Law suspending the processing of requests 
+contained an exception for urgent requests. A subsequent government statement 
+clarified that requests for information relating to the pandemic would be treated as 
+urgent requests.46  Mexico’s oversight body originally suspended request processing 
+deadlines but then lifted this for essential public authorities, as defined by the health 
+authorities.47  Overall, however, only a few countries prioritised the disclosure of 
+pandemic information.
+Decision-making on these changes to the right to information occurred at a variety of 
+levels. In some cases, an emergency law or decree generally suspended administrative 
+deadlines, stopped work by government officials or closed government offices. 
+Some of these general rules empowered the relevant sector regulators to adjust or 
+repeal the suspensions in their areas of work (which, as noted above, was done in 
+Argentina). In other cases, the rules specifically covered the right to information. In 
+yet other cases, the legal situation was murky or contested. In Bulgaria, the National 
+Health Insurance Fund reportedly issued an order extending its own deadlines for 
+responding to requests for information but, when civil society objected that this 
+lacked any legal basis, the order was rescinded.48  In North Macedonia, there was an 
+element of confusion reported over weather a general suspension of administrative 
+deadlines applied to requests for information.49 In some cases, there were questions 
+about the constitutionality of suspending right to information obligations. For example, 
+in the Republic of Moldova, the Ombudsman issued a statement indicating that the 
+tripling of the normal time limits for requests was unconstitutional.50The Right to Information in Times of Crisis12As public health concerns ease and as public authorities adapt to new working 
+arrangements, normal right to information rules should be restored. Where changes 
+to right to information rules were pursuant to a general state of emergency law, they 
+would normally end when that law expired. The practice here varies. Many States 
+renew emergency rules every few weeks, while some have adopted longer time 
+frames.53 In some cases, the right to information changes will continue for a set period 
+after the end of the emergency. In Serbia, for example, extended request processing 
+deadlines will end only 30 days after the end of the emergency.54 
+3.2 The Role of Oversight Bodies
+Right to information oversight bodies play a significant role in protecting the right 
+to information. During the COVID-19 pandemic, these bodies have in some cases 
+provided critical information, guidance and oversight. Their responses to the 
+pandemic fall into two main categories: 1) decisions about their own activities; and 2) 
+directives or guidance to public authorities on their responsibilities and how best to 
+discharge them.
+In many cases, oversight bodies have needed to adapt their own working procedures 
+to comply with government social distancing or work-from-home orders, including so 
+as to maintain their ability to receive and decide appeals. Often, this has primarily 
+been a logistical matter but some bodies also issued formal communications or 
+legal notices of changes. The Bangladesh Information Commission, for example, 
+suspended complaint hearings when their offices closed.55  Panama’s oversight body 
+suspended its administrative deadlines but stated that it would still receive complaints 
+and petitions electronically.56 
+51 Brazil, Provisional Measure 928, of 23 March 2020. Available in Portuguese at: http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/Mpv/mpv928.htm.
+52  Medida Cautelar Na Ação Direta De Inconstitucionalidade 6.351 Distrito Federal (Precautionary Measure in the Direct Action for Unconstitutionality), 
+Decision, 26 March 2020. Available in Portuguese at: https://www.conjur.com.br/dl/moraes-concede-liminar-suspende.pdf. This preliminary decision has been 
+affirmed. See Consultor Juridico, Restrição à Lei de Acesso é solução para problema que não existe, diz STF, 30 April 2020. Available at: https://www.conjur.
+com.br/2020-abr-30/stf-referenda-liminar-mantem-suspensao-restricoes-lai.
+53  In Colombia, for example, where the suspension of request deadlines is tied to the general health emergency, the emergency was extended on 20 May 
+until the end of August.
+54 Ivana Nikolic, et al., note 42.
+55  Shamsul Bari and Ruhi Naz, RTI/FOI Acts: Another Victim of the Covid-19 Pandemic, The Daily Star, 15 May 2020. Available at: https://www.thedailystar.
+net/opinion/news/rtifoi-acts-another-victim-the-covid-19-pandemic-1902607.
+56  Autoridad Nacional de Transparency y Acceso a la Información, Communication, 27 March 2020. Available at: https://www.antai.gob.pa/comunicado-
+decreto-ejecutivo-no-507-de-2020/.Brazil introduced a provisional measure that prioritised requests for information 
+related to the emergency but it also suspended the right to make requests to 
+public authorities which were working remotely, if responding to the request 
+would require in-person processing, or if authorities were occupied with 
+responding to the pandemic. The measure also suspended appeals against 
+denials of the requests.51 
+In the view of some, this approach may have the effect of limiting the right for 
+those authorities for which openness was a particularly high priority during the 
+pandemic. However, the Supreme Federal Court held that the measure was 
+unconstitutional on the basis that it made openness of the public administration 
+the exception rather than the rule, contrary to the approach mandated by the 
+Constitution.52 BrazilThe Right to Information in Times of Crisis1357  India, Central Information Commission, Order, 25 March 2020. Available at: https://cic.gov.in/sites/default/files/CICorder.pdf.
+58 Moldova People’s Advocate, Announcement Regarding the Way of Notifying the People’s Advocate Office. Available at: http://ombudsman.md/en/news/
+anunt-cu-privire-la-modalitatea-de-sesizare-a-oficiului-avocatului-poporului/.
+59 Mexico, INAI, Acuerdo ACT -EXT -PUB/20/03/2020.02, 20 March 2020. Available at: https://www.rti-rating.org/wp-content/uploads/2020/04/ACT-EXT-
+PUB-20-03-2020.02.pdf.
+60  Argentina, Access to Public Information Agency, Resolution 70/2020, note 38. 
+61  New Zealand Ombudsman, FAQs: Official Information Requests During COVID-19, May 2020. Available at: https://www.ombudsman.parliament.nz/sites/
+default/files/2020-05/OMB_FAQs_Official_information_requests_during_COVID-19_May_2020.pdf.Some oversight bodies developed alternate arrangements to enable the continued 
+provision of services. For example, India’s Central Information Commission announced 
+that it would hear urgent matters through online audio conference facilities while 
+its offices were closed.57 The Republic of Moldova’s oversight body announced it 
+would continue to operate flexibly, asking complainants and others to contact it via 
+phone, email or their website.58  In some cases, these changes might require legal 
+amendments to be fully legitimate.
+In other cases, oversight bodies have the power to adopt formal interpretations or rules 
+which adapt procedures for individual public authorities. In Mexico, the oversight body, 
+on its own initiative, issued a resolution suspending request processing deadlines.59  
+Conversely, in Argentina, as noted above, the oversight body issued a resolution 
+stating that right to information deadlines would not be suspended, despite a general 
+suspension of administrative deadlines.60  Even where they do not have this sort of 
+formal legal authority, most oversight bodies can issue guidance to public authorities 
+on how best to respond to a crisis. New Zealand’s Chief Ombudsman produced a list 
+of answers to frequently-asked-questions, such as how to deal with timeframes and 
+what to do if requested information could not be accessed remotely.61  
+3.3 Proactive Disclosure
+States have employed a wide range of strategies to communicate information about 
+the COVID-19 pandemic. Many countries developed accessible central websites to 
+share key information about the pandemic, such as the number of cases, deaths, 
+tests and recoveries. This allows for consistent messaging and a regular location and 
+format for the public to access information. It is important to disaggregate this data, 
+including by gender and age. 
+14On the other hand, in a number of countries there have been challenges regarding 
+the reliability, accuracy and completeness of information about the pandemic. For 
+example, the Inter-American Commission on Human Rights’ Special Monitoring 
+Mechanism for Nicaragua found that data provided on cases, deaths and recoveries 
+was not reliable and that information on testing data, the spread of the disease and 
+protocols for monitoring cases was not available.67  Early on, authorities in Hungary 
+were reportedly not consistently disclosing sufficiently detailed information, such as 
+on the regions of the country where COVID-19 cases had been recorded.68  
+Some countries have sought to centralise official communications about the pandemic, 
+prohibiting any other officials from speaking about it. It is important to ensure that official 
+information is as accurate and up-to-date as possible, but excessive centralisation 
+impedes the flow of information and provides opportunities for political control. Serbia 
+adopted a decree requiring all COVID-19-related information to be released centrally 
+but this prevented local crisis headquarters from communicating directly with the 
+local communities in which they operated. The decree was revoked after just a few 
+days, following a public outcry.69  
+62  INAI, COVID-19: Transparencia Proactiva, https://micrositios.inai.org.mx/gobiernoabierto/?page_id=6810.
+63  INAI, COVID-19: Transparencia Proactiva, https://micrositios.inai.org.mx/gobiernoabierto/?page_id=6791
+64  New Zealand Government, United against COVID-19, last modified 26 June 2020. Available at: https://covid19.govt.nz/updates-and-resources/legislation-
+and-key-documents/proactive-release/#released-documents-by-category.
+65 Government of Canada, Open Government and COVID-19. Available at: https://open.canada.ca/en/coronavirus.
+66  National Portal of India, COVID-19 Inter-Ministerial Notifications. Available at:  https://covid19.india.gov.in/documents/.
+67 IACHR, IACHR, OSFRE, and OSRESCER Express Serious Concern Over Violations of the Right to Information in Nicaragua and the Impact of These on 
+Access to Health During the COVID-19 Pandemic, 29 May 2020. Available at: http://www.oas.org/en/iachr/media_center/PReleases/2020/119.asp
+68  Vlagyiszlav Makszimov, Hungarian Authorities Decline to Disclose Location of New COVID-19 Cases, 17 March 2020, Euractiv. Available at: https://www.
+euractiv.com/section/coronavirus/news/hungarian-authorities-decline-to-disclose-location-of-new-covid-19-cases/
+69 Serbia to Revoke Coronavirus Information Control Decree After Criticism, 2 April 2020, Reuters, available at: https://www.reuters.com/article/us-health-
+coronavirus-serbia-media/serbia-to-revoke-coronavirus-information-control-decree-after-criticism-idUSKBN21K18I; and Milica Stojanovic, Serbian Govt Takes 
+Control of Informatio Flow About Pandemic, 1 April 2020, available at: https://balkaninsight.com/2020/04/01/serbian-govt-takes-control-of-information-flow-
+about-pandemic/.Mexico New Zealand Canada India
+Data is released regularly on 
+requests about:
+• how many requests are 
+related to the pandemic, 
+• types of information 
+requested, status of 
+responses.
+• types of response 
+given.62  
+The National Institute for 
+Transparency also publishes 
+responses to the most 
+frequent requests.63  Wide range of 
+information  published 
+about:
+• Government 
+decision-making.
+• Public health 
+outcome and 
+economic 
+scenario 
+modelling reports 
+and other reports 
+which inform 
+government 
+policy-making 
+during the 
+lockdown.64  Canada’s open 
+government 
+pandemic website 
+provides:
+• Access to data 
+on government 
+travel expenses, 
+contracts, 
+grants and 
+the COVID-19 
+financial benefits 
+scheme.65  Dedicated page 
+for inter-ministerial 
+notifications which 
+allows documents to 
+be tracked across 
+different ministries.66 Beyond disclosing basic health-related information, some countries have gone further:The Right to Information in Times of Crisis1570  MISA Zimbabwe, High Court Orders Information Access on Covid-19, 24 April 2020, available at: https://zimbabwe.misa.org/2020/04/24/high-court-orders-
+information-access-on-covid-19/; and Fadzai Ndangana, High Court Orders COVID-Updates To Be Translated in All 16 Languages, 27 April 2020, 263 Chat, 
+available at: https://263chat.com/high-court-orders-covid-updates-to-be-translated-in-all-16-languages/.
+71  Coronavirus: Brazil Resumes Publishing Covid-19 Data After Court Ruling, 9 June 2020, BBC. Available at: https://www.bbc.com/news/world-latin-
+america-52980642. The text of the precautionary measure is available in Portuguese at: http://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/
+ADPF690cautelar.pdf.
+72  Samir Kajsevic, Montenegro Court to Examine Publication of Self-Isolating Citizens’ Names, Balkan Insight, 29 May 2020. Available at: https://balkaninsight.
+com/2020/05/29/montenegro-court-to-examine-publication-of-self-isolating-citizens-names/.
+73  Ardilla Syakriah, Rizki Fachriansyah and Muh. Ibnu Aquil, COVID-10 patients become victims of Indonesia privacy protection, 5 March 2020, The Jakarta 
+Post. Available at: https://www.thejakartapost.com/news/2020/03/04/covid-19-patients-become-victims-of-indonesias-lack-of-privacy-protection.html.
+74  Access Now, Recommendations on Privacy and Data Protection in the Fight against Covid-19, March 2020. Available at: https://www.accessnow.org/cms/
+assets/uploads/2020/03/Access-Now-recommendations-on-Covid-and-data-protection-and-privacy.pdf.In both, Zimbabwe and Brazil, legal challenges brought by civil society were successful 
+in compelling the government to improve its performance. In Zimbabwe, following 
+a legal challenge, the High Court ordered the health and information ministries to 
+provide daily COVID-19 updates in all 16 official languages containing, among other 
+things, a list of all testing and treatment centres, information on the types of medical 
+equipment and other resources the country needed, how public or private actors 
+could assist and updates on plans to combat the disease.70  In Brazil, the health 
+minister stopped releasing data on the total number of deaths and cases in June, 
+following which a court ordered the government to resume posting this information.71  
+Balancing proactive disclosure and the protection of privacy has sometimes been a 
+problem. In Montenegro, for example, the names of people who were self-isolating 
+were published.72  In Indonesia, the initials, ages and home addresses of the first 
+confirmed COVID-19 patients were reportedly leaked, leading to social media 
+harassment.73  Patient data was reportedly inadvertently released on a Peruvian 
+government platform, while some Indian state governments reportedly uploaded files 
+identifying individuals who were under quarantine.74 In most cases, an appropriate 
+balance can be achieved by releasing information in sufficiently aggregated forms so 
+that it is not possible to identify specific individuals. 
+IV. Assessment in Light of Human 
+Rights Law
+Most States have proactively disclosed health-related information, but not other types 
+of information, such as government decisions regarding budgets, procurement and 
+special programmes and benefits. At a minimum, States should make a concerted 
+effort to provide the best available information to the public, based on science and 
+objective information collection. There is no place for political manipulation in this 
+regard. The overriding need to ensure that everyone receives crucial information, 
+including those living in remote areas, vulnerable groups, linguistic and other 
+minorities, and both women and men, means that resources and energy need to be 
+invested in diverse communications modalities. To achieve this, governments should 
+put in place dedicated emergency-specific proactive disclosure strategies and 
+policies, and provide guidance to public authorities on proactive disclosure during 
+a pandemic, so as to ensure strong and consistent performance. It is also important 
+that public authorities continue, to the best of their ability, to process requests for 
+information. The table below sets out some better practices in this regard.The Right to Information in Times of Crisis16Framework for assessing RTI responses75 :
+75 See also, Centre for Law and Democracy, Maintaining Human Rights during Health Emergencies: Brief on Standards Regarding 
+the Right to Information, May 2020. Available at: https://www.law-democracy.org/live/maintaining-the-right-to-information-during-health-
+emergencies/.
+Ensuring ATI as 
+a human right
+Building 
+Institutional
+leadershipEmergency 
+measures 
+during crises• States should make an effort to conform to international human rights 
+standards during health emergencies. 
+• Many States rushed through measures, without much regard to the 
+impact this might have on RTI. 
+• Derogations from human rights need to be carefully designed, legally 
+justified and announced publicly via the UN Secretary-General.
+• As the situation normalizes and as public authorities become used to 
+working under new conditions, priority should be given to easeing or lifting 
+entirely any limitations entirely on RTI. 
+• RTI should not be seen as a burden. Maintaining this right, through 
+both proactive and reactive disclosure, constitutes an essential part of the 
+response to the health threat. 
+• Blanket suspension of RTI procedures, including extensions of deadlines 
+for responding to requests, are not appropriate, since different authorities 
+are impacted differently by the pandemic. 
+• Any extension of deadlines for responding to requests should require 
+justification. 
+• Access to information on the public health emergency should be 
+prioritized. Such information has high public value; its disclosure contributes 
+to better public health outcomes. 
+• Oversight systems should not be suspended although oversight bodies 
+may, like all public authorities, need to alter their procedures to adapt to 
+general health measures. 
+• It is imperative to maintain proper records, despite changes to working 
+environments, especially about government decision-making during an 
+emergency.• Nothing about the rules on emergencies in any way waives the rule of 
+law. 
+• Individuals should have access to an independent system of remedies 
+for human rights breaches, even during emergencies. 
+• Any limitations on rights, including emergency derogations, should be 
+set out in a validly adopted, legally binding instrument. 
+• Any restriction on the RTI should take into account the heightened 
+importance of this right during a health emergency. 
+• Emergency legislation should be clear that it is authorizing restrictions 
+of RTI. It should aim to prevent abuse by requiring any measures to be 
+“necessary” or “strictly required by the exigencies of the situation”. 
+• Restrictive measures must be provided by law. Any limits on the RTI 
+should be clear and precise. The exercise of powers limiting the right 
+should be challengeable in court.
+•   It may be legitimate to adopt emergency measures aimed to limit the RTI 
+as needed to respond to a health crisis, but not to use a crisis for limitations 
+motivated by other interests.The Right to Information in Times of Crisis17About this brief
+This brief comes as part of the UNESCO series World Trends in Freedom of Expression and Media 
+Development . The brief is designed to serve as a reference for UNESCO Member States, media 
+organizations, NGOs, academia and internet companies. The content was developed by Toby 
+Mendel and Laura Notess. Acknowledgements are also due to the UNESCO staff: Guy Berger, 
+Marius Lukoši ūnas, Oscar Castellanos and Jaco du Toit.
+For more resources, visit: World Trends in Freedom of Expression and Media Development .
+The designations employed and the presentation of material throughout this publication do not 
+imply the expression of any opinion whatsoever on the part of UNESCO concerning the legal 
+status of any country, territory, city or area or of its authorities, or concerning the delimation of 
+its frontiers or boundaries. The ideas and opinions expressed in this publication are those of the 
+authors; they are not necessarily those of UNESCO and do not commit the Organization. Multi-Donor Programme 
+on Freedom of Expression 
+and Safety of Journalists
+United Nations
+Educational, Scientiﬁc and
+Cultural Organization
+Published in 2020 by the United Nations Educational, Scientific and Cultural Organization, 
+7, place de Fontenoy, 75352 Paris 07 SP, France ©UNESCO. This document is available 
+in Open Access under the Attribution ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) License. By 
+using the content of this publication, the users accept to be bound by the terms of use of the 
+UNESCO Open Access Repository. Cover photo: Unsplash/Tai’s CapturesAbout the authors
+Toby Mendel is the founder and Executive Director of the Centre 
+for Law and Democracy, a Canadian-based international human 
+rights NGO that provides legal and capacity building expertise 
+regarding foundational rights for democracy, including the right to 
+information, freedom of expression, the right to participate and the 
+rights to assembly and association. Prior to that, he was for over 
+12 years Senior Director for Law at ARTICLE 19, a human rights 
+NGO focusing on freedom of expression. He has collaborated 
+extensively with inter-governmental, governmental and civil society 
+actors in these areas, and has published extensively on them.
+Laura Notess is a legal officer at the Centre for Law and Democracy. 
+After graduating from Georgetown University Law Center, she 
+worked on land rights for rural communities and Indigenous 
+Peoples at the World Resources Institute. She also has conducted 
+legal research and policy work around issues such as political 
+prisoners, refugee policy, the prevention and prohibition of torture, 
+and protections for human rights defenders. During law school, 
+she completed internships with several non-profits and at a DC-
+based human rights law firm.
+ Centre for Law
+ and Democracy 
+ Centre for Law
+ and Democracy 
+ Centre for Law
+ and Democracy 

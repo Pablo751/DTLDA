@@ -1,0 +1,641 @@
+Webinar Report  Science to Enable 
+and Empower Asia Paciﬁc for COVID-19 response
+UNESCO Jakarta Ofﬁce
+19 May 2020JAK/2020/FIT/011
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+Table of Contents
+About the webinar 2
+Remarks 3
+The webinar in number 6
+Brief summary of the discussion 7
+Contributions from stakeholders
+Role of science family during and after COVID-19 pandemic 9
+Annex
+Annex 1. Asia Pacific  Recommendations of Action 32
+Annex 2. Survey Results 35
+Annex 3. Agenda 39Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 2
+About the webinar
+The COVID-19 pandemic poses significant challenges for Asia and the Pacific. It is anticipated 
+that millions will be pushed back into poverty, while progress towards the SDGs will be drastically impacted. As the region seeks to respond to these challenges, Science, Engineering, Technology, and Innovation (SETI) plays a critical role in ensuring the availability of updated and reliable scientific data and educational resources through open science, sharing innovative solutions through ICT, and mobilizing the water and environmental sciences to enhance our understanding of the virus and its impacts on both people and the environment that supports us. UNESCO’s thematic and interdisciplinary science networks, supported by Japanese Funds-in-Trust (JFIT) and the Malaysia Funds-in-Trust (MFIT) span the region and have the potential to play a critical role in mobilizing science communities across Asia and the Pacific, enhancing the sharing of lessons from member states and advancing international cooperation. 
+UNESCO Jakarta Office organized the Science to Enable and Empower Asia Pacific for COVID- 
+19 response – special webinar – supported by JFIT and MFIT on Tuesday, 19 May 2020, via Zoom Video Conferencing. This webinar took stock of the impact of the pandemic on UNESCO’s regional science networks, and to discuss how to respond to the challenges it poses, utilizing SETI. Attendees included SEE-AP alumni, UNESCO Headquarters and Field Offices, Category II Centres and Chairs, and stakeholders from extended regional science networks. More than 1,600 (registered) participants took part in the event from across 28 countries. Key remarks were provided by 17 experts in our science community that were involved in the JFIT and MFIT implementation of projects. Speakers introduced their perspectives on the roles of Science Family during and after the COVID-19 pandemic with reference to their fields of expertise - Youth in SETI for Disaster Risk Reduction (DRR); Open Science, technoprereurship and Science Communication; Water and Environmental Sciences and UNESCO’s site-based networks. Colleagues from 11 UNESCO Offices and the UNESCO Natural Sciences sector also presented their views and future directions in response to the ideas shared by stakeholders. The webinar was advertised via UNESCO Jakarta’s social media, and was broadcast through the Facebook of UNESCO Jakarta.
+The main output of the webinar is the Asia Pacific Recommendations of Action by the UNESCO 
+Science Family in Response to COVID-19 Challenges (see Annex 1). This set of recommendations reaffirms that UNESCO and its science networks will work collaboratively to mobilize scientific researches and innovations across Asia and the Pacific to strengthen the interface between science and society call for immediate (up to 1 year) and medium term (2 to 3 years) actions.
+The webinar made an important contribution to the project “Fostering and Enhancing synergies 
+among Science Networks in Asia and the Pacific Region” supported by JFIT, and takes its point of departure in the 2nd “Science to Enable and Empower Asia Pacific for SDGs (SEE-AP)” meeting held in Jakarta last year. 
+Link to recorded webinar
+https://www.facebook.com/watch/live/?v=1585510561649754&ref=watch_permalink3
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+Prof. Dr. Shahbaz Khan 
+Director Regional Science Bureau for Asia and the Pacific and 
+UNESCO Representative for Brunei Darussalam, Indonesia, Malaysia, the Philippines, and Timor-Leste at UNESCO Jakarta
+The COVID-19 is not the problem for any single country. Every 
+part of our planet has been experiencing challenges under this circumstance. 
+Within the UN system, UNESCO has a unique role through mandate 
+in the Natural Sciences, Education, Culture, Communication & 
+Information, and Social and Human Sciences. We should collaborate, 
+bringing together our networks and collaborations. I would like to thank 
+Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan and Ministry 
+of Education, Malaysia, as well as Mr. Yasuto Tachikawa and Mr. Mohammad Sanusi Abdul Karim, representing the National Commission for UNESCO of these countries, respectively. I would like to thank all the participants, including Category II Centres and science family members in the region, as well as colleagues from directors and the HQ Science sector. It is important to continue networking to make sure science can help people in Asia and the Pacific and beyond.
+We received overwhelming interest in this webinar, with over 1,600 people registered. According 
+to a survey of participants, over 80% of those registered work on COVID-19 response activities. In terms of the field of activities, the most popular area is DRR (880), followed by Open Science (151), Environment (96), Big data (93), Water (53) and Geosciences (31). It shows that these are the key areas.
+Today, we would like to obtain directions on how the UNESCO Science family can work together 
+to provide technological solutions, how we can look into data and flatten curves, how we can connect science with communities and environment, how technology can help us understand the challenges. As many colleagues have been implementing activities related to COVID-19, we are looking forward to hearing from you.
+We are living in very different circumstances than before. No matter what the past or present 
+was and whether the future is going to be better for us, it is important to continue exploring how science can play a critical role in keep moving forward with partners towards achieving global agendas: Sustainable Development Goals and the Sendai Framework for Disaster Risk Reduction (SFDRR), as well as to contribute to Small Island Developing States (SIDS). Therefore, fostering existing science networks is vital.
+I would like to introduce the statement which I credit to the Australian Academy of Sciences – 
+“There is only one way out of this world – that is science”. I look forward to working together on the webinar - especially bringing science-based solutions.
+RemarksScience to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 4
+Prof. Dr. Yasuto Tachikawa  
+Representing the Japanese National Commission for UNESCO; 
+Chair, Japan National Committee for IHP , Natural Science Committee, Japanese National Commission for UNESCO
+On behalf of the Japanese National Commission for UNESCO, 
+I would like to thank all of you for participating in this special webinar. I would like to express our sincere thanks to Prof. Shahbaz Khan, Director of UNESCO Jakarta Office, and colleagues from UNESCO Jakarta Office to organize the webinar 
+in response to the COVID-19 challenges in this critical time.
+Since the establishment of Japanese Funds-in-Trust (JFIT) for UNESCO 
+Sciences Programmes in the 1970s, JFIT has been building a capacity of 
+science communities and strengthening and fostering science networks across this region. Throughout 50 years of collaboration, we continued to face new challenges due to rapid social changes and large scale and frequent disasters. Regarding the spread of COVID-19, it is important for us to work together on countermeasures. It is important for UNESCO Jakarta Office and Member Countries in the region to discuss the specialized measures in the field of science to build a sense of solidarity and unite to overcome this crisis.
+In the Science sector, UNESCO Headquarters hosted the ministerial level virtual meeting on 
+open science and international cooperation against COVID-19 in March 2020. The expansion of utilization of research outcome, requested by Audrey Azoulay, Director-General of UNESCO, is in line with the basic stance set forth in Japan’s current science and technology basic plan. We have been actively participating in UNESCO’s Open Science initiatives.
+In particular, for the Japanese National Commission for UNESCO, we would like to prioritize 
+activities towards the United Nations Decade of Ocean Science and strengthening of collaborations among various stakeholders.
+Appropriate flood forecasting and evacuation activities will be essential for preventing the 
+spread of the virus in the upcoming rainy season. We believe that IHP’s effort for establishing proper integrated water resource management can contribute to preventing infection by COVID-19. The IHP Member States in Asia and the Pacific, in cooperation with UNESCO Jakarta Office have been carrying out the activities called the Catalogue of Hydrological Analysis (CHA), which is an initiative to bring together our wisdom of water management. Last year, we published a technical document on flood hazard mapping for Asian countries, which is available at the website of IHP Regional Steering Committee for Asia and the Pacific.
+ICHARM has been actively engaging on basic and practical activities on flood disaster mitigation 
+in cooperation with Asian countries. The IHP training course scheduled for this December at Kyoto University this year will be held in combination with remote lectures and discussions. UNESCO Water Education and Disaster Management (WENDI) at Kyoto University has been utilizing distance learning to continue higher education for sustainable development.
+Let’s bring together wisdom from each country and overcome this challenge together.Remarks5
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+Mr. Mohammad Sanusi Abdul Karim 
+Secretary-General, Malaysian National Commission for 
+UNESCO
+The COVID-19 pandemic has brought such a profound impact 
+on the world in a way that has not been seen before in recent times. It has deeply affected public health, socio-economics and so many other aspects of society. As a result, governments around the globe have been forced to fight battles on multiple fronts. 
+As countries impose measures to flatten the curve of the spread 
+of COVID-19, UNESCO estimated that about 90 percent of schools were 
+being closed globally during the height of the pandemic. In Malaysia, 5.5 
+million students of all levels, from pre-school to secondary schools and 420,000 teachers, which together make up to about a sixth of our population were affected. While many governments have shifted to non- classroom-based instructions, the education systems were 
+unprepared for the full scale of teaching and learning experience.  
+In the midst of all this, the scientific research community has been thrust into the forefront as the world seeks a cure or vaccine for the pandemic. The Malaysian National Commission is happy to work with the Japanese National Commission on the 3
+rd Science to Enable and 
+Empower Asia Pacific (SEEAP) for the SDGs event in supporting UNESCO’s thematic and interdisciplinary science networks to discuss current developments. The networks, supported by Japanese Funds-in-Trust (JFIT) and Malaysia Funds-in-Trust (MFIT) would facilitate discussions through Science, Engineering, Technology, and Innovation (SETI) in order to utilize reliable scientific data and resources while sharing innovative solutions to better comprehend 
+the virus and its impacts.  
+Fundamentally, we can only overcome global challenges through cooperation and exchanges of ideas and resources. Since the announcement of the Malaysia-UNESCO Cooperation Programme (MUCP) in 2009, the Government of Malaysia has provided financial contributions and technical expertise to support projects were selected to enhance South-South Cooperation with emphasis on establishing joint-cooperation with countries from Asia and the Pacific, Small Island Developing States, Least Developed Countries, and Africa.
+RemarksScience to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 6
+The webinar in numbers
+1,626
+Participants 
+registered
+80%
+of participants had 
+undertaken COVID-19 
+response related 
+activities
+28
+countries1. Philippines
+2. Indonesia 
+3. Malaysia
+4. Pakistan
+5. China
+6. Denmark
+7. Japan8. Nepal
+9. India
+10. Republic of Korea
+11. Australia
+12. Singapore
+13. Iran
+14. Cambodia 15. France, 
+16. Vietnam 
+17. Afghanistan
+18. Canada
+19. Ecuador
+20. Germany
+21. Kazakhstan 22. Myanmar
+23. Nigeria 
+24. Oman 
+25. Qatar 
+26. Samoa 
+27. Thailand 
+28. United StatesThe webinar saw participation from :
+7
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+Brief summary of the discussion
+Stakeholders and UNESCO colleagues from different areas and communities expressed  
+the challenges they have been facing during the pandemic. 
+• Many countries and UNESCO sites have been experiencing sharp declines in industries 
+and tourism which directly impacts the livelihood of local community and contributes to an increase in unemployment. 
+•  Strong border control and travel restrictions pose a risk for public health in Small Islands 
+Developing States (SIDS) where health services are limited, and the limited availability of ICT strongly influences the maintenance of communication and activities.
+•  The reduction in visitors and human activity caused by COVID-19 related restrictions 
+has in some areas helped restoration of biodiversity and improved natural environment.  Finding a balance between economic activities and environmental protection is challenging yet important in the recovery process. 
+• Tackling disinformation is a challenge that the scientific community should address
+• Some countries have experienced natural disasters during the pandemic. Societies should be prepared for this to occur again.
+• Increased illegal activities have been observed at protected sites.
+•  Continuity of education is a challenge. 
+SETI should contribute to solutions to these challenges. Many UNESCO Science family members and networks are actively engaged in their communities. During the discussion, they shared the action undertaken amid COVID-19 pandemic. 
+• There are many data collection, tracking, assessment, and information sharing activities. The MAB community has been collecting information from each site, sharing information on the MAB website, and is planning a series of trainings and sharing of good practices across the network to support each other. Water sector is also taking a critical role in COVID-19 response in various ways including improvements in sanitation, identifying the hot spots by tracking the COVID-19 from raw sewage, and observing the COVID-19 and human impact on ecosystems at eco-hydrology demo-sites.
+• Direct contributions to solve the lack of supply of medical equipment were enabled through the public-private partnership. Companies supported by providing products needed for the mitigation of COVID-19 impacts.
+• Science and higher education institutions have been making efforts to maintain science education, provide scientific knowledge on COVID-19, and to promote development and dissemination of online learning tools. Through the cooperation among scientific institutions, various media programmes and guidelines were developed to enable home learning. Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 8
+•  Youth and young professionals are engaging with local communities, experts, and 
+governments to overcome the pandemic. These good practices were widely shared 
+during a webinar co-organized by UNESCO and U-INSPIRE Alliance.
+• DRR Guidelines under COVID-19 have been developed. Flood and tsunami evacuation and response activities under COVID-19 were developed by ICHARM and UNESCO Jakarta Office/IOTIC, respectively, in cooperation with partners. 
+The role of UNESCO Science family during and after COVID-19 pandemic were reiterated during the discussion and summarized as follows:
+•  The importance of SDG 17, South-South, inter-regional and cross-country cooperation 
+should be further acknowledged and stressed. Cooperation among UNESCO Science family entities including Chairs and Category II Centres, government and the private sector is important to establish collaborative research projects, mobilize resources, promote science diplomacy, and to continue efforts towards achieving SDGs and delivering on the 2030 Agenda. 
+• The important role of UNESCO-designated sites (Biosphere Reserves, World Heritage sites and UNESCO Global Geoparks) in demonstrating the integration of nature protection and sustainable resource management and development was reaffirmed. The sites need to enhance multi-sectoral, integrated, and synergetic efforts to promote nature based solutions. 
+•  The water and environmental sciences networks and UNESCO sites should continue 
+to provide updated understanding of the pandemic and its impact on environment and biodiversity, provide solutions, and enhance the engagement of youth and wider communities. 
+• To prepare for similar challenges in future, and to build a comprehensive resilience towards all types of disasters and climate change, a whole-of-society approach and one-health approach must be promoted, and improved policies/ SOPs/ guidelines applied. The expenditure of government towards SETI should be increased to promote scientific research and application of technologies.
+•  Improved engagement between the scientific community and society is needed. 
+The scientific community should respond to the considerable need for international cooperation in promoting Open Science, which enables community to access scientific results. In addition, scientists should engage in responding to community needs and ensure gender equality and ethical dimensions in research process and content. On the other hand, communities can develop their own strategies and action plans to apply scientific knowledge, bring grassroots innovations and contribute to data collection and monitoring through citizen science. Data driven decision making is important at all levels of governance.
+• UNESCO should take a leading role in continuing the exchange of knowledge and ideas through concurrent series of webinars at multiple levels and technical areas, and take the resulting ideas further by facilitating the development and sharing of technical solutions for application at UNESCO sites.9
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+Contributions from stakeholders
+Role of Science Family during and after COVID-19 PandemicScience to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 10
+Prof. Dr. Toshio Koike 
+Executive Director, International Centre for Water Hazard and Risk 
+Management (ICHARM)
+Support for Flood Disaster Risk Reduction under COVID-19
+As the world has witnessed ever year in recent years, it is no 
+exaggeration to say that floods will occur anywhere around the globe. However, flood disaster risk reduction has been no easy task due to changes in the climate system and societies. In addition, the task has become far more challenging because of the spread of coronavirus disease in 2019 (COVID-19). The international community should cooperate and quickly provide support for citizens and governments to reduce risks derived from COVID-19 and floods.
+In this urgency, we at ICHARM are pleased to inform you of one of our 
+recent projects that should be useful in coping with situations such as the current one. We have studied critical situations in flood disaster response efforts in the past ten years, reviewing flood disaster reports published by local governments in Japan, and summarized lessons that citizens and governments should learn to prepare for future disasters. Base on this work, ICHARM has just developed guidelines for addressing possible difficulties in flood disaster risk reduction under the COVID-19 crisis in collaboration with research groups in public health and disaster nursing. 
+Furthermore, ICHARM is presently developing a portal to support local 
+governments in understanding at which stage of the standardized operation procedure (SOP) COVID-19 related problems may arise and what kinds of difficulties they may face at each stage of the SOP by relating the guidelines and the SOP .
+Prof. Dr. Enny Sudarmonowati
+Chair of Man and Biosphere International Coordinating Council (MAB 
+ICC) UNESCO 
+Role of Science Family in Asia Pacific during and post 
+COVID-19: Special Issue Related Biosphere Reserves (BRs)
+To respond to COVID-19, there is no other way than applying 
+multidisciplines, multisectoral, integrated and more synergical approach. This matches very much with MAB programme which combines natural and social sciences, economic development, and education to improve human livelihood while as well as safeguard 
+11
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+natural and managed ecosystem which is demonstrated in BRs 
+with its three interconnected function. WNBR with currently 701 sites, should provide a better link and cooperation to cope the impact of COVID-19 among the member, lesson learned from other countries to halt or reduce the impact are shared. Broader cooperation to have extended science family is encouraged. COVID-19 has also affected BRs, the impact varied between sites and very much affected by national and local government policies. The impacts could be grouped into three forms, i.e.: positive and negative and in between: (1) negative impact: mostly for human being in present situation, although it might change to be a positive one in post COVID-19. Core zone of BRs which are mostly conservation areas such as national parks, wildlife sanctuaries have been closed since March 2020, which means all ecotourism areas were closed not just in the core zone, but also in the buffer and transition zones. This has impacted severely to community earning money from ecotourism. Other sectors such as fishery has caused community economic downturn as they normally sell life fish for export with high price, changed to dead fish for local market with low price. This has changed the behavior and way of life. Surveys on the impact of COVID-19 in BRs by MAB Secretariat are ongoing including that involving youth of MAB Young Scientist Award (YSA) awardees; (2) positive impact: BRs as the place of conservation of fauna which are considered vulnerable, have played important role and during this pandemic, many fauna which have gone for a long time, they are now back in certain sites, or even species that has never been observed in the area, appeared. This is a new hope for new normal era; (3) other impact that could be a combination of positive and negative: in the area of transition zone where many agricultural areas are located, production is forced to be increased for national consumption. Farmers who are “forced” to constantly produce staple food and vegetables and other agricultural products, need improved knowledge and technology as well as increased immunity. Community could take advantage of the situation by planting and processing herbal plants as it is now on high demand for immunity while waiting for the availability of vaccines. Those are all required science and technology input which include social science, science communication and physiological approach. Management board of BRs which consist of local government, management of conservation areas, science community and local people as a science family have been playing important roles such as providing training courses for capacity building to address the impact of COVID-19, as centre of information, introducing scientific based solution and 
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 12
+innovation and promoting science-based policy.  Small grants of 
+community which is normally allocated for other purposes, is now directed to response COVID-19. The importance of BR in reducing COVID-19 impact has been promoted through series webinars. With those roles, programmes and actions, not just impacts during COVID-19 are addressed, but that of post COVID-19 or new normal are also prepared. 
+Prof. Dr. Omogbemi Omoloju Yaya
+Director, Regional Centre for Integrated River Basin Management 
+(RC-IRBM)
+COVID-19 pandemic has changed the narrative of global science-
+policy initiative and causing nations all over the world to redefine their priorities in order to remain relevant in the science and technology sector. No sector as Water, Sanitation and Hygiene (WASH) has ever gained such global attention as in this time. The protocols rolled out as probable measures for mitigating the pandemic transmission gives so much credence to hand washing and use of sanitizers among others. Though these sanitary and hygiene acts have been part of our lifestyle, yet they may not have been given the desired prominence as in the prevailing global quest to maintain livelihood. It is therefore imperative for us in the sector to take advantage of the situation to upscale action towards sustaining the global prominence. Access to water, water quality issues, gender mainstreaming and addressing inequality in water supply coverage must be made to take center stage in all our efforts towards attaining the SDGs by 2030 and sustaining measures to mitigate the pandemic. The Regional Centre for Integrated River Basin Management (RC-IRBM) has in the past 4 years partnered with the UNESCO Regional Office in Abuja and the International Initiative for Water Quality (IIWQ) to build capacity for effective management of water quality and emerging pollutants in water and wastewater in the region as part of efforts to increase access to safe water. Further to this effort, the Regional Centre seeks to promote the use of Ecohydrology and other nature-based solutions to address water quality issues and enhance river health by using the Jabi Lake situated in Abuja, Nigerian capital city as an Ecohydrology Demonstration Site. The initiative is expected to facilitate training and research on how ecohydrology tools can be deployed to address water quality issues and environmental degradation in the West African sub-region.
+ 
+13
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+Mr. Sufyan Aslam 
+Co-Chair of U-INSPIRE Alliance, Science Officer of International 
+Science Council (ISC) Regional Office for Asia and the Pacific
+U-INSPIRE was initiated as part of UNESCO Regional Science Bureau 
+for Asia and the Pacific’s activities on Youth and Young Professionals in Science, Engineering, Technology and Innovation(SETI) for DRR in Indonesia in 2018. U-INSPIRE is a platform for young people to discuss, network, coordinate, collaborate and mobilise youth and young professionals (YYP) to use SETI to work on disaster risk reduction and building resiliency in achieving the targets of the Sendai Framework for Disaster Risk Reduction (SFDRR) and Climate Change. Presently, there are eleven U-INSPIRE Chapters established in Asia, and one Sub-Regional Chapter in Central Asia. Following the Jakarta Declaration in 2019, these Chapters have come together to form the U-INSPIRE Alliance, which aims to promote greater involvement of YYP at the regional and global level. 
+The COVID-19 pandemic has created a state of global emergency, 
+instilling worldwide fear and affecting many aspects of life. YYPs have a great role to play in alleviating some of those issues. The Alliance, through its Chapters have been engaged with activities, working closely on the ground in responding to the pandemic. Some of the initiatives implemented seek to address the issues of risk communication, community awareness, sharing information and empowering youth and innovating new localised solutions to help their community. Some of these activities were showcased during a recent Webinar that was organised together with UNESCO. 
+Moving forward, there is definitely room for greater collaboration, 
+coordination and sharing of knowledge amongst the YYPs in the region. The Alliance strives to promote collaboration not just within its Chapters but also with other youth organisations in the region and globally. Certainly, YYPs have a critical role in building the sustainable future for the next generation.
+Prof. Dr. Tit Meng Lim 
+Chief Executive, Science Centre Board, Ministry of Education, 
+Singapore
+How Science Centre Singapore help the nation under 
+COVID-19 Circuit Breaker measures
+To contain the spread of SARS-CoV-2, Singapore has implemented 
+the COVID-19 Circuit Breaker measures from 6 April to 1 June.  
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 14
+Schools are closed during this period and students all do home-
+based learning.  Many parents are also working from home and they need to cope with looking after their children concurrently.  Science Centre Singapore hence promptly stepped in to offer science education engagement with families and students to lessen their stress.  We activated different teams in the Centre to create various transmedia programmes to enable learning Science at home.  
+We rolled out the ‘I saw the Science’ blog and original content 
+in YouTube to engage with the public. One such series is called Science O’Clock, where we upload a video of a science experiment every Wednesday at 9 a.m that parents and kids can re-create at home. 
+Another example is our Young Scientist Badge Programme. 
+With each programme there is a badge to be earned and to date, we have 19 different badges such as the Young Zoologist, Young Astronomer, Young Chemist, Young Ecologist and Young Sustainability Champion badge, all of which can be earned online. Since April, we have more than 7,766 subscribers joining the programme and hundreds of activities submitted by students each day. 
+Our Astronomy 102 Live Vodcast and Live Stargazing Series 
+by our Observatory team take place every Friday, alternating between a live vodcast and a live stargazing session, where the public get to enjoy insightful discussions and a spectacular view of the Singapore night sky all from the comfort of their own homes. One of our sessions even involved a guest from the Mind Museum in the Philippines.
+To ensure that we serve the families as a reliable education 
+partner, our initiatives are curated to carry a balance of simple do-it-yourself activities that kids can manage on their own, and paired with more complex activities that involve siblings, parents and even grandparents to participate. Activities are also segmented by age groups so parents can easily identify which is most suited for their child.  
+With our digital activities, the message we hope to send to our 
+families is that science can be encountered even in your homes, and the exploration and co-learning also help to strengthen the family bonds.
+15
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+Prof. Dr. Mozhgan Yazdianpour 
+Director of Isfahan Regional Center for Technology Incubators & 
+Science Parks Development (IRIS) International Affairs Dept.
+The Islamic Republic of Iran considers STI’s an important 
+element for the achievement of Sustainable Development Goals. Within this context, Iran has continuously invested in promoting a culture of innovation, especially in supporting the development of knowledge-based small and medium-sized enterprises (SMEs) by developing technology business incubators and science parks. The country has now 195 incubators and 43 science & technology parks. Isfahan Regional Centre for Technology Incubator and Science Park Development (IRIS) works closely with these centres to facilitate the transfer of knowledge and know-how throughout the country and the world. 
+The coronavirus outbreak has led to massive disruptions on 
+global social and economic systems. As the world tackles such a complex scenario, we need new approach of collective responsibility and partnership from every society; an approach that fosters cooperation and not isolation among all stakeholders (WEF). 
+Iran implemented partial lockdown to begin with and is 
+continuing to use social distancing policies to deal with the crisis. These measures have negatively impacted production systems and supply chains. The decline in economic activity will push many companies out of business. However, some innovative companies have worked hard and even flourished during this situation. These companies have set-up new production lines, some have changed their already existing production lines to accommodate the solutions and products that help patients, hospitals and the whole community to fight the virus, and others have increased their production capacities.
+Many companies at STPs have been tackling problems directly 
+related to COVID-19 through the production of materials and medical equipment. More than 400 technology companies in STPs have directed their activities toward fighting against and preventing the outbreak of the disease.  
+STPs have considered incentive packages for tenant knowledge-
+based companies with novel and effective ideas in combating the new coronavirus. As a major player in the Iranian STI ecosystem, Isfahan Science Technology Town (ISTT) has supported companies in different ways to facilitate their production process. ISTT has established a close link with Iran FDA (Food 
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 16
+and Drug Administration) to issue necessary permissions for 
+the newly produced products and equipment related to combat COVID-19. Other measures in this regard include obtaining official production permissions from public authorities, solving and removing production obstacles, providing rapid loans and facilities to induce scale-ups, commercialization of products, etc.
+IRIS is ready to share knowledge and experience obtained during 
+this time with other countries. 
+ 
+Dato’ Dr. Sharifah Maimunah Syed Zin 
+Director, International Science, Technology and Innovation Centre
+For the past six months, news of coronavirus has become major 
+media headlines of most countries.  Important information such as transmission modes, signs and symptoms, vulnerable groups, statistic on cases, deaths and recovery are priorities on the daily news.  Its effects on  trade and economy,  health systems, education, environment, entertainment, sports, tourism have become major topics in policy dialogues and webinars while the search for vaccine have been the focus in many countries.   New norms of living are introduced.  Yet there are still many things that are unknown. No one knows how long the pandemic  will last, whether it will come back for more waves,  how big its effects will be and when a  vaccine is available. 
+For UNESCO its effects can be linked to regional networks – 
+travel, networking, conferences, capacity building, health of staff, social distancing at work, field missions, cross border quarantine, free movement of scientists, free movement of research related materials for researching COVID-19.  At the same time UNESCO needs to be cautious  not to allow COVID-19 overshadow existing priorities – chronic diseases, TB, diseases of poverty, immunisation against certain diseases etc. 
+Dealing will COVID-19 calls for new priorities in regional 
+collaboration related to reducing COVID-19 morbidity and transmission which includes tracking and tracing across countries, consistency in quarantine restrictions and  pooling of resources to find vaccine. Investment in medical and health related research will probably surpass investment on other sectors such as education. This has to be balanced. There is also need to respond to fake news about COVID-19 and vaccines so that the public is informed by facts and countries do not 
+17
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+demonise each other. Decision making will be data driven, hence 
+greater need for sharing relevant data and research findings. Big Data application can serve this purpose and data providers must be willing to share. Capacity building in Big Data Application therefore becomes very relevant while there should be greater emphasis for open science  and science communication. 
+Prof. Dr. Zabta Khan Shinwari 
+Vice-Chair, World Commission on the Ethics of Scientific 
+Knowledge and Technology (COMEST)
+We appreciate the role of UNESCO in the revamped strategy for 
+education and research to tackle global challenges. UNESCO has been in the forefront promoting open science as a game changer, particularly as enabler to the achievements of SDGs. 
+In the current crises, Open Science can play a significant role to 
+ensure equity among researchers of developed and developing countries. Inclusiveness will require focus on regions, areas and social groups afflicted by low access to Education and Science, which are basic human rights. 
+It was open Science that we know that probably COVID-19’s is 
+of zoonotic origin. Hence importance of one health. Instead of waiting for the next deadly microbe to spill over into humans, public health experts and policy-makers must confront the drivers of zoonotic diseases.
+Probably COVID-19 is of zoonotic origin, the ancestor could be a 
+bat coronavirus (88 percent sequence homology). It could have picked up the properties of human to human transfer through genetic exchange with another coronavirus in a co-infected intermediate host such as a pangolin (an ant-eating mammal), used in Chinese medicine.
+COVID-19 characterizes a complex threat to humanity from 
+emerging and re-emerging pathogens that emphasize the role of biodiversity and one health. Loss of biodiversity and climate crises has a significant role in emergence of infections with zoonotic origins, further accelerated by travelling, population explosion, urbanization, deforestation, wild animal trade, etc. Consequently, an animal virus can cross the species barrier and adapt to a new host like human, which happened with SARS (SARS-CoV-1), MERS and nCoV (SARS-CoV-2). Circumstantial evidence suggest that the COVID-19 started in seafood market which provided sufficient human-animal interaction leading to 
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 18
+spillover. With the world facing the global challenge of nCoV 
+(COVID-19) pandemic, we urge the global fraternity of scientists, policy makers and leaders to double their efforts on climate crises and biodiversity conservation. 
+Secondly, we need to define role of scientists to act Responsible 
+Research and Innovation (RRI) to avoid infodemic and pseudoscience. They need to engage society more broadly in access to scientific results, take into account the ethical dimension, and promote formal and informal science education. This will help in countering infodemic and pseudoscience. Open Science, will lead to a more Open Society. As a scientist, we have obligation to honour the trust that their colleagues place in them – a responsibility of researchers to mentor the next generation who will build their work on the current research discoveries and Obligation to act in ways that serve the public – to cause no harm. This will enable people to rely on correct information, hence helping in Psychological burdens that goes from Pandemic to Infodemic.
+Another important issue is Ethics in Outbreak Research and 
+Clinical Practice. Conducting rapid review of research proposals becomes all the more important during a pandemic. However the decision of Ethics Review Committees (ERCs) should not be too hasty so as to avoid approval of mediocre or non-pertinent research at the same time ensuring a speedy review to facilitate important research. 
+The COVID-19 and historic pandemics have given us a clear 
+message that we all share the Earth and have to think beyond geographic borders, colour, race, gender and other prejudices. Science can play a critical role in delivering solutions to contain/mitigate global challenges and threats and ensuring the preparedness of the society for the future. 
+The novel coronavirus crisis has become the epicenter for 
+converging border-less and collective scientific research. Since the outbreak of the pandemic, impressive progress has been made with respect to its cause, symptoms, diagnosis, genome sequencing, and potential treatment and vaccine. The astonishingly short time of these discoveries has only happened through a global open science effort. Indeed the COVID-19 pandemic has provided a unique opportunity of global collaboration of scientists and massive coalition of experts on various aspects of the issue, including quick release and sharing of scientific data which are helping in taking evidence based and informed decisions to globally control the pandemic.  
+19
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+Prof. Dr. Norlida Mohd. Dom
+Deputy Director, UNESCO Head of Coordination, The Regional 
+Humid Tropics Hydrology and Water Resources Centre for South-East Asia and the Pacific 
+Water And Environmental Sustainability – The 
+Malaysia Opportunities
+The Opportunities
+We are blessed when our world regains its nature due to COVID-19 
+pandemic. Many countries such as Malaysia, the river corridors improved its water quality. Easily we found more living things: flora and fauna along the river corridor. Sedimentation flows at a very minimum rate found its natural process while balancing sediment along the river reach. Fauna enjoys the nature and food chain as well as enjoying their freedom when no humans can harm them.
+Unfortunately/fortunately, major industries have stopped; 
+workshops and restaurants are closed. There is no waste material being transported to the drainage system and finally to the river. The fact that all greywater and illicit activities out from there have stopped. 
+The world is so quiet with no aviation activities and less vehicles 
+on the road. All global warming potentials relative to CO2 at different time horizon for various dangerous greenhouse gasses have been reduced daily during the Movement Control Order (MCO).   
+Sustainable Development Goals: Water and Environment
+There is an opportunity for UNESCO & the world towards 
+achieving SDGs by continue planning on sustainable agenda & shall be classified into 4 strategies:
+ 
+(Source: Modified Urbanise Malaysia, 2020)
+All those strategies require partnerships, education, communi-cation and engagement. 
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 20
+We can build better for our future. Re-align plans and blueprints 
+with actionable targets towards Long Term Goal achievements. It prevents a few billion dollars yearly economic losses.
+UNESCO Science Family
+It is deemed important for science family’s to play their roles 
+during and after COVID-19 to encourage the Science, Technology, Innovation & Economic (STIE) as our niche areas using the STIE Framework plus Eco-Shift for the world to change by asking ourself:
+(Source: Modified MESTECC Workshop, 2020)
+New Normal of Post-COVID-19
+Changing Economic landscape is through the value of society 
+with the New Normal of Post-COVID-19 and the ecosystem that characterize this new economy. Everyone related to the water and environment is going through a very difficult time right now and will have to live like this for God knows how long. Finally, things are looking good for nature but are not to those industries and the wait for things to get back to normal can be long and painful!
+It is a pleasure to meet all of you in this webinar.
+ 
+Prof. Dr. Ravi Narayanan 
+Chair, Governing Council of Asia-Pacific Water Forum (APWF)
+Science in the Asia Pacific Region and the COVID-19 
+Pandemic
+The COVID-19 pandemic has had serious and devastating effects 
+on millions of people in the Asia Pacific region. The common strategy of declaring lockdowns has no doubt slowed the spread of the pandemic but it has also savaged the economies 
+21
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+of countries and deprived people of their livelihoods. How can 
+science help in such a situation. At the outset it must be said that there are no certain answers. But apart from the search for an effective vaccine there are ways in which science can be used to mitigate the negative impacts. 
+• First, science can be used to help informed policy decisions by the production of credible and timely data.
+• Second, science can be used in the education sector though the development and use of online teaching tools, techniques and methodologies.
+• Third, science can help in the development of IT software that can help delivery services and related activities.
+However, since we are all learning by doing and making mistakes in the process, science can help in the development of learning platforms.
+All these can only be successful if we accept the importance 
+of SDG 17 with its emphasis on collaboration and partnerships since no one country or one organization will have all the answers. 
+Such an approach especially the building of partnerships should 
+involve all those who can try to ensure that no one is left behind and here civil society organizations can play a crucial role in reaching the last mile.
+Above all what is needed is the building of trust and transparency 
+among partners and the ability to share successes and failures for the common good.
+Prof. Dr. Nor Azazi Zakaria 
+Director, River Engineering and Urban Drainage Research Centre 
+University Sains Malaysia
+COVID-19: Social Responsibility, Preventive Policy And 
+Current Developments at Malaysian Higher Learning Institutions (HLIs)
+ On 11 March 2020, the World Health Organisation (WHO) has 
+announced that COVID-19 is a pandemic. The latest statistic has shown a total of 132,000 infections in 123 countries. (WHO, 14 March 2020). Home to 20 public universities and countless private universities and colleges, Malaysia has to remain practical in fighting COVID-19. Therefore, Malaysian Higher 
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 22
+Learning Institutions (HLIs) have to perform well in every action 
+to make sure that the total of its 1.3 million students would not be affected during this global pandemic. This includes more than 100,000 of them who is stuck and still at campuses during the announcement of the first movement control order (MCO) on March 16. During this critical period, everyone knows that the country and the welfare of the students are priorities. As a result, Malaysian Higher Education Institutions have come forward to combat COVID-19, together as one. Standard Operating Procedure (SOP) is followed and every institution in the country is working very closely with the State Health Department in monitoring the situation regarding COVID-19 virus. 
+In view of the outbreak of COVID-19 which is now a major concern 
+of the whole world as well as the country, the authorities of HLIs have taken the initiative to execute a temporary lockdown of institutions. Academicians, administrators and its community at all departments are required to work from home. However, there is an exception for few administrative staffs as this is to ensure that communication channels remain open. The academic calendar has been shifted to a reasonable timing to ease the students to plan their semester teaching and learning activities which has been changed from “Blended” to “online” learning for the first time in history. 
+Despite the closing of its operation, institution’s essential 
+services such as water, electricity, energy, telecommunications, postal, finance, healthcare, pharmaceutical, security, cleaning, research, retail and food supply are still accessible to all students. All premises selling food items at all campuses are required to prepare readily-packed food only. These services and service-based centres operate as usual. Nevertheless, all should adhere to the COVID-19 Preventive SOP throughout the entire operation period. This is to ensure that during the MCO everyone’s safety aren’t being jeopardized and student welfare is always prioritized.
+The students who are stranded in 128 campuses have also 
+received meals that provide daily by the government and their institution. A few institutions have taken extra effort in providing their students the hygiene kits at the campus. Universities, polytechnics and colleges have also arranged the Operation Control Room to facilitate the transmission of any questions or concerns regarding COVID-19. On April 27, 2020, the first batches of students between the green zones are allowed to go home. Student movements were conducted in stages according to the schedule set by their respective institutions. Nevertheless, 
+23
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+they first will be screened for COVID-19. Those with symptoms 
+will not be allowed to return home and referred to the Ministry of Health instead.
+All initiatives above are measures executed for precautionary and 
+containment purposes to prevent the outbreak from spreading. These are part of the institution’s social responsibility (CSR), containment and social distancing exercise. At the end, we all know that we must come and work together to ensure the safety of our communities in the ‘new normal’ COVID-19 world. This is for us. This is part of our responsibilities. 
+ 
+Dr. Andi Eka Sakya 
+Executive Secretary, Indonesian National Research CouncilI perceived this pandemic as natural disaster. In that case, good 
+sustainable solution is rarely, if ever, be materialized through science alone. Pro-active engagement of community or social action – which has already been implied by previous speakers, in implementing science-based solution is urgently of necessitate. Learning from developing effective EWS, integration of both structural and non-structural elements should be considered and devised. 
+Structural part is related with technology, where in case of 
+COVID-19 – this might be similar to treating the case through clinically medical effort such ventilator, rapid test, protocol, etc. Whereas on the non-structural part deals with those whom directly impacted. 
+Still in same framework of EWS, the knowledge-based self-
+evacuation capacity that is the core part of Response Capability, the last mile, is the most effective element, even if all other elements of EWS such as Risk Knowledge till Dissemination and Communication are in a good condition. However, it is precisely in this part that we face the greatest gap, be it in literacy, awareness and knowledge, because this deal directly with community at risk. 
+Lessons learnt from previous pandemic events, such as 
+Spanish Influenza, the so-called safe-community strategy play an important role and contribute effectively in accelerating efforts to deal with pandemic case. This strategy lies on the highly literate and awareness of the community at risk that build community-based behavior in self-prevention and lowering the 
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 24
+number of transmissions. Risk communication is very pivotal, 
+and particularly anticipating the coming new-norm era. 
+It is in this part of effort that science-based literacy and risk 
+communication is urgently needed to support community-based behavior in facing the pandemic. For that, I think, we can materialize the endeavor starting from family-core unit or pre-schooling age.
+Thank you again UNESCO Jakarta. 
+Mr. Atty. Teodoro Jose S. Matta 
+Executive Director, Palawan Council for Sustainable Development
+Palawan BR: on “Science to Enable and Empower Asia 
+Pacific for COVID-19 Response”
+As science-for-sustainability site, UNESCO-designated biosphere 
+reserves can provide a laboratory to understand interactions between environmental changes and societal response. Palawan Biosphere Reserve in the Philippines is one among many which can be mobilized to serve as pilot places for science-based responses and solutions to emerging health threats.
+Palawan has been fortunate enough to have been relatively 
+protected from the COVID-19 Pandemic. Out of the more than 14 thousand COVID-19 cases in the Philippines, only 2 cases were reported in Palawan.  The Provincial Government of Palawan, and the City Government of Puerto Princesa, acted swiftly through their disaster response and health emergency protocols.   The local government staff, though poorly equipped, were decisive and effective in mitigating the risks and threats to the community.   After the first few days of the crisis, disaster preparedness mechanisms that were in place kicked into operation, bringing in needed supplies and funding for the effective response. 
+The total shutdown of the tourism industry, challenges in fish 
+exports and agricultural trade, and unemployment, are some of the vulnerabilities that were exposed by the crisis.  
+Because of the lockdown in force, the health care system has 
+been given time to adopt to the crisis. The Province and City are now gearing towards medical and healthcare capacity building to prepare for a worst-case scenario. 
+Moving forward: The challenges in formulating a post COVID-19 
+recovery plan that is consistent with natural resources 
+25
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+management and conservation are daunting. 
+The need for local self-reliance amplifies the conflict between 
+ecological conservation and human activity. We are currently rearming our agency under new COVID-19 parameters, towards the following goals: 
+1. Policy assessment and change towards multidisciplinary and stakeholder’s ownership in approaches to environmental protection, wildlife monitoring, and research; 
+2. Research and planning towards sustainable food production and advocacies against poor agricultural practices causing deforestation and degradation of forest cover; 
+3. Ecological tourism areas management; 
+4. Better financial and resource management, including inter-agency cooperation and coordination, to develop partnerships in the fulfillment of legal directives and mandates; 
+5. Development of logistical, transport, telecommunication and commercial activity blueprints in order to create focused infrastructure development in establishing more self-reliant communities; 
+6. Management, relocation from environmentally critical areas, and development of communities, taking note of the carrying capacity of the environment, natural resource conservation, food security and livelihood development, good governance, security, and delivery of basic services and healthcare.
+Dr. Tariq Rana 
+Assistant Director, Murray–Darling Basin Authority
+Certainly there have already been short-term benefits on water 
+bodies as well as on natural and built environment from the economic slowdown resulting from the COVID-19 pandemic in many countries in the Asia Pacific region.
+As NRM professionals/scientists, the challenge is, how can 
+we make sure that the recovered systems can be preserved? We can absolutely take advantage of this shift and enable and empower Asia Pacific to respond to COVID-19 positive impacts on the water bodies, natural and built environment. The UNESCO 
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 26
+science family collectively can think of collectively writing 
+guidelines in the form of a manual that can help:
+1. Develop insights leading to hypothesis, theories, and predictive models, documented through compelling case studies and supporting data sets that can lead to feasible paths for preservation of recovered systems and new recovery pathways through sensible policies and practices.
+2. Review the natural resource management implementation plans, and monitoring frameworks for sustainable management of water and environment
+3. Develop a roadmap to make the right choices in responding to the economic crisis while transforming into a sustainable economy so that the recovered systems are preserved
+4. Assess the cause and consequences of existing policies and practices, and development of alternate effective policies to preserve the recovered systems or guide systems for recovery, mitigate adverse impacts or enhance resilience are also possible.
+Similar to developing strong capability of our workforce to work remotely, we need to plan smart monitoring for essential data to deliver our compliance and enforcement of water management policies to ensure sustainability of resources.
+ Along with the preservation of recovered systems, there is a need 
+to think how UNESCO science family can make non-conventional use of existing water infrastructure to track COVID-19 prevalence in the community. Australian researchers have achieved the first step in developing an early warning surveillance system to track COVID-19 prevalence in the community through tracing the presence of the novel coronavirus gene in raw sewage. This is a promising way to examine the virus’ transmission outside of patient testing or hospital reporting. These sorts of data will be particularly useful for areas with vulnerable populations where testing using other methods may not be feasible. Wastewater surveillance data could be used to inform decisions, response actions and public communications. In order to make an effective use of these techniques, there is a need to build the capacity to deliver a national level program.
+27
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+Prof. Dr. Manzoor Hussain Soomro 
+President, ECO Science Foundation
+Economic Cooperation Organization Science Foundation 
+(ECOSF) is an intergovernmental organization of 10 countries; Afghanistan, Azerbaijan, Iran, Kazakhstan, Kyrgyzstan, Pakistan, Tajikistan, Turkey, Turkmenistan and Uzbekistan. ECOSF is mandated to promote and fund collaborative S&T research and innovation as well as science education across the board in member countries, with gender equality and youth engagement in focus.
+With current outbreak of the COVID-19, the pandemic has 
+now spread in nearly all regions of the world. The COVID-19 has exposed the fragile limits of healthcare facilities and infrastructures around the world. We assessed the status of healthcare and ICT infrastructure in our 10 ECO Member Countries and their response during this pandemic, and found that almost all ECO Countries are under the state of emergency. Our work shows that there exist some institutional and systematic health inequalities in the Member Countries. The complete report is available at:
+http://ecosf.org/uploads/files/COVID-19%20in%20the%20
+ECO%20Region.pdf
+In terms of healthcare expenditure, ECO region spends much 
+less than the global average. With fast-moving spread of the COVID-19, some of the ECO Member Countries would most likely be on their way to quickly reach their critical limits of healthcare facilities and face severe shortages of both healthcare professionals and hospital beds in the countries.
+TUBITAK Scientific and Technological Research Council of 
+Turkey (TUBITAK), which is Turkey’s top scientific body has established COVID-19 Turkey Platform to mobilize resources. Under the COVID-19 Platform, 7 vaccine and 7 drug development projects are currently underway. 
+Pakistan would be one of only three countries to produce and 
+export the antiviral drug Remdesivir for treating COVID-19. A local pharmaceutical company would make the medicine in partnership with America’s Gilead, which developed “Remdesivir”.
+The Higher Education Commission (HEC) of Pakistan and 
+Pakistan Science Foundation have launched programmes to fund and support the rapid development and commercialization of products and services that will help the country control COVID-19. 
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 28
+The COVID-19 pandemic requires decisive and swift actions to 
+respond to this overwhelming challenge; so far, I have been part of an Inter-Academy Partnership Science Education Programme (IAP SEP) in collaboration with Smithsonian Science Education Center (SSEC), Washington DC USA and WHO in development of a guide-cum training module “COVID-19- How I can protect myself and others”. We recommend the following steps to be taken: 
+1. Increase the budget allocations for the health and science sectors 
+2.  Invest significantly more resources on Science, Engineering, 
+Technology and Innovation and Science Education
+3.  Strengthen national scientific capacities and scale up 
+research for medical treatment and vaccine development for corona virus and other future threats. 
+4.  Prepare youth to prevent future epidemics around the globe 
+via curricula and teaching methods.
+Prof. Dr. Soontak Lee 
+Distinguished Professor, Yeungnam University 
+President, International Hydrologic Environmental Society (IHES)Governor, World Water Council (WWC)
+The COVID-19 pandemic will bring significant challenges 
+globally, also for Asia and the Pacific and push back into great economic loss, poverty and impacts to all our lives. Accordingly, the progress towards the SDGs will be drastically impacted. In this sense, this UNESCO special webinar is very proper timing and urgently required action in Asia Pacific region from which we have to find the potential to play critical role through our regional inter-disciplinary science networks. 
+The current COVID-19 is unprecedented opportunity to rethink 
+what and how to achieve future we want for all with changes no one ever dared dreaming for our lives. We, therefore, are proposing in this webinar the Jakarta Statement of Action by the UNESCO Science Family in Asia and the Pacific in response to COVID-19 challenges. Upon this Statement, we have to reaffirm and take active measures for challenges of immediate and medium term actions during COVID-19 as well as long term actions as post COVID-19. Even though we are still suffering and struggling by COVID-19 pandemic and globally going on its impacts, we have 
+29
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+to participate actively in immediate actions through our UNESCO 
+Science Family networks by activities proposed in the Statement. 
+All of outlined actions in the Statement are well proposed with 
+inclusion of most of urgently needed actions for the challenges of COVID-19.  I believe that we had very fruitful and meaningful discussions to take stock of the impact of the pandemic on UNESCO’s regional science networks and how we can better respond to the challenges posted by COVID-19 today, and found great promising hopes for our future successes against COVID-19 pandemic through this UNESCO webinar.
+Prof. Dr. Anthony C. Sales 
+Regional Director, Department of Science and Technology 
+Regional Office No. XI, Davao City, Philippines
+Corporate Secretary, HELP Davao Network 
+HELP Davao proposes the following Action Agenda tailored to 
+provide the mechanisms and systems to prevent, mitigate and build resilience of communities and individuals to epidemics and pandemics in the short and long terms:
+1. Revisit existing legal frameworks and regulations governing disasters and calamities
+Many countries have developed and implemented programs 
+and projects to combat the hazards and risks associated with natural disasters and calamities, using science and technology as basis for interventions. However, biological hazards including viruses, bacteria and other infectious microorganisms, as well as chemical hazards have not been included in the list of hazards to be managed as part of the disaster management plans particularly in developing countries. As a policy recommendation, the DRRM plans of countries in the Asia-Pacific should be reviewed with the end in view of integrating management of health related disasters as a crucial component in disaster management.
+2. Documentation and deployment of evidence-based knowledge
+We have gathered a wealth of information and knowledge 
+from the experiences of various countries in the Asia-Pacific region during this crisis. Much of these experiences underscore the need for preparedness and building capacities at the local level to enable communities and 
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 30
+individuals address the effects of the crisis. Noteworthy 
+are the innovations at the local level that brought to the fore the ingenuity of local researchers, engineers and even grassroots innovators that provided communities with the tools and procedures to address the effects of the pandemic.  
+It is recommended that these experiences including best 
+practices be documented and shared across the region. This document will serve to guide individuals and communities in preparing, mitigating and building resilience to epidemics and pandemics. HELP Davao will be happy to spearhead this initiative.  
+3. Develop and establish local innovation and research and development centers 
+Part of building capacities and resilience of communities 
+is to be ready with resources that can easily be tapped in times of epidemics and pandemics even in the absence of or limitations in transportation and other logistical facilities. This has proven to be true in the current crisis, where local R&D institutions and innovation centers have been quick to respond in addressing the effects of the COVID pandemic. 
+4. Build capacities of communities
+HELP Davao Network is an advocate of community resilience. 
+Part of building resilience is providing information and building knowledge on critical issues and how communities can address these issues using locally available resources. Therefore, it is important that data management systems should extend and brought down to the level of communities where data can be easily accessed and provide evidence for decisions making and planning. 
+We also propose that when we build capacities of 
+communities, we also build the innovative capacities of grassroots innovators and inventors. Our experiences in Mindanao during this crisis have shown that it is the local innovators and inventors in the community that were first to respond in addressing community needs. We hope that in the Asia Pacific region, grassroots innovation be recognized as an integral part of the R&D and Innovation Ecosystem and that efforts be undertaken to promote and advance the innovative capacities of local communities.   
+31
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+5. Engaging whole-of-society
+HELP Davao Network totally subscribes to the precept of 
+engaging the pentahelix of government, academe, industry, civil society and the media in all spheres of development including the management of disasters and calamities. The academe serves as the repository of scientific knowledge and innovations that can address many of the issues that beset society in times of disasters. Research and development institutions and innovation centers are often housed in the academe. The industry, through their corporate social responsibility initiatives can provide needed resources to communities. They are also the recipients or adopters of technologies ready for transfer and commercialization. Civil society should serve not only as beneficiaries of government and private initiatives but crucial partners in development. The media, often overlooked as a crucial partner in development, is actually vital in development efforts particularly in disseminating valuable information needed by the public in decision making and basis for actions. With the close collaboration and partnership of these five sectors, we expect that development efforts will be truly inclusive and sustainable. Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 32
+Annex 1. Asia Pacific Recommendations of Action
+Science to Enable and Empower Asia 
+Pacific for COVID-19 response 
+– special webinar -
+19 May 2020, Jakarta, Indonesia 
+Asia Pacific Recommendations of Action by the UNESCO Science Family in Asia 
+and the Pacific in response to COVID-19 challenges 
+A webinar on COVID-19 was held on 19 May 2020, hosted by UNESCO Jakarta Office with 
+support from Japanese Funds-in-Trust (JFIT) and Malaysia Funds-in-Trust (MFIT). The event attracted more than 1,600 regional stakeholders.
+The webinar was a special event in the series of regional coordination meetings - “Science 
+to Enable and Empower Asia Pacific for SDGs (SEE-AP)” - which have been serving as a platform to promote inter-disciplinary discussion and collaboration for peace and sustainable development. As a special webinar of SEE-AP series, experts from across UNESCO’s regional science networks and collaborators provided recommendations for action through an animated, interactive and constructive discussion. These recommendations reflect the result of these deliberations aimed at engaging the UNESCO science family to help resolve both technical and community challenges. 
+The Asia Pacific Recommendations reaffirms that UNESCO and its science networks will work 
+collaboratively to mobilize scientific research and innovation across Asia and the Pacific to 
+strengthen the interface between science and society and to help deliver evidence-based policy actions for managing COVID-19 and other emerging challenges. 
+Access to scientific knowledge is a basic human right. UNESCO and its scientific networks 
+have a key role to play by helping to bridge the divides between advanced research institutes and emerging centres of excellence in both the academic and private sectors. Importantly, it can also bring much needed emphasis on region-wide and interregional south-south cooperation for sustainable development. The mobilization of this global scientific community during COVID-19 is testament to the increasing value of science without borders enabled by political leadership. 
+Science, Engineering, Technology, and Innovation (SETI) plays a critical role in ensuring the 
+availability of up-to-date and reliable scientific data and educational resources through open science, citizen science, and sharing innovative solutions through ICT. Mobilizing science is critical to improving our understanding of the virus, and mobilizing water and environmental sciences, in particular, can help develop and implement measures to reduce its negative impacts on both people and the environment.  33
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+UNESCO’s site-based networks – World Heritage sites, Biosphere Reserves and UNESCO 
+Global Geoparks – represent a unique regional platform through which we can focus actions to deliver the benefits of science, technology and innovation in response to the challenges posed by COVID-19, in cooperation with leaders and communities that are committed to serve as the vanguard for implementation of the SDGs. 
+The current COVID-19 is an unprecedented opportunity to rethink what we need to do and how 
+we need to do it in order to achieve the future we want for all. This may well involve changes no one ever dared dream of, with new norms for work, school, consumption, and redefinition of critical basic services that provide greater resilience to disasters such as a pandemic and at the same time put the world on a better, more sustainable path.
+Therefore, the Asia Pacific Recommendations for Action:
+• Recalls the commitment made by participants at the 30 March 2020 webinar UNESCO 
+Ministerial Forum for Open Science for COVID-19, on sharing data, scientific knowledge and tools for solving the COVID pandemic affecting Asia and the Pacific and the wider world; 
+• Reaffirms that pandemics extend beyond national and geographic borders and therefore, the value of scientific cooperation and the convening ‘soft power’ of science and science diplomacy is critical in ensuring widespread and timely data collection and sharing, conversion of data to information and knowledge, and sharing of knowledge widely to support evidence based responses at all levels.
+These recommendations call for immediate (up to 1 year) and medium term (2 to 3 years) actions outlined below:
+Immediate Actions during COVID-19
+• Formulate public and private research partnerships to reaffirm commitments to improve preparedness, capacity to develop mitigation measures and strengthen resilience to disasters including pandemics such as COVID-19 by providing open access to data, knowledge and information and capacity building staying vigilant to unexpected unknown subsequent risks;
+• Strengthen national SETI ecosystems to support public–private partnerships for the design and upscaling of solutions and innovations for the benefit of all;
+• Mobilize UNESCO-designated sites to serve as key places for delivery of science- and community-based COVID-19 responses and solutions;
+• Engage and encourage youth and young professionals to continue to work on SETI for Disaster Risk Reduction (DRR), especially in relation with COVID-19 pandemic and to pioneer active sharing of information, data and outputs to be more widely accessible among the youth networks as well as the society;
+• Urge UN partners, donors, professional bodies and academic institutions to establish a Regional Open Science Platform to enable accessibility and sharing of scientific Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 34
+information aligned to national priorities and international best practices, and to develop 
+effective tools for mainstreaming science for peace and sustainable development nationally and regionally;
+• Call on the UNESCO Science Family in Asia and the Pacific to use its long-standing role promoting international scientific collaboration to boost science, technology and innovation in order to reduce remaining knowledge gaps.
+• Promote success stories which demonstrate the benefits of strengthening the interface between science and society to help deliver evidence-based policy actions for managing COVID-19.
+Longer Term Actions – Post COVID-19
+• Call upon all UNESCO science family members and their networks to mainstream gender equality, in both the research process and research content, and take into account the ethical dimension, while promoting efficient science communication, formal and informal science education as well as science literacy and capitalizing on emerging new realities and still unknown subsequent risks;
+• Request sub-regional and regional science bodies to take leadership to mobilize science for disaster risk reduction partnerships in for all stakeholders by reducing the knowledge gap, sharing values and promoting the spirit of ‘open science’;
+• Enable and mobilize UNESCO-designated sites to serve as key focal areas for the delivery and trialing of innovation and science-based solutions to emerging global and regional challenges, drawing on the particular strengths and qualities of each network.
+• Urge the UN system to accelerate Technology Facilitation Mechanism (TFM) to support the achievement of the Sustainable Development Goals (SDGs) in the spirit of the General Assembly resolution A/RES/69/313, known as the Addis Ababa Action Agenda.
+•  Empower the UNESCO extended science family to work on multi-stakeholder south-
+south collaborations between civil society, the private sector, the scientific community including regional science networks and organizations, United Nations entities and other stakeholders on open science, technology and innovation for the sustainable development goals.
+• Review the cases, demonstrated benefits and outcomes of strengthening the interface between science and society to help deliver evidence-based policy actions for managing COVID-19 to draw lessons for the management of future pandemics and other emerging challenges.35
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+Annex 2. Survey Results
+COVID-19 Response Survey Results
+Registered participants contributed to our simple web survey on COVID-19 response activities. 
+Among total 1,626 respondents, approximately 80% (1,297/1,626) of respondents answered that they had conducted activities related to COVID-19 at the individual or organization level. Following is the summary of the details of activities.
+Data collection and information sharing for knowledge production
+ ~Research activities: Some respondents have conducted COVID-19 related research as individuals and/or as part of national and international teams, publishing academic papers. Experts have been dispatched to the field to conduct surveys and assist governments. Some examples are below:
+ ~Contributing to an ongoing national research on detecting RNA of SARS-CoV-2 in urban sewage system (RCUWM, Iran);
+ ~Conduct monitoring and assessment of the impacts of the pandemic by using big data and Earth observation technology. The monitoring targets include COVID-19’s impact on habitat and environment, crop growth, and tourism revenue (HIST, China).
+ ~Open Science and Open data: There have been the initiatives and collaborations on integrated and structured data sharing, data processing, and sharing of research findings. The activities include:
+ ~Making various resources available: open database, research papers, online study courses related to COVID-19;
+ ~Promoting Open Science in collaboration with CODATA (ISC, Malaysia);
+ ~Establishing a Big Data Analysis Platform integrating the pandemic info, data on transport, population distribution and other data (HIST, China).
+Knowledge application
+ ~Science-policy interface: Some respondents have provided advice to policy planning to develop guidelines of COVID-19 countermeasures and the recovery process as well as providing policy briefs based on their research. For example:
+ ~Centre for Public Awareness of Science (CPAS) at Australian National University (ANU) has been contributing to International Network on Government Science Advice (INGSA) initiative on COVID-19 as a rapporteur on the science-policy interface, facilitating the dialogue among experts, policy makers, and community.
+ ~ Drawing the future visions: Some answers were related to the updates and modification Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 36
+of the organization’s directions and visions based on the observation of the current 
+pandemic impact. 
+ ~Collecting ideas and future plans from council members of the World Association of Soil and Water Conservation.
+ ~Redeveloping and updating the future plan of their academic community/network. 
+ ~Increasing individual/organizational preparedness towards pandemic.
+ ~Discussing the future vision of water and environmental issues.
+ ~Exploring future vision of the field of water and environment, biotechnology. 
+ ~ Update of safety measures: Some respondents answered that they are adapting their 
+daily routine and standard operating procedures to this unusual situation.   
+ ~Stressing the water related disaster risk reduction under COVID-19 (ICHARM, Japan). 
+ ~Information sharing among residences in flooded areas to prevent a COVID-19 outbreak (RCUWM, Iran).
+ ~DRR during COVID-19 pandemic with IRDR (ISC, Malaysia). 
+ ~Maintaining school education through online lectures. 
+ ~Securing safe management of school facilities.
+ ~ Innovation: Development of a cost-effective hospital ventilator machine and developing 
+App related to COVID-19 data analysis (NED University, Pakistan).
+ ~Course and training materials development: Development and provision of capacity building training materials for engineers. Participation in various online lectures and workshops related to COVID-19 to gain up-to-date knowledge. 
+Knowledge dissemination
+ ~Information Portal/ Webinars/ Online contents: Some respondents run special online platforms to compile COVID-19 related information. Main contents are real time information, scientific knowledge, policy and regulations, citizen stories and youth activities, and available assistance and aids. Some of these platforms targeted experts in the networks and scientists and others targeted community members to improve COVID-19 literacy. Examples include: 
+ ~Collated the responses of engineers to COVID-19 including the use of data and AI to research for a vaccine, DRR responses, use of geo-spatial information to map and track virus spread and implementation of sustainable engineering technologies to address climate change (World Federation of Engineering Organisations).37
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+ ~Development of a dedicated portal for COVID-19 focusing on getting the latest 
+updates, promoting the discussion and sharing of information on COVID-19 (ISC, Malaysia) 
+ ~Provision of support to Government of Nepal in developing the official Government portal for COVID-19 response (Youth Innovation Lab)
+ ~Developed an online column to bring together the latest updates and data presented by international organizations such as WHO, research institutes and domestic media, and presents information in six aspects, namely Policy and Regulations, News and Measures, Experts Viewpoints, Science Express, Science Popularization, and Citizen Stories, sharing in real time epidemic information, self-protection knowledge, research progress, prevention & control measures and experience (mostly from China), offering solutions to fight against COVID-19 (IKCEST, China).
+ ~Development of a special webpage to introduce the latest academic papers related to COVID-19. https://www.scitrus.com/special/novel%20coronavirus%20outbreak/
+ ~Scientific Research Sharing Platform through the official website (HIST, China) www.unesco-hist.org
+ ~Sharing youth-led ongoing/completed activities on COVID-19 through the webinar (U-INSPIRE).
+ ~Introduction of rapid-self assessment for business through the online webinars (Indonesia Global Compact Network). 
+ ~Provision of COVID-19 related science education programs.
+ ~ Awareness raising: Many responses related to awareness raising at the community 
+level, including sharing of knowledge on risk of virus infection and protective measures (effective hand wash, wearing masks, keeping social distance, proper use of protections, etc.) through campaigns, dissemination of guidelines/infographics/posters, and dialogues within communities (at community units – e.g., Barangay in the Philippines) and the wider public. 
+Cross-cutting
+ ~Ethics: Some respondents have advocated ethics dimensions, ensuring the application of gender-sensitive and human rights based approaches and the incorporation of community participatory approaches into response and adaptation policies and research.
+ ~Activities at UNESCO sites: Answers from UNESCO colleagues and UNESCO site managers told us that the various programs are undergoing at World Heritage sites, Biosphere Reserves and UNESCO Global Geoparks. Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 38
+ ~There is an ongoing COVID-19 impact assessment at UNESCO World Heritage 
+sites and relevant assets and buildings, and measures taken at national level as response to the pandemic to support culture sector. 
+ ~UNESCO HQ promotes campaign on #ShareCulture #LivingHeritage with support from Field Offices and partners. 
+ ~Collection of short videos of UGGps highlighting the natural beauty of geosites to let people enjoy the sites while they are staying at home. 
+ ~ International cooperation: Prospect of international cooperation through funding support 
+(MFIT). 
+Other activities
+Various emergency response activities have been carried out by organizations and volunteers. These include in-cash and in-kind donations, collection and distribution of PPE for medical workers, production of hand sanitizers and disinfectants, provision of food and basic daily necessities, and offering a rest house for health workers. Many respondents also attended online courses to gain up-to-date knowledge on COVID-19.
+ 39
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+Annex 3. Agenda
+Science to Enable and Empower Asia 
+Pacific for COVID-19 response
+ - special webinar - 
+Tuesday May 19, 2020, 1:00pm – 3:30pm (150 min) GMT+7
+Agenda
+1. Introduction to the meeting (2 min) - Moderated by Ms. Sachi Suzuki and Mr. Khairol 
+Hazlan Hamzah
+2. Opening (15 min) - Moderated by Ms. Ai Sugiura and Ms. Fitrie Atviana Nurritasari
+ ~Prof. Dr. Shahbaz Khan Director of Office & UNESCO Representative, UNESCO Office in Jakarta and Regional Bureau for Science
+ ~Prof. Dr. Yasuto Tachikawa Representing Japanese National Commission for UNESCO; Chair, Japan National Committee for IHP , Natural Science Committee, Japanese National Commission for UNESCO
+ ~Mr. Mohammad Sanusi Abdul Karim Secretary-General, Malaysian National Commission for UNESCO
+3. Report from stakeholders (102 min) 
+ ~Views from director and head of office (12 min, 3 min each) - Moderated by Mr. Hans Thulstrup and Ms. Adhe Lignita Wulandari
+ ~Dr. Miguel Clusener-Godt Director, Division of Ecological and Earth Sciences, UNESCO Paris
+ ~Ms. Nisha Director & UNESCO Representative to the Pacific States, UNESCO Office in Apia
+ ~Dr. Cvetan Cvetkovski Director, UNESCO Office in Tehran
+ ~Mr. Christian Manhart Head of Office & UNESCO Representative, UNESCO Office in Kathmandu
+ ~Remarks from stakeholders (40min, 5 min each) - Moderated by Mr. Ardito Kodijat and Ms. Angelina Felicia 
+ ~Prof. Dr. Toshio Koike Director, International Centre for Water Hazard and Risk Management (ICHARM)Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 40
+ ~Prof. Dr. Enny Sudarmonowati Chair, MAB International Coordinating Council
+ ~Prof. Dr. Omogbemi Omoloju Yaya, Director, Regional Centre for Integrated River 
+Basin Management (RC-IRBM)
+ ~Mr. Sufyan Aslam Co-Chair of U-INSPIRE Alliance, Science Officer of International Science Council (ISC) Regional Office for Asia and the Pacific
+ ~Prof. Dr. Tit Meng Lim Chief Executive, Science Centre Board, Ministry of Education, Singapore
+ ~Prof. Dr. Mozhgan Yazdianpour Director, Isfahan Regional Center for Technology Incubators & Science Parks Development (IRIS) International Affairs Dept.
+ ~Dato’ Dr. Sharifah Maimunah Syed Zin Director, International Science, Technology and Innovation Centre
+ ~Prof. Dr. Zabta Khan Shinwari Vice-Chair, World Commission on the Ethics of Scientific Knowledge and Technology (COMEST)
+ ~Digging deeper into substance (30 min, 2 min each for opening remarks followed by key questions and answers) - Moderated by Mr. Shahbaz Khan and Ms. Sachi Suzuki
+ ~Prof. Dr. Norlida Mohd. Dom, Deputy Director, Humid Tropic Centre Kuala Lumpur
+ ~Prof. Dr. Ravi Narayanan Chair, Governing Council of Asia-Pacific Water Forum (APWF)
+ ~Prof. Dr. Nor Azazi Zakaria Director, River Engineering and Urban Drainage Research Centre University Sains Malaysia
+ ~Dr. Andi Eka Sakya Executive Secretary, Indonesian National Research Council
+ ~Mr. Atty. Teodoro Jose S. Matta Executive Director, Palawan Council for Sustainable Development 
+ ~Dr. Tariq Rana Assistant Director, Murray–Darling Basin Authority
+ ~Prof. Dr. Manzoor Hussain Soomro President, ECO Science Foundation
+ ~Reactions from Programme Specialists (20 min, 2 min each - alphabetical order) - Moderated by Ms. Siti Rachmania and Mr. Bustamam Koetapangwa 
+ ~Almaty - Dr. Kristine Tovmasyan Programme Specialist
+ ~Bangkok - Dr. Benno Boer Program Specialist
+ ~Beijing - Dr. Philippe Pypaert Program Specialist
+ ~Ha Noi - Ms. Lan Huong Tran National Professional Officer
+ ~Jakarta - Dr. Ai Sugiura Programme Specialist
+ ~Jakarta - Mr. Ardito Kodijat National Professional Officer41
+Science to Enable and Empower Asia Pacific for COVID 19 response | Webinar Report 
+ ~Jakarta - Dr. Hans Thulstrup Senior Programme Specialist
+ ~Islamabad - Mr. Raza Shah National Professional Officer
+ ~New Delhi - Dr. Neha Midha National Professional Officer
+4. Charting the way forward (15 min) - Moderated by Ms Sachi Suzuki and Mr Khairol 
+Hazlan Hamzah
+Introduction of “Asia Pacific Statement of Action by the UNESCO Science Family in Asia 
+and the Pacific in response to COVID-19 challenges”.
+ ~Prof. Dr. Soontak Lee Distinguished Professor, Yeungnam University; President, International Hydrologic Environmental Society (IHES); Governor, World Water Council (WWC)
+ ~Prof. Dr. Anthony C. Sales Regional Director, DOST the Philippines, HELP Davao Network 
+ Vote of thanks
+ ~Prof. Dr. Shahbaz Khan Director of Office & UNESCO Representative, UNESCO Office in Jakarta and Regional Bureau for SciencePublished by 
+UNESCO Jakarta Office 
+in June 2020
+Contact
+UNESCO Office, JakartaJl. Galuh II No.5Kebayoran BaruJakarta 12110IndonesiaTel: + 62 21 739 9818Fax: +62 21 7279 6489

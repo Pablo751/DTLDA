@@ -1,0 +1,2310 @@
+1
+Development and Promotion of the Right to Information in National Frameworks
+Development and Promotion
+of the Right to Information
+in National Frameworks
+Policy Guidelines 
+Published in 2023 by the United Nations Educational, Scientific and Cultural Organization, 
+7, place de Fontenoy, 75352 Paris 07 SP
+, France
+© UNESCO 2023
+ISBN: 978-92-3-100583-1
+This publication is available in Open Access under the Attribution-ShareAlike 3.0 IGO (CC-
+BY-SA 3.0 IGO) license (http://creativecommons.org/licenses/by-sa/3.0/igo/). By using the content of this publication, the users accept to be bound by the terms of use of the UNESCO Open Access Repository (http://en.unesco.org/open-access/terms-use-ccbysa-en).
+The designations employed and the presentation of material throughout this publication do not 
+imply the expression of any opinion whatsoever on the part of UNESCO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.  
+The ideas and opinions expressed in this publication are those of the authors; they are 
+not necessarily those of UNESCO and do not commit the Organization.
+This publication is authored by Prof. Bouchaib Bounabat Editorial Coordination: Marius Lukosiunas and Jaco du Toit Graphic design: Trigeon
+ACKNOWLEDGEMENTS
+UNESCO wishes to thank the reviewers of this publication for their insightful  
+comments and suggestions: Anjali Bhardwaj, Helen Darbishire, Toby Mendel, Edetaen 
+Ojo, and Magued Osman. 
+This publication is supported by the 
+Multi-Donor Program (MDP) on Freedom 
+of Expression and Safety of Journalists.
+Printed by: UNESCO
+Printed in France
+Typeset: Trigeon
+3
+Development and Promotion of the Right to Information in National FrameworksSHORT SUMMARY
+“Since wars begin in the minds of men and women it is in 
+the minds of men and women that the defences of peace must be 
+constructed”Right to information (RTI) constitutes a paramount pillar and an imperative requirement for human 
+development considering the emergence of knowledge societies, where more and more infor -
+mation is being produced, particularly by public bodies. Indeed, while exercising their activities, 
+different branches of the governmental produce, receive and hold Public Sector Information and 
+Data (PSID). Therefore, put at the heart of RTI, PSID disclosure and dissemination, is a real catalyst 
+for good governance practices implementation, but also a prerequisite to achieve UN Sustainable 
+Development Goals (SDGs).
+The 2022 UNESCO guidelines can be used as a framework of principles, 
+strategic and regulatory approaches, and models, by policymakers and 
+officials, interested in the institutionalization, the implementation 
+and the assessment of PSID access process within the public bod-
+ies. They also expose discussions on central issues as RTI, privacy, 
+proactive disclosure, and integration of FAIR data principles in PSID 
+release. Such topics may certainly be of value for civil society, inter -
+national organizations, academics, and professionals, attentive to 
+the ways PSID access can reinforce transparency, impact public ser -
+vice delivery, and more generally be beneficial to the society.
+The Guidelines focus on components necessary to any normative framework for a broader, trust -
+worthy and inclusive disclosure, namely its constitutional basis, strategic levers, legal Foundations, 
+and structures to support PSID requests and appeals. A set of recommendations is proposed at the 
+end of these guidelines.
+Guaranteeing the online space for all
+136
+laws adopted worldwide 
+in 2022 providing legal 
+guarantees for Access to 
+Information5
+Development and Promotion of the Right to Information in National Frameworks
+Development and Promotion  of the Right to Information 
+in National  Frameworks
+Policy Guidelines
+6
+Development and Promotion of the Right to Information in National FrameworksAbbreviations
+Introduction
+ 
+Public Sector Information and Data Access Stakes
+1.1. Defining Public Sector Information and Data
+1.1.1.  General definitions and principles
+1.1.2.
+ Public Sector Information and Data Typology 
+1.1.3.
+ PSID Access Right
+1.1.3.1.  Access to Information as a fundamental right
+1.1.3.2.
+ Principles of the Right to Information 
+1.1.3.3.
+ Dedicated Implementation Process and Oversight 
+1.2. International Standards and Access to Information
+1.2.1.  International Standards
+1.2.2.
+ UNESCO Guidelines for Governmental 
+ 
+Public Domain Information Promotion
+1.3. PSID Access multidimensional Role and Value 
+1.3.1.  Good Governance Perspective
+1.3.2.
+ Social Perspective 
+1.3.3.
+ Cultural Perspective
+1.3.4.
+ Economic Perspective
+1.3.5.
+ Technological Impact on PSID
+Table of  
+contents
+9
+11
+11
+15
+1811
+15
+19
+20
+21
+22
+231712
+13
+13
+13
+151.7
+Development and Promotion of the Right to Information in National FrameworksHow to Develop and Promote Public Access to PSID
+2.1. Normative Frameworks of Access to Information
+2.1.1. Constitutional Basis for PSID Disclosure and Dissemination
+2.1.2. Trust as a basis for Strategic Approach to disclose PSID
+2.1.3. Legal Foundations for Access as a Guiding Principle
+2.1.3.1 A broader PSID Availability Scope
+2.1.3.2 A broader Recognized PSID Formats Spectrum
+2.1.3.3 An Inclusive PSID Disclosure and Dissemination
+2.1.4. Supporting PSID Requests and Appeals
+2.1.4.1 Supporting Citizens’ Requests 
+2.1.4.2 Supporting Citizens’ Appeals 
+2.2. Right Balance to Unlock Public Sector  
+ Information and Data Potential 
+2.2.1. Balancing Access to Information and Privacy
+2.2.2. PSID Proactive Release Policies 
+2.2.3. Respecting Intellectual Property Protection 
+2.2.4. Transparency of Information  
+Request Processing Algorithms  
+2.3. Institutional Capacities to  
+ Oversee Access to Information 
+2.3.1. Oversight and Appeals Bodies 
+2.3.1.1 Why an Oversight body?
+2.3.1.2 Missions
+2.3.1.3 Oversight Models
+2.3.2. Capacity building and Reinforcement
+2.3.2.1 Practices Definition and Implementation
+2.3.2.2 Capacity Building
+2.3.2.3 Financial Resources
+2.4. PSID Resources Management 
+2.4.1. Integrating FAIR Data Principles
+2.4.2. Records Management and Planning 
+2.4.3. Measures to Build Trust in  
+Public Sector Information and Data
+2.4.4. Information System Governance in a PSID Context  
+Recommendations for Member States2.
+3.25
+4125
+3629
+3225
+36
+38
+39
+4029
+30
+31
+3125
+26
+28
+32
+3526
+28
+353332
+35
+363326
+29278
+Development and Promotion of the Right to Information in National Frameworks
+AI
+API
+CC
+COBIT 
+CSO
+FAIR
+FOI
+GCI F
+GDP
+GPDI
+ICCP R
+IDUAIIPP
+ISO/IEC
+ITIL  
+NGO
+ODI  
+ 
+PSID
+RTI
+SDG
+UNCAC
+UNGA
+WSISABBREVIATIONS
+OECDOpen Data Institute
+Organization for Economic  
+Co-operation and Development
+Public Sector 
+Information and Data 
+Right to Information
+Sustainable 
+Development Goals
+United Nations Convention 
+Against Corruption
+UN General Assembly
+World Summit on the 
+Information Societyof Intellectual 
+Property Protection
+International Organization for 
+Standardization International 
+Electrotechnical Commission
+Information Technology 
+Infrastructure Library
+Non-Governmental 
+OrganizationArtificial Intelligence
+Application 
+Programming Interface
+Control Objectives 
+for Information and 
+Related Technology
+Findable, Accessible, 
+Interoperable, Reusable
+Government Common 
+Interoperability Framework
+Gross domestic product
+Promotion of 
+Governmental Public 
+Domain Information
+International Covenant on 
+Civil and Political Rights
+International Day for 
+Universal Access to 
+InformationFreedom of InformationCivil Society OrganizationCreative Commons
+Introduction
+9
+Development and Promotion of the Right to Information in National Frameworksexpose discussions on central issues such as RTI, 
+privacy, proactive disclosure, and integration of FAIR 
+data principles in PSID release. Such topics may 
+certainly be of value for civil society, international 
+organizations, academics, and professionals, 
+attentive to the ways PSID access can reinforce 
+transparency, impact public service delivery, and 
+more generally be beneficial to the society.
+The development of the 2022 UNESCO guidelines, 
+is based on a broad desk research studying how RTI 
+recognition was strengthened the last two decades, 
+especially trough the emergence of international 
+Access to Information standards and frameworks. 
+This study has also leveraged the multiple reviews 
+commissioned by UNESCO to evaluate and reinforce 
+the 2004 Guidelines’ content, as well as the WSIS 
+workshop1 organized in April 2022, to rethink and 
+discuss GPDI Policy Guidelines new version scope 
+numerous. It has also drawn on relevant models 
+elaborated and experiences led around the world, 
+to make public sector information available openly, 
+usefully and legally to citizens and to all interested 
+development actors. This new version has been 
+subject, throughout its development, to a continuous 
+review process within dedicated group of reviewers 
+composed of RTI experts. 
+1 “WSIS Action Line C9: Rethinking UNESCO Policy Guidelines for 
+the Development and Promotion of Governmental Public Domain 
+Information” . 20 April 2022. https://www.itu.int/net4/wsis/
+forum/2022/Agenda/Session/279  While exercising their activities, 
+governmental bodies produce, receive 
+and hold Public Sector Information and 
+Data (PSID). Put at the heart of the right 
+to information (RTI), PSID disclosure  
+and dissemination, can constitute a  
+real catalyst for good governance 
+practices implementation, but also a 
+prerequisite to achieve the Sustainable 
+Development Goals (SDGs). 
+ 
+It is in this context, that the 2022 UNESCO 
+Guidelines are elaborated with the objective to  
+make public officials, and development specialists 
+aware of the importance of PSID access, and 
+help them to better promote their release and 
+dissemination. In this vein, these guidelines aim to 
+consolidate the achievements of the 2004 UNESCO 
+Guidelines for the Development and Promotion of 
+Governmental Public Domain Information (GPDI), but 
+also to introduce and reinforce new roles of PSID 
+access in a very changing world, impelled by digital 
+technologies frenetic use. 
+The 2022 UNESCO guidelines on can be used as 
+a framework of principles, strategic and regulatory 
+approaches, and models, by policy-makers and 
+officials, interested in the institutionalization, 
+the implementation and the assessment of PSID 
+access process within the public bodies. They also 10 Development and Promotion of the Right to Information in National FrameworksThe first part of these guidelines describes specific 
+stakes related to PSID Access. It starts by defining 
+PSID and their typology, continues by positioning their 
+access at the heart of RTI, and stresses its role in 
+giving  a new  boost  to GPDI promotion. PSID disclosure 
+and dissemination multidimensional values, are then 
+described from governance, social, cultural, economic 
+perspectives. Ubiquitous and intelligent technologies’ 
+Impact on PSID is discussed at the end of this part.
+The second part highlights main issues to consider while 
+developing and promoting PSID access, and how to address 
+them. The focus is put on components necessary to any 
+normative framework for a broader, trustworthy and inclusive 
+disclosure, namely its constitutional basis, strategic levers, 
+legal foundations, and structures to support PSID requests and 
+appeals. Other directives are also proposed to ensure a serene 
+and sustainable PSID disclosure, such as balancing PSID access 
+and privacy, proactive release, intellectual property protection, 
+and request algorithms transparency. This part describes also 
+how set-up and reinforce institutional capacities to oversee 
+access to information, as well as practices and directives 
+necessary to manage PSID resources.
+Finally, a set of recommandations is proposed at the end of 
+these guidelines.
+ 
+According to article 19 of the Universal Declaration of 
+11
+Development and Promotion of the Right to Information in National FrameworksSector Information and Data (PSID) can be recorded 
+and stored on different sort of physical medium,  
+may it be digital or analogic. The notion of  
+production includes active participation in the creation 
+of data and information. It also refers to the collection of 
+information or to the funding of information and data 
+creation under specific contractual arrangements. In some 
+cases, public authorities may produce information and 
+data by outsourcing to private companies.
+This definition stated, PSID can be: 
+ ը related to one or several sectoral domains, such 
+as social, economic, political, business, legal, 
+geographical, meteorological, seismic, scientific, 
+transport, environmental, cultural, touristic, patent-
+related and educational areas;
+ ը materialized as policy documents, national 
+archives, records, and registers, minutes and 
+records of meetings, ordinances and laws, judicial 
+decisions, memos, e-mails, opinions, advices, 
+circulars, orders, logbooks, contracts, reports, 
+samples, models, scientific databases, statistical 
+compilations, cultural surveys, results of research 
+projects and official reports;
+ ը available to use in multiple ways including 
+through inspection, extraction, certified analog 
+and/or electronic copies, and certified samples of 
+documents.
+ Human Rights2, the right to freedom of opinion and 
+expression “includes the freedom to seek, receive and 
+impart information and ideas through any media 
+and regardless of frontiers”. Article 27 of the same 
+Declaration provides for the “right freely to participate 
+in the cultural life of the community [...] and to share 
+in scientific advancement and its benefits”. Thus, one 
+of the ultimate goals of any society striving for human 
+development is the empowerment of all its citizens 
+through the access to and the use of the relevant 
+and updated information. Achieving this objective 
+constitutes a paramount requirement considering the 
+emergence of knowledge societies, where more and 
+more information is being produced, particularly by 
+governmental bodies.
+Defining Public Sector Information 
+and Data
+1.1.1. General definitions and principles
+While exercising a public task or a service of general 
+interest, public authorities produce, or receive and 
+hold official information and data. These Public 
+2 United Nations General Assembly (1948). https://www.un.org/
+en/about-us/universal-declaration-of-human-rights 
+Public Sector 
+Information and Data 
+Access Stakes1
+1.112
+Development and Promotion of the Right to Information in National Frameworksin the environmental, meteorological, traffic 
+or satellites fields, which should be made 
+available immediately upon any collection  
+or changes.
+ ը Information of public importance, held by a public 
+authority body, created or acquired in the process 
+of execution of public duties defined in laws or 
+other regulations, and related to everything whose 
+disclosure is justified from the perspective of lawful 
+interests of society.
+ ը Public sector  and  private-sector data, generated or 
+acquired during any joint activities between public 
+and private-sector entities (e.g. public-private 
+partnerships). For instance, data and information 
+generated, processed, maintained or disseminated  
+by the private sector, and funded by or for  
+the public sector3.
+ ը According to its potential economic value for a specific 
+market. Public bodies may produce information 
+which is either subsequently used or developed by 
+the private sector with an added value, directly by the 
+public sector, or through public-private partnerships. 
+ 
+3 OCDE «  Enhancing Access to and Sharing of Data. Reconciling 
+Risks and Benefits for Data Re-use across Societies” 26 Nov 2019 1.1.2. Public Sector Information  
+and Data Typology 
+Information produced by the public sector is not limited to 
+“news” or “facts”, it can also be classified:
+ ը As administrative information or non-administrative 
+information. Administrative information includes 
+administrative procedures, or explanations made by a  
+public entity concerning its procedures, or 
+other information related to governmental 
+functions. Non-administrative information is 
+related to the “external world”, and gathered or 
+generated by public entities when performing 
+their public functions (e.g. commercial, 
+cultural, technical, medical, scientific, 
+environmental, statistical, geographical, or 
+touristic information).
+ ը As data generated by a governmental department’s 
+core or support activities, or produced by a decision-
+making process, encompassing all relevant facts 
+used while formulating policies and the rationale 
+behind administrative and quasi-judicial decisions.
+ ը As static slow or unchanging data, or 
+dynamic data, subject to frequent or real-
+time updates, such as sensor acquired data  
+ 
+ 
+FIGURE 1.   Public Sector Information and Data Typology
+PSID Typology Administrative/ Non 
+administrative Information
+Public Sector / 
+Private Sector DataCore Support activities / 
+Decision-making Process
+Economic  
+Value-Added DataInformation of  
+Public ImportanceStatic / Dynamic Data
+12 Development and Promotion of the Right to Information in National Frameworks13
+Development and Promotion of the Right to Information in National Frameworks1.1.3.2. Principles of  
+the Right to Information 
+PSID can, in certain cases, be restricted to public access 
+and use, because of Intellectual Property Protection 
+(IPP), national security, privacy, and other considerations 
+explicitly mentioned and defined in laws. However, once 
+these exceptions well are defined, and since access to 
+information is guaranteed by the human rights framework, 
+PSID disclosure and availability should be aligned 
+on the Access to Information Principles (See. Box.1.),  
+and protected by consistent and implemented 
+legal framework.1.1.3. PSID Access Right
+1.1.3.1. Access to Information  
+as a fundamental right
+The right of access to information (RTI) is a 
+component of the fundamental right of freedom 
+of expression as set forth by the Article 19 of the 
+Universal Declaration of Human Rights (1948), and 
+the subsequent International Covenant on Civil and 
+Political Rights. RTI constitutes an essential guard 
+to fight mismanagement and corruption, and a 
+prerequisite to achieving sustainable development 
+as a whole4. It not only permits individuals and 
+groups to defend their rights, but also governmental 
+decision-making processes to be more trackable 
+and transparent, thus improving citizen trust in public 
+policies and actions.  
+In this vein, and under RTI laws, any PSID set that is 
+not otherwise made routinely available, can normally 
+be accessed by citizens on request : 
+ ը as public domain information, openly, usefully 
+and legally disseminated to citizens and to  
+a broad range of development actors  
+(businesses, academic institutions, NGOs, 
+International Agencies).
+ ը through institutional websites, social networks, 
+or digital devices, and also via traditional 
+communication ways and spaces: mails, hard 
+copy, administrative offices and centers, etc.  
+RTI is an umbrella term, which is often used in the same 
+way as terms such as Freedom of Information (FOI), that 
+refers to the legal right to access information held by public 
+bodies.
+4 https://www.article19.org/resources/access-to-informa-
+tion-is-critical-to-achieving-sdgs/In this perspective, RTI laws should encompass clear   
+provisions that ensure: 
+ ը a wide   scope of applicability, including a 
+broad definition of what constitutes PSID 
+accessible under the law; 
+ ը the opportunity to override exemptions;  
+ ը the obligation for public authorities to provide 
+information proactively in online and offline 
+modes; 
+ ը the elaboration and implementation of time-
+bound, user-friendly and decentralized 
+application procedures; 
+ ը the burden of proof placed on the public 
+authority to justify non-disclosure; 
+ ը PSID access without obliging the requester to 
+disclose reasons for seeking information; 
+ ը the setting-up of Independent institutions 
+empowered by provisions for sanctions, to 
+adjudicate violations of RTI laws. 14
+Development and Promotion of the Right to Information in National FrameworksBox.1. Principles of the Right of Access to Information5, 6, 7
+1. Maximum Disclosure,  making access to 
+information applicable to all public bodies, to 
+the widest extent possible, and restricted only 
+in very limited circumstances. Decision makers 
+should always proceed from a presumption in 
+favor of disclosure, without asking individuals 
+to demonstrate any particular interest in the 
+information or explain the reasons for the 
+request.
+2. Duty to Publish (Proactive Disclosure), 
+obliging public bodies to disseminate widely 
+information and documents of significant public 
+interest, even without prior requests. One benefit 
+is that publishing information will often be 
+more economical than responding to multiple 
+requests for the same information.
+3. Processes to Facilitate Access, stating 
+that requests for Information should be 
+processed rapidly and fairly, and independent 
+review of refusals should be available. This 
+requires that simple, clear procedures be 
+established to guide how public bodies deal 
+with requests and how citizens can access 
+information. Specific provisions should 
+also be elaborated to include persons with 
+disabilities, the illiterate, and populations in 
+precarious situations.
+4. Costs , protecting Individuals from being 
+deterred to make requests for information by 
+excessive costs, even if this provision does have 
+a cost implication on public bodies. Preferably, 
+costs should only be charged where there is a 
+request for large amounts of documents, or for 
+complex requests. It is also recommended for 
+fee structures and schedules to be set through 
+consistent and global approach, rather than be 
+each public body separately.5. Right of Appeal,  allowing to have recourse 
+to an independent body to review decisions 
+made by public authorities. This right is 
+reflected in most international standards, and 
+represents a real lever to a wider information 
+disclosure, especially when revealing corruption 
+or incompetence. The appeals process should 
+provide an avenue for enquiry and complaints 
+procedure to raise issues about public entity 
+publication and access decisions.
+6. Limited Scope of Exceptions,  requiring 
+that exceptions withholding information 
+from citizens should be clear, well-founded 
+in law, and narrowly defined and applied. In 
+this perspective, the presumption in favor 
+of disclosure means that the onus should be 
+on the public body seeking to deny access 
+to certain information to show that it may 
+legitimately be withheld.
+7. Promotion of Open Government,  
+aiming at changing culture of secrecy within 
+public bodies. Long term success of the right 
+to information depends on public officials 
+understanding that openness is not just an 
+obligation, but a fundamental human right. 
+Implementing this principle needs at a minimum, 
+to trtain public officials, and to ensure oversight 
+through annual reports providing relevant 
+statistics on the functioning of the FOI laws.
+8. Protection for Whistle-Blowers, who 
+release information on wrongdoing against any 
+legal, administrative or employment-related 
+sanctions. Such protection also concerns 
+individuals who, reasonably or mistakenly, but in 
+good faith, disclose information in the exercise of 
+any power or duty under freedom of information 
+legislation. This protection provides an important 
+information safety valve, and ensures key 
+information disclosure.
+5 ARTICLE 19. “International standards: Right to information” . https://www.article19.org/resources/international-standards-right-
+information/#:~:text=The%20Right%20of%20Access%3A%20International,for%20that%20right%20in%20practice
+6 ARTICLE 16. “International standards: Right to information” . https://www.article19.org/resources/international-standards-right-
+information/#:~:text=The%20Right%20of%20Access%3A%20International,for%20that%20right%20in%20practice
+7 County Governance Toolkit. “What are the principles of the right to access information” . https://countytoolkit.devolution.go.ke/what-are-
+principles-right-access-information
+14 Development and Promotion of the Right to Information in National Frameworks15
+Development and Promotion of the Right to Information in National Frameworks ըThe enactment in December 2005, of 
+Article 10 of the United Nations Convention 
+Against Corruption (UNCAC), obligating  
+each State Party to take necessary measures 
+to enhance transparency, including publishing 
+relevant information and adopting procedures 
+allowing people to obtain “information on the 
+organization, functioning and decision-making 
+processes of its public administration” 9.
+ ըThe first binding international decision on the 
+subject rendered on September 19, 2006 by the 
+Inter-American Court of Human Rights in Claude 
+Reyes et al v. Chile, in which the Court held  
+that access to public information is a  
+fundamental human right10. 
+ ըThe Convention on Access to Official Documents 
+(the Council of Europe), otherwise known as the 
+Tromsø Convention, adopted on 18 June, 200911 
+and which entered into force on 1 December, 
+2020, after 10 ratifications. The Convention is 
+the first legally binding international instrument 
+to recognize a general right of access to official 
+documents held by public authorities12.
+ ըThe UN Human Rights Committee in General 
+Comment, adopted in 2011, interpreted the scope 
+and limits of the right to information, stating that 
+Article 19 of the International Covenant on Civil 
+and Political Rights (ICCPR) ensures the right 
+9 United Nations “United Nations Convention Against Corruption” (UNCAC) 
+UN, New York, 2004. https://www.unodc.org/documents/treaties/UNCAC/
+Publications/Convention/08-50026_E.pdf
+10 Order of the Inter-American Court of Human Rights Case of Claude-
+Reyes et al. v. Chile Judgment of September 19, 2006 (Merits, Reparations 
+and Costs). https://www.corteidh.or.cr/docs/casos/articulos/seriec_151_
+ing.pdf 
+11 “Council of Europe Convention on Access to Official Documents (CETS 
+No. 205)” Tromsø 18/06/2009. https://www.coe.int/en/web/conventions/
+full-list?module=treaty-detail&treatynum=205  
+12 “The Council of Europe Convention on Access to Official Documents” 
+(CETS No. 205). Tromsø Convention. 1 December 2020. https://www.coe.
+int/en/web/access-to-official-documents 1.1.3.3. Dedicated Implementation 
+Process and Oversight 
+ RTI laws, and the induced policies, need well defined 
+implementation processes, able to give practical effects 
+to their provisions, mainly through the designation of 
+government bodies providing information to the public. 
+Implementation is important to ensure that the benefits of 
+the law, policy or regulation are realized.
+On the other hand, a dedicated oversight is mandatory 
+to assess and enforce RTI laws implementation process. 
+It is performed through a designated specific body 
+charged with the supervision, monitoring, evaluation of 
+performance and review, in order to ensure compliance with  
+laws, regulations and policies.
+1.2. International Standards  
+and Access to Information 
+1.2.1. International Standards 
+Over the last two decades, many governments have 
+become under a legally binding duty to provide citizens 
+with the access to official information, arising from either 
+their domestic law requirements or their international 
+obligations. Moreover, the links between the access to 
+information, and the ability to access other guaranteed 
+rights and entitlements (human rights, constitutional 
+rights) are now very clear for all the beneficiaries8. Several 
+international and regional conventions, can thus be 
+mentioned to illustrate such developments, among other:
+8 UN Human Rights Committee (HRC), General comment no. 34, Article 19, 
+Freedoms of opinion and expression, 12 September 2011, CCPR/C/GC/34 
+https://www.refworld.org/docid/4ed34b562.html [accessed 13 August 
+2022]  1.216
+Development and Promotion of the Right to Information in National FrameworksSustainable Development Goals. Access to information, 
+implementation monitoring and reporting were 
+assigned to UNESCO under Goal 1616, and more 
+precisely the Target 16.10, calling on States to “Ensure 
+public access to information and protect fundamental 
+freedoms, in accordance with national legislation and 
+international agreements”.
+ ըThe Guidelines on Access to Information and 
+Elections in Africa, adopted by the African 
+Commission on Human and Peoples’ Rights 
+in 2017. The Guidelines were developed 
+and adopted by the Commission to provide  
+guidance to African Union Member States on 
+access to information in the electoral process 
+as a means of strengthening democratic 
+governance in Africa17. 
+ ըOn 15 October 2019, the 74th UN 
+General Assembly (UNGA) proclaimed 28 
+September as the International Day for 
+Universal Access to Information (IDUAI)18. 
+This day was initially adopted by UNESCO’s 
+General Conference in 2015, to raise awareness 
+of the right to seek and receive information  as      
+part  of  the  right  to  freedom  of  expression, and 
+as key to sustainable development. Since 2016, 
+UNESCO has celebrated IDUAI and highlighted 
+how the right to access information is an  
+enabler for the realization of all Sustainable 
+Development Goals within the 2030 Agenda. 
+ 
+16 UNESCO “From Promise to Practice: Access to Information for 
+Sustainable Development” UNESCO 2020. https://en.unesco.org/sites/
+default/files/unesco_report_16102.pdf 
+17 African Commission on Human and Peoples’ Right “Guidelines on 
+Access to Information and Elections in Africa” ACHPR. November 2017 
+https://www.achpr.org/public/Document/file/English/guidelines_on_ac -
+cess_to_information_and_elections_in_africa_eng.pdf
+18 UNESCO “UN proclaims International Day for Universal Access to 
+Information” . https://en.unesco.org/news/proclaims-international-day-
+universal-access-information to access information held by public bodies. 
+It requires that states proactively disseminate 
+information in the public interest and ensure that 
+access is “easy, prompt, effective and practical13.”
+ ըThe African Charter on Values and Principles of 
+Public Service and Administration, adopted by the  
+African Union (AU), on 31 January, 2011, whose 
+Article 6 provides inter alia that public services 
+and administrations shall establish effective 
+communication systems and processes to inform 
+the public about service delivery, to enhance 
+access to information by users, as well as to 
+receive their feedback and inputs14.
+ ըThe adoption of the Model Law on Access to 
+Information for Africa by the African Commission 
+on Human and Peoples’ Rights in 201315. The  
+Model Law seeks to provide guidance for 
+governments in Africa in developing or amending 
+their national access to information laws to 
+ensure that they meet the required standards and 
+are consistent with the principles outlined by the 
+Commission in the Declaration of Principles on 
+Freedom Expression in Africa, which was adopted 
+in 2002 and was then applicable. 
+ ըThe unanimous approval, in 2015, by the UN 
+General Assembly of the 2030 Agenda for 
+Sustainable Development, recognizing access 
+to information held by governmental bodies 
+as essential for public engagement across the  
+ 
+13 UN Human Rights Committee, General Comment No. 34 Article 19: 
+Freedoms of opinion and expression, (2011) http://www.refworld.org/
+pdfid/4ed34b562.pdf 
+14 “African Charter on Values and Principles of Public Service and 
+Administration” Adopted by the 16th Ordinary Session of the of Heads 
+of State and Government of the AU Addis Ababa, Ethiopia - 31st January 
+2011. Entered into force on 23rd July 2016 https://au.int/en/treaties/
+african-charter-values-and-principles-public-service-and-administration 
+15 African Commission on Human and Peoples’ Rights “Model Law on 
+Access to Information for Africa” ACHPR, 2013. https://www.achpr.org/
+legalinstruments/detail?id=32 17
+Development and Promotion of the Right to Information in National Frameworks1.2.2. UNESCO Guidelines for Governmental 
+Public Domain Information Promotion
+In 2004, UNESCO elaborated and published its Policy 
+Guidelines22 to help and support developing and promoting 
+the production, dissemination, preservation, and use of 
+Governmental Public Domain Information (GPDI) within 
+developing and least developed countries, with particular 
+attention to information in digital form. GPDI is defined  
+as information that is publicly accessible and the 
+usage of which does not infringe any national security 
+restrictions, nor any legal right, nor any obligation of 
+confidentiality. The UNESCO Guidelines stressed 
+that any information produced by public entities 
+in all branches and at all levels, should supposed 
+to be in the governmental public domain, unless 
+another policy option (e.g. a legal right such as an  
+Intellectual Property right or personal privacy) is 
+adopted and clearly documented, preventing it from 
+being freely accessible to all. 
+In this perspective, the 2004 version of the  
+Guidelines focused on supporting governments’ 
+efforts aiming to: 
+ ը help guide the development of infrastructure and 
+services for provision of governmental information 
+to the public; 
+ ը assist in fostering the production,  
+archiving and dissemination of GPDI, with an 
+emphasis on ensuring multicultural, multilingual 
+content; and 
+ ը promote access of all citizens, and especially 
+disadvantaged communities, to information 
+required for individual and social development. 
+  
+ 
+22 Uhlir P . F. “Policy Guidelines for the Development and Promotion of 
+Governmental Public Domain Information. ” UNESCO, Paris, 2004 ըThe revision of the Declaration of Principles 
+on Freedom of Expression in Africa, originally 
+adopted. by the African Commission on Human 
+and Peoples’ Rights in 2002, and its replacement 
+with the Declaration of Principles on Freedom of 
+Expression and Access to Information in Africa in 
+2019 to strengthen the normative framework for 
+freedom of expression and access to information 
+on the continent19.
+ ըIn October 2020, at its Annual Assembly, the 
+Organization of American States (OAS) approved 
+the Inter-American Model Law 2.0 on Access to 
+Public Information20, to include thematic areas 
+that require updates or further development  
+in the Model Inter-American Law on  
+Access to Public Information adopted 
+by the OAS General Assembly in 201021. 
+This policy framework incorporates best 
+practices for promoting transparency and 
+the right of access to information, such as  
+the definitions and scope of this right, the nature 
+and functions of the guarantor bodies, and  
+the regime of exceptions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 African Commission on Human and Peoples’ Right “Declaration of 
+Principles on Freedom of Expression and Access to Information in Africa” 
+ACHPR. Adopted by The African Commission on Human and Peoples’ Rights 
+at Its 65th Ordinary Session, held from 21 October to 10 November 2019 
+in Banjul, Gambia. https://www.achpr.org/public/Document/file/English/
+Declaration%20of%20Principles%20on%20Freedom%20of%20Expression_
+ENG_2019.pdf 
+20 http://www.oas.org/en/sla/dil/docs/publication_Inter-American_Mod-
+el_Law_2_0_on_Access_to_Public_Information.pdf
+21 http://www.oas.org/en/sla/dil/docs/access_to_information_Text_
+edited_DDI.pdf18
+Development and Promotion of the Right to Information in National Frameworksprecarity, integrating the poorest population, and 
+crisis management, in today’s fast-changing world.  
+1.3. 
+1.3. PSID Access multidimensional Role 
+and Value 
+Governments have a critical role in leading the 
+expansion of the access and use of public domain 
+information. Policy makers should express their 
+upmost willingness into consider the benefits  
+of making PSID available. This requires an 
+appreciation of the access to information  
+implications for good governance, social capital 
+development, and economic welfare.Since their publication, the UNESCO’s GPDI  
+Guidelines have contributed to confer a heightened 
+importance to public information access around the 
+world. Nevertheless, these Guidelines needed to 
+be updated, given all the consequential changes, at 
+different levels (political, social, technological), that 
+happened around the world since 2004, and where 
+access to information was a real catalyst. 
+It is in this perspective, that PSID is proposed  
+to replace GPDI: 
+ ը to consolidate what has been achieved in GPDI 
+development and promotion field, but also 
+ ը to introduce and/or reinforce other aspects related 
+to the new role of access to PSID as a prevalent 
+factor of good governance, inclusion, fighting 1.31.3
+Good Governance Perspective
+Transparency, Accountability, Citizen Participation
+Social Perspective
+Environment, well-being; Public health and safety; Education; 
+Consumer Protection; Crisis Management
+Cultural Perspective
+A more knowledgeable population, Cultural 
+Heritage Accessibility; Media Empowerment, 
+R&D Development
+Economic Perspective
+National Data Economy; Jobs and 
+Revenues Creation; Fiscal Transparency; 
+Innovative Products, Services, and 
+Commercial Activities.
+Technological Impact
+Public Information Systems, 
+Artificial Intelligence, Mobile; Big 
+data; Analytics; CloudFIGURE 2.  Public Sector Information and Data Typology
+18 Development and Promotion of the Right to Information in National Frameworks19
+Development and Promotion of the Right to Information in National Frameworksit comes to advocating marginalized and vulnerable groups 
+of population.
+Thus, confirming its role as a key instrument 
+towards transparency, accountability, participatory 
+democracy and good governance, the right to 
+access is becoming widely recognized around the 
+world. This is proved by the drastic increase in the 
+number of countries having enacted or adopted 
+binding laws and policies, that ensure the right to 
+access information held by public authorities. As of 
+August 2021, 132 UN Member States have adopted 
+constitutional, statutory and/or policy guarantees 
+for public access to information, with at least 22 
+countries adopting such guarantees since the 
+adoption of the 2030 Agenda in 201526. 
+However, 2019 UNESCO research on the  However, 
+26 UNESCO “Access to Information laws” . ©UNESCO 2022. https://www.
+unesco.org/reports/access-to-information/2021/en/ati-adoption1.3.1. Good Governance Perspective
+The right to access government information is 
+a sine qua non   legal condition for transparency, 
+accountability and citizen participation in policy 
+making23. Indeed, accessing relevant PSID, allows 
+citizens and other stakeholders, mainly Civil  
+Society Organizations (CSOs), media, academia, 
+and watchdogs’ organizations, to better  
+understand governmental policies, assess  
+efficiently public services, and promote democratic 
+ideals, such equality, inclusion, and openness. 
+With the help of RTI legal framework and PSID 
+release, CSOs can also disseminate information 
+on current legislations, public expenditures, 
+policy implementations, achievements and 
+drawbacks in the promotion of the rule of law, good 
+governance, and respect for human rights, etc24. 
+Moreover, in recent decades, public administrations 
+have increasingly recognized that public services 
+delivery requires the active contribution of multiple 
+actors in the society25. In this objective, a wide 
+proactive PSID disclosure and dissemination can 
+enhance citizens and CSOs capabilities, in terms 
+of local knowledge to co-design, co-produce 
+and deliver basic services efficiently, like health, 
+education and welfare, etc.
+Finally, PSID availability can hugely reinforce 
+CSOs role, when representing and negotiating  
+for citizens’ interests vis-à-vis the Government 
+during decision-making processes, particularly when 
+ 
+23 OECD “Open Government in Latin America” OECD Public 
+Governance Reviews, OECD Publishing, 2014, Paris. https://dx.doi.
+org/10.1787/9789264223639-en.
+24 Centre for Good Governance “The Right to Information Act, 2005 A 
+Guide for Civil Society Organizations” . CGG, under the Capacity Building 
+for Access to Information Project. A Gol-UNDP Initiative. NIA. July 2006
+25 OECD “Innovating the Public Sector: from Ideas to Impact” 12-13 
+November 2014 OECD Conference Centre, Paris 26 UNESCO “Access to Information laws” . ©UNESCO 2022. https://www.
+unesco.org/reports/access-to-information/2021/en/ati-adoption
+01 14 39 85130 132Before  1950
+1950 - 1990
+1990 - 2000
+2000 - 2010
+2010 - 2020
+2020 - 2021FIGURE 3.  Number of countries with Access to
+                    Information legal guarantees20
+Development and Promotion of the Right to Information in National Frameworksby World Health Organization as “infodemic”30, thus 
+contributing to prevent confusion and risk-taking 
+behaviors that could harm collective health, and lead 
+to mistrust in health authorities. The same reasoning 
+applies to concerns about environmental pollution, 
+misuse of public funds, etc.
+On the other hand, strong social equity  
+monitoring systems are important for countries 
+on the path to reducing inequalities in health,  
+education, and more generally well-being, and 
+achieving the human development related SDGs. 
+Many of the data necessary to evaluate these 
+SDGs’ indicators can come from PSID that are  
+timely updated and disclosed.
+The promotion of each State’s socio-educative capital is 
+another reason for expanding the information commons 
+through PSID disclosure, that can facilitate access to 
+education and training and raise citizens’ qualification and 
+skills levels. This can be achieved, for example, through the 
+analysis of needs on the labor market, in order to elaborate 
+targeted and relevant training programs. More specifically, 
+these needs in the context of the unemployed labor 
+force, will help identify those facing a higher risk of long-
+term unemployment, and consequently provide them 
+with adequate support: targeted trainings, professional 
+retraining, etc. Public authorities have a critical role to 
+play in each of these capacity-building areas, including by 
+provisioning as much government-produced information 
+as possible in the public domain.
+30 WHO “Infodemic” definition: An  infodemic  is too much information 
+including false or misleading information in digital and physical environ-
+ments during a disease outbreak. https://www.who.int/health-topics/in-
+fodemic#tab=tab_1  
+However, 2019 UNESCO research on the 
+implementation of SDG 16.1027 demonstrates 
+that while there is progress in enacting right  
+to information laws, governments still need to improve 
+access to information laws, and better ensure their 
+implementation.
+1.3.2. Social Perspective 
+Firstly, PSID open and unrestricted dissemination 
+enables citizens to make informed decisions about 
+their daily life, their environment, and their future, 
+thus enhancing public health and safety, and 
+therefore, the general well-being. Conversely, and  
+in the absence of information, people are at risk of 
+experiencing a wide range of emotions in the face  
+of a crisis, or more generally any unexpected 
+situations, and the anxiety or fear thus generated 
+can aggravate the situation28. 
+An example is the COVID-19 crisis, also designated 
+as a “data-driven pandemic”, as massive amounts of 
+information and data were unlocked and shared at 
+an unprecedented scale. During this crisis, prompt 
+information disclosure was seen as a top priority 
+enabling a collective response to the pandemic29, 
+helping researchers to bridge knowledge gaps  
+and respond to the crisis in a timely manner. 
+Information disclosure also helped also to improve 
+the general public response capacity in the face of 
+large amounts of disinformation, also designated 
+27 UNESCO “Access to Information: A New Promise for Sustainable 
+Development” UNESCO, 2019, Paris.
+28 Zeng R, Zhu D. “A model and simulation of the emotional contagion 
+of netizens in the process of rumor refutation.“ Sci Rep. 2019;9(1):14164
+29  Wang C, Horby PW, Hayden FG, Gao GF. “A novel coronavirus outbreak 
+of global health concern. “  The Lancet.  2020 Feb;395(10223):470–473. 
+doi: 10.1016/S0140-6736(20)30185-9. doi: 10.1016/s0140-6736(20)30185-
+921
+Development and Promotion of the Right to Information in National FrameworksOn the other hand, by making accessible a much 
+larger amount of PSID, the more economically 
+developed societies contribute in larger proportions 
+to the global pool of open information potentially 
+beneficial to all developing countries. Thus, PSID 
+disclosure contributes to make population more 
+knowledgeable, aware of the challenges it may 
+face locally, nationally and globally, and therefore 
+well prepared to social interactions and openness  
+to the outside world.
+Documentary Heritage Accessibility 
+Libraries, museums, archives and other cultural 
+institutions hold a significant amount of works, 
+information, and data, that can be classified as PSID 
+whose availability for copy and reuse can facilitate the 
+spread of knowledge, and boost creative production.  
+These institutions are also increasingly considering 
+the potential brought by the involvement of 
+volunteers (or crowdsourcing) in digitization projects, 
+and particularly their contribution in collections’ 
+cataloguing and providing additional support in 
+interpreting documents. Moreover, releasing digital 
+cultural information, data and works in compliance 
+with existing national legislation, can invigorate 
+creative industries, and produce economic benefits, 
+mainly by providing innovative tourism services that 
+build upon the local and national cultural heritage31. 
+In this perspective, cultural institutions have the  
+duty to be transparent about what PSID can be re-
+used, and the terms and conditions on which that 
+re-use can take place.
+31 Natale M.T., Piccinimo M. ”Digital Cultural Heritage and Toursim Rec -
+ommendations for cultural institutions” Drafted by the MiBACT working 
+group for the production of recommendations on the use of digital tech-
+nologies for tourism. version 1.0, 2 October 2014Finally, the growth of consumer protection laws had 
+the effect to ensure consumers and shareholders 
+access to financial and market information, and 
+to make it harder for agencies to monopolize and 
+hide information to the detriment of the public. 
+Such information disclosure, can also enhance and 
+consolidate the citizens’ digital experience, through 
+data available on web-based networks and social 
+media. This digital experience can later be matched 
+with analytics systems of both: 
+ ը public administrations, such as regulation authorities, 
+to identify the citizen-consumer complaints in a 
+proactive manner;
+ ը private sector, such as market operators, 
+in order to identify and propose complementary, or 
+even personalized, services and products.
+1.3.3. Cultural Perspective
+A more knowledgeable population
+Broad and open availability of PSID provides all 
+citizens with means to learn about their country, 
+their fellow citizens, and their government 
+through information that in many cases 
+would not be available from any other source.  
+Moreover, information and data and more generally 
+content produced by governmental bodies, are 
+part of national discourse reflecting components 
+for understanding the reality of everyday life, 
+representing the society. Their open access will 
+have a real strengthening effect in the formation of 
+identity of individuals, communities, and countries. 22
+Development and Promotion of the Right to Information in National Frameworks ը address rising societal challenges efficiently and 
+in a holistic manner;  
+ ը promote interdisciplinary, inter-sector, inter-
+institutional, and international research;
+ ը enhance the quality of “on the field” and empiric-based 
+research activities and open scientific enquiries, and
+ ը set-up an effective academic system, mainly by 
+facilitating the education of new researchers. 
+ 
+On another hand, open science can accelerate 
+progress by making research more efficient33. This 
+principle can be applied to the particular case of 
+publicly funded scientific data34 and the public 
+domain status of openly available access and use 
+of factual information. An increased and regulated  
+open access to research data helps enhance quality, 
+prevent unnecessary duplication of research, speed  
+up scientific progress, combat scientific fraud, and it 
+can overall favor economic growth and job creation35.
+1.3.4. Economic Perspective
+PSID release can be a real booster for national data 
+economy, creating more jobs and revenues36, and 
+strongly contributing to the achievement of the economic 
+development SDGs (particularly SDGs: 8,9, 12)37. 
+33 National Academies of Sciences, Engineering, and Medicine. “Open 
+Science by Design: Realizing a Vision for 21st Century Research” . 
+Washington, DC: The National Academies Press. 2018.  https://doi.
+org/10.17226/25116 
+34 Directive (EU) 2019/1024 of The European Parliament and of The Council 
+of 20 June 2019, on open data and the re-use of public sector information.
+35 ibid 31
+36 Negreiro M. “Re-use of public sector information. Briefing-EU Legislation 
+in Progress. ” European Parliamentary Research Service. July 2019. https://
+www.europarl.europa.eu/RegData/etudes/BRIE/2018/628312/EPRS_
+BRI(2018)628312_EN.pdf 
+37 SDGs: 8–Decent Work and Economic Growth; 9–Industry,Innovation and 
+Infrastructure; 12–Responsible Consumption and ProductionMedia Empowerment
+Given the rapid rise of the internet age and social 
+media, there has been an increasing access to 
+news and information on which media professionals 
+can report, empower and inform the public and, 
+where possible, use in decision-making. Therefore, 
+journalism and media professionals need to acquire 
+new skills in terms of responding on different 
+platforms to instant delivery of information 
+where inaccuracy can be easily generated32. This 
+convergence of skills and increased competition, when 
+everybody can become a publisher requires consequently 
+an independent and comprehensive process of assessment, 
+verification and analysis of collected information. One of the 
+main objectives here is to prevent and also to fight all forms of  
+so-called fake news, misinformation and 
+disinformation, that can spread widely and rapidly, 
+especially among fragile and/or unaware audience. 
+RTI laws and PSID disclosure directives can support 
+media to undertake this important role, as they can 
+be used to access verified and reliable information, to 
+diversify public sector information sources, and more 
+importantly, to verify all the gathered information. 
+Research and Development 
+The scientific and technical research communities  
+can benefit tremendously from PSID disclosure. 
+Indeed, numerous factual databases as well as  
+expert reports and studies, are collected by 
+government entities or with government funding, 
+and can be leveraged to: 
+32 AFIC et al. “Right to Information in Africa Manual for Journalists” Africa 
+Freedom of Information Centre (AFIC), The Federation of African Journalists 
+(FAJ), Friedrich-Ebert-Stiftung (FES). 2017 https://action-namibia.org/wp-
+content/uploads/2017/10/Right-to-Information-Manual-For-Journalists.pdf  23
+Development and Promotion of the Right to Information in National FrameworksIndeed, PSID can be a valuable resource for reuse as 
+open data38, allowing the development of new innovative 
+citizen-centric products and services, as well as innovative 
+commercial activities.  In 2019, an independent assessment 
+of the Open Data Institute (ODI) work on data trusts39, 
+led in United Kingdom,  described how sharing data 
+can create value by enabling new innovations, raising 
+productivity, and increasing competition. Generally 
+speaking, benefits include an increase in the usage 
+of the Open Data, an expansion of its application  
+to new areas, new products and services, a  
+better data quality, efficiency gains for both data 
+publishers and users, improved user satisfaction and 
+increased trust, as well as a better image of the Open Data 
+providers40.
+Moreover, it is estimated that a broader adoption 
+of open data ecosystems in the finance sector can 
+have a  positive impact with up to  5% of GDP growth  
+in developing countries41, where data sharing can  create 
+20 to 50 times more value for the wider economy than the 
+value it creates for data stewards42. 
+38  Open Government Data (OGD), or Open Data, are datasets produced by 
+public sectors, and made available in an open and machine-readable for -
+mat that can be freely used, re-used and shared by anyone for any purpose.  
+https://www.oecd.org/gov/digital-government/open-government-data.
+htm
+39 https://theodi.org/article/data-trusts-economics-report/ 
+40 OECD (2017), Government at a Glance 2017. Available at http://www.
+oecd.org/gov/government-at-a-glance-22214399.html 
+41 McKinsey (2021),  Financial data unbound: the value of open data for 
+individuals and institutions. https://www.mckinsey.com/industries/finan-
+cial-services/our-insights/financial-data-unbound-the-value-of-open-da-
+ta-for-individuals-and-institutions  
+42 OECD (2019), Enhancing Access to and Sharing of Data. https://www.
+oecd-ilibrary.org/science-and-technology/enhancing-access-to-and-
+sharing-of-data_276aaca8-en;jsessionid=tiWLS6REUQH5Jw0sMA6T5unp.
+ip-10-240-5-57 In  this vein, recent research confirms that fiscal transparency, 
+in particular during the budget execution phase,  
+has a strong positive impact on attracting foreign direct 
+investment  inflows-and this is even more true for non-
+OECD countries43, In the United Kingdom, it is estimated 
+that knowledge assets in the public sector could generate 
+£5 billion financial, economic, and social benefits per year 
+at least44.  
+Finally, open data development will also allow for mixing 
+public data assets with data produced by other public 
+bodies, private sector, civil society and citizens, thus 
+promoting transparency, participation, and social inclusion 
+in service delivery45. 
+1.3.5. Technological Impact on PSID
+In addition to their traditional information systems  
+in analog or digital forms, public agencies 
+increasingly use the newest digital technologies, 
+namely Artificial Intelligence (AI), mobile, Big  
+data, analytics and cloud to boost operational efficiency 
+and to enhance their response to their “customers” 
+(citizens, enterprises, partners) needs. Ubiquitous 
+connectivity, strong mobility, intuitive and user-friendly 
+interfaces and new transactions channels, look beyond 
+the classical governmental services available online and/
+or through mobile devices. These technologies raise bigger 
+challenges of an open and equitable access for all citizens  
+to the knowledge and benefits to be derived from the 
+resulting important expansions of PSID. 
+43 Cicatiello, L. et al. (2021), “Assessing the impact of fiscal transparency on 
+FDI inflows” , Socio-Economic Planning Sciences, Vol. 73, p. 100892, http://
+dx.doi.org/10.1016/j.seps.2020.100892. 
+44 HM Treasury (2018), “Getting smart about intellectual property and 
+other intangibles in the public sector: Budget 2018” Crown copyright 2018
+45 OECD “Policy Shaping and Policy Making: The Governance of Inclusive 
+Growth”© OECD, 2015. https://www.oecd.org/governance/ministerial/the-
+governance-of-inclusive-growth.pdf States should deal with this issue by considering the potential 
+impact of unprecedented data transactions on democracy, 
+human rights (which overlap with other ethical concerns) and 
+the rule of law, as well as its influence on individual behavior  
+and thought46. Therefore, Governments need to update and 
+enforce data protection regulations, to mitigate risks to human 
+rights posed by AI, particularly machine learning, and more 
+specifically against forms of “illegitimate interference” , including 
+forms of persuasion and data intrusion that compromise 
+democratic principles47. Governments should also promote 
+policies that create a diverse and pluralistic information 
+environment, including the regulation of technology 
+monopolies in the domain of AI48. They can, in this objective, 
+build upon the UNESCO AI and Ethics Recommendation49 
+aiming, among other goals, to : 
+ ը provide a universal framework of values, principles 
+and actions to guide States in the formulation of their 
+legislation, policies or other instruments regarding AI, 
+consistent with international law; 
+ ը protect, promote and respect human rights and  
+fundamental freedoms, human dignity and  
+equality, including gender equality; and 
+ ը promote equitable access to developments and knowledge 
+in the field of AI and the sharing of benefits.
+ 
+ 
+46 E. Danescu “Democracy, Freedom and Truth at a Time of Digital Disruption: 
+An Equation with Three Unknowns?” Open Access Book “Fake News Is Bad 
+News - Hoaxes, Half-truths and the Nature of Today’s Journalism’ IntecOpen. 
+August 20th, 2021.
+47 ibid 44.
+48 EESC. Artificial Intelligence – The Consequences of Artificial Intelligence on 
+the Digital) Single Market, Production, Consumption, Employment and Society, 
+European Economic and Social Committee: Brussels; 2017. https://www.eesc.
+europa.eu/en/our-work/opinions-inf  
+49 UNESCO “Recommendation on the Ethics of Artificial Intelligence”. Adopted 
+by UNESCO’s General Conference at its 41st session, on 24 November 2021: 
+https://unesdoc.unesco.org/ark:/48223/pf0000381137 
+24 Development and Promotion of the Right to Information in National Frameworks
+25
+Development and Promotion of the Right to Information in National Frameworks
+How to Develop and 
+Promote Public Access 
+to PSID2
+ ըconfirming the supremacy RTI as constitutional 
+right in case of conflicting with other laws,
+ ըenforcing and expanding individual guarantees 
+to request and obtain governmental information, 
+through if necessary the supports of courts and 
+appeal bodies.
+2.1.2. Trust as a basis for Strategic Approach to 
+disclose PSID
+Over the years, more and more countries have put  
+in place a range of adequate PSID disclosure strategies 
+and policies. Nevertheless, a range of barriers have 
+caused progress in governmental data release and use to 
+be relatively slow, particularly, privacy risks, complexity 
+or incompleteness of legislative framework applied to 
+data, and lack of a coordinated approach to data sharing 
+initiatives. 
+To enable better use and sharing of data and information, 
+governments should be mindful of citizens and users’ 
+expectations and preferences, and consequently, engage 
+adequate strategies and action plans to release and 
+disseminate their PSID assets in serene and secure ways.
+These strategies should be based on increasing 
+trust, through a greater participation of citizens 
+in the realization of the benefits that better use of 
+PSID can offer. These strategies should be based on 
+an increasing trust, by implementing and applying 
+risk management practices to maintain confidence 
+in how data is handled, making citizen confident in 2.1. Normative Frameworks of Access to 
+Information 
+2.1.1. Constitutional Basis for PSID Disclosure 
+and Dissemination 
+RTI is increasingly perceived as one of the defining aspects 
+of any rule of law society, and a central condition to the 
+exercise of procedural political and human rights. Moreover, 
+transparency is vital to government agencies’ oversight, 
+and therefore, represents an additional justification of the 
+right to information. On another hand, PSID held by public 
+authorities can be considered, as the property of citizens, 
+and as such, these lasts are meant, in a constitutional way, 
+to enjoy free access to it, except when their interests are 
+threatened.
+All these justifications can explain why since the 1990s and 
+around the world, numerous new or amended constitutions 
+have enshrined RTI, thus enhancing PSID release and 
+dissemination. Governments should reinforce this dynamic,  
+through continuous measures, aiming at:
+ ըproviding for and/or reinforcing this right in their 
+constitutions, or at least making it be inferred from 
+the constitutional right of expression freedom,
+ ըgiving effect to RTI as constitutional right, by 
+supporting it through adequate enabling legal 
+system (laws, provisions, decrees, etc.), 
+ ըmaking sure that this constitutional right is not or 
+cannot be countermanded by other laws,2.126
+Development and Promotion of the Right to Information in National FrameworksThus, PSID availability scope should be considered 
+in a broad framework, mainly in terms of application 
+of free of charge openness and legal access and re -
+use, to all public information and documents collect -
+ed or produced:
+ ըby public institutions at national level, but 
+also at local level. Indeed, municipalities, their 
+elected representatives and civil servants, 
+represent the first interface between citizens 
+and the State, and thus have a crucial role in 
+fostering and sustaining trust-building and 
+participatory decision-making through the 
+dissemination of their PSID,
+ ըwithin the exercise of a public task, a service 
+of general interest, or decision-making 
+processes, encompassing all relevant facts 
+relied on while formulating policies or the 
+reasons for administrative and judicial 
+actions or decisions,
+ ըthrough public funds, and/or as part of partnerships 
+with the private sector, especially in social domains 
+(e.g. public-private partnership projects in domains 
+such public health services, water supplies, 
+sanitation, disasters and pandemics management, 
+etc.), with NGOs or intergovernmental organizations.
+2.1.3.2 A broader Recognized PSID 
+Formats Spectrum
+Governments should recognize and integrate the legal value 
+and the authenticity of any format holding public information 
+(See Section 1.1.1. General definitions and principles), and of 
+any the medium (paper, or electronic form or as a sound, 
+visual or audiovisual recording, etc.), as well as all means, 
+ways and media to collect and disseminate PSID, be they: the way their data remains secure, accessible and 
+used for positive purposes, and ensuring greater 
+participation of citizens in the realization of the 
+benefits that better use of PSID can offer.
+Furthermore, a clearer operating environment should 
+be set-up to retain data and information custodians 
+trust, by giving them permission for the safe release 
+of data/information, and adequate support to share 
+and release data/information, especially when such 
+disclosure incurs substantial costs not covered by 
+operational budgets. 
+In this vein, governments should promote release 
+of large volumes of data and information in  
+formats and under conditions that permit their 
+leveraging and reuse. This requires to engage all  
+the measures necessary to protect both public 
+interest and personal data, and also to profit from 
+economic benefits induced by such open data 
+dissemination and use.
+2.1.3. Legal Foundations for  
+Access as a Guiding Principle
+2.1.3.1 A broader PSID  
+Availability Scope
+The right of citizens to access governmental information 
+should be guaranteed through the national Constitution, 
+legally founded and operationalized by an RTI Act precising 
+how this right can be exercised. In this perspective, RTI laws 
+should apply to government documents and information, 
+accordingly to the Access to Information Principles (See. 
+Box.1.), making them available to anyone, whether or not 
+they are citizens from the country in question, and whether 
+or not they formulate the reason behind the need to access 
+to this information.  27
+Development and Promotion of the Right to Information in National Frameworks ըthe eventual actions to take if such use comes 
+to light, and how to assess the necessity to 
+maintain the concerned records and make 
+them available for public disclosure as per the 
+prevailing statutes in the country.
+2.1.3.3 An Inclusive PSID  
+Disclosure and Dissemination
+Specific legal provisions should ensure that 
+access strategies to PSID involve all fragile 
+populations, namely the  elderly, racial and ethnic  
+minorities, people with disabilities, rural populations 
+and apply a gender lens. Opportunities should also 
+be provided for   digitally low-skilled or illiterate 
+persons, and those of low socio-economic status. 
+PSID open access and use would empower these 
+disadvantaged populations to exercise their rights 
+and to hold governments to account. 
+In this objective, public Information must especially 
+be accessible to women in developing countries, 
+particularly in rural areas, where a large percentage 
+doesn’t even have basic smartphones to access 
+the Internet. PSID must also be produced and 
+disseminated in appropriate formats, meeting, 
+among others, the special needs of people with 
+physical disabilities. 
+Furthermore, all forms of linguistic segregation 
+should be avoided in providing access to public 
+information. It is necessary to legally allow 
+public bodies to use technologies facilitating 
+information access and exploitation, especially  ըtraditional analogue media as paper, radio, 
+public announcements, local community 
+centers, libraries, etc., 
+ ըcountry’s significant traditional modes of 
+communication, or 
+ ըdigital devices and technologies for the 
+storage, processing and/or exchange of 
+public information in structured or semi-
+structured formats, using online and offline 
+modes, via social networks, voice messages, 
+or SMS, or through formal or private emails.  
+Concurrently, it is very important to provide information 
+on the internet and in a digital format, but without 
+keeping this access restricted to electronic formats, as 
+a very vast majority of people in developing countries 
+are not connected yet. In this perspective, a change to 
+electronic dissemination, particularly as the sole mean of 
+disseminating the information product, should not impose 
+undue acquisition or training costs on users.
+Finally, using personal email for public purposes would 
+deprive RTI laws of its essential content. Therefore, specific 
+articles of law should be drafted to address issues related 
+to: 
+ ըthe use of private communication services 
+(private email, instant messages apps, social 
+networks, etc.) for conducting government 
+business, thus circumventing public scrutiny 
+and disclosure; and 28
+Development and Promotion of the Right to Information in National Frameworks2.1.4. Supporting PSID  
+Requests and Appeals 
+2.1.4.1. Supporting  
+Citizens’ Requests 
+All public bodies should have a responsibility in 
+providing PSID to the public that must be consistent 
+with their legislative and regulatory missions. They 
+should fulfil this responsibility primarily by providing 
+a clear classification of governmental information to 
+disseminate, even if no categorization system can be 
+perfect. All governmental bodies should also provide 
+information describing their organization, activities, 
+programs, meetings, systems of records, and other 
+information holdings, and how the public may obtain 
+access to their information resources.
+Secondly, public authority that has been requested to give 
+access to an item of information should not control the 
+particular interest the requestor has in accessing it. Thus, 
+people should not be asked to prove why they need the 
+information, or to give reasons for accessing or seeking 
+information. This is particularly relevant in cases where 
+citizens face complex or heavy administrative processes.
+Moreover, if the information is not directly accessible 
+through a digital means, the public authority allowing 
+or denying access should be required to take its decision 
+in a specified period, and the reasons for denying access 
+should be sufficiently detailed, so that the requestor can 
+determine the basis for an appeal of the decision.innovative Machine Translation tools and online 
+dictionaries. Such tools can contribute to linguistic 
+integration, and make all languages usable for the  
+production and consumption of both local and 
+national public information.
+Finally, improperly restrictive practices such as 
+avoiding the dissemination and use of public 
+information should be prevented, in compliance with 
+the legal statutory in place, particularly practices 
+to establish or permit others to establish on the 
+government behalf:
+ ըexclusive, restricted, or other distribution 
+arrangements that hinder the availability of PSID 
+dissemination products on a timely and equitable 
+basis.
+ ըrestrictions or regulations, including the charging 
+of fees or royalties, on the reuse, resale, or re-
+dissemination of public information products by 
+the public.
+ ըcharges for information dissemination products at a 
+level higher than what is sufficient to recover the cost of  
+dissemination (i.e. the marginal cost of fulfilling a user 
+request). 
+ 
+ 
+ 
+ 29
+Development and Promotion of the Right to Information in National Frameworks2.2. Right Balance to Unlock  
+Public Sector Information  
+and Data Potential 
+2.2.1. Balancing Access  
+to Information and Privacy
+There may be interests that justify the withholding of 
+certain governmental information, such as protecting 
+individuals’ privacy, safeguarding a country’s intelligence 
+and national security secrets, avoiding prejudicing a 
+criminal investigation, and/or protecting a commercial 
+confidence or private proprietary information. It should be 
+noted that:
+ ըProvisions that restrict access to protected 
+information are frequently enforced by the 
+use of criminal penalties. 
+ ըThere is a strong connection between the right to 
+access to information and the right to privacy52. 
+They should be considered as complementary 
+rights53, but also as conflicting ones54,55.
+ 
+ 
+ 
+ 
+52 UDHR, art 12; ICCPR, art 17; International Convention on the Protection 
+of the Rights of All Migrant Workers and Members of Their Families 1990, 
+art 14; Convention on the Rights of the Child (CRC), art 16; American 
+Convention of Human Rights (ACHR), art 11.2, European Convention 
+on Human Rights (ECHR), art 8; African Charter on Human and Peoples’ 
+Rights; Arab Charter on Human Rights arts 16 and 8.
+53 UNESCO “Guidelines for Judicial Actors on Privacy and Data Protection” 
+UNESCO, 2022.
+54 Ayoubi L. “Mapping the Evolving Interface of Access to Information and 
+Privacy: Issue Brief” UNESCO 2021
+55 The case of public interest is very expressive at this level. Indeed, on the 
+one hand, public interest can prevent the disclosure of information when 
+doing so would be against this interest. On the other hand, public interest 
+can override other grounds for refusal of an access to information request, 
+for instance on the basis of protection of privacy.Finally, appropriate assessment instruments should be set-
+up to measure progress made in the fulfilment by the state 
+of its duty to guarantee PSID access, mainly to which level: 
+ ը The public is entitled to request access to PSID; 
+ ը governmental bodies respond to such requests 
+in a timely fashion; and 
+ ը PSID is put into the public domain proactively.
+2.1.4.2. Supporting Citizens’ Appeals 
+Appeals normally involve requests to reconsider 
+failures by duty-bearers to provide information.  
+Ideally, an independent and impartial review body, that 
+can be also an independent information commissioner or 
+ombudsman50 needs to be established in order to handle 
+appeals of decisions denying access to the information. 
+The process by which this body powers are asked to 
+intervene has to be clearly stated and must be performed  
+on a reasonably expeditious basis and be 
+sufficiently transparent. 
+Ombudsmen are usually invested of weaker investigation 
+powers, but they have the advantage of setting-up less 
+conflictual relations between the public body and the PSID 
+requester, relying more on resolution through persuasion 
+and dialogue, potentially leading to greater compliance51. 
+Finally, it is to Governments to define whether decisions 
+and/or recommendations emitted by these bridged powers 
+are binding or not. Governments have also to establish 
+adequate mechanisms for a final review of access denials. 
+Appeals to a court should normally be a last resort once 
+institutional appeal processes are exhausted.
+50 Operational at the federal level in Canada, Hungary, Sweden, 
+Australia, Spain and New Zealand. Udombana, N. J., & Quadri, K. M. 
+(2020). Institutional Framework on the Right to Information in Selected 
+Jurisdictions. Beijing Law Review, 11, 244-261. https://doi.org/10.4236/
+blr.2020.111017 
+51 Udombana, N. J., & Quadri, K. M. (2020). Institutional Framework on the 
+Right to Information in Selected Jurisdictions. Beijing Law Review, 11, 244-
+261. https://doi.org/10.4236/blr.2020.111017 2.230
+Development and Promotion of the Right to Information in National Frameworks2.2.2. PSID Proactive Release Policies 
+The proactive disclosure consists in making information 
+public at the initiative of the public body, without a request 
+being filed. It results in proactive transparency confirming 
+the public’s right to be informed, but also the government’s 
+will to inform the public of laws and decisions57. 
+In this perspective, Governments should lead rigorous, 
+objective, and balanced analysis, to assess if there is a 
+potential harm or risk, on the state, on the state, society or 
+particular persons, in proactively disclosing or at least on-
+request releasing, a specific set of PSID. Such assessment 
+should be “harm test” oriented, and generally comprising 
+the following three phases58, that check: 
+I whether there is a foreseeable harm to the 
+government, society or particular citizens, legal 
+persons or other organizations in proactively 
+disclosing or at least on-request releasing the 
+information; and then 
+II if there may be such a harm, whether it 
+can be clearly articulated and supported 
+by] facts — not just speculation or general  
+fears; and finally
+III if parts (I) and (II)  are met, whether there nonetheless 
+is an overriding benefit to society, or “public-good 
+test”, as a whole, in the targeted information proactive 
+disclosure, or at least its “on-request” release. 
+ 
+ 
+57 Darbishire H. “Proactive Transparency: The future of the right to 
+information?” World Bank. Access to Information Program. Governance 
+Working paper series. 2010
+58 Pearlman M.W. “Proactive Disclosure of Government Information. 
+Principles and Practice” . Copyright © 2017-2022 National Freedom of 
+Information Coalition.   https://www.nfoic.org/proactive-disclosure-of-
+government-information/ The case of public interest is very expressive at this level. 
+Indeed, on the one hand, public interest can prevent the 
+disclosure of information when doing so would be against 
+this interest. On the other hand, public interest can override 
+other grounds for refusal of an access to information 
+request, for instance on the basis of protection of privacy.
+To address efficiently such contradictory situations, 
+exceptions to the principle of availability should be 
+carefully balanced, and public information withholding 
+mitigated, whenever it is necessary and legally possible. 
+Thus, while some exceptions preventing citizens from 
+accessing public information are mandatory by law, due 
+to the level of confidentiality of the targeted information, 
+other discretionary exemptions to disclosure should 
+be specifically justified and interpreted as narrowly as 
+possible in order to avoid adding unnecessary secrecy over 
+governmental information. 
+Moreover, any classification regime, based on legal 
+procedures and principles, especially when it comes 
+to national security restrictions, must also include a 
+declassification schedule that establishes a timetable for 
+placing previously restricted information in the public 
+domain.
+Therefore, if a government has already adopted personal 
+data protection legislation, this legislation and the RTI 
+law should be mutually consistent, with the possibility, if 
+any inconsistencies are identified, to ensure an overriding 
+option of the RTI law over the other laws and policies.
+On another hand, the use of Data sanitization 
+techniques, such as data anonymization56, should  
+be recommended in order to enlarge the scope of PSID 
+access for a maximum public information disclosure 
+without violating any laws or decrees requiring data 
+privacy.
+56 IIAP definition: “Anonymization: The process in which individually 
+identifiable data is altered in such a way that it no longer can be related 
+back to a given individual” . https://iapp.org/resources/glossary/#abstract 31
+Development and Promotion of the Right to Information in National Frameworks2.2.4. Transparency of Information Request 
+Processing Algorithms  
+Focus is increasingly put on the transparency of 
+algorithms incorporated into public systems, and used to 
+make decisions, in vital domains as transport, health and 
+policing62. The rationale for such trends is that algorithms 
+become more and more autonomous and invisible, able to 
+introduce inadvertent biases, favor a political orientation 
+or reinforce undesirable practices63. 
+Therefore, in order to anchor and consolidate values of 
+impartiality, and accountability when it comes to disclose and 
+disseminate PSID, governments should implement legal and 
+technical measures to ensure the transparency of algorithms 
+used to process information requests. Such measures are 
+related to the setting-up of relevant mechanisms, practices, 
+and instruments, guaranteeing timely responses to critical 
+questions concerning these algorithms: how were they 
+developed, or acquired, by whom, and for what purpose/s? 
+How do they actually work (logic to proceed and data to 
+train)?
+Government should also take adequate measures 
+to ensure a full recognition of these algorithms, 
+and particularly through the accessibility to  
+their proprietary code or training data, that can 
+be potentially prevented by Intellectual property 
+rights. Tools and models such UNESCO Digital 
+Transformation & AI Competency Framework  
+(See Box.2. below), should be leveraged in  
+this perspective.
+these sites provide free access to all of Australia’s census data, official 
+geoscientific information and knowledge, and other miscellaneous 
+government data.
+62 Fink, K. “Opening the government’s black boxes: freedom of information 
+and algorithmic accountability. ” Information Communication and Society, 
+v. 21, n. 10, p. 1453-1471, 2018.
+63 Janssen M., KUK G. “The challenges and limits of big data algorithms in 
+technocratic governance” . Government Information Quarterly, v. 33, n. 3, 
+p. 371-377, 2016.Governments should also establish effective 
+mechanisms for individuals and groups enabling 
+them to request information that have not been 
+proactively disclosed, and in case there is a relatively 
+large number of individuals requesting a specific 
+information, have it proactively disclosed.  
+2.2.3. Respecting Intellectual  
+Property Protection 
+The application of any obligation induced by PSID 
+disclosure, is dependent of its compliance to international 
+arrangements and treaties on intellectual property rights 
+protection59. Thus, it should neither affect the existence or 
+ownership of intellectual property rights, nor limit in any 
+way their exercise. However, public bodies have the duty 
+to: 
+ ը exercise their copyright and intellectual property 
+rights related to the management of data and 
+information, in a way that facilitates re-use and 
+interoperability;
+ ը provide potential beneficiaries (groups and 
+individuals) with all necessary indications, giving 
+them more certainty about their rights and 
+responsibilities, when accessing to PSID. 
+In this sense, it should be noted that Creative Commons60 
+(CC) can give all public bodies a standardized way to grant 
+the public permission to use their PSID, under copyright 
+law. Once granted and applied, these licenses can hugely 
+promote citizen engagement, stimulate economic growth  
+and increase the transparency of government resources 
+and services61.
+59 Among others: the WIPO Copyright Treaty (WCT), the Agreement on 
+Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement), 
+and the Berne Convention for the Protection of Literary and Artistic Works 
+(Berne Convention).
+60 Creative Commons licenses give everyone from individual creators to 
+large institutions a standardized way to grant the public permission to use 
+their creative work under copyright law. https://creativecommons.org/
+about/cclicenses/
+61 Three of the largest sources of Australian government data sets—
+the  Australian Bureau of Statistics,  Geoscience Australia  and  data.gov.
+au—are available by default under a  CC Attribution license. Together 32
+Development and Promotion of the Right to Information in National FrameworksBox 2. Digital Transformation &  AI Competency Framework64 
+UNESCO has developed a “Digital Transformation & AI Competency Framework” that identifies  
+three core competency areas for civil servants for digital governance and transformation:
+2. Data use and governance  
+combination of skills and attitudes  
+allowing civil servants to understand  
+the fundamental role and value of 
+data and its inherent risks but also the 
+ability to use, analyse and share it taking 
+into consideration ethical, privacy and  
+security concerns. This category of 
+competencies is fundamental for civil 
+servants to be able to address today’s 
+challenges and meet citizens’ growing 
+expectations while at the same time use 
+data effectively and responsibly.1. Digital Planning and Design  
+combination of skills and attitudes allowing 
+civil servants to understand the complexity 
+of today’s problems, anticipate unexpected 
+events and recognize strategic opportunities 
+to use digital solutions to develop strategies 
+and vision. This category of competencies 
+also includes the understanding of 
+digital leadership and the ability to lay 
+the foundations for digital teams to work 
+effectively;3. Management and Execution for 
+Digital  combination of skills and attitudes 
+allowing civil servants to understand 
+new and innovative practices on project 
+management and collaboration. This 
+involves the ability to apply a new set of 
+working methods, approaches, and tools 
+to use data and technology to address 
+complex problems and to engage citizens 
+by fostering new modalities for civic 
+participation.
+64 The Competency Framework was developed through a multi-stakeholder leadership model, that assessed human capacity needs for 
+digital transformation in the public sector, paying particular attention to the Global South perspective. This process included 4 regional 
+consultations in Southeast Asia, Africa, Latin America and the Caribbean. Complemented by a series of interviews with regional policymakers 
+and the collection and assessment of good practices globally, the Working Group launched a “Digital Transformation & AI Competency 
+Framework” for public sector duty bearers on 18 September 2022 at a side event of the 77th Session of the UN General Assembly (UNGA 77).
+32In this context, an oversight body is needed to ensure 
+consistency and harmonization between legal instruments, 
+heterogenous technical components, different 
+administration processes and public services. This structure 
+is mandatory to guarantee the adequate governance to 
+such transverse initiatives involving multiple departments. 
+In this regard, UNESCO’s survey on SDG indicator 
+16.10.265 confirms oversight and appeal bodies as 
+essential components of Access to Information laws  
+ 
+ 
+ 
+ 
+65 UNESCO “Access to Information: A New Promise for Sustainable 
+Development” UNESCO, 2019, Paris.2.3. Institutional Capacities to Oversee 
+Access to Information 
+2.3.1. Oversight and Appeals Bodies 
+2.3.1.1. Why an Oversight body?
+PSID access and dissemination process are expected to 
+be enhanced, but also disrupted, by legislations changes, 
+citizens’ needs, the public administrations organization, 
+and the rapid evolution of technologies. Moreover, public 
+bodies function often independently from each other. They 
+manage their own data and processes, and consequently 
+often have different predispositions to collaborate to make 
+their informational assets available.2.3
+33
+Development and Promotion of the Right to Information in National Frameworksresolutions, and recommendations for appropriate 
+sanctions when noncompliance is proved. Indeed, 
+delays and cost, added to a deficiency of trust in 
+legal capacity and administrative procedures, may 
+lead to a reject to pursue appeals through the courts. 
+Therefore, the existence of such enforcement body 
+can open another possibility of appeal outside the 
+public administration or the courts. Its main objective 
+consists in resolving disputes between public 
+administration holding PSID and requesters for 
+official decision review or for a decision to be made.  
+ ը Auditing missions, responding to the recurrent 
+needs of periodic independent controls and 
+compliance reviews of the access to public 
+information policies and laws and their 
+effective implementation. Thus, the oversight 
+body should be able to conduct impartial and 
+objective diagnostic on information regimes, to 
+detect challenges and bottlenecks that induce 
+deep inconsistencies between the prevailing 
+information management practices and the 
+information access laws.
+2.3.1.3. Oversight Models 
+It is important to consider the most effective 
+placement of the oversight body in terms of where 
+real authority rests in the country context. Thus, the 
+oversight body can be:  
+ ըtook in charge by an independent body that 
+eventually performs other functions, such 
+an Ombudsman or Mediator, an Information 
+Commissioner, or a dedicated commission  
+or institution;68
+ 
+ 
+ 
+68 OECD “Chapter1. Oversight bodies for access to information” . https://
+www.oecd-ilibrary.org/sites/66afaf07-en/index.html?itemId=/content/
+component/66afaf07-enenforcement, due to their statutes as specialized focused 
+entities. This report highlights also oversight body’s 
+important role in leading proactive disclosure practices, 
+and balancing access to information and privacy human 
+rights66.
+2.3.1.2. Missions
+The targeted oversight body should be in charge of:
+ ը Steering tasks including management of nationwide 
+implementation of any framework or initiative aiming 
+at disclosing and disseminating PSID, as well as all 
+arrangements of related policies at the national 
+and local levels. Referred to as an integrating and 
+coordinating authority, this body has to support public 
+agencies in setting up appropriate organizational 
+structures and administrative procedures that  
+facilitate compliance with RTI law, and 
+obligations induced by PSID dissemination. 
+To achieve the objectives the oversight body 
+should preferably be: 
+- Based on strong legal foundations 
+that are necessary for existence  
+and legitimacy.
+- Placed within a national champion,  
+when it comes to leading RTI implementation, 
+public information disclosure initiatives or 
+reform administration67.
+ ը Application responsibilities that include 
+hearing of appeals, investigation of 
+complaints, issuance of eventual binding  
+ 
+ 
+ 
+ 
+66 UN “The Age of Digital Interdependence. ” Report of the UN Secre -
+tary-General’s High-level Panel on Digital Cooperation, 2018, Page 31. 
+https://www.un.org/en/pdfs/DigitalCooperation-report-for%20web.pdf
+67 In several countries with the highest RTI scores, the nodal responsibility 
+rests with an agency responsible for public administration. Lemieux 
+V. L. and Trapnell S. E. “Public Access to Information for Development A 
+Guide to the Effective Implementation of Right to Information Laws” . 2016 
+International Bank for Reconstruction and Development/The World Bank.34
+Development and Promotion of the Right to Information in National Frameworks ըOversight body capacities’ strengthening:  
+It is important to guarantee the necessary powers 
+and capabilities to the oversight body, in order 
+to ensure that citizens have access to public 
+information in a proper timeframe, and that no one 
+is left behind. Therefore, and regardless of the 
+institutional arrangements, the oversight body 
+should be given adequate financial resources, 
+and detain sufficient authority within government, 
+so that it can fully play its key role while 
+maintaining its independence and impartiality. 
+ ըPublic Agencies involvement: The oversight body should 
+be backed by a network of nodal structures (e.g. Chief 
+information officer, mediator) deployed in each major 
+government agency and department, to supervise 
+the implementation of PSID disclosure policy within 
+this public body. While developing and monitoring 
+internal organizational information policies and 
+procedures, each nodal structure will ensure that the 
+information policies, principles, standards, guidelines, 
+rules, and regulations prescribed by the overarching 
+national policy are implemented appropriately. 
+ ըLocal public bodies involvement: The national 
+government should take the lead in organizing access 
+and dissemination of public information at the national 
+level, but the role and importance of contribution and 
+participation of sub-national or local public authorities 
+must not be underestimated in this field. Decisions made 
+by institutions at the local level, in the nearest surroundings 
+of citizens, have a tangible impact on their daily life.  
+  ըcentralized within a public body such as the 
+justice ministry, the department responsible 
+for public administration, or a public agency 
+or commission responsible of Data Protection 
+and Privacy, or in charge of human rights; or
+ ըdecentralized across two or more agencies or 
+governmental departments.
+There are also opportunities for external actors to reinforce 
+the importance of monitoring and capabilities. It is the case 
+of:
+ ըRegional instruments69, by functioning as legal 
+watchdogs, providing targeted guidance to 
+countries about strengths and weaknesses in 
+their RTI systems, and encouraging governments 
+to adopt specific practices to improve the RTI 
+implementation process
+ ըCSOs70, by engaging in monitoring of 
+implementation processes at the local level to 
+encourage governments to better understand 
+how RTI is functioning in practice, sometimes by 
+conducting compliance testing on the rates and 
+quality of information request processing .
+Finally, three guidelines are essential to set-up a 
+comprehensive and effective oversight body:
+69 Among others: The African Commission on Human and Peoples’ Rights; 
+The Office of the Special Rapporteur for Freedom of Expression, under 
+the Inter-American Commission on Human Rights; The Inter-American 
+Court of Human Rights; The European Court of Human Rights; The ASEAN 
+Intergovernmental Commission on Human Rights.
+70 e.g. Local organizations such as the Africa Freedom of Information 
+Centre have contributed in shadow reporting to put pressure on states.35
+Development and Promotion of the Right to Information in National Frameworks2.3.2.2. Capacity Building
+Effective PSID disclosure and dissemination, needs a real 
+awareness from public administrations and civil society on 
+the importance of these data release, a solid knowledge 
+and capabilities on how to implement the related legal 
+frameworks, particularly when it comes to ensure the 
+necessary balance between RTI laws and privacy, and 
+technical skills that are essential to leverage disclosed data 
+sets to create innovative products and services . 
+Thus, to ensure that public sector bodies are ready 
+to disclose their data, they should:
+ ըEngage a compulsory training about RTI laws and in 
+particular PSID dissemination, to enable the personnel 
+in charge of releasing public information, as well as 
+civil society actors, attaining a high level of judicial and 
+technical abilities necessary to disclose information in 
+response to public requests.
+ ըIncorporate PSID dissemination dedicated 
+training into local or central public bodies 
+education programs, as a major mean  
+to comply with legal obligations for  
+information disclosure.
+ ըOrganize trainings for the institutions with 
+the most demanded data sets (including local 
+administrations) to improve their knowledge about 
+PSID, Open Data and their benefits71.
+ ըPlan and perform awareness campaigns 
+on the importance of PSID disclosure and 
+dissemination, the related legal framework 
+and existing procedures, such how to  
+identify required PSID, and to make  
+requests, or go to appeal.
+71 Lithuanian National Audit Office “Whether Disclosure of the Public 
+Sector Data is Ensured” . Executive summary of the public audit report. 29 
+November 2016, No. VA-P-900-1-252.3.2.   Capacity building and Reinforcement
+Legal frameworks are necessary but should not be 
+considered as sufficient conditions for accessing 
+information. The institutional framework needs to 
+be conducive, the ecosystem supportive, and the 
+stakeholders engaged in all steps of the process. 
+Both the demand and the supply sides need to be 
+considered. Therefore, it is essential to reinforce 
+institutional capacities that are referring to practices’ 
+formalization, capacity building and Financial 
+Resources, which are necessary for an effective 
+implementation of a PSID dissemination process.
+2.3.2.1. Practices Definition  
+and Implementation
+RTI system backbone is formed by practices 
+related to information request processing, records 
+management, and proactive disclosure. Any 
+discretionary applications for these practices should 
+be prevented, mainly through their definition and 
+elaboration, as internal procedures, directives 
+and organizational arrangements, based on RTI 
+laws’ obligations, and particularly on targeted PSID 
+disclosure and dissemination policy. 
+These formalized practices should be implemented 
+and generalized to all public bodies, thus ensuring 
+will ensure the regulatory compliance of the 
+basic functions of collecting, managing and  
+communicating public information, from RTI law  
+and PSID access perspectives.2.436
+Development and Promotion of the Right to Information in National Frameworksalready looking into monetizing data from connected 
+assets as a way to supplement revenue from taxes75.
+2.4. PSID Resources  
+Management 
+The success of any implementation framework for PSID 
+disclosure is based on how public information assets 
+are assessed, managed, and exploited to meet the 
+needs and interests of users both internal and external 
+to government. Achieving this objective requires the 
+integration of strong principles to manage data velocity 
+and complexity, a professional planning of information 
+resource management, a proactive management of IT 
+Impact on PSID Dissemination, and the reinforcement of 
+trust-building practices.
+2.4.1. Integrating FAIR Data Principles
+PSID sharing can promote transparency, encourage 
+collaboration and participation, and drive better decision-
+making, especially in response to emergencies such 
+as outbreaks of infectious diseases or disaster crisis. 
+Nevertheless, the continuously growing amount of data, 
+added to the will to exploit it in the best possible way, 
+induce several other issues to tackle, mostly related to 
+the data governance, reuse, aggregation, combination 
+and exchange across different sectors. In this perspective, 
+and to deal more efficiently with data increase in volume, 
+complexity, and creation speed of data, governments 
+will surely benefit from adopting and applying well-
+established guidelines, such as FAIR (Findable, Accessible, 
+Interoperable, Reusable) Data Principles (See Box.3. below).
+ 
+75 The North Texas Innovation Alliance is researching how member cities 
+and counties can monetize data to boost revenue. Source : GCN “Can cities 
+monetize their data?”  November 10, 2021 https://gcn.com/data-analyt -
+ics/2021/11/can-cities-monetize-their-data/316288/ 2.3.2.3. Financial Resources
+Effective functioning of RTI systems, and consequently PSID 
+disclosure policies, require sustainable financial resources 
+to identify, process, classify and disseminate requested 
+public domain information. Indeed, any breakdown in 
+the supply of adequate resources dedicated to public 
+information circulation, especially in agencies that receive 
+large volumes of requests, can rapidly harm both social 
+engagement and economic growth. 
+Therefore, governments should establish an institutional 
+incentive system to:
+ ը encourage public bodies to assign greater priority for 
+RTI and PSID disclosure funding within the existing 
+budget. This approach calls for the inclusion of RTI in 
+regular, strategic decision making and an institutional 
+incentive system to encourage public bodies to do so72.
+ ը determine an annual budget for implementing   all 
+the priority elements necessary to PSID disclosure 
+and dissemination management, and allocate it as 
+appropriate.
+ ը Elaborate and achieve innovative monetization73,74 
+strategies specific to public domain information, 
+with the aim to drain direct or indirect monetary 
+benefits in terms of new products, services and/
+or processes improvements, in both public 
+and private sectors. In this vein, some cities are  
+ 
+ 
+ 
+72 Lemieux V. L. and Trapnell S. E. “Public Access to Information for 
+Development A Guide to the Effective Implementation of Right to 
+Information Laws” . 2016 International Bank for Reconstruction and 
+Development/The World Bank.
+73 Gartner “Data Monetization refers to the process of using data to ob -
+tain quantifiable economic benefit. ” https://www.gartner.com/en/infor -
+mation-technology/glossary/data-monetization 
+74 McKinsey “Fueling growth through data monetization. ” December 1, 
+2017 https://www.mckinsey.com/business-functions/quantumblack/our-
+insights/fueling-growth-through-data-monetization 2.437
+Development and Promotion of the Right to Information in National Frameworks ը to anchor the “open by design and by 
+default”78 paradigm, as a foundational 
+principle for the creation of all digital assets  
+of Government information to disseminate, in full 
+compliance with legal exemptions and public data 
+withholding necessary for the protection of public 
+interest objectives, public security, privacy and personal 
+data.
+78 Article 16 of the new EU directive explicitly encourages EU Member 
+States to “promote the creation of data based on the principles of ‘open 
+by design and by default” . Directive (EU) 2019/1024 of the European Par -
+liament and of the Council of 20 June 2019 on open data and the re-use 
+of public sector information. https://eur-lex.europa.eu/legal-content/EN/
+TXT/PDF/?uri=CELEX:32019L1024&rid=1 Adopting FAIR Data Principles can help public  
+bodies to promote PSID digital assets reuse and 
+interoperable exchange, and to facilitate their discovery, 
+and consequently increase the opportunities of possible 
+data requests and disclosure. These principles provide also 
+a real data management framework for PSID assets.
+In this perspective, specific organizational 
+arrangements and technological choices should  
+be considered by any governments, to fully 
+leverage FAIR principles, and to meet opportunities,  
+offered by the re-use of public data, mainly:Box.3. FAIR Data Principles76
+FAIR Data Principles were published in 2016 as an integral part of the work within open science. They describe some of the most 
+central guidelines for good data management and open access to research data, by mainly improving its machine-actionability, 
+i.e., the capacity of data to be:
+76  Wilkinson M.D. & al. “The FAIR Guiding Principles for scientific data management and stewardship” Scientific Data. 15 March 2016. https://www.nature.com/
+articles/sdata201618
+77  Metadata are structured information about the collected data material. This information describes the material on various levels, for 
+example where and by whom it was created; on which occasions and with which methods the data were collected; what a variable  means 
+and which values it can take. https://snd.gu.se/en/manage-data/prepare-and-share/FAIR-data-principlesfindable,  by being described with 
+thorough relevant, and sufficiently detailed 
+metadata77, and given a unique and persistent 
+identifier which makes it easier to cite the data 
+correctly
+accessible,  in other terms understandable to 
+both humans and machines, and stored in a 
+trusted repository. In case of sensitive personal 
+data, a confidentiality assessment needs to be made before the material release. 
+interoperable,  by using a formal, accessible, 
+shared, and broadly applicable language and 
+accepted standards for knowledge (data and 
+metadata) representation. 
+reusable,  by describing data with sufficient and 
+relevant metadata, that both data and metadata 
+can be replicated and/or combined in different 
+settings, with a clear usage license and accessible 
+data usage license38
+Development and Promotion of the Right to Information in National FrameworksPSID and to favorize its reuse and appropriation by all 
+stakeholders. GCIF should focus on standardization 
+at different levels (such as metadata schemata, data 
+representation formats and licensing conditions of 
+open data)81, as an essential lever to enable broad 
+disclosed PSID integration and interoperability.
+2.4.2. Records Management and Planning 
+Information Resource Management is a broad term in IT 
+that refers to the management of records or information 
+or data sets as a resource. It involves data identification as 
+an  asset, its categorization, and ensures various types of 
+information system active management. 
+When it comes to RTI, adopting legislation mostly 
+presupposes that the records are well managed. 
+Indeed, effective records management enables 
+authorities to enforce wider government agenda 
+to increase openness, transparency, trust and 
+accountability in the public sector. To achieve these 
+objectives, disclosed PSID needs to be accurate, 
+complete, timely, ready for retention, relevant, 
+credible, and easily accessible.
+81 The European Commission & The  European Multi-Stakeholder 
+Platform “Rolling Plan provides an overview of the needs for ICT 
+standardization” 2022. https://joinup.ec.europa.eu/collection/rolling-
+plan-ict-standardisation/public-sector-information-open-data-and-big-
+data-rp2020n  ը A greater and specific focus should be put on 
+promoting Open Access79, as an effective approach to 
+increase visibility, usage and impact for research work, 
+and to enhance the knowledge flow, around the world 
+by using digital collaborative tools.
+ ը to implement an “on-the-demand side” oriented 
+approach to facilitate discoverability and availability 
+of PSID records as well as of their associated 
+metadata, through the application of the adequate 
+granularity level that is required for easier reuse 
+and interoperability. It should be necessary, in this 
+perspective, to appropriately leverage all dissemination 
+channels in government at all levels: libraries, private-
+sector entities, and digital media (National one-
+stop-shop, Institutional websites, Mobile, Social  
+Network, etc.) in the easiest and most  
+cost-effective manner. 
+ ը to ensure immediate availability of dynamic 
+data80 after collection and/or modification 
+of the dataset, via specific well-documented 
+software components and interfaces, such  
+as Application Programming Interface (API), that 
+enable users and beneficiaries to reuse such data to 
+develop new digital services. 
+ ը To develop, adopt and/or maintain the Government 
+Common Interoperability Framework (GCIF) as 
+a reference framework for public bodies, listing 
+compliance rules for the use of norms, standards or 
+references, to develop public information systems, 
+in particular to share heterogeneous and sectorial 
+79 IFLA“IFLA Statement on open access – clarifying IFLA’s position and 
+strategy” . International Federation of Library Associations and Institutions. 
+Endorsed by IFLA Governing Board, 18 April 2011 https://cdn.ifla.org/
+wp-content/uploads/files/assets/hq/news/documents/ifla-statement-on-
+open-access.pdf 
+80 Documents in a digital form, subject to frequent or real-time updates, in 
+particular because of their volatility or rapid obsolescence (https://www.
+lawinsider.com/dictionary/dynamic-data). Traffic, weather, environmental, 
+climate, satellite and field sensor generated data, are typically considered 
+as dynamic data39
+Development and Promotion of the Right to Information in National FrameworksTherefore, governments should put in place  
+effective national and institutional frameworks including 
+adequate capacity to manage technical activities of 
+recording, preserving, and making accessible PSID 
+resources.
+In this objective, governments should be backed by a 
+flexible action plan, based on an integrated life-cycle 
+approach in monitoring disclosed PSID resources, 
+from the planning stage, to production, organization, 
+dissemination, use, preservation and, in appropriate 
+circumstances, purging. Records management and 
+archival functions should also be incorporated in the 
+design, development, and implementation of public 
+information systems.
+On another hand, governments, but also IT and 
+archival professionals, as well as international  
+and donor agencies, should cooperate and provide 
+full support to efforts of national and archival 
+institutions to better manage official records 
+irrespective of media. 
+Governments should also establish, adopt and/or 
+develop standards and guidelines defining functional 
+requirements for digital records management, 
+that are mandatory to ensure their integrity and 
+trustworthiness. Compliance with such standards 
+will permit to governments to demonstrate proof  
+of the authenticity and reliability of their  
+information and data records, when required to  
+do so in relation to RTI laws, arbitration of disputes 
+or legal proceedings.2.4.3. Measures to Build Trust in  
+Public Sector Information and Data
+Cybersecurity Imperative
+An unprecedented open release of public information 
+is nowadays coupled to a high-volume exchange 
+of extremely sensitive and/or personal data across 
+government agencies and citizens. At the same time, 
+digital phenomena such as cloud computing, mobility, 
+social media, big data, and artificial intelligence give 
+rise to several complex security challenges as well as 
+countless concerns for citizen privacy82, with potential 
+threats ranging from hacking or misinformation and 
+disinformation to cyber-terrorism.
+Therefore, it is important to elaborate and apply an adequate 
+legal framework and implement appropriate safeguards, to 
+ensure the long-term preservation of the public domain 
+information to disseminate, but also and mostly to 
+manage risks and vulnerabilities related to digital security, 
+confidentiality and privacy issues that are induced by 
+architecting for openness and adopting new technologies. 
+Specific certifications of security management system, as 
+ISO/IEC 2700183, are also strongly recommended.
+82 B. Bounabat “From e-government to digital Government” Invited paper. 
+Electronic Journal of Information Technology (eTI) Issue 10. Copyright (c) 
+2017
+83 ISO/IEC 27001. «  INFORMATION SECURITY MANAGEMENT » . https://
+www.iso.org/isoiec-27001-information-security.html 40
+Development and Promotion of the Right to Information in National FrameworksTraceability and Accountability
+Governments should reinforce traceability practices  
+as an essential component of PSID disclosure 
+development and promotion. Indeed, traceability 
+permits the gathering of trustful data for forecasting 
+citizens’ PSID requests, following their related 
+processing workflows, and quickly identifying and 
+resolving the root causes of possible issue. Without 
+adequate and reliable records of requests and/or 
+appeals received and how they are processed, it 
+would be difficult to measure, and report progress on 
+access to information. In this perspective, a special 
+attention should be given to: 
+ ը record-keeping as part of PSID requests 
+management system, that plays an important  
+role in fostering accountability and good governance; 
+and
+ ը reporting as an essential tool for traceability 
+and accountability, as well as for gathering 
+evidence and data in mapping any gaps 
+and needs as a precondition for performing  
+targeted improvements.
+2.4.4. Information System  
+Governance in a PSID Context  
+IT governance is defined as the set of processes that ensure 
+the effective and efficient use of IT in enabling an organization 
+to achieve its goals84. It aims also at deriving improved 
+value from investment in information and technology by 
+ensuring its alignment with overall strategic objectives, 
+and helping to manage IT risks effectively. Public bodies are 
+increasingly setting-up their IT governance programs, which 
+84 https://www.gartner.com/en/information-technology/glossary/it-go -
+vernanceare often based on frameworks created by industry experts 
+and used by thousands of organizations, such as  Control 
+Objectives for Information and Related Technology85 
+(COBIT) focusing on process management and Information 
+Technology Infrastructure Library86  (ITIL)  focusing on 
+service management, including implementation guides  
+with fewer speedbumps.
+While implementing their IT governance programs, 
+public bodies should integrate PSID development and 
+dissemination dimension, as a major strategic “business 
+objective” to consider in the earlier phase of any IT 
+development action plan. This will permit to governmental 
+Information Systems not only to deal adequately with 
+confidentiality issues, financial accountability requirements, 
+data retention and disaster recovery, but also to ensure 
+the strategic alignment of IT infrastructure with the aim 
+of guaranteeing access to public sector information, and 
+more generally implementing RTI efficiently.
+85 COBIT: https://www.isaca.org/resources/cobit 
+86 ITIL: https://www.itgovernance.co.uk/itil 41
+Development and Promotion of the Right to Information in National Frameworks8Encourage and support PSID Proactive 
+Release, mainly by conducting “harm test” based 
+assessment that check if there is a foreseeable clearly 
+proven damage in disclosing a governmental information
+9Exercise copyright and intellectual property 
+rights related to the management of data and 
+information, in a way that facilitates re-use and 
+interoperability
+10Set-up an oversight and appeals body for PSID 
+disclosure, empowered with necessary legitimacy and 
+strong leadership to achieve its missions of steering, hearing 
+of appeals, investigating complaints, issuing eventual 
+binding resolutions, and controls and compliance auditing.
+11Reinforce institutional capacities necessary to 
+conduct PSID disclosure policy, mainly PSID disclosure 
+practices formalization, customized training and awareness 
+campaign about RTI and PSID dissemination, at the benefit 
+of both public and administrations, and establishment of 
+institutional incentive system to drain financial resources, 
+specifically through PSID monetization strategies.
+Implement appropriate practices for PSID Resources 
+governance, integrating the application of FAIR 
+principles to manage data velocity and complexity, 
+efficient records’ management and planning, measures 
+and practices to build trust in released data, and PSID 
+disclosure impact on IT development action plan.1Provide for and /or reinforce RTI as constitutional 
+right, and make sure that it is not and cannot be 
+countermanded by other laws
+2Ensure that access strategies to PSID  
+are inclusive, involving all groups with  most  difficulties 
+to  access to information: the  elderly, racial and ethnic 
+minorities, linguistic minorities, people with disabilities, 
+rural populations, digitally low-skilled or illiterate persons, 
+and those of low socio-economic status. 
+3Consider PSID availability and openness in  
+a broad framework, to all public information and 
+documents collected or produced by public institutions at 
+national level, and local level, through public funds, and/or 
+as part of partnerships with the private sector, NGOs or 
+intergovernmental organizations.
+4Recognize and integrate the legal value and 
+the authenticity of any format holding  
+public information, and of any the medium, as well 
+as all means, ways and media to collect and 
+disseminate PSID. 
+5Set-up appropriate assessment instruments to 
+measure progress made in the fulfilment of the state 
+of its duty to guarantee PSID access.
+6Ensure all necessary support for PSID requests, 
+and define clearly appeal process in case of failures to 
+provide information, principally aspects related to the review 
+bodies and the binding degree of their decisions.
+7Mitigate carefully public information withholding, 
+by ensuring mutual consistency between RTI laws and 
+data privacy legislation, establishing a clear timetable for 
+unlocking restricted information, and leveraging Data 
+sanitization techniques, to enlarge accessible PSID scope.
+Recommendations for 
+Member States3Development and Promotion
+of the Right to Informationin National Frameworks
+Policy Guidelines 

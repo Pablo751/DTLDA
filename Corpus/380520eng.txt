@@ -1,0 +1,2034 @@
+TO RECOVERY 
+AND BEYOND
+2021 UNESCO Report on 
+Public Access to Information 
+(SDG 16.10.2)
+Published in 2022 by the United Nations Educational, Scientific and Cultural Organization 
+7, place de Fontenoy, 75352 Paris 07 SP , France
+© UNESCO 2022 
+ISBN 978-92-3-100504-6
+This publication is available in Open Access under the Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) license (http://
+creativecommons.org/licenses/by-sa/3.0/igo/). By using the content of this publication, the users accept to be bound by the terms 
+of use of the UNESCO Open Access Repository (http://en.unesco.org/open-access/terms-use-ccbysa-en).
+For the use of any material not clearly identified as belonging to UNESCO, prior permission shall be requested from:  
+publication.copyright@unesco.org or UNESCO Publishing, 7, place de Fontenoy, 75352 Paris 07 SP 
+The designations employed and the presentation of material throughout this publication do not imply the expression of any 
+opinion whatsoever on the part of UNESCO concerning the legal status of any country, territory, city or area or of its authorities, or 
+concerning the delimitation of its frontiers or boundaries. 
+The ideas and opinions expressed in this publication are those of the authors; they are not necessarily those of UNESCO and do not 
+commit the Organization. The same disclaimer applies to commissioned UNESCO research cited in this study. 
+This study should be cited as follows: To Recovery and Beyond: UNESCO 2021 Report on Public Access to Information (SDG 16.10.2), Paris.
+UNESCO Research team:  
+Dian Kuswandini and Khalid Aoutail.
+Contributors:  
+Lida Ayoubi (independent researcher); International IDEA (Alberto Fernandez Gibaja and Alexander Hudson); African Freedom of 
+Information Centre. 
+Graphic design, cover design and typeset:  
+Aurélia Mazoyer / UNESCO. Cover illustration is based on the original vector by ©Flash Vector/shutterstock.com
+Acknowledgements
+UNESCO wishes to thank the following partners that supported the UNESCO 2021 Survey on Public Access to Information and in 
+the preparation of this report: the International Conference of Information Commissioners (ICIC); the International Ombudsman 
+Institute (IOI); Red de Transparencia y Acceso a la Informacion (RTA); the African Freedom of Information Centre (AFIC); International 
+IDEA; Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI) Mexico; UNDP and Oslo 
+Governance Centre; African Peer Review Mechanism (APRM) -African Union; Global Alliance for Reporting Progress on Peaceful, 
+Just and Inclusive Societies; Marcos Mendiburu; Maxime Bouquet; Toby Mendel; national SDG focal points for data collection; and 
+Permanent Delegations for UNESCO. Acknowledgements are also due to the UNESCO staff who provided substantial inputs to the 
+preparation of the report, Guy Berger and Jaco du Toit, as well as UNESCO Institute for Statistics. 
+This report is supported by Sweden, Germany and the Netherlands through the International Programme for the Development of 
+Communication (IPDC).
+Printed in FranceSHORT SUMMARY
+“Since wars begin in the minds of men and 
+women it is in the minds of men and women 
+that the defences of peace must be constructed”Building forward stronger  
+with Access to Information
+As countries are trying to emerge from the pandemic, the 
+role of access to information continues to be critical in re-
+building communities and their public institutions. The 
+need for openness, transparency and accountability has 
+never been stronger. The world has witnessed a growing 
+public’s appetite for information that is accurate, timely 
+and reliable. With civic space becoming more reduced 
+during the pandemic, access to information has helped 
+counterbalanced the situation, enabling public participation 
+and civic engagement in response to the crisis. 
+As the UN custodian agency for Sustainable Development 
+Goals (SDG) Indicator 16.10.2, UNESCO continues to 
+report not only on progress on the adoption and 
+the implementation of Access to Information 
+guarantees worldwide, but also promotes 
+efforts around the issue, including 
+reinforcing the strong relevance of access 
+to information to the crisis recovery and 
+the attainment of the SDGs as a whole. 
+This report captures these different 
+dimensions, presenting key findings from 
+the 2021 UNESCO Survey on Public Access to 
+Information, assessing progress in 102 participating 
+countries. The report also provides policy makers, civil 
+society, academia and those interested in SDG issues with 
+different case studies and good practices with a special focus 
+on rebuilding communities and public institutions with 
+access to information.132
+UN Member States 
+have adopted  
+Access to Information  
+legal guarantees*
+*  as of August 2021TO RECOVERY 
+AND BEYOND
+2021 UNESCO Report on 
+Public Access to Information 
+(SDG 16.10.2)CONTENTS
+Executive summary 6
+1.	 Background	and context	 8
+1.1.  Access to Information and Sustainable Development 9
+1.2.  UNESCO and the monitoring and reporting on SDG Indicator 16.10.2 9
+2. Tracking progress on SDG Indicator 16.10.2 in 2021 12
+2.1.  Global overview: Adoption of ATI legal guarantees 13
+2.2.  Reaching the furthest behind first: Inclusion of disability rights in ATI guarantees 14
+2.3.  Highlights from 2021 UNESCO Survey on Public Access to Information  15
+2.3.1.  Respondents and scores: There is a growing interest in reporting progress on ‘Access to Information’ , 
+and countries with dedicated oversight institutions perform better 15
+2.3.2.  Legal frameworks on Access to Information: National regulation systems are increasingly conducive 
+to public access to information 16
+2.3.3.  Limited scope of exemption: Most permissible exemptions are explicitly mentioned in ATI guarantees, 
+but disaggregated data on refusals on this basis is still lacking  16
+2.3.4.  Oversight mechanism: Dedicated ATI oversight institutions are well established in most countries, 
+but not all monitor implementation of ATI guarantees and enforce its compliance 17
+2.3.5.  Appeals mechanism: Record-keeping mechanisms exist in most countries, but much needs to be done 
+to keep the data updated for reporting purposes  20
+3.	 ATI	reporting	in	Voluntary National	Reviews	 22
+4.	 Using	Access	to	Information	to	advance	the	SDGs:	case	studies	and good	practices	 26
+4.1.  SDG 16 interlinkages: the role of Access to Information in COVID-19 recovery  27
+4.2.  Shaping the way political systems work: Access to Information for inclusive, effective 
+and accountable institutions 29
+4.3.  Regional Focus: Commitment versus action in Africa – Implementation is as important as 
+adoption of Access to Information laws 30
+4.4.  National Focus: Promoting proactive transparency during COVID-19 in Mexico 32
+4.5.  National Focus: Access to information by local authorities in Ukraine during  
+the COVID-19 pandemic 33
+Conclusion 35
+5UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  EXECUTIVE  
+SUMMARY
+Goal 16:
+“Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels and 
+inclusive societies.”
+Target 16.10:
+“Ensure public access to information and protect fundamental freedoms, in accordance with 
+national legislation and international agreements.”
+Indicator 16.10.1: 
+“Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, 
+associated media personnel, trade unionists and human rights advocates in the previous 12 months.”
+* OHCHR as Custodian Agency; UNESCO and ILO as Contributing Agencies
+Indicator 16.10.2: 
+“Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to 
+information.”
+* UNESCO as Custodian Agency
+As countries are trying to emerge from the COVID-19 
+pandemic, the role of access to information (ATI) 
+continues to be critical in rebuilding communities and 
+strengthening their public institutions.
+Since the spread of COVID-19 in early 2020, the world has 
+witnessed a growing public demand for information that 
+is accurate, timely and reliable. The need for openness, 
+transparency, and accountability has never been 
+stronger. With civic space becoming more reduced during the pandemic, and false content ever expanding, access 
+to information has helped counterbalance the situation, 
+serving as a tool for transparency, through which the public 
+could exercise their right to request for information. This has 
+enabled public participation and civic engagement in 
+response to the crisis. 
+As the UN custodian agency for SDG Indicator 16.10.2, 
+UNESCO continues to report on progress on the adoption 
+and the implementation of Access to Information legal UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I  Executive  summary
+6guarantees worldwide. The Organization also promotes 
+efforts to advocate for access to public information, including 
+reinforcing its relevance to crisis recovery and the attainment 
+of the Sustainable Development Goals (SDGs). 
+This report captures these different dimensions, presenting 
+key findings from the 2021 UNESCO Survey on Public Access 
+to Information and offering different case studies and good 
+practices with a special focus on rebuilding communities 
+and public institutions with access to information. 
+This year’s survey adopted a revised methodology, taking 
+into account feedback from participating countries and 
+independent experts in 2020. The new methodology was 
+also tested by over 80 representatives of oversight institutions 
+responsible for access to information worldwide, and further 
+validated by the UN’s Inter-agency and Expert Group on 
+Sustainable Development Goal Indicators. Launched in April 
+2021, the survey engaged responses by 102 countries and 
+territories, an increase by 48% compared to the previous 
+year. This positive trend demonstrates a growing enthusiasm 
+among countries in reporting on ‘Access to Information’ 
+within the framework of the SDGs. 
+The 2021 survey has yielded insights into the main 
+tendencies in the implementation of legal guarantees for 
+public access to information worldwide. The findings enable 
+a better understanding of the gaps and challenges that 
+need to be addressed by countries in their efforts towards 
+achieving this SDG target. 
+Among countries with ATI legal guarantees, the survey noted 
+a positive trend towards acknowledging the importance of 
+a dedicated arrangement within public bodies to deal 
+with access to information, which in itself sets the foundation 
+for proactive and reactive disclosure. 
+Another finding is that countries that have a specialized 
+oversight institution for access to information are likely to 
+perform better than those without. On the other hand, the 
+survey flagged some inconsistencies in data and information, 
+signalling that record-keeping remains one of the major 
+areas of improvement for these oversight institutions. Since 
+what cannot be measured cannot be improved, it is essential 
+to ensure adequate and reliable records of the requests and 
+appeals received, so that evidence can be generated to track 
+progress. The rolling-out the survey also demonstrated the important 
+role of networks of oversight institutions in advocating 
+for SDG monitoring and reporting, as well as mobilizing 
+their members in taking part in global-wide activities 
+related to the SDGs. This was made evident by the fact that 
+80% of the respondents are members of the International 
+Conference of Information Commissioners, the International 
+Ombudsman Institute and Red de Transparencia y Acceso 
+a la Información. These networks could serve as platforms, 
+through which SDG monitoring and reporting could be 
+improved over time, contributing to effective implementation 
+of ATI guarantees. 
+Reporting on SDG 16.10.2 serves as an incentive for 
+countries to improve their legal regulatory frameworks, their 
+implementation and/or their enforcement. In this regard, 
+the annual UNESCO survey, which provides a standardised 
+approach to monitoring SDG 16.10.2, has proven useful for 
+countries in measuring and reporting progress at the national 
+level, including in their Voluntary National Reviews (VNRs) 
+of progress made on the SDGs. This was evident in Côte 
+d’Ivoire, Indonesia, Mexico, Sierra Leone, Tunisia and Uruguay, 
+which have used the data collected through the survey 
+to report on their ATI progress in their VNRs. In this regard, 
+this report also presents an analysis of countries’ reporting 
+on SDG 16.10.2 in the VNRs since 2019. In 2021, out of 42 
+countries that submitted their reviews to the VNR process, 
+28 countries (67%) reported on ‘access to information’ . 
+While 132 UN Member States have adopted various 
+ATI legal guarantees, states that have not adopted such 
+guarantees could boost access to information for their 
+citizens by considering similar steps. As demonstrated 
+by case studies and good practices in this report, for 
+countries confronted with the urgent need to recover from 
+the pandemic, build public trust, strengthen their institutions, 
+improve public service delivery and address corruption, 
+access to information can serve as a means to achieve these 
+objectives.
+With only nine years left to achieve the SDGs by 2030, and 
+with global challenges becoming more interconnected, 
+the message is clear that access to information should be 
+the thread that binds together diverse actions towards 
+the successful implementation of the 2030 Agenda for 
+Sustainable Development and beyond. UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Executive summary   I
+71.  
+BACKGROUND  
+AND CONTEXTUNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I   Background  and context
+81.1. Access to Information and 
+Sustainable Development
+Conceptually, ‘public access to information’ refers to the 
+presence of an effective system to meet citizens’ rights to 
+seek and receive information, particularly that held by or on 
+behalf of public authorities. 
+Access to information (ATI) has been recognised as a key 
+element of sustainable development since the adoption 
+of the Rio Declaration in 1992.1 Further in 2015, the 2030 
+Agenda for Sustainable Development2 acknowledged access 
+to information as a necessary enabling mechanism for 
+transparent, accountable and participatory governance, rule 
+of law and peaceful societies as epitomised by Sustainable 
+Development Goal (SDG) number 16: ‘Peace, Justice and 
+Strong Institutions’ . Target 16.10 calls for states to “ensure 
+public access to information and protect fundamental 
+freedoms, in accordance with national legislation and 
+international agreements” .
+The Human Rights Council in its 2020 resolution on 
+freedom of opinion and expression (General Assembly A/
+HRC/RES/44/12)3 at its 44th regular session recognises 
+that “public authorities should strive to make information 
+available, whether the information is proactively published 
+electronically or provided upon request...” .
+The Windhoek +30 Declaration4 was adopted on 3 May 
+2021, during the global celebration event of the World Press 
+Freedom Day, affirming the need to uphold information 
+as a public good that serves as a shared resource for the 
+whole of humanity. Emphasizing the importance of press 
+freedom, independence and pluralism to guarantee access to 
+information, the Declaration also sets out recommendations 
+to secure information as a public good by addressing 
+media viability, promoting Internet company transparency 
+and enhancing citizens’ media and information literacy 
+competencies. 
+Within the perspective of the 2030 Agenda, access to 
+information is critical for empowering the public to make 
+decisions, holding governments accountable, evaluating 
+public officials in implementing and monitoring the SDGs, 
+and facilitating effective public participation.
+1 https://www.unenvironment.org/news-and-stories/story/unep-implementing-
+principle-10-rio-declaration
+2 Adopted in 2015 by all 193 UN member states, the 2030 Agenda for 
+Sustainable Development (https://sustainabledevelopment.un.org/post2015/
+transformingourworld/publication) is a 15-year plan of action “to end poverty, 
+protect the planet and ensure prosperity for all, while strengthening universal 
+peace in larger freedom” . 
+3 https://digitallibrary.un.org/record/3877197?ln=fr
+4 https://en.unesco.org/sites/default/files/windhoek30declaration_wpfd_2021.pdfThis has been well attested to during the COVID-19 
+pandemic, marked by a growing public demand for 
+information that is accurate, timely and reliable. The need for 
+openness, transparency, and accountability has never been 
+stronger. Where civic space was shrinking and disinformation 
+and misinformation expanding, access to information has 
+helped counterbalance the situation, playing its role as 
+a tool for transparency, through which the public could 
+exercise their right to information. This has facilitated public 
+participation and promoted civic engagement in response to 
+the crisis. But there are challenges. 
+The Latin American Anti-Corruption Network (REAL), for 
+instance, has published data on the level of transparency in 
+eight countries in the region during the pandemic, including 
+within the scope of access to information. 5 Their data show 
+that very few countries have periodic and accessible data on 
+public spending during the pandemic.6 Securing access to 
+such information allows the public to harness the potential of 
+data for holding governments accountable. 
+In coming out of the pandemic, the role of access 
+to information continues to be critical in re-building 
+communities and their public institutions. This has been 
+made evident in the recent study carried out by UNDP’s Oslo 
+Governance Centre and the German Development Institute 
+(Deutsches Institut für Entwicklungspolitik), which is reported 
+on in Chapter 4 of this report. The study underlined the 
+role of access to information in COVID-19 recovery, namely, 
+social protection, equal opportunities and poverty. The study 
+suggested that improved access to information also increases 
+awareness of target populations and improves social 
+protection programmes.
+1.2. UNESCO and the monitoring and 
+reporting on SDG Indicator 16.10.2
+Standard-setting on monitoring and reporting 
+Following the approval of the SDG framework in 2017 by 
+the UN General Assembly, UNESCO was designated as the 
+custodian agency for Indicator 16.10.2. Under this mandate, 
+UNESCO monitors and reports to the UN Secretary-General 
+each year on “the number of countries that adopt and 
+implement constitutional, statutory and/or policy guarantees 
+for public access to information” , giving attention to both 
+components: “adoption” and “implementation” . 
+5 http://redanticorrupcion.com/informes/covid-y-corrupcion/ 
+6 https://www.sdg16hub.org/group/southern-voice-undp-sdg-16-trends-and-
+emerging-issues/topic/civil-societys-role-promoting
+UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Background and context    I
+9In the Decision of the Intergovernmental Council of 
+UNESCO’s International Programme for the Development 
+of Communication (IPDC) on Monitoring and Reporting of 
+SDG Indicator 16.10.2, adopted in November 20187, the IPDC 
+Council encouraged the IPDC Secretariat, in cooperation with 
+the Organization’s Information For All Programme (IFAP), to 
+develop a mechanism that could strengthen UNESCO’s work 
+as custodian agency for the global monitoring of progress. 
+The Council further urged that the mechanism involve and 
+support countries in the data collection and reporting on 
+SDG Indicator 16.10.2. 
+As a response to the Decision, UNESCO and its Institute 
+for Statistics (UIS) developed a methodology to help 
+measure and report on Indicator 16.10.2. This consists of a 
+survey developed in consultation8 with experts, concerned 
+organizations, and the IFAP Secretariat. UNESCO believes 
+that when countries engage themselves in a self-assessment 
+through the survey, they can identify their own gaps in terms 
+of implementation of ATI laws, and better strategize for future 
+improvements.
+The survey was piloted in 2019 in 43 countries that submitted 
+the Voluntary National Reviews on SDG progress that year, 
+with the findings presented at a side-event during the UN’s 
+High-Level Political Forum in July 2019. 
+The survey instrument was later refined for a full deployment 
+in 2020 and was subsequently further improved for the 
+2021 cycle. In this regard, UNESCO conducted an online 
+consultation with a group of experts in November 2020 
+to propose an upgraded methodology of the survey. 
+In collaboration with the International Conference of 
+Information Commissioners and the Regional Network of 
+Access to Information Practitioners in Latin America and the 
+Caribbean (Red de transparencia y acceso ala información, 
+RTA), three consultation sessions were organised in February 
+2021 to test the updated survey with the participation 
+of around 80 representatives from oversight institutions 
+responsible for ATI worldwide. 
+Following the launch of the survey in April 2021, three 
+sessions offering online clinics were also organized to assist 
+countries in completing the survey, with a view to avoiding 
+errors and ensuring the quality of data. In July 2021, the 
+UN’s Inter-Agency and Expert Group on the Sustainable 
+Development Goal Indicators (IAEG-SDGs) validated the 
+updated metadata for Indicator 16.10.2, which includes the 
+use of the survey to collect the data annually.9 
+7 https://en.unesco.org/news/ipdc-council-encourages-further-development-
+mechanism-monitor-and-report-access-information 
+8 https://en.unesco.org/news/unesco-convenes-experts-advance-monitoring-
+and-reporting-access-information 
+9 In 2019, the IAEG-SDG upgraded Indicator 16.10.2 from Tier II to Tier I —the 
+highest level in the classification system developed to rank SDG indicators. Since the pilot phase in 2019, the UNESCO survey has 
+brought impact beyond measuring countries’ progress on 
+achieving SDG Target 16.10. Many local actors, including ATI 
+oversight bodies and civil society actors, have been mobilised 
+to network with each other in collecting data for the survey. 
+Some countries have also used the information assembled to 
+identify areas of improvement. As such, the survey is not only 
+contributing to assessing SDG Indicator 16.10.2, but also to 
+securing ATI implementation. The utility of the data collection 
+on SDG 16.10.2 was also acknowledged by the IPDC Council 
+at its 32nd session (November 2020), on the basis that it 
+provides evidence-based analysis for the improvement of 
+access to information as a factor for sustainable development.
+Capacity-building and awareness raising
+In the 2018 Decision of the IPDC Council referred to the 
+above, the IPDC Secretariat, Council and Bureau were 
+encouraged to keep supporting Member States in data 
+collection and reporting on SDG indicator 16.10.2 on access 
+to information. Further, in its 2020 decision, the Council 
+invited the Bureau to’ continue supporting grassroot projects 
+that will help Member States in data collection and reporting 
+on SDG indicator 16.10.2, including by strengthening 
+monitoring and reporting capacities of oversight bodies 
+responsible for ATI. 
+In this regard, with the support of various donors to the IPDC, 
+UNESCO has been able to facilitate capacity development 
+initiatives and awareness raising efforts in several countries, 
+such as Côte d’Ivoire, Ethiopia, Ghana, Indonesia, Mongolia, 
+Morocco, Myanmar, Rwanda, Senegal, Sierra Leone, Sri Lanka, 
+Thailand and Tunisia, as well as in the Latin American region10. 
+This line of action has been done through collaboration with 
+information commissioners and their networks, such as the 
+International Conference of Information Commissioners and 
+Red de Transparencia y Acceso a la Informacion.
+The IPDC Council, in both the 2018 and 2020 decisions, also 
+encouraged countries to monitor progress on ATI, including 
+through the Voluntary National Reviews (VNRs) system, which 
+offers an opportunity to follow-up and review mechanisms 
+on SDG 16 (Section 3 of this report further discusses the 
+VNRs). In this regard, participating in the UNESCO Survey on 
+Public Access to Information has been proven to be useful for 
+countries as they can repurpose the data submitted to the 
+survey for their VNRs. For instance, Côte d’Ivoire, Indonesia, 
+Mexico, Sierra Leone, Tunisia and Uruguay have used the 
+data collected through the survey to also report on their ATI 
+progress in their VNRs. 
+10 While activities in the Latin and American region were mostly carried out 
+through a regional approach, UNESCO is also supporting national initiatives, 
+for example in Honduras and in Mexico. UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I  Background and context  
+10UNESCO has also been engaged in various joint efforts with 
+other UN entities and civil society. Under the umbrella of 
+the Global Alliance for Reporting Progress on Peaceful, Just 
+and Inclusive Societies11, collaboration has been established 
+through a series of events and workshops, as well as the 
+development of guidelines and resources to support 
+countries in their monitoring and reporting on SDG 16. As 
+part of the “SDG 16 National Monitoring Initiative” – a project 
+on monitoring national progress on Goal 16, an online 
+workshop took place in April 2021 for stakeholders in Mexico, 
+Moldova and Tunisia. Under the spirit of #OneUN, UNESCO 
+also started this year a new collaboration with OHCHR, UNDP , 
+UNODC and UNESCAP through a series of regional training 
+workshops to measure SDG 16. The first edition of the online 
+training was held between April and June 2021 for the 
+Latin American region, garnering around 1,600 participants 
+from civil society and government institutions. The second 
+edition, targeted at national stakeholders in the Asia and 
+Pacific region, will be organised between September and 
+November 2021. 
+The annual celebration of the International Day for Universal 
+Access to Information on 28 September constitutes a 
+keystone of UNESCO’s awareness raising efforts on access 
+to information. The Day was declared by UNESCO’s 38th 
+General Conference in 2015. The status of the celebration 
+was elevated in October 2019, when the 74th UN General 
+Assembly proclaimed the Day at UN level.12 The Day 
+continues to provide a platform for UNESCO to discuss key 
+findings of data collection on SDG 16.10.2, as well as to 
+disseminate takeaways from studies on access to information 
+and cross-cutting issues, such as gender and persons with 
+disabilities. 
+All this momentum has accompanied and reinforced 
+concrete steps towards tracking progress on ATI. 
+11 The Global Alliance for Reporting Progress on Peaceful, Just and Inclusive 
+Societies (https://www.un-globalalliance.org/) is a coordinating platform for 
+Member States, private sector, civil society and UN entities to work together 
+towards the achievement of SDG 16. The Alliance is operated by seven 
+Member States (Cabo Verde, Mexico, Norway, Qatar, Sierra Leone, Tunisia and 
+the United Kingdom of Great Britain and Northern Ireland), three civil society 
+organisations (NYU Centre on International Cooperation: The Transparency 
+and Accountability Network, and the World Federation of United Nations 
+Associations), and three private sector companies (Deloitte Ltd., LexisNexis, and 
+White & Case LLP). Its work is supported by a Secretariat co-facilitated by UNDP , 
+UNODC, UNESCO, OHCHR, UNHCR, UN Women, and the Global Compact (a 
+UN Advisory Group composed of 10 UN agencies, and partners from other 
+governments, civil society organisations and private sector actors).
+12 https://en.unesco.org/news/proclaims-international-day-universal-access-
+information UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Background and context    I
+112.  
+TRACKING PROGRESS  
+ON SDG INDICATOR  
+16.10.2 IN 2021UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I   Tracking progress  on SDG Indicator  16.10.2 in 2021
+122.1. Global	overview:	Adoption	of	ATI	legal	guarantees
+Progress has been recorded in terms of binding laws and policies giving individuals a right to access information held by public 
+authorities. As of August 2021, 132 UN Member States have adopted constitutional, statutory and/or policy guarantees for 
+public access to information, with at least 22 countries adopting such guarantees since the adoption of the 2030 Agenda in 
+2015.13 In 2021, Kuwait and Saudi Arabia joined the list.14
+Table 1. UN Member States that have adopted constitutional, statutory and/or policy guarantees for public access to 
+information (grouped based on the execution of regional activities by UNESCO)
+Europe and North America (50)
+1. Albania
+2. Armenia
+3. Austria
+4. Azerbaijan
+5. Belarus
+6. Belgium
+7. Bosnia and 
+Herzegovina
+8. Bulgaria
+9. Canada
+10. Croatia
+11. Cyprus12. Czechia
+13. Denmark
+14. Estonia
+15. Finland
+16. France
+17. Georgia
+18. Germany
+19. Greece
+20. Hungary
+21. Iceland
+22. Ireland23. Israel15
+24. Italy
+25. Latvia
+26. Liechtenstein16
+27. Lithuania
+28. Luxembourg
+29. Malta 
+30. Monaco
+31. Montenegro
+32. Netherlands
+33. North Macedonia34. Norway
+35. Poland
+36. Portugal
+37. Republic of Moldova
+38. Romania
+39. Russian Federation
+40. San Marino
+41. Serbia
+42. Slovakia
+43. Slovenia44. Spain 
+45. Sweden
+46. Switzerland
+47. Turkey
+48. Ukraine
+49. United Kingdom of 
+Great Britain and 
+Northern Ireland
+50. United States of 
+America17
+Latin America and the Caribbean (25)
+51. Antigua and 
+Barbuda
+52. Argentina
+53. Bahamas
+54. Belize 
+55. Bolivia (Plurinational 
+State of )56. Brazil
+57. Chile
+58. Colombia
+59. Costa Rica
+60. Dominican Republic61. Ecuador 
+62. El Salvador
+63. Guatemala
+64. Guyana
+65. Honduras
+66. Jamaica67. Mexico
+68. Nicaragua
+69. Panama
+70. Paraguay
+71. Peru
+72. Saint Kitts and Nevis73. Saint Vincent and 
+the Grenadines
+74. Trinidad and Tobago
+75. Uruguay
+Asia and the Pacific (27)
+76. Afghanistan
+77. Australia
+78. Bangladesh
+79. China
+80. Cook Islands
+81. Fiji 82. India
+83. Indonesia
+84. Iran (Islamic 
+Republic of )
+85. Japan
+86. Kazakhstan87. Kyrgyzstan
+88. Maldives
+89. Mongolia
+90. Nepal
+91. New Zealand
+92. Pakistan 93. Palau
+94. Philippines
+95. Republic of Korea
+96. Sri Lanka
+97. Tajikistan98. Thailand 
+99. Timor-Leste
+100. Uzbekistan
+101. Vanuatu
+102. Viet Nam
+Africa (22)
+103. Angola
+104. Benin
+105. Burkina Faso
+106. Côte d’Ivoire107. Ethiopia
+108. Ghana
+109. Guinea
+110. Kenya
+111. Liberia112. Malawi
+113. Mozambique
+114. Niger
+115. Nigeria
+116. Rwanda117. Seychelles
+118. Sierra Leone
+119. South Africa
+120. South Sudan
+121. Togo122. Uganda
+123. United Republic of 
+Tanzania
+124. Zimbabwe
+Arab States (8)
+125. Jordan
+126. Kuwait127. Lebanon
+128. Morocco 129. Saudi Arabia
+130. Sudan 131. Tunisia
+132. Yemen
+13 Argentina, Bahamas, Costa Rica, Cyprus, Fiji, Ghana, Kenya, Kuwait, Lebanon, Luxembourg, Malawi, Morocco, Vanuatu, Philippines, Timor-Leste, Saudi Arabia, Saint Kitts 
+and Nevis, Seychelles, Sri Lanka, Viet Nam, Togo, United Republic of Tanzania.
+14 The Gambia also passed the Access to Information Bill in July 2021, yet as of the writing of this report in August 2021, the Bill has yet to be included in the official 
+gazette, hence it has not yet included in the list. 
+15 Israel withdrew from UNESCO on 31 December 2018. 
+16 Lichtenstein is not a member of UNESCO.
+17 The United States of America withdrew from UNESCO on 31 December 2018. UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Tracking progress on SDG Indicator 16.10.2 in 2021     I
+132.2. Reaching	the	furthest	behind	first:	
+Inclusion of disability rights in ATI 
+guarantees18
+…when accessible information and communications 
+are not available, a range of persons with different 
+disabilities cannot effectively benefit from public 
+policies and programmes. ”
+Catalina Devandas-Aguilar, Former UN Special Rapporteur on the rights of persons 
+with disabilities, the 71st Session of UN General Assembly, 2016. 
+The importance of access to information (ATI) as an 
+internationally recognised human right for all, including for 
+persons with disabilities, has long been acknowledged. 
+However, the realisation of this right for those with disabilities 
+remains a challenge. 
+The 2030 Agenda for Sustainable Development, pledging 
+to “endeavour to reach the furthest behind first” , calls 
+upon countries to ensure the full and equal participation 
+of persons with disabilities in all spheres of society and to 
+create enabling environments by, for and with persons with 
+disabilities, in accordance with the UN Convention on the 
+Rights of Persons with Disabilities (CRPD). 
+The CRPD recognises that civil and political rights, including 
+the right to information, are a vital prerequisite for persons 
+with disabilities to overcome histories of exclusion. First, 
+the CPRD discusses equality for persons with disabilities 
+in accessing information. Second, it places the right to 
+information in the context of disability accessibility.19
+In the same spirit, Article 21 explicitly states that “States 
+Parties shall take all appropriate measures to ensure that 
+persons with disabilities can exercise the right to freedom 
+of expression and opinion, including the freedom to seek, 
+receive and impart information and ideas on an equal basis 
+with others and through all forms of communication of their 
+choice […]” .
+ATI laws in several countries acknowledge the importance 
+of accessibility to information by persons with disabilities. 
+Based on an analysis for the 127 countries with ATI laws 
+18 Extracted from a study commissioned by UNESCO to independent researcher 
+Lida Ayoubi, PhD. For the purpose of this Report, only the most relevant 
+findings are presented.
+19 CRPD, articles 9(1) and 21(a).in 202020, 37 countries explicitly refer to persons with 
+disabilities and their rights, to varying degrees.21 The common 
+themes in these legislations relate to placing a request 
+for access to information, forms in which access is 
+provided, conditions for delivery of accessible formats, 
+and provision of further assistance to persons with 
+disabilities. With regard to placing a request for access to 
+information, 11 countries allow applicants with disabilities 
+to submit an oral request where a written one would 
+normally be required.22 Additionally, six countries require the 
+information provider to assist the person with disabilities in 
+submitting the request when their disability prevents them 
+from doing so in a manner generally prescribed by the law.23
+Of the 11 countries that specifically mention the provision 
+of information to persons with disabilities in an accessible 
+format, 10 use broad wording that refers to an “alternative 
+format” or a similar concept. Of these, three limit the provision 
+of alternative formats to conditions such as cost, as well as 
+time and copyright law restrictions. One country only refers 
+to content accessibility for persons with disabilities when 
+information is provided on websites. 
+The above figures highlight the challenges for effective 
+access to information for persons with disabilities. First and 
+foremost, it is evident that the rights of persons with 
+disabilities are absent from most ATI legislations. Where 
+reference is made to persons with disabilities and accessibility 
+of information, the scope of the disabilities covered and the 
+rights secured for persons with disabilities are rather limited, 
+or not always clear. Furthermore, the research showed that 
+effective accessibility criteria are missing from many 
+existing legislative frameworks, or that their implementation 
+is hindered by factors such as inadequate awareness and 
+training around the rights of persons with disabilities and 
+insufficient funding. Ignoring the issues of cost or imposing 
+restrictive conditions on access for persons with disabilities 
+are amongst the challenges highlighted when assessing 
+the existing ATI legislation. Finally, the lack of appeal and 
+oversight mechanisms and meaningful data on the state of 
+accessibility for persons with disabilities also act as obstacles 
+for provision of satisfactory information accessibility.
+20 As recorded by UNESCO in 2020. 
+21 These countries are Afghanistan, Antigua, Azerbaijan, Bangladesh, Brazil, 
+Bulgaria, Burkina Faso, Canada, Colombia, Ethiopia, Fiji, Ghana, India, 
+Ireland, Kazakhstan, Kenya, Liberia, Malawi, Maldives, Mexico, Montenegro, 
+Mozambique, Nicaragua, Nigeria, Pakistan, Sierra Leon, Saint Kitts and Nevis, 
+Saint Vincent and the Grenadines, Seychelles, South Africa, Sudan, Tanzania, 
+Tunisia, Uganda, Ukraine, Vanuatu, and Vietnam.
+22 These countries are Afghanistan, Antigua, Azerbaijan, Ethiopia, Ghana, 
+Maldives, Saint Kitts and Nevis, South Africa, Sudan, Tanzania, and Uganda. 
+23 These countries are Kenya, Liberia, Pakistan, Seychelles, Ukraine, and Vietnam.UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I  Tracking progress on SDG Indicator 16.10.2 in 2021   
+14Shortfalls of national provisions on ATI and 
+disability issues
+(Based on an assessment of 37 national legislation with provisions 
+on the rights of persons with disabilities)
+1. Reference to the rights of persons with disabilities is vague 
+and brief. 
+2. The legislation does not provide a sufficiently 
+comprehensive application of accessibility criteria to all 
+government information. 
+3. The legislation does not clarify the scope of disabilities subject 
+to the Act or is restrictive regarding the disabilities covered. 
+4. The legislation only refers to the submission of a request for 
+access to information for persons with disabilities but not 
+the provision of such access. 
+5. The legislation only covers direct requests for information 
+by persons with disabilities without covering proactive 
+disclosure. 
+6. The legislation does not cover the issue of the cost of 
+making information accessible to persons with disabilities. 
+7. The legislation imposes restrictive conditions on provision 
+of access to information for persons with disabilities. 
+8. The legislation does not provide for appeal and oversight 
+mechanisms in relation to access to information for persons 
+with disabilities. 
+Monitoring of Indicator 16.10.2 provides an opportunity for 
+countries and other concerned stakeholders to improve 
+actual implementation of the provisions of normative 
+instruments such as the CRPD. Countries should consider 
+steps towards an inclusive and comprehensive 
+legislative framework containing minimum mandatory 
+accessibility standards that ensure access to information 
+for persons with disabilities, without discrimination based on 
+type of disability, geographical location, financial means, and 
+language capabilities, among other factors. 
+2.3. Highlights from 2021 UNESCO 
+Survey on Public Access to Information 
+2.3.1. Respondents and scores: There is a growing interest in 
+reporting progress on ‘Access to Information’, and countries 
+with dedicated oversight institutions perform better
+In 2021, UNESCO invited all UN Member States, including 
+associated territories, to participate in the survey based upon 
+on SDG Indicator 16.10.2. The survey took place between 
+April and June 2021. As many as 102 countries and territories, 
+responded to the survey.24 
+24 The four territories participating in the survey were Gibraltar, Isle of Man, Jersey 
+and Cayman Islands. Gibraltar and Cayman Islands are non-self-governing 
+territories administrated by the United Kingdom; The Isle of Man and Jersey are 
+internally self-governing dependencies of the British Crown, United Kingdom. Figure 1. Number of countries and territories that participated 
+in UNESCO survey exercise from 2019-2021
+2021 2020 20194 territories
+65 countries4 territories
+98 countries
+43*69102
+*  Pilot countries only: UN Member States that presented VNR reports at the 
+2019 UN HLPF
+This year, UNESCO reduced the number of questions and 
+introduced a scoring system in the survey’s methodology, 
+as per suggestions from the UN’s IAEG-SDGs. The survey 
+comprises 8 questions25, each value between 0 and 2. Upon 
+the completion of the survey, a country can get a total score 
+of 0-9, enabling it to track progress over time. The total score of 
+each country only contributes to global analysis, and is not 
+assigned to any level category (e.g.: low, medium, or high). 
+Out of 79 countries and territories with ATI oversight 
+institutions, 70% of them scored 7 and above. Meanwhile, 
+12 countries without ATI oversight institutions scored 
+between 1 and 7.2.26 This finding suggested that countries 
+that have a specialised ATI oversight body are likely to 
+perform better than those without. 
+In order to help establish a reporting link for SDG 16.10.2 at 
+the national level, UNESCO sent the survey invitation this 
+year to both the central oversight institutions responsible 
+for access to information (e.g., information commission/er; 
+data protection or privacy commission/er; national human 
+25 The questions of the survey were based on “Principles of Access to 
+Information” , which were synthesized from existing frameworks and 
+documents recognised internationally. For the purpose of this survey, the 
+principles of relevance are as follows: (a) Legal frameworks for Access to 
+Information; (b) Limited exemptions; (c) Oversight mechanism; (d) Appeals 
+mechanism; (e) Record keeping and reporting. It is worth noting that while 
+this survey is intended for the central ATI oversight institutions, there is another 
+reporting instrument developed by UNESCO to collect data from public 
+bodies (Departments/ Ministries/ Agencies), which also looks at the ‘Proactive 
+Disclosure’ element, among other things. ‘Proactive Disclosure’ is not covered 
+by the survey presented in this report, as it relates more to the performance 
+of the public bodies, not the ATI oversight institutions. This other reporting 
+instrument for the public bodies is of relevance to countries that are interested 
+in having a more in-depth assessment on their ATI implementation.
+26 These data need to be taken with caution, as the two countries with the score 
+of 5.2 and 7.2 first reported their ATI guarantees did not specify the need for 
+ATI oversight institutions, but later reported some activities done by these 
+oversight institutions, which demonstrated an inconsistency. UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Tracking progress on SDG Indicator 16.10.2 in 2021     I
+15rights institution; Ombuds institution; department/ ministry/ 
+agency) and national SDG focal points (usually the national 
+statistics offices). In some countries, the invitation was sent to 
+only one of these entities, due the absence of one or another. 
+UNESCO also joined forces with networks of oversight 
+institutions responsible for access to information, such as the 
+International Conference of Information Commissioners, the 
+International Ombudsman Institute and Red de Transparencia 
+y Acceso a la Información (regional Latin American network 
+of information commissioners) to increase participation of 
+countries in the survey. 
+The exercise revealed that out of the 102 countries and 
+territories that responded to the survey, 82 of them 
+are members of such networks. This demonstrates the 
+important role of such networks in advocating for SDG 
+monitoring and reporting, as well as mobilising their 
+members in taking part in global-wide activities related to 
+the SDGs. 
+Although the survey also observed some issues related to 
+the quality of responses (which are discussed in the next 
+sub-section), UNESCO noted that such coalition-building 
+is key for addressing gaps in the SDG monitoring and 
+reporting. These networks could serve as platforms, through 
+which SDG monitoring and reporting processes could be 
+improved over time. 
+2.3.2. Legal frameworks on Access to Information: National 
+regulation systems are increasingly conducive to public 
+access to information
+Out of the 102 countries and territories that responded to the 
+survey, 89% (91)27 indicated to have constitutional, statutory 
+and/or policy guarantees for ATI. Five countries indicated an 
+absence of ATI guarantees, while six others reported that they 
+are ‘in progress’ in adopting such guarantees.
+Among those responding countries that have ATI legal 
+guarantees, 11 adopted such guarantees since the adoption 
+of the 2030 Agenda in 2015 (Argentina, Costa Rica, Cyprus, 
+27 Responding countries and territories by UNESCO’s groupings: (a) Africa: Benin; 
+Botswana; Côte d’Ivoire; Equatorial Guinea; Ethiopia; Kenya; Liberia; Sierra 
+Leone; South Africa; South Sudan; United Republic of Tanzania; (b) Arab States: 
+Jordan; Kuwait; Morocco; Tunisia; (c) Asia and the Pacific: Afghanistan; Australia; 
+Bangladesh; Cambodia; Cook Islands; Indonesia; Iran (Islamic Republic of ); 
+Japan; Kazakhstan; Mongolia; Nepal; Pakistan; Philippines; Republic of Korea; 
+Sri Lanka; Thailand; Vanuatu; (c) Europe and North America: Albania; Austria; 
+Azerbaijan; Belarus; Belgium; Bosnia and Herzegovina; Bulgaria; Canada; 
+Croatia; Cyprus; Czechia; Denmark; Estonia; France; Georgia; Germany; Gibraltar; 
+Hungary; Ireland; Isle of Man; Israel; Italy; Jersey; Lithuania; Luxembourg; Malta; 
+Montenegro; North Macedonia; Norway; Republic of Moldova; Romania; 
+Serbia; Slovakia; Slovenia; Spain; Switzerland; Turkey; Ukraine; United Kingdom 
+of Great Britain and Northern Ireland; United States of America; (d) Latin 
+America and the Caribbean: Argentina; Belize; Bolivia (Plurinational State of ); 
+Brazil; Cayman Islands; Chile; Colombia; Costa Rica; Cuba; Dominican Republic; 
+Ecuador; El Salvador; Guatemala; Honduras; Mexico; Panama; Paraguay; 
+Peru; Uruguay. *Note: Israel and the United States of America withdrew from 
+UNESCO on 31 December 2018. Kenya, Kuwait, Luxembourg, Morocco, Philippines, Sri Lanka, 
+United Republic of Tanzania, and Vanuatu). 
+While constitutional guarantees may exist in these countries, 
+the process of adopting statutory guarantees for public access 
+to information includes consultations with the executive and 
+legislative branches of government and civil society. 
+Out of the 91 countries and territories with ATI guarantees, 
+71% (65) reported that their respective guarantee specifies 
+the need for public bodies (Ministry/Agency/Department) to 
+appoint public information officers or a specific unit to 
+handle requests for information by the public. In 62 countries, 
+this provision applies to ‘all public bodies’ , while it applies 
+only to ‘some public bodies’ in three countries. An in-depth 
+assessment is needed on whether this requirement is realised 
+in reality, but nevertheless, this finding shows a positive 
+trend towards acknowledging the importance of a dedicated 
+arrangement within public bodies to deal with ATI, which in 
+itself sets the foundation for both proactive and reactive 
+disclosure. Since such a dedicated arrangement is ideally 
+tasked with record  keeping and reporting, this would also 
+greatly contribute to the monitoring on ATI implementation.
+2.3.3. Limited scope of exemption: Most permissible 
+exemptions are explicitly mentioned in ATI guarantees, but 
+disaggregated data on refusals on this basis is still lacking 
+Exemptions allow the withholding of certain categories 
+of information. Standards for exemptions mean that any 
+such withholding must be based on narrow, proportionate, 
+necessary and clearly defined limitations. Exemptions should 
+apply only where there is a risk of substantial harm to a 
+protected interest (as per the list in Figure 2 below), and 
+where the harm is greater than the overall public interest 
+in having access to the information. These exemptions are 
+sometimes cited in relation to requests for information, and 
+also for refusals in relation to declined initial requests. 
+Out of the 91 responding countries and territories with 
+ATI guarantees, 81% (83) reported that their respective 
+ATI legal guarantee explicitly mentions permissible 
+exemptions that are elaborated in well-defined categories 
+whereby requests for information may be legally denied. The 
+figure below shows the proportion of permissible exemptions 
+in ATI legal guarantees, as indicated by the respondents.UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I  Tracking progress on SDG Indicator 16.10.2 in 2021   
+16Figure 2. Permissible exemptions in ATI legal guarantees
+Legitimate policy making
+and other operations of
+public bodiesConservation of
+the environmentFair administration
+of justice and legal
+advice privilegeManagement
+of the economyLegitimate commercial 
+and other economic
+interestsPrivacyThe prevention,
+investigation and
+prosecution of
+legal wrongsPublic health and safetyInternational relationsNational security 86,8%
+67,0%
+62,6%
+69,2%
+84,6%
+74,7%
+38,5%
+58,2%
+31,9%
+48,4%
+Going further, ATI oversight institutions in 24 out of 
+40 countries and territories that reported data on ‘ATI requests’ 
+in 2020 reported that they kept disaggregated data on the 
+reasons for non-disclosure and partial disclosure on the basis 
+of the legitimate exemptions. As it relates to data on ‘Appeals’ 
+in 2020, 29 out of 51 respondents reported to do so. Figure 3. Countries that keep disaggregated data for 
+non-disclosure and partial disclosure on the basis of the 
+permissible exemptions in 2020
+24
+60%16
+40%
+29
+57%22
+43%(ATI Requests)
+(Appeals)
+● Countries keeping disaggregated data
+● Countries not keeping disaggregated data
+2.3.4. Oversight mechanism: Dedicated ATI oversight 
+institutions are well established in most countries, but not 
+all monitor implementation of ATI guarantees and enforce 
+its compliance
+An oversight institution refers to the institution charged with 
+ensuring the process of supervision, monitoring, evaluation 
+of performance and review, in order to ensure compliance 
+with laws, regulations and policies. It therefore ensures 
+accountability for the implementation of ATI. The same body 
+or another may also do appeals, although hearing appeals 
+is a distinct function from oversight and is sometimes done 
+by a separate body. This is why in some countries, there 
+exists more than one oversight institution, depending on the 
+different tasks performed.
+Out of the 91 responding countries and territories with ATI 
+guarantees, 87% (79) reported that their respective ATI 
+legal guarantee specifies the need of a dedicated oversight 
+institution(s). Information Commission/er is the most 
+common type (34), followed with a converged body that 
+combines data/privacy protection and ATI (18); Ombuds 
+institution (17) and Department/ Ministry/ Agency (17); Other UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Tracking progress on SDG Indicator 16.10.2 in 2021     I
+17(11)28; Data protection or privacy commission/er (9); and 
+Human Rights Commission (3).29 In the majority of countries 
+and territories, these institutions operate at the national level, 
+with only few of them indicating the existence at the sub-
+national level. 
+Figure 4. Types of oversight institution
+OtherSub-nationalNationalDepartment/
+Ministry/ AgencySub-nationalNationalOmbuds institutionSub-nationalNationalHuman rights
+commissionSub-nationalNationalConverged body of
+data/privacy
+protection & ATISub-nationalNationalData protection or
+privacy
+commission/erSub-nationalNationalInformation
+commission/er 34
+34
+8
+9
+9
+0
+18
+17
+5
+3
+3
+0
+17
+15
+112
+17
+17
+2
+28 Some countries and territories that opted for ‘Other’ indicated they have 
+more than one institution that carry out the oversight mechanism, which 
+cannot be precisely put under any of the survey’s categories. Italy, for instance, 
+mentioned “Ombudsman for local administration and Commission for the 
+access to public document-Public Administration Government Department, 
+while Austria noted “Administrative Courts, Highest Administrative Court, 
+Constitutional Court, Ombudsman Board” . Peru referred ‘Other’ to “la Autoridad 
+Nacional de Transparencia y Acceso a la Información Pública (ANTAIP) and el 
+Tribunal de Transparencia y Acceso a la Información Pública (TTAIP) – both of 
+which are part of the organic structure of the Ministry of Justice and Human 
+Rights. Meanwhile, Bulgaria indicated “Administrative Reform Council”; 
+France “Conseil d’Etat, juridictions administratives”; Serbia “Commissioner for 
+Information of Public Importance and Personal Data protection”; Turkey “The 
+Review Board of Access to Information”; and Uruguay “Unidad de Acceso a la 
+Información Pública (UAIP). 
+29 For this question, a country could choose one or more types, as applicable.When it comes to the roles of the ATI oversight institutions 
+as mandated by the guarantees, the majority of countries 
+and territories responded ‘Monitoring of ATI implementation’ 
+(74), followed with ‘Appeals’ (65); ‘Oversight’ (63); ‘Enforcement 
+of compliance with ATI legal guarantee’ (55) and ‘Mediation’ 
+(32).30 ‘Mediation’ seems like the most uncommon role, but 
+it is interesting to note that 50% of respondents in Africa (7 
+out of 15) and Latin America and the Caribbean (10 out of 
+20) reported on this role, indicating a small tendency in these 
+regions to propose an alternative solution to resolve a dispute 
+before proceeding to any formal procedure.
+Figure 5. Roles of ATI oversight institutions as mandated by 
+the legal guarantees
+MediationEnforcement of
+compliance with
+ATI legal guaranteeOversightAppealsMonitoring of
+ATI implementation 74
+65
+63
+55
+32
+The independence of the oversight institution is essential to 
+it playing an effective role. Such independence can at least be 
+observed from the appointment process of the head of the 
+oversight institution; how the institution is financed, and to 
+whom it directly reports about its activities. 
+The survey revealed that out of the 91 responding countries 
+and territories with ATI laws, the majority of them (44) 
+indicated that the head of the ATI oversight institution 
+is appointed by the ‘Executive’ .31 The ‘Legislative’ branch is the 
+second most answered (27), followed with ‘Other’ (16) and 
+‘Judiciary’ (1). 
+On the approval of the budget for the ATI oversight 
+institution, the ‘Legislative’ branch is the most answered 
+(47) and followed with ‘Executive (34). Meanwhile, although 
+seven countries indicated ‘Other’ in their responses, further 
+observation found that some of the explanation provided 
+were either not sufficient or raised other questions.32 
+30 For this question, respondents could choose one or more types, as applicable. 
+It is worth noting that although the survey uses the term ‘oversight institution’ 
+to cover different entities responsible for ATI, some countries and territories in 
+reality put a more specific distinction between an ‘oversight institution’ and a 
+‘supervisory institution’ , hence they did not choose the ‘oversight’ role in their 
+answer to this question.
+31 For this question, respondents could choose one or more branches of 
+government, as applicable.
+32 One of the countries, for instance, mentioned “the Parliament, based on 
+proposal from the Ministry” .UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I  Tracking progress on SDG Indicator 16.10.2 in 2021   
+18On the question about to whom the ATI oversight 
+institution directly reports about its activities, the 
+‘Legislative’ branch is the most answered (55) and followed 
+with ‘Executive (30). Only one country answered ‘Judiciary’ , 
+while 13 indicated ‘Other’ . For the latter, some answered that 
+they directly report to “the public” , while others explained 
+they do not report to any government branches. Meanwhile 
+some countries either put “president” , a specific “ministry” or 
+“parliament” under ‘Other’ , although these can actually be 
+regarded either as ‘Executive’ or ‘Legislative’ although this 
+assessment has not been used to change the data for the 
+statistics provided in this report. 
+Figure 6. Appointment, financing and reporting
+OtherJudiciaryLegislativeExecutiveWho appointed the head of ATI oversight institution
+44
+27
+161
+OtherJudiciaryLegislativeExecutiveWho approved the budget of ATI oversight institution
+34
+47
+160
+OtherJudiciaryLegislativeExecutiveTo whom ATI oversight institution directly reports
+30
+55
+131
+On the question about the activities performed by the 
+dedicated ATI oversight institutions in 2020, publishing 
+an annual report was reported by 78 countries and territories. 
+The same number of respondents also reported that they 
+sensitised the public on Access to Information. The third 
+activity implemented by ATI oversight institutions was 
+providing a guidance to officials from public bodies (72), 
+followed by keeping statistics on request and appeals (70) 
+and requesting public bodies to keep statistics on their 
+activities and decisions. 
+However, there is a caveat here. Some countries and 
+territories that reported on keeping statistics did not provide 
+further data to UNESCO in their response to the following questions. On the contrary, few others reported that they did 
+not keep statistics, but nevertheless still provided data. This 
+reflects some inconsistencies in record-keeping practices. 
+Figure 7. Activities of ATI oversight institutions in 2020
+Publish an Annual Report
+78
+13 NOYES
+Request public bodies to keep statistics of their activities & decisions
+NOYES 50
+40
+Provide implementation guidance and/or 
+oﬀer training to oﬃcials from public bodies
+NOYES 72
+19
+Raise public awareness
+NOYES 78
+13
+Keep statistics on requests and/or appeals
+NOYES 70
+21
+Other kinds of additional activities are mentioned 
+by respondents. These initiatives can also be considered 
+good practices, beyond the elementary prerogatives of ATI 
+oversight institutions. Here is non-exhaustive list as reported 
+in the survey responses: 
+ #Monitoring the State’s compliance with international 
+treaty obligations related to Access to information;
+ #Monitoring and enforcing compliance with proactive 
+disclosure of information, records management and 
+the recruitment of public information officers by public 
+bodies;
+ #Ensuring an annual audit of public bodies; 
+ #Awarding prizes to ATI requestors and information 
+providers; 
+ #Coordinating with NGOs and INGOs on ATI-related 
+activities;
+ #Keeping and making available online the comprehensive 
+list of public bodies;
+ #Protecting whistle-blowers.UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Tracking progress on SDG Indicator 16.10.2 in 2021     I
+19It remains crucial to assess, both qualitatively and 
+quantitatively, the implementation of this right. One indicator 
+that can help monitor this effectiveness is the availability of 
+data on the number of requests received and how they 
+were treated.
+Out of the 91 countries and territories with ATI laws, only 
+44% (40) had data in 2020 on the number of requests for 
+information received. The remaining 56% (51) only had data 
+from either 2018 or 2019, or no data at all. Of the latter, it 
+is important to note that some did report having a data 
+collection mechanism. The low number of data availability in 
+2020 might indicate some difficulties faced by public bodies 
+to treat and follow up ATI requests during the pandemic. 
+From the data available in 2020 as reported by the 40 
+countries and territories, the majority of ATI requests were 
+granted (75% of cases) and only 13% were denied, with the 
+remainder being dismissed as ineligible33 (8%) and pending 
+(4%). This positive trend indicates the effectiveness of these 
+countries and territories in implementing ATI guarantees. 
+However, it is worth noting that some countries recorded 
+gaps in terms of the number of total requests received and 
+their breakdowns in relation to UNESCO’s categories of 
+decision. In this case, some countries explained that they 
+adopted different manners in treating the requests. For 
+instance, requests made by robots and those withdrawn by 
+the requestors were not included in their follow-up systems, 
+as was the case for requests transferred to sub-national level. 
+In some other instances, the cases that were treated in 2020 
+were actually carried over from the previous year(s). This 
+resulted in differences between the total number of decisions 
+made and the total number of requests received.
+Figure 8. Decisions taken on ATI requests in 2020
+75%8%
+13%4%
+● Granted  ● Denied  ● Dismissed as ineligible  ● Pending
+33 In some countries and territories, a request for information could not be 
+upheld due to reasons other than “legal exemptions/ exceptions” . This can 
+therefore be categorised as “Dismissed as ineligible” , and could include 
+the following: incomplete applications; vexatious or repeated requests; 
+information not in possession; information already in the public domain; 
+requests submitted to entities other than public bodies or other bodies as 
+permissible by law.2.3.5. Appeals mechanism: Record-keeping mechanisms 
+exist in most countries, but much needs to be done to keep 
+the data updated for reporting purposes 
+An appeal is an application for a decision (or lack of a 
+decision), which normally involves a request to reconsider 
+failures by duty-bearers to provide information. For the 
+purpose of this survey, statistics on appeals do not include 
+those that were decided by courts.
+Out of the 102 countries and territories, only 57% (52) had 
+data in 2020 on requests for information received. The 
+remaining 43% (39) only had data from either 2018 or 2019, 
+or no data at all. Of the latter, it is important to note that 
+some did report having a data collection mechanism. The 
+low figure in 2020 could be due to the COVID-19 context, 
+where a number of countries temporarily suspended existing 
+ATI guarantees, limiting the ATI oversight institutions in 
+performing their duties.
+From the data available in 2020 as reported by the 52 
+countries and territories, the majority of requests were 
+granted (48% of cases) and only 15% were denied, with the 
+rest being dismissed as ineligible (15%) and pending (22%). 
+However, it is worth noting that some countries recorded 
+gaps in terms of the number of total appeals received and 
+their breakdowns based on UNESCO’s categories of decision. 
+In this case, some countries and territories explained that 
+the cases that were treated in 2020 were actually pending 
+cases carried over from the previous year(s). This resulted in 
+differences between the total number of decisions made and 
+the total number of appeals received.
+Figure 9. Decisions taken on Appeals in 2020
+48%
+15%15%22%
+● Granted  ● Denied  ● Dismissed as ineligible  ● PendingUNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I  Tracking progress on SDG Indicator 16.10.2 in 2021   
+203.  
+ATI REPORTING IN 
+VOLUNTARY NATIONAL	
+REVIEWSUNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I   ATI reporting in Voluntary National Reviews
+22The 2030 Agenda for Sustainable Development encourages 
+countries to “conduct regular and inclusive reviews of progress 
+at the national and sub-national levels, which are country-led 
+and country-driven” . In this regard, Voluntary National Reviews 
+(VNRs)34 serve as a follow-up and review mechanism through 
+which countries assess and present progress made in achieving 
+the SDGs. Countries present the VNRs, on a voluntary basis, 
+at the UN High-level Political Forum (HLPF) on Sustainable 
+Development, an annual meeting under the auspices of the 
+UN’s Economic and Social Council (ECOSOC).35 
+In 2021, SDG 16 was again subjected to a detailed review. 
+Out of 42 countries that submitted their reviews, 28 
+countries (67%) reported on ‘access to information’ .36 Of 
+these 42 reporting countries, 29 have a specific ATI law on 
+public access to information. 
+This represents an increase from 2020, where 18 out of 47 VNR 
+countries (38.3%) addressed ‘access to information’ in their 
+reports. However, it is worth noting that no specific goals were 
+under a detailed review last year. Meanwhile in 2019, when SDG 
+16 was part of a detail for review for the first time, 28 of the 47 
+VNR countries (59.5%) reported on ‘access to information’ . 
+Figure 10. Countries that reported on SDG 16.10.2 in VNRs 
+from 2019 to 2021 
+(Reports by Bahamas and Guatemala are not assessed due to their unavailability on 
+the VNR Database as of August 2021) 
+51914
+12
+17
+● Europe & North America  ● Latin America & the Caribbean
+● Asia & the Pacific  ● Arab States  ● Africa
+One of the countries that reported on SDG 16.10.2 in 2021 is 
+Indonesia, who also reported on the performance of its ATI 
+oversight institution.37 In the context of COVID-19, the country 
+reported on CSOs’ monitoring with regards how information 
+on health protocols is available, although only as it relates to 
+education and public transport. Indonesia also acknowledged 
+that the public information and communication management 
+34 https://sustainabledevelopment.un.org/vnrs/ 
+35 https://sustainabledevelopment.un.org/hlpf 
+36 VNR reports of Bahamas and Guatemala are not yet available for analysis 
+during the writing of this report in August 2021.
+37 P . 298-301 https://sustainabledevelopment.un.org/content/
+documents/280892021_VNR_Report_Indonesia.pdf by the ministry/agency or local government was not well 
+integrated during the pandemic. To improve the situation, in 
+the Government’s Work Plan (RKP) of 2021, the Government 
+said it will strengthen socialization and information 
+dissemination programs that are equal and fair regarding 
+COVID-19 development, handling, and recovery. Recognizing 
+the need to improve public access to information during 
+emergencies, Indonesia also incorporated into its Medium-
+Term Development Plan of 2020-2024 several strategies to 
+improve the quality of public information disclosure.
+Another country that provided in-depth progress on 
+ATI is Uruguay.38 It reported some actions taken by its 
+oversight institution, la Unidad de Acceso a la Información 
+Pública (UAIP), such as the establishment of the National 
+Index of Transparency and Access to Information that 
+measures the level of compliance of public authorities that 
+are under obligation to implement ATI legal frameworks. 
+UAIP also reported on its Active Transparency audits and 
+the development of the Gender and Right of Access to 
+Public Information Action Plan (2020-2023), which is part 
+of a regional project to incorporate the gender approach 
+into transparency and ATI policies. The country also 
+introduced the Plan of Municipal Transparency to promote a 
+transparency management model at the local government 
+level. With regard to COVID-19 and the health sector, the 
+government shared some progress related to proactive 
+disclosure through a centralised website, as well as the 
+implementation of an inclusive public health policy for 
+persons with disabilities that guarantees the accessibility of all 
+published information, including the different formats, text, 
+simple audio and sign language.
+Sierra Leone and Tunisia also reported on SDG 16.10.2, 
+highlighting the performance of their ATI oversight 
+bodies. Sierra Leone reported on its Proactive Disclosure of 
+Information scheme and its participation in the UNESCO 
+survey on SDG 16.10.2 since 2019.39 Tunisia reported a 
+growing interest of the public to exercise the right to 
+information, as evidenced from the high number of appeals 
+processed by l’Instance Nationale d’Accès à l’Information 
+(INAI) since its creation.40
+Meanwhile, Namibia reported its progress in the drafting 
+an Access to Information Bill, which was tabled for the first 
+time in Parliament in 2020. The country mentioned that the 
+bill is envisaged to give citizens greater access to information 
+and is hoped to be passed before the end of the 2021/2022 
+financial year.41
+38 https://sustainabledevelopment.un.org/content/documents/283682021_
+VNR_Report_Uruguay.pdf
+39 https://sustainabledevelopment.un.org/content/documents/279542021_
+VNR_Report_Sierra_Leone.pdf
+40 https://sustainabledevelopment.un.org/content/documents/279442021_
+VNR_Report_Tunisia.pdf
+41 P . 77 https://sustainabledevelopment.un.org/content/documents/279462021_
+VNR_Report_Namibia.pdfUNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+ATI reporting in Voluntary National Reviews   I
+23In the past years, UNESCO has also noted that although some countries have not yet adopted a specific ATI law for public 
+access to information, they still reported progress on ATI in other contexts. Cameroon, for instance, saw the value of access to 
+information in promoting social inclusion of vulnerable people.42 The United Arab Emirates presented Access to Information 
+as an important force in increasing the efficiency of healthcare providers and as what is “needed for planning and decision-
+making” . 43 
+Table 3. SDG 16.10.2 Reporting in the VNRs (2019-2021)
+Country Y ear of 
+VNRsAdopted a specific ATI 
+law for public access to 
+informationReported on “Adoption of 
+ATI guarantees”Reported on “ATI 
+Implementation”*
+Afghanistan 2021  
+Algeria 2019  
+Antigua and Barbuda 2021  Marked in a dashboard as making progress, but 
+without any details 
+Argentina 2020   
+Austria 2020   
+Azerbaijan 2019
+2021 =
+ 
+Bangladesh 2020   
+Bhutan 2021 
+Bulgaria 2020  
+Cabo Verde 2021 **
+Cameroon 2019 *
+Chile 2019   
+Colombia 2021   
+Congo (Republic of the) 2019  *
+Côte d’Ivoire 2019   
+Croatia 2019   
+Cuba 2021 *** 
+Czechia 2021  
+Denmark 2021  
+Dominican Republic 2021  
+Ecuador 2020   
+Gambia 2020  
+Ghana 2019  
+Guyana 2019   
+Iceland 2019  
+Indonesia 2019
+2021 =
+=
+
+Israel442019   
+Japan 2021  
+Kenya 2020  
+Kuwait 2019 
+Kyrgyzstan 2020  
+Lesotho 2019  *
+42 P . 80 https://sustainabledevelopment.un.org/content/documents/24180CAMEROON_Rapport_VNR_0507_2019.pdf 
+43 P . 60 https://sustainabledevelopment.un.org/content/documents/20161UAE_SDGs_Report_Full_English.pdf
+44 Israel withdrew from UNESCO on 31 December 2018UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I  ATI reporting in Voluntary National Reviews 
+24Madagascar 2021
+Malawi 2020   
+Malaysia 2021 
+Marshall Islands 2021 **
+Mauritius 2019 *
+Mexico 2021  
+Micronesia (Federated States of ) 2020  *
+Mongolia 2019  
+Morocco 2020   
+Namibia 2021 
+New Zealand 2019   
+Nicaragua 2021  
+Norway 2021  
+Palau 2019  
+Panama 2020 
+Papua New Guinea 2020  
+Paraguay 2021  
+Peru 2020 
+Philippines 2019  
+Qatar 2021 Marked as making progress, but without any details
+Republic of Moldova 2020  
+Rwanda 2019  
+San Marino 2021  
+Seychelles 2020   
+Sierra Leone 2021   
+South Africa 2019   
+Spain 2021   
+Sweden 2021  
+Thailand 2021  **
+Timor-Leste 2019   *
+Tunisia 2019
+2021 =
+ 
+Turkey 2019   
+United Kingdom of Great Britain 
+and Northern Ireland2019   
+United Republic of Tanzania 2019  
+Uruguay 2021   
+Vanuatu 2019   
+Zambia 2020 
+Zimbabwe 2021   
+* For the purpose of this report, implementation here refers to either implementation of ATI legal guarantees or implementation of access to information in a broader view, 
+including by countries that have not adopted an ATI guarantee. However, this report does not include any review on SDG 9.C which focuses on access to ICT by measuring the 
+“proportion of population covered by a mobile network, by technology” . 
+** The implementation aspect reported by these countries is more related to ‘access to media and ICT’ , and other human-rights issues, rather than ‘access to information held by 
+public authorities’ as inscribed in SDG 16.10.2
+*** Reported on the Constitution guaranteeing ATIUNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+ATI reporting in Voluntary National Reviews   I
+254.  
+USING ACCESS TO 
+INFORMATION TO ADVANCE 
+THE SDGS: CASE STUDIES 
+AND GOOD	PRACTICESUNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I   Using Access to Information to advance the SDGs: case studies and good practices
+264.1. SDG 16 interlinkages: the role of 
+Access to Information in COVID-19 
+recovery45 
+The research indicates that increased accountability, 
+greater participation and inclusion, and increased 
+transparency have positive effects on social 
+protection, equal opportunities and the eradication of 
+poverty.
+45  Extracted from the study “SDG 16 Interlinkages: How does progress on SDG 
+16 affect progress on other SDGs?” by UNDP’s Oslo Governance Centre and 
+German Development Institute/ Deutsches Institut für Entwicklungspolitik 
+(DIE): https://www.sdg16hub.org/topic/sdg-16-interlinkages-summary-
+findings There is strong evidence that progress on key aspects 
+of SDG 16 (namely, transparency, accountability, and 
+participation and inclusion) has enabling effects on 
+aspects of SDG 1 and SDG 10 that are critical for 
+COVID-19 recovery, namely, social protection, equal 
+opportunities, and the eradication poverty. 
+Such interlinkages were studied by UNDP’s Oslo Governance 
+Centre (OGC) and the German Development Institute 
+(DIE) between December 2020 and June 2021 through a 
+systematic literature review of academic papers since 2015. 
+In the context of the study, ‘SDG 16 interlinkages’ refer to the 
+potential of SDG 16 (Peace, Justice and Inclusion) to help or 
+hinder progress on other SDGs (SDG 16 → other SDGs).
+Figure 11: Approach to prepare systematic literature review on ‘SDG 16 Interlinkages’ – selecting key aspects of SDG 16 (Entry 
+Level) to examine their effects on key aspects of SDG 1 and SDG 10 (Impact Level). 
+Entry  
+Points
+Indirect 
+Impacts/ OutcomesIMPACT CLUSTER A:  
+Reduced Poverty 
+Reduce extreme and relative poverty (1.1, 1.2); 
+ensure income growth of bottom 40% (10.1)ENTRY CLUSTER 3:  
+Increased Transparency
+Transparent institutions (16.6); access to 
+information (16.10); anti-corruption (16.5)ENTRY CLUSTER 2:  
+Increased Participation and Inclusion
+Inclusive, participatory decision 
+making (16.7); legal identify (16.9)
+Direct 
+Impacts/ 
+PathwaysENTRY CLUSTER 1:  
+Increased Accountability
+ Accountable institutions (16.6)
+IMPACT CLUSTER C:  
+Increased Equal Opportunity
+Ensure equal rights to economic resources (1.4); 
+social, economic inclusion (10.2); equal 
+opportunity through elimination of 
+discriminatory laws policies and practices (10.3)IMPACT CLUSTER B:  
+Increased Social Protection
+Adoption of fiscal, wage and social 
+protection policies (1.3, 10.4); improve access 
+to basic services (1.4); reduce vulnerability to 
+economic and social shocks (1.5)
+Source: UNDP OGCUNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Using Access to Information to advance the SDGs: case studies and good practices   I
+27The review focused on links between key aspects of SDG 
+16 on the one hand (‘Entry Level’) and key aspects of SDG 1 
+(poverty reduction) and 10 (reducing inequality) on the other 
+(‘Impact Level’). With this approach, a Web of Science query 
+yielded 426 academic papers. Through screening, 60 papers 
+were identified as most relevant for in-depth analysis. The review found over 100 relevant interlinkages, grouped 
+under three SDG 16 themes: Accountability (SDG Indicator 
+16.6); Participation and Inclusion (SDG Indicators 16.7 and 
+16.9); and Transparency (SDG 16.6 and 16.10). 
+Figure 12: Reinforcing Feedback Loop R1 ‘Raising Awareness’
+R1Citizen 
+EngagementEducated 
+Population
+Access to Basic 
+ServicesA.  
+REDUCED 
+POVERTY
+B. 
+INCREASED 
+SOCIAL 
+PROTECTION
+Equitable 
+Spending 
+on Social 
+ServicesAwareness 
+of 
+PopulationAccess to 
+InformationAccess to 
+InformationDigitization
+Government 
+Prioritization of 
+Social Spending
+Source: UNDP OGC
+As seen above, ‘Access to Information’ falls under the 
+theme Transparency. Of the 60 reviewed papers, 20, 
+covering evidence from more than 145 countries, identified 
+evidence that increased transparency has positive effects 
+on SDG 1 and SDG 10. A key focus for the studies related to 
+the relationship between corruption and inequality and 
+poverty  include:
+ #Corruption creates a biased tax system and supports tax 
+evasion, which reduces revenue and undermines the 
+capacity of governments to fairly redistribute wealth 
+and to spend on social services, which would otherwise reduce poverty. Conversely, inequality motivates corrupt 
+behaviour and fosters an environment in which the 
+rich are more able to pay bribes. Enhancing contract 
+enforcement and economic and property rights can help 
+to control corruption and ensure fairer distribution. 
+ #Increased transparency in governance and the 
+control of corruption are crucial for inclusive financial 
+development, which, in turn, reduces income 
+inequality. If corruption is controlled while domestic 
+credit and finance increase, then income inequality will 
+decrease. UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I  Using Access to Information to advance the SDGs: case studies and good practices 
+28 #Corruption is less likely to occur when the likelihood of 
+being caught and punished is relatively high; this largely 
+depends on financial transparency, oversight, 
+regulation and enforcement, and access to 
+information. Factors such as education and awareness, 
+an independent media and higher salaries also inhibit 
+corruption. 
+ #Controlling corruption results in greater access to 
+health and education services. Increasing access to 
+information also increases awareness of target 
+populations and improves social protection 
+programmes.
+The review also mapped some causal pathways and feedback 
+loops between the studied SDGs. The feedback loops (s) 
+are important for identifying key entry points, interventions 
+and accelerators that can deliver (or undermine) desirable 
+outcomes. Below is one such feedback loop which relates to 
+‘Access to Information’ .
+The present research findings may be useful as they 
+provide policymakers with facts to argue that investing 
+in achieving SDG 16 will determine how societies cope 
+with the devastating consequences of the pandemic 
+and other current and future crises. More specifically, the 
+findings indicate that, when policymakers do invest 
+in accountability, participation and transparency, 
+their interventions on social protection, poverty 
+reduction and reducing inequalities are more effective. 
+Understanding which aspects of SDG 16 are particularly 
+enabling helps policymakers focus their efforts and 
+budgets. The findings flag interlinkages that are enabling in 
+many countries. They need to be verified in a given context 
+and can then be used to prioritize policies and funding 
+to implement them. At a time when time and money are 
+essential to saving lives and rebuilding livelihoods, this 
+information is more critical than ever.4.2. Shaping	the	way	political	systems	
+work:	Access	to	Information	for	
+inclusive,	effective	and	accountable	
+institutions46
+There were stark differences in the average levels of 
+Checks on Government, Clean Elections, and Impartial 
+Administration between countries with Access to 
+Information laws, and those without, indicating the 
+close relationship between accountable institutions 
+and Access to Information. ”
+Global State of Democracy Indices, International IDEA
+Political systems are made up of formal institutions, as 
+well as key principles, or substance. This substance is a 
+set of common ideas that underpins and permeates the 
+entire system, defining the way it works. It is the common 
+agreements upon which politics rest and that underpin the 
+way formal institutions operate.47 They become an anchoring 
+principle, and as such, they define how the system works, its 
+‘philosophy’ . A fundamental such principle, as highlighted by 
+the Goal 16 Target 10, is the idea that citizens have the right 
+to know what is happening in their political systems. Access 
+to Information legislation is a key part of this right. 
+Access to information is at the heart of effective, 
+accountable, and inclusive institutions, which are a 
+cornerstone of Goal 16. Equal access to information for 
+everyone, especially historically marginalised groups, is a key 
+prerequisite for the building of such institutions. It is critical 
+for political actors to be clear about how the mechanisms 
+of inclusion, such as gender-targeted public funding for 
+political parties or different quota systems, are prioritised in 
+the political agenda, developed into policy and implemented. 
+Such transparency is necessary for an evidence-based 
+evaluation of progress towards more inclusive institutions 
+capable of representing society in ways that can be verified.48
+46 This analysis is a special contribution from International IDEA to UNESCO, 
+written by Alberto Fernandez Gibaja and Alexander Hudson.
+47 Daly 2019 (Daly, Tom G. Democratic Decay: Conceptualising an Emerging 
+Research Field. Hague J Rule Law 11, 9–36. 2019: https://doi.org/10.1007/
+s40803-019-00086-2); Farrell and Schneier 2018 (Farrell, Henry John and 
+Schneier, Bruce, Common-Knowledge Attacks on Democracy. October 2018: 
+Berkman Klein Center Research Publication No. 2018-7, Available at SSRN: 
+https://ssrn.com/abstract=3273111 or http://dx.doi.org/10.2139/ssrn.3273111). 
+48 International IDEA. Gender-targeted Public Funding for Political Parties: A 
+Comparative Analysis. International IDEA. 2018UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Using Access to Information to advance the SDGs: case studies and good practices   I
+29Secondly, effective institutions rely more and more 
+on data, and proper and fair management of data relies 
+on openness in the way data is handled, accessed, and 
+managed. Securing access to such information allows 
+institutions to harness all the potential of data effectively 
+without compromising fundamental rights. This has been the 
+case, for example, in the efforts to bring cheaper medicines 
+to patients in South Africa or to drive more effective 
+reconstruction in Nepal after the 2015 earthquakes.49
+Lastly, is the key role that access to information laws play 
+in creating accountable institutions. Accountability 
+refers to the capacity to demand answers, voice concerns 
+and, if needed, enforce consequences, either positive or 
+negative, on governing actors and institutions.50 It captures 
+the idea that, even if decision and policy making powers 
+are delegated to public authorities and representatives, the 
+formal holders of power are citizens. In order to exert their 
+power, full and guaranteed access to information is a 
+sine qua non. For accountability to work, rights holders need 
+to have access to the information necessary to answer all 
+the questions they might have. Examples abound, such 
+as the different anticorruption protests that have recently 
+taken place, some of which were based, among other things, 
+on the access (or rather lack of access) to information. 51 
+In these cases, protestors demanded more accountability 
+from political leadership and clear consequences for corrupt 
+practices. 
+At a broader level, the International IDEA’s Global State of 
+Democracy Indices observed there were stark differences 
+in the average levels of Checks on Government, Clean 
+Elections, and Impartial Administration between 
+countries with Access to Information laws, and those 
+without52, indicating the close relationship between 
+accountable institutions and Access to Information. This 
+suggests that countries with Access to Information laws 
+in place are, on average, more accountable, their institutions 
+are more independent and impartial, and their elections 
+are cleaner. 
+When Access to Information is guaranteed through 
+constitutional, statutory or policy means, not only is a legal 
+mechanism created, but a change in the substance of the 
+political system appears. This change in the substance 
+can permeate all levels of governance, and push authorities 
+49  van Schalkwyk, Young and Verhulst 2017 (van Schalkwyk. Francois, Andrew 
+Young and Stefaan Verhulst. Code4SA Cheaper Medicines for Consumers. 
+Open Data for Developing Economies Case Studies. July 2017); McMurren et al 
+2017 (McMurren, Juliet, Saroj Bista, Andrew Young and Stefaan Verhulst. Open 
+Data to Improve disaster Relief. Open Data for Developing Economies Case 
+Studies. July 2017).
+50  Bjuremalm, Helena, Alberto Fernandez Gibaja and Jorge Valladares. 
+Democratic Accountability in Service Delivery: A Practical Guide to Identify 
+Improvements through Assessment. International IDEA (2014).
+51  Chayes, Sarah. Fighting the Hydra: Lessons from Worldwide Protests Against 
+Corruption. Carnegie Endowment for International Peace. 2018.
+52  International IDEA. Global State of Democracy Indices, Version 5, (1975-2020). 
+2021.towards more inclusive, more effective and more accountable 
+governance. It is upon these institutional principles that 
+societies can flourish. 
+Figure 13: Checks on Government, Clean Elections, and 
+Impartial Administration between countries with and without 
+ATI laws. 
+No ATI LawATI LawChecks on Government
+Group indicator mean0,60
+0,43
+No ATI LawATI LawClean Elections
+Group indicator mean0,65
+0,42
+No ATI LawATI LawImpartial Administration
+Group indicator mean0,53
+0,39
+Sources: International IDEA, The Global State of Democracy Indices, 1975-2020; UN 
+Statistics Division, SDG Indicators
+4.3. Regional Focus: Commitment 
+versus action in Africa – 
+Implementation is as important as 
+adoption	of	Access	to	Information	laws
+The AFIC study noted that the relative lack of 
+disclosure in the health sector suggests vital flaws 
+in the institutional setup, creating a bigger gap 
+for compromised service delivery and insufficient 
+dissemination of key information on COVID-related 
+issues.
+As a fundamental and universal human right, access to 
+information (ATI) is particularly relevant in the management 
+of the ongoing COVID-19 pandemic in providing citizens with UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I  Using Access to Information to advance the SDGs: case studies and good practices 
+30reliable, timely and independent information. This, however, 
+remains a challenge even in countries with constitutional and 
+legal guarantees for access to information.
+Fifteen countries from Africa responded to the UNESCO 
+survey. Among these, 11 countries have ATI laws, three are in 
+progress of being elaborated and one country does not have 
+a separate legislation on ATI. Nine countries also reported 
+to have a dedicated oversight institution, of which six are 
+Information Commissions. Nine countries reported that their 
+legal guarantee on Access to Information specifies the need 
+for public bodies to also appoint public information officers 
+or a specific unit to handle Access to Information requests 
+from the public. Nine countries reported provisions for the 
+dedicated Access to Information oversight institutions to 
+provide implementation guidance and offer training to 
+officials from public bodies.
+With this in mind, the Africa Freedom of Information Centre 
+(AFIC)53 conducted in 2021 a research project54 in some 
+African countries assessing the state of implementation 
+of national ATI legislation. The research found examples 
+of restrictions to access to information and the use of 
+emergency measures to impose broad restrictions on 
+the speech of journalists, activists and whistle-blowers for 
+attempting to release information on governments’ capacity 
+and handling of the pandemic. According to the researchers, 
+the COVID-19 pandemic in these cases had challenged 
+governments’ de facto commitment to and implementation 
+of the right to information. 
+The AFIC project aimed at sampling the level of ATI 
+implementation in three sectors: health in the context of 
+COVID-19; environment/climate; and financial proactive 
+disclosure of budgets. The assessments of the level of 
+implementation of ATI legislation in each country were based 
+on methodology developed by the Freedom of Information 
+Advocates Network (FOIAnet), of which AFIC is a member. 
+The methodology55 assesses the extent to which countries 
+with ATI laws are implementing them properly in accordance 
+with three parameters: (1) the extent to which a State is 
+proactively disclosing information; (2) the extent to which 
+53  The Africa Freedom of Information Centre (AFIC) is the largest membership 
+pan-African civil society organization and resource center that promotes 
+citizens’ right of access to information, transparency and accountability across 
+Africa. AFIC has extensive experience in successfully conducting relevant 
+research and proposing reforms to African governments in the areas of 
+open contracting and access to information. It also has strong experience in 
+strengthening capacities of both governments and civil society partners and is 
+recognized as a strong partner by procurement authorities across Africa.
+54  https://africafoicentre.org/download/together-for-reliable-information-civil-
+society-synthesis-report-on-monitoring-sdg-16-10/
+55  This study is based on data collection that was self-reported by national 
+consultants. It is important to keep in mind that the study does not measure 
+the entirety of any of the study countries’ implementation of their respective 
+ATI legislation. Rather, the study has provided a random sampling of MDAs in 
+three sectors (health in the context of COVID-19; environment/climate; and 
+financial proactive disclosure of budgets) to give a snapshot of the state of ATI 
+implementation of those institutions/sectors.institutional measures have been put in place to assist with 
+implementation; and (3) the extent to which requests for 
+information are being responded to timeously and dutifully 
+(assessed via a simple request testing approach). 
+The study found significant variations between countries 
+in terms of governance arrangements and ability to adopt 
+practices that promote transparency and accountability 
+in regard to access to information. 
+A special attention of this study was put on the health sector 
+due to its key role in providing reliable and timely access to 
+health and COVID-19 related information. On this, the study 
+noted that the relative lack of disclosure in the health sector 
+suggests vital flaws in the institutional setup, creating a 
+compromised service delivery and insufficient dissemination 
+of key information on COVID-related issues. 
+Taking into consideration the findings of the AFIC study and 
+the analysis based on the responses from the 15 African 
+countries that responded to the UNESCO survey, it can be 
+concluded that it is of key importance to have constitutional 
+guarantees for ATI as well as a separate legislation on ATI. In 
+addition to legal guarantees for ATI, an effective institutional 
+setup is needed, including an independent ATI oversight 
+body. Clearly defined and appointed roles and responsibilities 
+and continuous training of duty bearers should also be 
+introduced. In addition, there should be common standards 
+for promoting ATI, broader collaboration between Ministries/
+Departments/Agencies (MDAs), periodic reviews of ATI 
+implementation, and stronger enforcement of punitive action 
+against non-compliance with the law. The adoption and 
+adaption of ICT is also key for maximizing reporting capacity, 
+cost efficiency, efficiency in record management, timeliness, 
+and easy access to information, as well as annual work plans.
+Equally important, is to maintain a strong focus on the 
+demand side of ATI. This includes providing continuous 
+training and sensitization to civil society. Through such 
+training, non-state actors, both in business and civil society, 
+should and will be able to more effectively advocate for 
+the full implementation of systems and processes across 
+the state sector, that would in turn enable greater access to 
+information. 
+While the right to information (legislation and constitutional 
+guarantees securing the legality of this right) is intrinsically 
+important to transparent and accountable democratic 
+governance, the right to information does not necessarily 
+translate into access to information. ATI commitment 
+and implementation by national governments, as the 
+primary duty bearers for progress towards the Sustainable 
+Development Goals, must therefore be consistently 
+reassessed to ensure implementation of legal provisions; and 
+legal provisions must be adjusted continuously to meet the 
+needs of those they seek to serve; the people.UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Using Access to Information to advance the SDGs: case studies and good practices   I
+314.4. National Focus: Promoting proactive transparency during COVID-19 in Mexico
+Figure 14: Proactive transparency platform of Mexico’s INAI
+As part of its policy on proactive transparency, the National 
+Institute for Transparency, Access to Information Protection of 
+Personal Data (INAI) of Mexico has developed a platform56 to 
+promote the dissemination of useful and reliable information 
+about the COVID-19 pandemic to the general public and the 
+authorities.
+Developed in March 2020, the platform – also called as the 
+“COVID-19 microsite” – processes, systematizes, publishes 
+and disseminates information about the pandemic. With 
+one of the aims being to generate reassurance among the 
+public during the health crisis, the platform makes visible the 
+strategies, actions and measures that are part of the public 
+health policy adopted by the Federal Government in Mexico.
+The platform also allows visitors to consult statistics related 
+to access to information (ATI) requests about COVID-19 and 
+the types of information that are frequently requested. This 
+way, public authorities can identify the kind of information 
+that they need to publish proactively, while anticipating the 
+responses they need to provide. As of 15 May 2021, as many 
+as 43,556 requests had been analyzed. The information is 
+56  https://micrositios.inai.org.mx/gobiernoabierto/?page_id=6775updated every 15 days to generate the following statistics: 
+a) top 5 requests by categories; b) status of responses to 
+requests; c) type of response provided by the obligated 
+entities (public authorities that are under obligation to 
+respond the requests); d) top 10 obligated entities with the 
+highest number of requests; and e) historical behaviour of the 
+ATI requests per day. By making available information on the 
+performance of the authorities, as well as the measures and 
+strategies implemented for the management of health crisis, 
+the platform has also stimulated the accountability among 
+public authorities.
+Visitors can also access the open data section, where the 
+complete database containing the ATI requests can be 
+downloaded and repurposed for analysis and other uses. The 
+platform also incorporates national and local transparency 
+portals that concentrate useful information on COVID-19. 
+As of 2021, portals of 14 state-level oversight agencies have 
+been integrated into the platform: Morelos, Nuevo León, 
+Quintana Roo, Oaxaca, Estado de Mexico, Veracruz, Jalisco, 
+Guanajuato, Zacatecas, Guerrero, Durango, Chiapas and 
+Puebla.UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I  Using Access to Information to advance the SDGs: case studies and good practices 
+324.5. National Focus: Access to information by local authorities in Ukraine during 
+the COVID-19 pandemic57
+Figure 15: Key survey resultsKEY SURVEY RESULTS
+A SURVEY ON HOW LOCAL AUTHORITIES ARE PUBLISHING 
+INFORMATION ABOUT PROTECTIVE MEASURES AGAINST COVID-19, 
+AND HOW THEY REPLY TO THE REQUESTS FOR INFORMATION
+The survey was conducted on  24-30 March, 2020 to assess the work of holders of public information 
+on how they are publishing information about protective measures against COVID-19, and how they reply 
+to the requests for information
+HOLDERS 
+OF PUBLIC 
+INFORMATION7474
+34%
+66%REQUESTS  
+for access to public 
+information 
+REPLIES FOR ACCESS TO PUBLIC 
+INFORMATION RECIEVED IN TIME
+within 48 hours of the request 
+being received74
+OFFICIAL 
+WEBSITES
+checked148
+EVALUATION 
+FORMS
+Oblast
+Councils
+undone 
+doneCity Councils
+at the Oblast
+levelOblast
+State
+Administrations
+30%
+70%
+REPLIES RECIEVED 
+IN A REQUESTED 
+FORMundone 
+done
+Source: Infographics by UNDP
+57  See “Enabling the implementation of the 2030 Agenda through SDG16+: 2021 Epilogue” by the Global Alliance for Reporting Progress on Peaceful, Just and Inclusive 
+Societies; source: UNDP Ukraine. Infographics in English and the full report in Ukrainian is available here: https://www.ua.undp.org/content/ukraine/en/home/library/
+democratic_governance/access-to-public-info-re-covid-response.html 
+Access to reliable information related to COVID-19 is of 
+critical importance to provide the opportunity for the 
+public to make informed decisions about their health 
+and security. For this reason, the regional network of the 
+Ukrainian Parliamentary Commissioner for Human Rights 
+conducted a rapid monitoring on how local authorities 
+were publishing information about protective measures 
+against COVID-19, and how they address citizens’ freedom 
+of information requests. Through this monitoring exercise, 
+regional coordinators assessed the work of 74 subnational 
+authorities through analysis of the local authorities’ responses 
+to the freedom of information requests and evaluation of 
+their official websites. The survey concluded that information holders mostly 
+publish information about protective measures against 
+COVID-19 systematically and on time. However, some local 
+authorities need to take measures for the improvement 
+of access to information, namely its comprehensiveness. 
+Based on the findings of the survey, UNDP experts provided 
+recommendations on how local authorities can enhance 
+the provision of access to public information and widely 
+promoted them through the regional network of the 
+Ombudsperson’s Office. UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Using Access to Information to advance the SDGs: case studies and good practices   I
+33The recommendations are as follows:
+1. Information holders, state authorities and local 
+governments during the quarantine period must ensure 
+requests for public information can be submitted at all 
+times by email. Email addresses for making requests must 
+be published on the official websites so that everyone 
+can easily find them.
+2. It is necessary to organize the work of public officials and 
+divisions responsible for access to public information in 
+such way that they can process requests and provide 
+access to information in a timely manner. Replies to the 
+requests should be: #Submitted on an official form with the letterhead 
+of the information holder, and with the registration 
+number and signature of the responsible person;
+ #Sent from an official email address for requests for 
+access to public information, or from the official email 
+of the information holder.
+3. Regulatory and normative acts on protective measures 
+against the novel coronavirus disease (COVID-19) must be 
+immediately published on official websites. Information 
+holders must publish full texts of these normative acts, 
+mentioning the date when they were adopted, and their 
+registration number. Plans of protective measures and 
+details of where to request additional information must 
+be published too. Easy navigation of the website is also 
+important.UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+I  Using Access to Information to advance the SDGs: case studies and good practices 
+34CONCLUSION
+Reporting on SDG 16.10.2 serves as an incentive for 
+countries to improve their legal regulatory frameworks, 
+their implementation and/or their enforcement of Access to 
+Information (ATI). In this regard, the UNESCO survey, which 
+provides a standardised approach to monitoring SDG 16.10.2, 
+has proven useful for countries in measuring and reporting 
+progress on ATI at the national level, including through the 
+Voluntary National Reviews, the Universal Periodic Review 
+that concerns the human rights records, the Follow-up 
+Mechanism for the Implementation of the Inter-American 
+Convention against Corruption (Mecanismo de Seguimiento a 
+la Convención Interamericana contra la Corrupción, MESICIC), 
+and parliaments.
+The findings of the survey in this report suggest that having 
+a specialised ATI oversight institution is fundamental to 
+ensure ATI law implementation and enforcement. This was 
+made evident by the higher scores obtained by countries 
+and territories that have such a specialized institution. 
+Experience around the world shows that these institutions 
+play key roles in advocating for standards and good 
+practices, as well as helping to address challenges in ATI 
+implementation. 
+The low level of data availability for 2020 reinforces the need 
+for the ATI oversight institutions to improve their record-
+keeping systems. Fortunately, ATI oversight institutions in 
+some countries and territories provide good examples in 
+reorganizing their working methods during the pandemic, 
+which can be replicated by other countries and territories. 
+Since what cannot be measured cannot be improved, it is 
+vital to ensure adequate and reliable records of the requests 
+and appeals received, so that evidence can be generated 
+to track progress. Good evidence-based reporting can also 
+help ATI oversight institutions in negotiating for financial and technical resources with policymakers and other stakeholders, 
+which in turn would help address the challenges related to 
+management and limited resources. 
+Emerging from the 2021 survey process, it is important 
+that central bodies responsible for the SDGs involve ATI 
+oversight institutions and their networks in SDG 
+processes at the national and regional levels. UNESCO’s 
+experience shows that these networks are indispensable in 
+the improvement of ATI monitoring and reporting processes. 
+As also implied by SDG 17, the power to drive change 
+is vested in alliances and partnerships. The International 
+Conference of Information Commissioners, Red de 
+Transparencia y Acceso a la Informacion and the International 
+Ombudsman Institute have all demonstrated successful 
+collaborations in replicating and scaling-up initiatives that 
+have accelerated both the adoption and the implementation 
+of ATI guarantees. 
+Equally important is to strengthen the involvement of civil 
+society in the monitoring and reporting on SDG 16.10.2. 
+While the UNESCO survey provides an opportunity for 
+governments to make a self-assessment against their own 
+performance, monitoring and reporting by civil society can 
+offer alternative data and perspective. Having a direct access 
+to the grassroots level, civil society can also help ensure 
+that women and vulnerable groups, including persons with 
+disabilities, are included in the ATI agenda. 
+With nine years left to achieve the SDGs, and with global 
+challenges becoming more interconnected, the message is 
+clear that access to information should be the thread that 
+binds together the diverse actions in rebuilding communities 
+and strengthening public institutions towards 2030 and 
+beyond. UNESCO 2021 REPORT ON PUBLIC ACCESS TO INFORMATION (SDG 16.10.2)  
+Using Access to Information to advance the SDGs: case studies and good practices   I
+35Building forward stronger with Access 
+to Information
+As countries are trying to emerge from the COVID-19 pandemic, the role of 
+access to information continues to be critical in re-building communities 
+and their public institutions. The need for openness, transparency and 
+accountability has never been stronger. The world has witnessed a growing 
+public appetite for information that is accurate, timely and reliable. With civic 
+space becoming more reduced during the pandemic, access to information 
+has helped counterbalance the situation, enabling public participation and 
+civic engagement in response to the crisis. 
+As the UN custodian agency for Sustainable Development Goals (SDG) 
+Indicator 16.10.2, UNESCO continues to report on progress on the adoption 
+and the implementation of Access to Information guarantees worldwide. The 
+Organization also promotes efforts around the issue, including reinforcing the 
+strong relevance of access to information to crisis recovery and the attainment 
+of the SDGs as a whole. 
+This report captures these different dimensions, presenting key findings from 
+the 2021 UNESCO Survey on Public Access to Information, assessing progress 
+in 102 participating countries and territories. The report also provides policy 
+makers, civil society, academia, and those interested in SDG issues with 
+different case studies and good practices with a special focus on rebuilding 
+communities and public institutions with access to information.
+This report is supported by Sweden, Germany and the Netherlands through the International Programme for the Development of Communication (IPDC).
+9789231 005046

@@ -1,0 +1,1532 @@
+COVID 19, 
+technology-based 
+education 
+and disability:  
+The Case of Mauritius
+Emerging practices in inclusive 
+digital learning for students 
+with disabilities Typesetting: IP Guslisty 
+The views and opinions expressed in this publication are those of the authors 
+and do not necessarily represent those of UNESCO. The designations employed and the presentation of material do not imply the expression of any opinion whatsoever on the part of UNESCO concerning the legal status of any country, territory, city, or area, or its authorities, or concerning its frontiers or boundaries.
+This publication was produced by UNESCO, in the context of the Global Programme Supporting Disability Inclusive Covid-19 Response and Recovery at National Level supported by the United Nations Partnership on the Rights of Persons with Disabilities (UNPRPD) Multi Partner Trust Fund.
+International Institutefor Educational Planning
+© UNESCO 20213
+COVID 19, technology-based education and  disability: The  case of MauritiusContents
+Acknowledgements 4
+List of figur
+es
+ 5
+List of tables
+ 5
+Abbr
+eviations and acronyms
+ 6
+The education system in Mauritius: An o
+verview
+ 7
+Major educational reform: Nine Year Continuous Basic Education  7
+NY
+CBE and special education needs
+ 7
+Brief overview of SEN education in  Mauritius   8
+Laws and policies on disability  8
+Definition of a disabled person
+ 8
+Definition of special educational needs
+ 8
+Norms and standar
+ds in the SEN schools
+ 10
+Special needs education in Mauritius
+ 10
+Special Education Needs Authority 
+ 11
+Classification and prevalence of disabilities   12
+Classification of disabilities and children with disabilities 12
+Pr
+evalence of disability in SEN schools in Mauritius
+  13
+Over
+all data in SEN education 
+ 14
+Objectives and methodology  19
+Objectives 19
+Methodology 19
+Findings
+20
+Technological innovations in SEN education: Relevance, effectiveness, efficiency, impact, 
+and sustainability
+  22
+Barriers in the conte
+xt of
+ 
+Mauritius
+ 25
+C
+OVID-19 and learners with disabilities: Post-COVID-19 recovery for policy and practice
+  26
+Recommendations for the r
+ole of technology for learners with disabilities in a post-COVID 
+environment/recovery plan
+ 
+in
+ 
+Mauritius
+  27
+National ICT policy for SEN education  28
+Adapted SEN curriculum
+ 28
+T
+eaching and learning continuum
+ 29
+T
+echnological infrastructure
+ 29
+Empo
+wering key stakeholders
+ 30
+School–home partnership 
+ 31
+Quality assur
+ance
+ 31
+Unified implementation str
+ategy
+ 31
+W
+orking with partners
+ 31
+Conclusion   32
+Refer
+ences 33
+Appendix 35
+About the author
+ 374
+COVID 19, technology-based education and  disability: The  case of MauritiusAcknowledgements
+This case study would not be possible without the contributions of key informants from the Ministry of Educa -
+tion, Tertiary Education, Science and Technology; non-governmental organizations; Disabled Peoples’ Inter-
+national; disabled people’s organizations; the Mauritius Institute of Education; the United Nations Develop-
+ment Programme; Inclusion Mauritius Government Integrated Unit in J. T. Ramsoondur Government School; 
+and the Special Education Needs Resource and Development Centre. While working from home in Mauritius, 
+I have valued the readiness of informants to share their insights remotely under very difficult COVID-19 re-
+lated circumstances.
+Heartfelt appreciation to the UNESCO Institute for Information Technologies in Education and the Interna-
+tional Institute for Educational Planning teams for giving me the opportunity to engage in promising and hu-
+manistic research and for the constant support and constructive feedback. 5
+COVID 19, technology-based education and  disability: The  case of MauritiusFigure 1: Three-pronged approach 9
+Figure 2: Enrolment in SEN schools by type of impairment and gender, 2020 13
+Figure 3: Enrolment in SEN schools by gender, 2020 13
+Figure 4: Expenditure on education as a percentage of total government expenditure (2018–2021) 14
+Figure 5: Government expenditure on education by sector, 2018/2019 – 2020/2021 14
+Figure 6: Enrolment of male and female students in SEN schools, 2015–2020 15
+Figure 7: Age group distribution of SEN learners, 2015–2020 15
+Figure 8: Number of teaching staff from 2015–2019 15
+Figure 9: Distribution of SEN schools by district and type of administration, 2020 16
+Figure 10: Enrolment in SEN schools by gender and district, 2020 16
+Figure 11: Personnel in SEN schools by gender, 2020 17
+Figure 12: Personnel in SEN schools, 2018–2020 17
+Figure 13: Recommendations for ODL solutions in SEN education 27
+Table 1: Classification of disabilities into eight categories 12
+Table 2:  Classification of children with disabilities according to learning needs 12List of figures
+List of tables6
+COVID 19, technology-based education and  disability: The  case of MauritiusAbbreviations and acronyms
+CWD  children with disabilities  
+DPI  Disabled Peoples’ International  
+DPO  disabled peoples’ organization  
+ICT information and communication technology
+GIUs Government Integrated Unit  
+MIE  Mauritius Institute of Education  
+MoETEST  Ministry of Education, Tertiary Education, Science and Technology  
+NGOs  non-governmental organizations  
+NYCBE  Nine Year Continuous Basic Education  
+ODL  open and distance learning  
+OERs  open educational resources  
+RCEA  Roman Catholic Education Authority       
+SeDEC  Service Diocésain de L’Éducation Catholique  
+SENA  Special Education Needs Authority 
+SENRDC  Special Education Needs Research and Development Centre  
+SEN  special education needs
+SDG    Sustainable Development Goal 
+UNCRC United Nations Convention on the Rights of the Child
+UNCRDP  United Nations Convention on Rights of Persons with Disabilities  7
+COVID 19, technology-based education and  disability: The  case of MauritiusThe education system in Mauritius: 
+An overview
+The Government of Mauritius strongly supports the right to education and confirms this with its firm commit-
+ments to promote education. Children in the Republic of Mauritius have had the privilege to enjoy free edu-
+cation through secondary level since 1976, through post-secondary level since 1988, and, as of the academic 
+year of 2019, free higher education in public tertiary education institutions.1 The education system in Mauri-
+tius is largely based on the British system, as Mauritius was a former British colony. Education in Mauritius 
+is compulsory from ages 5 to 16. This law aligns with the fundamental principles of the right to education 
+for all children, ensuring that the students have a certain level of literacy, numeracy, and life skills to lead 
+a decent life. The present education system allows a pupil to study for two years at the pre-primary level. 
+This sub-sector builds the foundations upon which all future learning depends. 
+Major educational reform: Nine Year Continuous Basic Education
+Mauritius witnessed a major and comprehensive change with the Nine Year Continuous Basic Education 
+(NYCBE) reform that took place in 2017. It established a sound foundation for learning and self-development, 
+with a strong emphasis on the holistic development of the child. The NYCBE2 is guided by six major pillars: 
+curriculum change, innovative pedagogies, meaningful assessment, continuous professional development, 
+conducive learning environment, and system governance and accountability. It is equally important to high-
+light that the reform is guided by Sustainable Development Goal (SDG) 4, which ensures inclusive and equita-
+ble quality education for all and promotes lifelong learning. 
+NYCBE and special education needs
+The NYCBE is grounded in a holistic philosophy that emphasizes both greater equity and equality of learning 
+opportunities for all students, enabling them to unleash their true potential, regardless of geographical loca-
+tion or socio-economic background.
+It is crucial to emphasize that Objective 4 of the NYCBE clearly stipulates that learning opportunities must be 
+provided to all students, including those with special education needs (SEN), for them to attain high levels 
+of achievement according to their abilities and strengths. 
+In the context of the educational reform, all the children identified as having SEN will have the opportunity 
+to access education to the extent possible in the most appropriate educational settings, including mainstream 
+and SEN schools. This educational system does not force all children to reach the highest level of the NYCBE 
+(Grade 9), where appropriate assessment procedures will determine up to what level a child would be able 
+to succeed in the school. Altogether, through necessary adaptations, interventions, modifications, and ac-
+commodations, this new system is in place to create greater learning opportunities for children with disabili-
+ties to unleash their true potential.
+The NYCBE also allows early diagnosis of students with learning difficulties; early interventions assist those 
+learners through the early support programme, requiring remediation in a timely and effective manner. 
+Hence, support teachers/paraprofessional teachers have been recruited and trained to assist the class teach-
+er in teaching pupils facing learning difficulties. Bearing equity, inclusion, and access in mind, the extended 
+stream also forms part of a similar approach, where, after Grade 6, students who would not have reached 
+the required standard will still move on to a regional secondary school. However, these students will enter 
+an extended four-year stream with the same curriculum as the mainstream three-year programme. 
+1  https://education.govmu.org/Documents/educationsector/Documents/2019/Communique%20250119.pdf . 
+2  https://education.govmu.org/Documents/educationsector/nys/Documents/NYCBE%20Booklet.pdf.8
+COVID 19, technology-based education and  disability: The  case of MauritiusBrief overview of SEN education 
+in Mauritius 
+Laws and policies on disability 
+It is acknowledged that there are a number of laws in the Republic of Mauritius that relate specifically 
+to the rights of persons with disabilities. Key legislation includes the Trust Fund for Disability Act, 1988; Equal 
+Opportunity Act, 2008; Training and Employment Act, amended 2012; National Council for the Rehabilitation 
+of the Disabled Act, 1986; and Lois Lagesse Act, 1983. Mauritian law promotes employment opportunities 
+and career advancement for persons with disabilities in the labour market through the passing of the Train-
+ing and Employment of Disabled Persons Act 1996 3 (‘the Act’).
+Definition of a disabled person
+A disabled person is defined under the Act as a person certified as such by the Training and Employment 
+of Disabled Persons Board, an institution established for the purposes of ensuring compliance with the Act. 
+Two conditions must be met so as to be certified as a disabled person:
+1.  have a long-term physical disfigurement or physical, mental, or sensory disability, including a visual, 
+hearing, or speech functional disability, which gives rise to barriers or prejudices impeding his/her 
+participation at an equal level with other members of society in major life activities, undertakings or 
+fields of employment that are open to other members of society;
+2.  be willing and able to work.
+The law states that every employer is under an obligation to employ a number of persons with disabili-
+ties, representing 3 per cent of his/her workforce. The employer has a duty to provide suitable employment 
+to a person with a disability which is adapted to his/her disability. As per Section 14 of the Act: ‘No disabled 
+person shall be employed on work which, having regard to the nature of his disability, is not suitable.’
+Definition of special educational needs
+As per the Special Needs Strategy document 2017,4 the term ‘special educational needs’ has a legal defini-
+tion, referring to children who have learning problems or disabilities that make it harder for them to learn 
+than most children of the same age. Many children will have SEN of some kind at some time during their 
+education. Gifted learners also have SEN, as they require acceleration of curriculum and curricular practices. 
+In its commitment to the philosophy of an inclusive-driven approach, the Ministry of Education, Tertiary Ed-
+ucation, Science and Technology (MoETEST) embarked on a series of inclusion-driven affirmative initiatives 
+for learners with disabilities. The Republic of Mauritius signed the United Nations Convention on the Rights 
+of Persons with Disabilities (UNCRPD) on 25 September 2007, which requires the education system of Mauri-
+tius to be responsive to the education needs of all learners, including those with SEN, and ratified it (with res-
+ervation) in January 2010. (The three reservations made to the UNCRPD were: article 9 on Accessibility, Article 
+24 on Education, and Article 11 on Situations of risk and humanitarian emergencies.) The first report on 
+the implementation of the UNCRPD in line with Article 35 was submitted in 2012. As a signatory/adherent 
+to the following international agreements/declarations, the Government of Mauritius is committed to estab-
+lishing an inclusive education system in the country:
+• UN Convention on the Rights of the Child (UNCRC) (1989),
+• Jomtien World Declaration on Education for All (1990),
+3  https://www.ilo.org/dyn/natlex/docs/WEBTEXT/45308/65039/E96MUS01.htm  
+4  https://education.govmu.org/Documents/educationsector/Documents/Special%20Education%20Needs/SEN_Strategy_2017_Final.pdf.9
+COVID 19, technology-based education and  disability: The  case of Mauritius•Salamanca Statement and Fr amework for Action (UNESCO, 1994),
+•Dakar Fr
+amework for Action (Dakar World Education Conference, UNESCO, 2000),
+•UNCRPD (2006).
+The 2016 
+amended version of the 1968 Constitution of Mauritius makes provisions regarding non-discrim-
+ination on the basis of race, place of origin, political preference, colour, creed, or sex (Section 3) without 
+explicitly laying down the right to education. Similarly, the constitution restricts the rights to vote and be elected for some persons with disabilities and contains outdated terminology – such as ‘persons of unsound mind’ – in Articles 34 (1) and 43, echoed in the Electoral Law, Local Government Act (1989), Section 29, Rodri-gues Regional Assembly Act (2001) Section 5, Subsection 2. These restrictions call for amendments. However, this fundamental right was supported by other legislative and policy frameworks aligning with the National Human Rights Commission. It is equally significant to point out that the right to education is explicitly stipu-lated in the Universal Declaration of Human Rights
+5 (1948), along with many other international human rights 
+instruments. The right to education was further echoed in the 2008 Equal Opportunities Act, which states that education institutions do not have the right to discriminate against any person, denying or limiting access to or participating in education, unless the person requires special services or facilities (Article 17).
+In the same spirit, within the education legislative framework, the amended 2014 version of the 1957 Edu-
+cation Act became the main legal document regulating the formal education system reiterating/reaffirming the right to access to schools with non-discrimination on the basis of race or religion (Section 35). 
+In 2006, the MoETEST developed the Special Needs and Inclusive Education Policy with broad consultations 
+at all levels in a multisectoral approach. The policy and strategy document was guided by the principles of in-clusion and equity and sets out a new approach for the development of all children and youth by ensuring equal opportunities with supportive environments, along with services for learners with disabilities designed to gradually integrate them into mainstream education. A greater flexibility in the age of admission to prima-ry school and in the completion of lower primary and upper primary were also possible. This policy document introduced a paradigm shift, adopting a needs-based approach while ensuring equal access to learning op-portunities for learners with SEN, based on a three-pronged approach (Figure 1). 
+Figure 1: Three-pronged approach
+Approach 1: 
+Mainstream 
+integration
+•Childr en with mild or moderate
+intellectual or sensorialimpairments can receiveeducation in regular schools
+•
+Support of ancillary staff and/or teachers and a consultancyservice is r
+equired
+•Agr
+eement with parents/
+guardian
+•Proper assessmentr
+equirementsApproach 2: 
+Integrated classrooms
+•Childrenwith mor
+e severe
+disabilitiesreceive educationin specializedsettingswithin regularpublic schoolsor in specialeducation class/unit or resourceroomApproach 3: 
+Special needs education/specialized schools
+•Appropriate assessmentis r
+equired
+•A medical certificate attestingdisability or psychological statusthat pr
+oves their learning disability
+is required for such measures
+•Childr
+en who are not able
+to attend regular schools areentitled to receive educationin special education schools,according to their needs
+5  https://www .un.org/en/about-us/universal-declaration-of-human-rights.10
+COVID 19, technology-based education and  disability: The  case of MauritiusThe Policy Framework and Strategy Document 2017 on Inclusive Education for Children and Youth with SEN 
+in Mauritius: Concept to Reality, which is both responsive and sensitive towards learners with disabili-
+ties, correlates with the policy directions of SDG 4 and the National Curriculum for NYCBE through the six 
+E’s of the philosophy of inclusion. These are: equity; equal access; equal opportunity; equal dignity; effective 
+communication; and embrace culture. The three R’s of inclusion - reach, respect, and relationship - are also 
+embedded in the policy document. The goal of this document is to maximize and optimize inclusive practices 
+to facilitate and achieve inclusion of all learners with SEN in the Republic of Mauritius by 2030. Hence, the pol-
+icy has been designed to fulfil its commitment to ‘ensure inclusive and equitable quality education and pro-
+mote lifelong learning opportunity’ by ‘leaving no child behind’. In this context, it is important to emphasize 
+that the most current Education and Human Resources Strategy Plan 2008–20206 also reiterates the right 
+for learners with disabilities to be included into the regular school system at all education levels.
+The Disability Bill – anticipated by the SEN sector – is in the consultation process; on 22 February 2021, the Min-
+ister for Social Security announced that it would be introduced at the national assembly as soon as possible7. 
+The Disability Bill will be adopted to apply the principles of the UNCRPD in Mauritius. 
+Norms and standards in the SEN schools
+The norms and standards8 for SEN schools provide a classification of disabilities, standards, and require-
+ments for learning provision in SEN schools/education institutions specifically targeted at children with SEN. 
+It is important to point out that the age of a child admitted in a SEN school is now between 5 and 20. The rec-
+ommended ratios for effective and efficient teaching and learning have been reviewed as follows:
+• The recommended teacher/pupil ratio is 1:7.
+• The recommended teacher/assistant teacher ratio is 2:1.
+• The recommended pupil/carer ratio is 15:1.
+• The recommended classroom/caretaker ratio is 8:1. 
+Exceptions will be made depending on the level of impairment; in which case the above ratios may be re-
+viewed by MoETEST.
+Special needs education in Mauritius
+The education system in the Republic of Mauritius has been responsive to learners with SEN. A major mile-
+stone in the history of special education was the enactment of three acts of parliament which gave birth 
+to three special education schools in the 1940s. These schools are still run by non-governmental organiza-
+tions (NGOs) but funded by the government. The schools are:
+• the School for the Deaf, founded by the Society for the Welfare of the Deaf (1965);
+• the School for the Blind, founded by the Society for the Welfare of the Blind, which was later renamed 
+Lois Lagesse Trust Fund (1946);
+• the School for Educationally Sub-Normal Children, founded by the Mauritius Mental Health Association 
+(1958).
+In 1970s, it was the parents who organized themselves into an NGOs. This was supported by the first Labour 
+Government (post-independence 1968–1982). In the early years, SEN schools were run by NGOs. Parastatal 
+bodies and NGOs began to provide specialized care, education, and training to children with disabilities, ad-
+olescents, and adults. Later, in 1981, the government took the initiative to celebrate the International Year 
+for Disabled Persons to provoke reactions from civil service with a hope of encouraging the public service 
+to react.
+6  https://uil.unesco.org/document/mauritius-education-and-human-resources-strategy-plan-2020-issued-200 9 
+7  https://gis.govmu.org/News/SitePages/La-ministre-Daureeawoo-r%C3%A9affirme-l’introduction-du-Disability-Bill-%C3%A0-l’Assembl%C3%A9e-nationale.aspx.
+8  https://education.govmu.org/Documents/educationsector/Documents/Special%20Education%20Needs/6.%20Norms%20and%20Standards.pdf.  11
+COVID 19, technology-based education and  disability: The  case of MauritiusAlthough affirmative efforts were made by the government and NGOs, education for SEN learners was not 
+apparent. However, after the Salamanca Convention (1994), the government’s commitment towards strength-
+ening the education of children with disabilities was reinforced. With a view to further improve access to edu-
+cation for learners with SEN, the first integrated unit was set up in 1995, which was aligned with the UNCRPD. 
+In 2005, a policy of compulsory education until the age of 16 brought into focus educational provision for out-
+of-school children and, in particular, those who had dropped out of school and those with SEN. 
+Special Education Needs Authority 
+The Special Education Needs Authority9 (SENA) has been set up to provide the appropriate regulatory frame-
+work for learners with SEN and to facilitate the implementation of government policies on SEN. One of the ma-
+jor responsibilities of the authority is to harmonize the promotion of programmes and policies for the educa-
+tion and holistic development of persons with SEN, in line with the UNCRC and the UNCRPD. The regulations 
+governing the registration for SEN institutions, their teaching and non-teaching staff, and any other resource 
+person, have been reviewed and are in the process of being completed. With a view to facilitate an inclusive, 
+equitable and effective education system, the Norms and Standards for Special Education Needs Institutions 
+have been prepared.  
+9  https://education.govmu.org/Documents/educationsector/Documents/Special%20Education%20Needs/Special%20Education%20Needs%20Authority%20Act.pdf.  12
+COVID 19, technology-based education and  disability: The  case of MauritiusClassification and prevalence 
+of disabilities 
+Classification of disabilities and children with disabilities 
+According to the Policy on Inclusive Education 2017,10 disabilities have been classified into eight categories 
+(Table 1). Children with disabilities (CWD) have been classified according to their learning needs. Table 2 pre -
+sents this classification; this is in place to ensure inclusion in the learning process.
+Table 1: Classification of disabilities into eight categories
+Categories of disabilities
+1 Physical disability (mobility problems, spinal cord injuries, spina bifida, hemiplegia, cerebral palsy)
+2 Social, emotional, and behavioural disturbance (attention deficit hyperactivity disorder, 
+schizophrenia, anxiety disorders, antisocial personality disorders)
+3 Intellectual and neurological impairment (Down’s syndrome, Williams syndrome, dyslexia, 
+dysgraphia, dyscalculia, epilepsy)
+4 Visual impairment
+5 Hearing impairment
+6 Multiple disabilities (skeletal deformities, sensory disorders, seizure disorders)
+7 Other health-related disabilities (cancer, Lyme disease, lupus, multiple sclerosis)
+8 Autistic spectrum disorder (autism, Asperger’s syndrome, pervasive developmental disorders)
+Table 2:  Classification of children with disabilities according to learning needs
+Category Learning needs
+Category I: Mild/Moderate Children with mild/moderate learning needs, including the gifted 
+and talented, can study in a general class with some special inputs. 
+(45% of CWD belong to this category)
+Category II: Moderate Children with mild/moderate disabilities (who require some counselling 
+services) can study in general mainstream class. 
+(30% of CWD belong to this category)
+Category III: Severe Children with moderate/severe disabilities, needing resource assistance 
+including corrective aids and periodic help in academic areas, will study 
+in SEN schools.
+(15% of CWD can be classified in this category)
+Category IV: Severe/Profound Children with severe/profound disabilities, who require direct attention 
+from special teachers, can be placed in SEN schools (10% of CWD come 
+under this category).
+Children from the non-formal sector who remained unidentified would be included in the system 
+through identification, assessment, and appropriate placement.
+10  https://education.govmu.org/Documents/educationsector/Documents/Special%20Education%20Needs/SEN_Strategy_2017_Final.pdf.13
+COVID 19, technology-based education and  disability: The  case of MauritiusPrevalence of disability in SEN schools in Mauritius 
+Figure 2 identifies intellectual impairment as the most common disability among students enrolled in SEN 
+schools.
+Figure 2: Enrolment in SEN schools by type of impairment and gender, 2020
+0 100 200 300 400 500 600 700 800Intellectual impairment
+Dyslexia
+Autism
+Physical disability
+Epilepsy
+Down’s syndrome
+Other
+Severe and multiple disabilities
+Deafness and hearing impairment
+Emotional disturbance
+Visual impairment271 483
+182 386
+48 237
+70 121
+69 107
+76 93
+35 101
+50 72
+48 73
+31 78
+37 63Boys Girls
+Figure 2 illustrates that learning disabilities among students enrolled in SEN schools is highest compared 
+with other disabilities. Autism is also reported as a common disability among learners in SEN schools. Added 
+to that, it is evident that boys suffer from a higher rate of disability compared with girls enrolled in SEN schools. 
+The least common disability is visual impairment. Figure 3 shows that the enrolment rate in SEN schools 
+is 67 per cent male students and 33 per cent female. 
+Figure 3: Enrolment in SEN 
+schools by gender, 2020
+Male Female
+Source: Statistics Mauritius (2020). 3333++676733%
+67%
+As per the Education Card report, developed by the MoETEST, there were 72 SEN schools in March 2019, 
+the majority of which were run by NGOs in collaboration with the Roman Catholic Education Association 
+(RCEA). 14
+COVID 19, technology-based education and  disability: The  case of MauritiusOverall data in SEN education 
+10,82%
+8,25% 8,12%
+Figure 4: Expenditure on education 
+as a percentage of total government 
+expenditure (2018–2021)
+Source: Statistics Mauritius (2020). 2018/2019 2019/2020 2020/2021
+Figure 4 illustrates government expenditure on education for 2018/2019, 2019/2020, and 2020/2021. There 
+was a drop of 2.57 per cent from 2018/2019 to 2019/2020. Despite the unprecedented COVID-19 crisis that 
+has negatively impacted world economies (including Mauritius), there was only a slight decrease of 0.13 per 
+cent in the education sector from 2019/2020 to 2020/2021. These data also portray the government’s com-
+mitment to invest in education and to enhance development in this sector ( Figure 5).
+Figure 5: Government expenditure on education by sector, 2018/2019 – 2020/2021
+1,6%23,4%50,0%1,5%1,2%7,1%5,0%
+2020/2021
+1,5%23,1%48,3%2,8%1,0%7,7%4,6%
+2019/2020
+1,5%23,1%48,3%2,7%0,9%7,7%5,0%
+2018/2019
+Other 3 
+Tertiary education 
+Special education needsTechnical & vocational 
+Secondary Primary
+PrimaryPre-Primary
+Source: Statistics Mauritius (2020). 
+There was a constant increase in government spending in the field of SEN, from 0.9 per cent to 1.0 per cent 
+and, finally, to 1.2 per cent for 2020/2021. It is equally important to highlight that this was possible even 
+though expenditures in the education sector saw a slight decrease due to the negative financial impact 
+of the pandemic. 15
+COVID 19, technology-based education and  disability: The  case of MauritiusEnrolment in SEN schools
+Figure 6: Enrolment 
+of male and female 
+students in SEN schools, 
+2015–2020
+Male Female
+2015 2016 2017 2018 20191 477
+824
+1 606
+909
+1 681
+913
+1 745
+911
+1 832
+958
+As statistics noted in Figure 6 show, enrolment for boys is consistently higher than that of girls in SEN schools. 
+These data corroborate the data on disability type, where the number of boys suffering from those disabilities 
+exceeds that of girls. Figure 7 and Figure 8 present related data.
+Figure 7: Age group 
+distribution of SEN 
+learners, 2015–2020
+3-5 age group 
+6-10 age group 
+11-15 age group 
+16-20 age group 
+21 & over 
+2015 2016 2017 2018 2019100
+693
+857
+437
+214
+98
+813
+950
+499
+155
+73
+853
+1 068
+507
+93
+74
+862
+1 090
+477
+542
+86
+938
+1 130
+542
+94
+The data reveal that the age group of 11–15 was the largest age group of learners with SEN for five consec-
+utive years (2015–2019). Similarly, learners with SEN who are 21 years and over was high in 2018, compared 
+with other years.
+Figure 8: Number 
+of teaching staff from 
+2015–2019
+No. of teaching Staff
+2015 2016 2017 2018 2019387 404 411 444 468
+There was a gradual increase in the number of teaching staff from 387 (in 2015) to 468 (in 2019). This repre-
+sents an approximate rise of 3.8 per cent in the recruitment of teaching staff in SEN schools since 2015. 16
+COVID 19, technology-based education and  disability: The  case of Mauritius20
+7
+5
+3
+6
+1
+5
+2
+4
+3
+5
+2
+2
+3
+3
+-
+2
+1Plaines Wilhems
+Flacq
+Port Louis
+Rivière du Rempart
+Grand Port
+Rivière du Rempart
+Pamplemousses
+Black River
+MokaNGO /RCEA integrated Government integrated unitFigure 9: Distribution of SEN schools by district and type of administration, 2020
+Source: Statistics Mauritius (2020).
+As Figure 9 shows, it is apparent that more SEN schools are run by NGOs/RCEA than by the government in all 
+nine districts of Mauritius. The district of Plaines Wilhems has the highest number of SEN schools, while 
+the districts of Black River, Moka, and Savanne have the fewest SEN schools. Here, it is vital to point out that 
+the district of Plaines Wilhems has the largest population among the nine districts. It is also worth noting that 
+there is no Government Integrated Unit in the district of Black River. SEN schools run either by the govern-
+ment or by NGOs/RCEA are distributed throughout the districts of Mauritius.
+404
+855
+107
+213
+123
+182
+54
+121
+51
+118
+47
+101
+50
+93 
+45
+63
+13
+33Plaines Wilhems
+Flacq
+Port Louis
+Rivière du Rempart
+Grand Port
+Rivière du Rempart
+Pamplemousses
+Black River
+MokaFemale MaleFigure 10: Enrolment in SEN schools by gender and district, 2020
+Source: Statistics Mauritius (2020).17
+COVID 19, technology-based education and  disability: The  case of MauritiusThe district of Plaines Wilhems has the highest enrolment in SEN schools while the district of Moka has 
+the lowest. These data match that of the distribution of SEN schools in the districts. The enrolment of boys 
+exceeds that of girls in all the districts. In six of the districts, the ratio of boys to girls is 2:1 ( Figure 10).
+Teaching staff
+Administrative 
+and ancillary staff
+Medical and paramedicalFigure 11: Personnel in SEN schools by gender, 2020
+Male Female
+448 46
+240 85
+121 67
+Source: Statistics Mauritius, 2020.
+In Mauritius, teaching is a female-dominated profession. More than 90 per cent of the teaching staff in SEN 
+schools are female. Similar observations are made with regard to the administrative and ancillary school staff, 
+as well as the medical and paramedical personnel. See Figure 11.
+2018 2019 2020Figure 12: Personnel 
+in SEN schools, 
+2018–2020
+Teaching staff
+Administrative 
+and ancillary staff
+Medical 
+and paramedical
+444
+314
+97
+469
+323
+95
+494
+325
+188
+Source: Statistics Mauritius (2020).
+There was a slight increase in the number of teaching staff, along with an increase in administrative and an-
+cillary school staff, from 2018 to 2020 (Figure 12). However, there was a slight drop from 97 to 95 medical 
+and paramedical personnel from 2018 to 2019. Then, in 2020, the number nearly doubled in that group. 
+COVID-19 and learners with disabilities
+According to Prensky (2001), the digital age is the era whereby individuals are grouped based on the period 
+they were born and their relationship with digital technologies. Hence, the term ‘digital natives’ was coined 
+to denote people born during or after the advent of digital technologies. Kivunja (2014) estimated this digital 
+period as being the year 1980 and referred to it as the birth year of the digital natives. 
+Digital natives tend to be ‘fluent’ with digital technologies such as computers, video games, email, mobile 
+phones, and the internet. Prensky (2001, 1) argued that technology had radically altered the ways that to-
+day’s students learn, which explains why they ‘think and process information differently than their prede-
+cessors’. In the same year, Prensky (2001) claimed that digital natives are multitasking learners, a sentiment 
+echoed by Veinberg (2014). In contrast, those born before that period were referred to as ‘digital immigrants’ 18
+COVID 19, technology-based education and  disability: The  case of Mauritiusas they lived in an analogue period before moving to a digital world (Joy, 2012)11. Nevertheless, they have em-
+braced several aspects of the new technologies and are more likely to take up digital media as a secondary 
+source of information (Prensky, 2001). Interestingly, DeGraff (2014)12 claimed that digital natives tend to view 
+the world in a way where everyone is equal and that there are no hierarchies or boundaries, while digital 
+immigrants are more likely to divide the word into hierarchies and set boundaries driven by structural insti-
+tutions such as marriage, religion, and government. 
+Key implementers of open and distant learning (ODL) solutions – such as MoETEST, Mauritius Institute of Ed-
+ucation (MIE), NGOs, Disabled Peoples’ International (DPI), Special Education Needs Resource and Develop-
+ment Centres (SENRDCs), Government Integrated Units (GIUs), and disabled persons’ organizations (DPOs) – 
+strongly believe that learners with disabilities deemed to be digital natives are more responsive to technology. 
+Indeed, this case study revealed a positive correlation between learners with disabilities and their interactions 
+with technology as compared with a negative correlation between some teachers and most parents (catego-
+rized as digital immigrants) during the pandemic.
+11  https://edition.cnn.com/2012/12/04/business/digital-native-prensky/index.html  
+12  https://jeffdegraff.com/blog/2014/06/digital-natives-vs-digital-immigrants/ 19
+COVID 19, technology-based education and  disability: The  case of MauritiusObjectives and methodology
+Objectives
+The research was guided by the following objectives:
+• Outline the main contributions of institutions in facilitating integration of information and communica-
+tion technology (ICT) in SEN education during the pandemic crisis.
+• Examine the relevance, efficiency, and effectiveness of technological innovations employed in SEN 
+education.
+• Analyse the major barriers impeding the implementation of ODL solutions in SEN education.
+• Determine the promising innovative technological practices and whether they are potentially sustainable 
+and replicable in a post-COVID environment.
+• Propose policy recommendations to promote and encourage innovative and pervasive use of ODL solu -
+tions for learners with disabilities as a post-COVID recovery plan.
+The objectives assisted in formulating the following key research questions:
+• What were the major contributions of the identified institutions in facilitating integration of ICT in SEN 
+education during the pandemic?
+• Were the technological innovations employed in SEN education equitable, inclusive, relevant, efficient, 
+and effective?
+• What are the main barriers impeding the implementation of ODL solutions in SEN education?
+• What are the promising innovative technological practices that are potentially sustainable and replicable 
+in post-COVID environment? 
+• What are the policy recommendations to promote and encourage innovative and pervasive use of ODL 
+solutions for learners with disabilities as a post-COVID recovery plan?
+Methodology 
+The study aimed to understand the relevance, effectiveness, and efficiency of the use of ODL solutions during 
+the COVID-19 pandemic. An understanding of these areas is necessary to determine promising innovative 
+technological practices and recommend policy interventions for learners with disabilities for sustained ODL 
+practice in post-COVID environments. 
+A case study method was used, allowing the researcher to investigate the use of ODL solutions for learn-
+ers with disabilities during the pandemic, and to formulate recommendations for a post-COVID recovery 
+plan for the effective and efficient use of technology in an inclusive and equitable manner. The case study 
+approach also enabled the researcher to elicit rich data relating to the range and reach of disability-inclusive 
+ODL solutions. This was supported with concrete examples that illustrate the achievements and the challeng-
+es encountered in ICT implementation during COVID-19 and was used to recommend a recovery plan for sus-
+tained ODL practices in post-COVID environments. 
+The two data collection instruments used were online questionnaires, followed by online interviews. 
+The participating institutions were MoETEST, NGOs, Government Integrated Units (GIUs), SENRDCs, DPI, 
+DPOs, the United Nations, Inclusion Mauritius, and MIE.20
+COVID 19, technology-based education and  disability: The  case of MauritiusFindings
+In a bid to provide access to learning opportunities using ODL 
+solutions, active participation among a number of institutions 
+was evident. Within the government sector, collaboration took 
+place among MoETEST, MIE, GIUs, and SENRDCs in partnership 
+with Open University and the Mahatma Gandhi Institute. NGOs 
+worked in collaboration with Disabled Peoples’ International, 
+Service Diocésain de L’Éducation Catholique (SeDEC), DPOs, 
+Inclusion Mauritius, ACTogether, and the National Productivity 
+and Competitiveness Council. The goal of the collective effort 
+was to ensure continuity of learning that is accessible, inclusive, 
+and equitable.
+Learners with disabilities were able to use ICT to continue 
+their studies from home. The enthusiasm, level of confidence, 
+and intrinsic motivation of learners engaged them cognitive-
+ly in the learning process. In this manner, a gradual change 
+in learners’ attitudes towards ICT was noticeable, resulting 
+in a positive impact on the learning process. In doing this, most 
+of the learners with disabilities were able to incrementally take 
+control of their learning. It was observed that learners were 
+able to better communicate with their peers; this improved their 
+communication and social skills. In contrast with in-school situ-
+ations, learners often benefited from the support of additional 
+teachers (other than their class teacher) with close monitoring 
+from the school and paramedical teams. The emotional support, 
+which was crucial for learners with disabilities during the dis-
+ruption of the routine school life, together with continuous sup-
+port and monitoring, made it possible for these learners to sus-
+tain ODL practices.
+All key stakeholders concurred with the interventions of ODL 
+solutions to democratize access to learning for students with SEN 
+and firmly believed that all children should have the same 
+rights and opportunities for learning, whether during COVID or 
+non-COVID situations. This novel approach to learning will open 
+new avenues to the way learners with disabilities learn, assisting 
+them in a progressive manner to achieve better results and en-
+gage in lifelong learning modalities.
+However, the impact of technology on learners with severe 
+and profound disabilities was not positive. These learners were 
+neither interested nor engaged with the technology. In fact, 
+in certain cases, the screen time and exposure to the screen also 
+resulted in hyperactive behaviours. 
+It is important to highlight that, even in the absence of an ICT 
+policy in SEN education, the use of ICT is promoted by SEN 
+institutions.
+Despite the innovative initiatives of key stakeholders at different 
+levels as a response to COVID-19 to ensure continuity of edu-
+cation through ODL solutions, a discontinuity of those efforts 
+was observed post-COVID. Most of the SEN institutions con-
+tinued the conventional mode of teaching and learning upon ‘The use of technology 
+was harnessed to motivate 
+and engage children in interactive 
+learning activities and promoted 
+their cognitive and social skills.’
+Project officer, NGO.
+‘Technology unlocks latent ability 
+for those with communication 
+difficulties.’
+Manager, NGO.
+‘Increased ICT confidence 
+among students motivates 
+them to use the internet at 
+home for schoolwork and leisure 
+interests.’
+The MoETEST team.
+‘Technology made it possible 
+for lessons to be enhanced 
+with individual learning events.’ 
+The MoETEST team. 
+‘ODL solutions allowed 
+teachers a greater flexibility 
+to apply differentiation in their 
+instruction.’
+The MoETEST team.
+‘The success of innovative 
+attempts to use technology 
+is attributed to all who responded 
+positively to a sudden change.’ 
+Director, NGO.
+‘ICT enables greater learner 
+autonomy.’ 
+The MoETEST team.21
+COVID 19, technology-based education and  disability: The  case of Mauritiusthe reopening of schools. One of the major reasons cited was 
+that Mauritius was declared COVID-safe. However, the cause 
+and effect of the disruption of those initiatives were also related 
+to non-COVID situations as the existing diverse factors; the lack 
+of leadership, resources, training, and willingness to change 
+was still impeding the sustainability of ODL practices. It is equal-
+ly important to note that the tendency to return to normal life – 
+to return to the comfort zone – was considered as a preferable 
+option. 
+On the other hand, lessons learned from the pandemic enabled 
+some NGOs to scrutinize their school teaching and learning strat-
+egy of inbuilt ODL solutions to better prepare for uncertainties 
+and mitigate any further disruption of education. These NGOs 
+are embarking on ODL migration in their organizations from 
+the next academic year that aim to view the learner as a whole 
+by empowering the immediate SEN community. This phase-wise 
+approach consists of an inclusive series of ODL events that will 
+be introduced for beneficiaries including teachers, learners, 
+school personnel, and parents. The ODL events consist of:
+• professional development of trainers in the use of ODL 
+solutions,
+• training of learners with disabilities in the use of ODL solu -
+tions in their learning,
+• basic ICT skills short courses for school personnel 
+and parents,
+• hosting an e-learning portal to connect all stakeholders. 
+Taking into consideration the significance of a smooth transi-
+tion from the traditional to the ODL mode, distance mode drill 
+sessions have also been planned, leading to the actual running 
+of distance modes of learning once or twice per month. The 
+drill sessions will simulate the actual ODL sessions to under -
+stand the operating processes and identify associated opportu-
+nities and challenges to further enhancements.
+At the level of MIE, a sign language expert has been recruited as 
+a resource person to develop inclusive learning resources; vid-
+eo productions will also include sign language, for example. In 
+addition to this, primary books are being translated into Braille, 
+and secondary books will also be translated. It is firmly be-
+lieved that translation is the initial step, but a form of adapta-
+tion is crucial. Two major changes addressed in (post-COVID) 
+SEN teacher education programmes were the mode of deliv-
+ery and the method of assessment. Most of the modules were 
+conducted on Microsoft Teams, and in some cases social media 
+(WhatsApp) and Zoom software were used. The mode of assess-
+ment has been adapted to include more coursework and project 
+presentation, and a greater use of technology was encouraged 
+for assessment of large groups of students.‘Mindset change is a determining 
+variable to trigger 
+and sustain change.’
+Director, MIE.
+‘We learnt the hard way and that 
+was an opportunity to self-
+evaluate and improve further.’
+Teacher, NGO.
+‘The technology universe 
+is constantly evolving 
+and transforming 
+the world of education. 
+As a result, it is crucial 
+to understand how to teach 
+differently to learners who learn 
+differently in this digital age.’ 
+Manager, NGO.
+‘Wishful thinking is appreciated; 
+the right policy is no doubt 
+fundamental but a change 
+in mindset supersedes all.’
+Director, MIE.22
+COVID 19, technology-based education and  disability: The  case of MauritiusWithin the scope of the unprecedented crisis caused by the pan-
+demic, and limited access to resources, various ODL solutions 
+were initiated at different levels, namely: MoETEST, MIE, NGOs, 
+DPOs, and DPI, and at a personal level by teachers to provide ad-
+equate and timely support to learners with disabilities. These ef-
+forts from different quarters, and at different levels, culminated 
+in innovations in technology identified as unique, meaningful, 
+impactful, relevant, efficient, effective, and potentially sustaina-
+ble in post-COVID environments. 
+The SEN Unit of the MoETEST played an instrumental role in en-
+suring the continuity of learning for students with disabilities. 
+The SEN Unit stepped in at the outbreak of the pandemic and con-
+sulted with various stakeholders to support learners with SEN 
+effectively and efficiently. The ministry sent an expression of in-
+terest to all SEN teachers who wished to participate in the pro-
+duction of educational videos; many of them reacted promptly 
+and enthusiastically to this request. The SEN Unit encouraged 
+SEN teachers to communicate with their pupils and parents 
+through e-learning platforms, social groups, and social media. 
+A skeleton team was in constant contact with all SEN teachers 
+through respective school heads.
+The MoETEST entrusted MIE to develop materials for virtual learn-
+ing during lockdowns. MIE was at the forefront and was pivotal 
+in the design, adaptation, and production of learning materials 
+to ensure continuity of learning for learners with disabilities. 
+The panel members used WhatsApp and Microsoft Teams 
+to communicate and collaborate while producing digital re-
+sources. ‘On-the-spot learning’ took place as the SEN panel had 
+to master video-making techniques, adapt educational resourc-
+es, and produce relevant, activity-based videos to engage learn-
+ers with instructional activities. A series of vetting measures was 
+inbuilt in the design, development, and implementation phases 
+to ensure the delivery of quality videos. The online learning ma-
+terials were designed with an evaluation approach in mind where 
+diagnostic and formative questions, along with a self-assessment 
+grid, were incorporated in the activities. The evaluation element 
+of the learning tools and videos consisted of multiple choice or 
+structured questions that students were to answer on their own 
+in a set time before being given the solution; this allowed them 
+to immediately be informed if they had successfully answered or 
+not. Other videos, aimed at improving fine motor skills, included 
+tests to ensure that students were able to synthesize their knowl-
+edge and produce desired final outcomes. These videos were 
+broadcast on the national television on weekdays on specific Technological innovations in SEN 
+education: Relevance, effectiveness, 
+efficiency, impact, and sustainability 
+‘Each child has a special need 
+and we have to be responsive 
+and act responsibly.’
+Manager, NGO.
+‘We were caught unaware, 
+and we were in the learning mode 
+as much as in the production 
+mode.’ 
+Director, MIE.
+‘In an unsettled situation, effort 
+from everyone is important 
+and how to learn differently 
+is most essential.’
+Teachers, NGO.
+‘The pandemic resulted 
+in reorienting the role 
+of teachers.’
+Director, NGO.
+‘The SEN panel used 
+a lot of ingenuity, creativity, 
+and resourcefulness based 
+on their own expertise 
+to plan network and developed 
+video materials.’
+Director, MIE.23
+COVID 19, technology-based education and  disability: The  case of Mauritiuschannels at different times of the day to maximize reach and effi-
+ciency.  This further facilitated access to learning for students who 
+did not have mobile devices and/or internet connectivity in their 
+homes. The videos were also available on the MIE portal, which 
+was accessible anytime, and from anywhere. 
+Around 32 videos were produced during the confinement peri-
+od, varying in terms of grades, levels, subjects, and topics, as 
+well as objectives and targeted areas of development. For ex-
+ample, some videos targeted primary school readiness and ad-
+dressed topics such as Myself, My Senses, My Family, and My 
+House. A wider array of videos encompassing prayer, breathing 
+exercises, and breathing techniques through demonstration; 
+Mother’s Day and Father’s Day; and design techniques for crea-
+tive greeting cards for parents were also developed. It is impor-
+tant to point out that some of the videos were bilingual (English 
+and Creole) to facilitate learners’ understanding. Two informa-
+tive videos on COVID-19 were also developed to provide greater 
+awareness of COVID-19 and to enable learners with disabilities 
+to deepen their understanding about the virus and the precau-
+tionary measures that they should be taking. 
+The context of NGOs (active members of DPOs or DPI) differed 
+given that there was a disparity among leadership of the heads 
+of the organizations, existing learning environments, techno-
+logical resources, availability of digital tools, number of trained 
+teachers in ICT, digital literacy of teachers, and parents, along 
+with differences relating to learners’ families and their socio-eco-
+nomic backgrounds. Hence, the contributions and experiences 
+of each NGO were unique in the use and exploration of ODL 
+solutions, both during and after COVID. Not all NGOs were able 
+to embrace ODL, as many learners with SEN hailed from vulner-
+able families; this hindered access to this novel mode of learn-
+ing. Nonetheless, it is worthwhile highlighting that a number 
+of NGOs used the support of technology to reach out to learn-
+ers, ensuring that they were able to connect with their learning 
+at a distance. All the NGOs affirmed that WhatsApp was the most 
+appropriate technological tool that was accessible, useful, rele-
+vant, effective, and efficient given its ease of use and populari-
+ty among parents. In fact, WhatsApp was identified as the tool 
+that eased the transition from traditional face-to-face teaching 
+to ODL during the lockdown. This substantiated the apprecia-
+tion and acceptance level of parents of the new mode of learn-
+ing during the pandemic crisis; indeed, the collaboration of par-
+ents was key during the confinement period. Similarly, laudable 
+initiatives of certain NGOs are acknowledged as these organiza-
+tions closely monitored the evolution of the crisis in the world 
+and they prepared online teaching and learning strategy also 
+referred to ‘Online Learning Strategy’ or ‘Home Schooling Pro-
+gramme – Let’s get Digital’ prior to the lockdown in Mauritius.
+A set of procedures guided the implementation of this innovative 
+approach to teaching and learning. The initial phase involved 
+the verification and updating of contact details of all parents, 
+teachers, school administration, and paramedical teams. Guid-
+ed by the philosophy of distributed leadership style, different ‘As an NGO, we are much freer 
+to take action and implement 
+it in a much quicker way 
+compared with being 
+in the government sector.’
+Project coordinator, NGO.
+‘Every action needs to be legal 
+and for the benefit of the school.’
+Manager, NGO.
+‘We had to embark on 
+digital platforms to cope 
+with the disruption of traditional 
+pedagogical methods amid 
+the coronavirus crisis.’
+Manager, NGO.24
+COVID 19, technology-based education and  disability: The  case of MauritiusWhatsApp groups with different responsibilities at different 
+levels were created, namely: (a) WhatsApp group for parents/
+teachers and paramedical team; (b) personalized WhatsApp 
+group based on learners’ profile; and (c) WhatsApp control group 
+consisting of teachers, school management, and paramedical 
+team. Parents were invited and encouraged to start using their 
+WhatsApp group twice a week to be updated with school-re-
+lated information prior to the announcement of the curfew. 
+In certain specific cases, the Zoom application was also used 
+by schoolteachers for communicating with some parents. With 
+a view to support all learners in an inclusive and equitable man-
+ner, teachers prepared homework to be done during the con-
+finement period and submitted hard copies of those to learners, 
+following up through phone calls as an alternative way to reach 
+parents who did not have access to WhatsApp or Zoom in order 
+to monitor the progress of those learners. 
+The educational activities consisted of parent–child engagement 
+activities, fine and gross motor exercise tasks, games, empow-
+erment, and fun activities and were done under the guidance 
+of the school team in collaboration with parents. It is interesting 
+to note that similar efforts were made for learners with disabil-
+ities who were in the pre-primary and pre-vocational sections. 
+Upon the official announcement of a complete lockdown, ODL 
+was initiated by the respective organizations where teachers 
+sent the timetables of all classes to the parents and solicit -
+ed their support during those sessions. The same philosophy 
+of the timetables during school time was practised so as not 
+to overly unsettle the learners. 
+The first two weeks was the immersion phase. Parents played 
+a vital role in the informal learning where they were responsible 
+for taking pictures of the completed tasks and videotaping kin-
+aesthetic activities and sending these to the teachers. The nor-
+mal school calendar was followed, and during the holiday break, 
+no online sessions were held. The set goal to ensure continuity 
+of learning for students with disabilities in an inclusive and eq-
+uitable manner was attained and those organizations involved 
+celebrated the technological innovations: they are looking for-
+ward to replicating similar approaches in a more reinforced 
+manner in the near future.‘The SEN sector is one 
+of the sectors which is now 
+fast evolving. But the ministry 
+is still in the development phase 
+of an appropriate curriculum, 
+inclusive environment, and also 
+recognition of the work of NGOs 
+in the SEN sector.’
+Manager, NGO. 25
+COVID 19, technology-based education and  disability: The  case of MauritiusOne of the strongest messages attributed to the unprecedent-
+ed COVID-19 crisis was the recognition of existing barriers 
+constraining successful use and sustainability of technology 
+in inclusive and equitable education. Although the government 
+has continuously advocated for the integration of technology 
+in teaching and learning, the impact has been small. Likewise, 
+MIE has also been supportive of this approach but with insignif-
+icant effect. 
+A number of barriers related to COVID-19 and non-COVID envi-
+ronments have been identified at different levels that still hinder 
+the effective use of ODL in education of learners with disabili-
+ties. These are classified as: 
+• physical barriers, where the inclusive ODL learning environ-
+ments and digital resources were not accessible; 
+• content barriers focusing on technology-supported pedago -
+gy, as along with the assessment for and of ODL;
+• financial barriers: for example, SEN NGOs face financial 
+constraints to cover the cost of technological infrastruc-
+ture and specialized hardware and software. The families 
+of learners with disabilities are more likely to experience 
+socio-economic disadvantage which may impede access 
+to digital devices or the internet; 
+• cognitive barriers for learners with severe to profound 
+disabilities;
+• competence and skill barriers where the teaching team 
+lacks digital skills to adopt ODL solutions to adapt learning – 
+the parents’ lack of knowledge of technology use can also 
+prevent them from participating in online activities;
+• instructional barriers including leadership of institutions 
+and support from them; 
+• mindset barriers related to resistance to change and to work 
+collectively and attitudes towards technology. 
+The importance of urgently addressing these barriers was more 
+apparent during the sudden disruption of education caused 
+by the pandemic. ‘We cannot succeed if we abide 
+by the normal 8 a.m. to 3 p.m. 
+teaching hours within the four 
+walls of the classroom.’
+Director, MIE.
+‘Inequality in the SEN sector 
+still prevails. Inequality of fund 
+distribution and recognition 
+of SEN staff in terms of salaries 
+and benefits continue to be 
+widespread. NGOs do not have 
+direct government funding 
+to equip all SEN schools 
+with required, essential, and basic 
+digital tools and facilities. 
+Financial support from 
+the government is crucial if 
+we want to sustain the access 
+to technology and learning 
+for learners with disabilities.’
+Manager, NGO.Barriers in the context of Mauritius26
+COVID 19, technology-based education and  disability: The  case of MauritiusCOVID-19 has revealed vulnerabilities, but at the same time has 
+unleashed the resourcefulness, creativity, and critical minds 
+of people in all fields including education.
+The pandemic pushed teachers to engage in self-learning so 
+that they could teach differently in this society as it faced rap-
+id technological transformations. Teachers were left on their 
+own to infuse their experiences to creatively design and devel-
+op adapted pedagogical resources for learners with disabilities 
+to engage them in the learning process. Thus, teachers iden-
+tified a need for adjustment to their existing practice and en-
+rolled in free online courses, explored creative free software, 
+and consulted relevant YouTube channels and open education-
+al resources (OERs). Inevitably, teachers connected with other 
+teachers to share good practices and acted as critical friends. By 
+finding the most convenient ways to design, develop, and deliv-
+er meaningful, relevant, and interactive lessons as part of ODL, 
+a shift from consumers to producers of personalized short vide-
+os were observed among many teachers. 
+Some other interesting findings in areas of technology and ac-
+cess to learning for learners with disabilities relating to post 
+COVID-19 recovery for policy and practice were noted:
+• exploiting the full potential of technology in SEN education;
+• promoting access to quality technological infrastructure 
+and hardware and software for the design, development, 
+implementation, and delivery of SEN-friendly pedagogical 
+resources using ODL solutions;
+• the availability of digital devices to learners to access learn -
+ing resources and engage in ODL;
+• basic training in ICT skills to help parents support their child 
+and participate in informal learning remotely;
+• encouragement of a collective approach in terms of sharing 
+of good practices among SEN institutions.
+• effectiveness of providing relevant and current profes-
+sional development programmes to teachers to keep pace 
+with the changing teaching and learning environments so 
+that they might become more confident in using technology. 
+It was noted that learners and teachers in NGOs should receive 
+the digital devices – such as tablets – as was the case in govern-
+ment schools, SENRDCs, and integrated units. It was firmly be-
+lieved that there should be an equal sharing of resources among 
+all learners and teachers, irrespective of their organizations.COVID-19 and learners with disabilities: 
+Post-COVID-19 recovery for policy 
+and practice 
+‘Mauritius is small and thus 
+manageable. If proper policies, 
+regulations, and a regulatory 
+body are set, wonders can happen 
+for learners with disabilities.’
+Manager, NGO.‘We should be proactive and see 
+how the world is changing, build 
+up tools and materials 
+which can cater for learners 
+with disabilities at a distance.’
+Manager NGO.‘COVID-19 brings along the seeds 
+of hope to further unlock hu-
+man potential, nurture relation-
+ships and values in a unified man-
+ner and explore new possibilities 
+to unlearn so as to relearn.’
+Director, NGO.
+‘The pandemic crisis calls 
+for collective actions.’
+Director, NGO.
+‘Before COVID-19, I knew 
+how to prepare teaching aids 
+and used video resources 
+mainly from YouTube, but now 
+I can confidently produce adapted 
+videos for my pupils.’
+Teacher, Government 
+Integrated Unit.27
+COVID 19, technology-based education and  disability: The  case of MauritiusRecommendations 
+for the role of technology for learners 
+with disabilities in a post-COVID 
+environment/recovery plan in Mauritius 
+The identified gaps for sustained ODL solutions in SEN education wer e categorized as:
+• national ICT policy for SEN education,
+• curriculum design and material development,
+• teaching and learning process,
+• infrastructure and connectivity,
+• professional development,
+• school–home partnership,
+• quality assurance,
+• unified implementation strategy, 
+• working with partners. 
+The gaps identified were used to write recommendations for improving access to and quality of education 
+of students with disabilities during the pandemic with the help of ODL solutions ( Figure 13).
+Figure 13: Recommendations for ODL solutions in SEN education
+National ICT 
+policy for SEN 
+education
+Adapted SEN 
+curriculum
+Teaching 
+and learning 
+continuum
+Technological 
+infrastructure
+Empowering key 
+stakeholdersSchool-home 
+partnershipQuality  
+assuranceUnified 
+implementation 
+strategyWorking 
+with partners28
+COVID 19, technology-based education and  disability: The  case of MauritiusNational ICT policy for SEN education
+The Education Act 1957 was amended during the pandem -
+ic crisis through the COVID-19 (Miscellaneous Provisions) 
+Act 2020 to provide, among other things, for the dispensing 
+of distance education and online learning programmes dur-
+ing the temporary closure of educational institutions. Although 
+this was regarded as a commendable decision, a number 
+of recommendations were put forward to ensure that diversi-
+ty, access, equity, and inclusion are ingrained in ODL practices. 
+The MoETEST should advocate for a national ICT policy for SEN 
+education, drafted in consultations with all key stakeholders 
+in the SEN sector. This top-down policy decision will strengthen 
+technology integration within SEN education.
+It was acknowledged that in this digital era, technology is a cat-
+alyst for teaching and learning and is associated with several 
+benefits for those students who are digital natives. The experi-
+ences gained during the pandemic reinforced the understanding 
+of the urgent need to implement ODL in current teaching practic-
+es. However, it was emphasised that tailor-made ODL solutions 
+for specific disabilities should be focussed on the capacity build-
+ing of teachers, assistant teachers, carers, and heads of schools – 
+and that customized and ongoing training should be a priority. 
+It further highlighted that a mindset shift is required to enable 
+a smooth transition from the traditional classroom to an ODL in-
+tegrated approach within the teaching and learning ecosystem.  
+Accessibility, equity, usability, reliability, affordability, efficiency, 
+and inclusion – the attributes of quality education – should be 
+thoroughly considered when designing any ODL solutions. In 
+brief, ODL solutions for learners with disabilities should be guid-
+ed by a SEN-centred approach.
+Adapted SEN curriculum
+In line with the various government initiatives and support for SEN 
+education, it has been emphasized that an adapted curriculum 
+for SEN learners is long overdue. Hence, an urgent call for rein-
+forcing the existing mechanism, where attention should be given 
+to incorporating adapted ODL solutions for learners with specific 
+disabilities in the new curriculum.  Alongside this, the use and con-
+textualization of existing OERs and digitalization of disability-friend-
+ly resources should be an integral part of the curriculum. 
+An equitable and inclusive approach in the design and develop-
+ment is strongly felt to the point that the SEN curriculum panel 
+at MIE has to invite panel members on a rotating basis, ensuring 
+that diverse perspectives and experiences are incorporated. In 
+doing this, a broader number of SEN educators will be trained. 
+MIE’s engagement in the translation and of primary books 
+in Braille for visually impaired students is viewed as significant. 
+However, an inclusive approach should be broadened to include 
+all disabilities to democratize access to resources for SEN learn-
+ers. Similarly, the integration of sign languages in digital resource ‘The first step in successful 
+technology integration 
+is recognizing the change that 
+may need to happen within us 
+and our approach to teaching 
+and learning.’
+The MoETEST team.29
+COVID 19, technology-based education and  disability: The  case of Mauritiusproduction is highly recommended. It is also proposed to have 
+formative assessments to allow learners to demonstrate learn-
+ing in a variety of ways. It is further suggested that guides be 
+developed for school leaders, teachers, psychologists, occupa-
+tional therapists, and parents to explicitly demonstrate the SEN 
+curriculum implementation process and define the roles and re-
+sponsibilities of each key stakeholder for a unified and an inte-
+gral inclusive approach. Research in making informed decisions 
+across all levels should be part of the curriculum and carried out 
+in a systematic and timely manner.
+Teaching and learning continuum
+Experiences gathered from the distance mode of learning adopted 
+during COVID-19 has proven that a shift from conventional teach-
+ing to ODL is possible. It is highlighted that the type and degree 
+of disabilities of learners vary. Hence, teachers’ guides should il-
+lustrate a continuum of learning including all cognitive, affective, 
+and behavioural changes throughout a wide array of disability-spe-
+cific ODL-based activities to guide them in designing and imple-
+menting an inclusive learning environment. Moreover, the existing 
+individualised educational plan  should be reviewed to integrate 
+disability-specific ICT skills and competencies with short-, medium-, 
+and long-term objectives to accommodate SEN learners. 
+For successful integration of technology, it is strongly advisable 
+to have trained teachers, motivated learners; adapted learning 
+content, activities, and environment; a supportive school ethos, 
+and parental involvement. As such, teachers’ preparedness, 
+enhanced confidence, and higher levels of competence in us-
+ing ODL solutions in their teaching will be achieved in an in-
+cremental manner: this can also positively influence the mind-
+set shift of teachers in embracing technology. A community 
+of practice should be encouraged and nurtured within school 
+culture to promote the sharing of good practices and to create 
+new knowledge to advance the domain of professional practice 
+in the use of ODL solutions for learners with SEN. The heads 
+of SEN schools play a pivotal role in articulating and sustaining 
+the collective approach within the school ethos.
+To drive this change, school leadership is vital. It was further 
+proposed to have regular round tables, regional workshops, 
+and international conferences on ODL initiatives in SEN edu-
+cation. This unified force with shared goals will bring visibility 
+to SEN learners, both regionally and internationally. 
+Technological infrastructure
+There were recurrent arguments that school technological infra-
+structure must be reviewed, reinforced, and measured against 
+required quality norms: this contributes to quality ODL practices 
+in SEN education. These norms include broadband internet con-
+nectivity; robust hardware; software for specific disabilities; lap-
+tops or tablets for teachers; and adapted classrooms and mobile ‘Greater consideration 
+should be given to the reality 
+of the classroom because every 
+child is unique, and teaching 
+depends on contextual reality.’
+Director, MIE.
+A manager of an NGO referred 
+to ‘the creation of an online hub 
+dedicated to the SEN community 
+to craft inclusive and equitable 
+digital solutions and allow sharing 
+and discussion of innovative, 
+affordable, and replicable 
+approaches.’30
+COVID 19, technology-based education and  disability: The  case of Mauritiusprojectors. In addition, timely maintenance and upgrading 
+of the technological infrastructure is essential for sustainabili-
+ty. Heads of schools, together with teaching staff, should devel-
+op a school ICT policy which will be derived from the national 
+ICT policy for SEN education. This should be an integral part 
+of the school development plan. 
+Teachers are encouraged to adopt affordable and accessible 
+ODL solutions that become enablers of ODL implementation. 
+In so doing, these initiatives will lead to a positive working cli-
+mate resulting in a responsive culture to ODL practices in ed-
+ucation. The development of a SEN portal was strongly recom-
+mended to connect all stakeholders, including SEN schools, 
+SENRDCs, NGOs, and relevant partners. Access to free internet 
+and adapted digital devices for vulnerable families who have 
+a child with a disability should be earmarked for the forthcom-
+ing budget as a social responsibility to provide equal access 
+and learning opportunities. 
+Empowering key stakeholders
+A diverse education workforce and empowering key stake-
+holders across all levels from the micro (school level) to meso 
+(community level including parents) and macro levels (ministry 
+level) should be in place to support inclusion in SEN education. 
+This knowledge-pull approach must be embraced and valued 
+in this digital era as successful implementation of ODL solutions 
+in SEN education is achieved collectively.  
+MIE engagement to upgrade the educational qualifications of SEN 
+personnel13 – namely, managers, teachers, assistant teachers, 
+and carers – is duly recognized. However, in this digital era, MIE 
+is invited to design tailor-made training courses in terms of short 
+courses, workshops, and seminars for SEN personnel in ODL solu-
+tions that can be replicated and sustained. The personalized con-
+tinuous training in disability-specific techno-pedagogy was em-
+phasized to boost the confidence and motivation of teachers. As 
+a result, they are empowered to become designers of ODL solu-
+tions rather than being only consumers of ODL solutions. 
+A mix of leadership styles was important in driving and guid-
+ing ODL implementation and encouraging the sharing of good 
+practices. Also, collaboration of therapists in designing and de-
+velopment ODL solutions was highly recommended. In a nut-
+shell, SEN institutions should be active learning organizations 
+that positively influence the quality of ODL solutions for learners 
+with disabilities. The multidisciplinary team engaged with learn-
+ers with disabilities should also benefit from capacity build-
+ing in ODL solutions. Furthermore, familiarizing the students 
+with ODL solutions was viewed equally vital, as there should be 
+a smoothing transition from the conventional to the novel ODL 
+practice to maintain sustainability. 
+13 http://portal.mie.ac.mu/wp-content/uploads/2020/03/Special-Educational-Needs-Educational-
+Path.pdf .‘We need increased investment 
+in the training of educators 
+in technology whose roles 
+have changed since the start 
+of the pandemic.’
+Manager, NGO.31
+COVID 19, technology-based education and  disability: The  case of MauritiusParental support and involvement was appreciated during 
+the pandemic, as teachers were able to successfully implement 
+ODL solutions with their support. This implies that parents 
+should be active stakeholders in decision-making for ODL solu-
+tions at the level of the institution and training. Thus, informed 
+and trained parents will be better equipped to provide addition-
+al support for their children at home. 
+School–home partnership 
+With strong communication, commitment, and relationships built 
+on mutual understanding and trust, teachers and parents imple-
+mented distance education during the pandemic crisis. This shared 
+learning space and responsibility strengthened the connections 
+between school and home, creating opportunities for learning 
+from home with technological support. Nevertheless, it is ob-
+served that the importance of school–home partnership is under-
+played. Hence, the parents’ vital role in the learning of their child 
+should be acknowledged and valued, and opportunities should 
+be created for including parents as informal learning partners.
+Quality assurance
+The SENA should collaboratively prepare a quality assurance pol-
+icy for SEN education with the Health and Wellness directorate, 
+Quality Assurance and Inspection Division, MIE, SeDEC, NGOs, 
+DPI, Inclusion Mauritius, and DPOs. This document should de-
+scribe the quality assurance processes, outcomes, and actions 
+in SEN education, and should be available in all SEN institutions.  
+Trained personnel should closely monitor all quality processes, 
+outcomes, and actions in a timely manner.
+Unified implementation strategy
+It was agreed that an inclusive approach with a common goal has 
+to be adopted by all major stakeholders in the SEN sector to facili-
+tate the implementation of ODL solutions. With a dedicated team 
+and a unified implementation strategy, the efficiency and effective-
+ness of monitoring every child’s educational achievements and emo-
+tional behaviour will be a reality. This will contribute to improving 
+access, inclusion, and quality of ODL integration in SEN education.
+Working with partners
+SEN education advocates a strong focus on willingness and collec -
+tive decisions and actions. The holistic development of learners 
+with disabilities involves partnerships among various stakehold-
+ers from education, health, and social services. Within the same 
+context, it is highly recommended that a partnership be devel-
+oped to support and sustain the integration of ODL solutions 
+in SEN education. For instance, medical officers from the health 
+services could advice on the type of technology used in SEN ed-
+ucation in relation to the type and degree of disability.  ‘We need a strong synergy 
+between the civil society 
+in the disability sector 
+and the government 
+to better tackle issues regarding 
+the educational needs of SEN 
+learners.’
+Project and Fundraising 
+Manager, NGO.
+The NGOs strongly 
+felt that partnerships 
+among NGOs, ministries, 
+and private companies should 
+be strengthened.
+‘Yes, more than ever, we 
+continued ODL solutions 
+in the post-COVID environment.’
+Project and Fundraising 
+Manager, NGO.32
+COVID 19, technology-based education and  disability: The  case of MauritiusConclusion 
+In conclusion, this case study has looked at the potential sustain-
+ability of ODL solutions as a post-COVID recovery plan by criti -
+cally analysing their relevance, efficiency, effectiveness, impact, 
+and sustainability during the pandemic, as well as aiming to un-
+derstand the barriers impeding their successful implementation 
+in both COVID and non-COVID environments. The contributions 
+in terms of technological innovations within different layers 
+in the education sector with a focus on SEN was scrutinized. One 
+of the forceful messages that came through was the strong will 
+to embrace technology in SEN education in an inclusive and eq-
+uitable manner: the right to education for all also encompass-
+es the right to equal resources for all. Key recommendations 
+in this shift towards an inclusive ODL learning environment 
+were outlined.
+The health crisis has not only interrupted traditional schooling 
+but has also revealed the inadequacies and inequities in our ed-
+ucation system, including the SEN sector. As we move towards 
+the COVID-19 recovery phase, it will be critical to reflect and act 
+collectively with all partners in the SEN sector in fostering a re-
+silient educational ecosystem to better guard against adversity. 
+This will include a realignment between resources and needs, 
+ensuring that learners with disabilities have equal learning 
+opportunities within a supportive learning environment. In 
+this sense, it is of paramount importance that government sec-
+tors, in close partnership with NGOs, DPI, DPOs, Inclusive Mau-
+ritius, and the private sector, react effectively and efficiently 
+in regard to the recommendations outlined above. The nature 
+of the shared decisions and actions will undoubtedly determine 
+the success of the COVID-19 recovery practices.  ‘We still have to perfect our act.’
+Director, MIE.33
+COVID 19, technology-based education and  disability: The  case of MauritiusReferences
+• DeGraff, J. 2014. Digital Natives vs. Digital Immigrants. THE BLOG, [blog] 16 June. Last accessed January 
+2021: https://jeffdegraff.com/blog/2014/06/digital-natives-vs-digital-immigrants/. 
+• Deursen, A.J.V. and Dijk, J.A.V. 2014. The digital divide shifts to differences in usage. New media & society, 
+[e-journal] 16(3), 507-526. 
+• Joy, O. 2012. What does it mean to be a digital native? CNN, [online]. Last accessed January 2021: https://
+edition.cnn.com/2012/12/04/business/digital-native-prensky/.
+• Mauritius Institute of Education. (2020). Special Educational Needs: Educational Path. Last accessed 
+December 2020: http://portal.mie.ac.mu/wp-content/uploads/2020/03/Special-Educational-Needs-Educa-
+tional-Path.pdf.
+• Mauritius. 2016. Ministry of Education and Human Resources, Tertiary Education and Scientific Re -
+search. Nine-Year Schooling: Inspiring Every Child. Pont Fer, Phoenix: Open University of Mauritius. Last 
+accessed December 2020: https://education.govmu.org/Documents/educationsector/nys/Documents/
+NYCBE%20Booklet.pdf.
+• Mauritius. 2017. Ministry of Education & Human Resources. Norms and Standards for Special Education 
+Needs Schools. Pont Fer, Phoenix. Last accessed December 2020:  
+https://education.govmu.org/Documents/educationsector/Documents/Special%20Education%20
+Needs/6.%20Norms%20and%20Standards.pdf .
+• Mauritius. 2017. Ministry of Education & Human Resources. Salient Features, Inclusive Education for Chil -
+dren and Youth with Special Needs in Mauritius. Pont Fer, Phoenix. Last accessed December 2020: 
+https://education.govmu.org/Documents/educationsector/Documents/Special%20Education%20Needs/
+Salient%20Features%20Startegy%20Doc%20(1).pdf .
+• Mauritius. 2017. Ministry of Education and Human Resources, Tertiary Education and Scientific Research. 
+Policy Framework and Strategy Document 2017, Inclusive Education for Children and Youth with Special 
+Needs in Mauritius: Concept to Reality. Pont Fer, Phoenix. Last accessed December 2020:  
+https://education.govmu.org/Documents/educationsector/Documents/Special%20Education%20Needs/
+SEN_Strategy_2017_Final.pdf .
+• Mauritius. 2018. Ministry of Education & Human Resources. Special Needs Schools Act. Pont Fer, Phoe -
+nix. Last accessed December 2020: https://education.govmu.org/Documents/educationsector/Docu -
+ments/Special%20Education%20Needs/Special%20Education%20Needs%20Authority%20Act.pdf .
+• Mauritius. 2019. Ministry of Education and Human Resources, Tertiary Education and Scientific Research. 
+Free Education in Tertiary Education Institutions. Pont Fer, Phoenix. Last accessed December 2020: 
+https://education.govmu.org/Documents/educationsector/Documents/2019/Communique%20250119.
+pdf.
+• Mauritius. 2020. Education Statistics: Highlights. Port-Louis: Statistics Mauritius. Last accessed December 
+2020: https://statsmauritius.govmu.org/Pages/Statistics/ESI/Education/Edu_Yr20.aspx.
+• Mauritius. 2020. National Laws on Labour, social security and related human rights. The Training 
+and Employment of Disabled Persons Act 1996. International Labour Organization, NATLEX Database. 
+Last accessed December 2020: www.ilo.org/dyn/natlex/docs/WEBTEXT/45308/65039/E96MUS01.htm.
+• Mauritius. 2021. Prime Minister’s Office. La ministre Daureeawoo réaffirme l’introduction du Disability Bill 
+à l’Assemblée nationale. Port-Louis: Government Information. Last accessed December 2020:  Service.
+https://gis.govmu.org/News/SitePages/La-ministre-Daureeawoo-r%C3%A9affirme-l’introduction-du-Di-
+sability-Bill-%C3%A0-l’Assembl%C3%A9e-nationale.aspx.34
+COVID 19, technology-based education and  disability: The  case of Mauritius• Prensky, M. 2001. Digital Natives, Digital Immigrants Part 1. On the Horizon, [e-journal] 9(5), pp.1-6. Last 
+accessed June 2019: https://library.mdx.ac.mu .
+• UNESCO Institute for Lifelong Learning. Mauritius: Education and Human Resources Strate-
+gy Plan: 2020, issued in 2009. Last accessed November 2020: https://uil.unesco.org/document/
+mauritius-education-and-human-resources-strategy-plan-2020-issued-2009 .
+• United Nations. Universal Declaration of Human Rights. Last accessed December 2020: https://www.
+un.org/en/about-us/universal-declaration-of-human-rights.
+• Veinberg, S. 2014. Digital native’s attitude towards news sources. Public Relations Review, [e-journal] 
+41(2), 299-301.35
+COVID 19, technology-based education and  disability: The  case of MauritiusAppendix 
+List of interviewees
+Mrs Aneeta Ghoorah 
+Director
+Primary, UNESCO and Curriculum Development and Evaluation
+Ministry of Education, Tertiary Education, Science and Technology
+Dr Neeshti Reetoo
+Director, Health and Wellness
+Ministry of Education, Tertiary Education, Science and Technology
+Dr Om Nath Varma
+Director
+Mauritius Institute of Education
+Miss Shabnaz Koodoruth  
+Temporary Assistant Permanent Secretary
+Ministry of Education, Tertiary Education, Science and Technology
+Mr Kaviraj Ramdhun 
+Senior Inspector
+Special Education Needs Unit
+Ministry of Education, Tertiary Education, Science and Technology
+Mrs Jocelyne Beesoon
+Director
+Association de Parents d’Enfants Inadaptés de l’île Maurice 
+Morcellement Belzim 
+Active Member, Inclusion Mauritius
+Mrs  Kina Diop
+Project and Fundraising Manager
+Association de Parents d’Enfants Inadaptés de l’île Maurice (APEIM)
+Mrs P Ullagen 
+Director
+Association of Disability Service Providers
+Mrs Atia Sultana
+Director
+Ranger Foundation Centre36
+COVID 19, technology-based education and  disability: The  case of MauritiusIgnace Marie-Ange Helene de Cazanove
+Project Officer
+La Fraternite Mauricienne des Malades et Handicapes 
+Mr Bondy Poorasveensingh
+Manager/Project Coordinator
+Southern Handicapped Association
+Miss Renooka Beejan
+Head of Socio-Economic Development Unit
+United Nations Development Programme
+Country Office in Mauritius and Seychelles
+Ms Pooja Gopee 
+Project Head
+Inclusion Mauritius
+Mr Vijay Lutchman
+Deputy Head Teacher/Officer in Charge 
+SEN Curriculum Panel Member, MIE
+SEN Research and Development Centre
+Mrs Lalima Munnee
+SEN Educator
+SEN Curriculum Panel Member, MIE
+J.T. Ramsoondar Government School (Government Integrated Unit)
+Mrs Ferozia Hosaneea
+Disability Rights Activist37
+COVID 19, technology-based education and  disability: The  case of MauritiusAbout the author
+Anuradha Gungadeen is Senior Lecturer in Open and Distance Learning, Centre for Open and Distance Learn-
+ing, at the Mauritius Institute of Education. She served as a member of the National Education Reform Com-
+munication Committees during 2015–2016 and was the recipient of a number of prestigious fellowships. Her 
+research interest focuses on emerging technologies for affordable, inclusive, and sustained education. 38
+COVID 19, technology-based education and  disability: The  case of MauritiusIITE/2021/PI/2

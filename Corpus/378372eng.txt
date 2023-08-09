@@ -1,0 +1,329 @@
+IIEP Policy Brief / Open Government in Education N°3 / 2021
+As part of its research project on ‘Open 
+government (OG) in education: Learning 
+from experience’, the UNESCO International 
+Institute for Educational Planning (IIEP) has 
+prepared five thematic briefs illustrating 
+various forms of OG as applied to the education 
+field: open government, open budgeting, open 
+contracting, open policy-making and crowd-
+sourcing, and social auditing. This brief deals 
+specifically with open contracting.
+What is open contracting?
+‘Open contracting’ refers to the full disclosure 
+of information on public contracts throughout 
+the procurement chain, with citizen 
+participation at every step in the process, from 
+the issuance of tenders to the monitoring and 
+evaluation of contract implementation. There 
+are three critical steps: (i) public disclosure 
+of information related to the identification 
+of needs, the planning of the tendering, 
+and the specification of selection criteria; 
+(ii) provision of access to the documentation 
+related to the procurement process, from the 
+invitation to tender to the award of a contract, 
+with the option for stakeholders to provide 
+comments and express concerns along 
+the way; and (iii) holding public authorities  
+accountable for  the quantity and quality 
+of goods or services delivered as a result.Open contracting can be used in a variety 
+of domains within the education sector 
+where public procurement is required, 
+particularly in school construction and 
+renovation, and purchase of school 
+equipment, school meals, and textbooks. 
+By engaging the general public in the 
+process, open government practices like Open Contracting
+An illustrative form of open government  
+in education
+© Shutterstock
+Useful resources
+The OECD has published a report  
+highlighting the main integrity risks existing 
+throughout the public procurement cycle, 
+and key means for addressing them. These 
+include adequate and timely information 
+about upcoming contracts and ongoing 
+procurement processes; open and regular 
+dialogue with suppliers as well as end users; 
+and e-procurement.
+The Open Contracting Partnership has 
+developed a wealth of resources  on open 
+contracting, including global principles, 
+red flags, self-learning materials, and 
+Open Contracting Data Standard  (OCDS) 
+tools to facilitate access to data:.Hivos has 
+produced an advocacy toolkit for opening 
+up contracting, which emphasizes the 
+importance of people-centred and evidence-
+based advocacy in public contracting 
+processes, at national and local levels.open contracting offer multiple advantages: 
+they can help ensure that the need for a 
+new tender is real, that the specifications 
+set are clear, that the whole procurement 
+process is transparent, that the final goods 
+or services delivered fulfil the quantitative 
+and qualitative requirements set, and that 
+these are in tune with citizens’ needs.
+‘Open contracting’ refers to the 
+disclosure of information on public 
+contracts throughout the entire 
+procurement chain, with citizen 
+participation at every step.
+An example of open contracting
+In 2015, the Colombian Ministry of Education, 
+together with the Colombian national public 
+procurement agency CCE (Colombia Compra 
+Eficiente), started to examine the contracting 
+procedures used as part of the School 
+Meals Programme (SMP), one of the largest 
+social programmes in the country. With a 
+view to increasing the range of bidders, 
+cutting out intermediaries, regulating food 
+prices, and reducing anti-competitive 
+practices, they decided to open up the 
+SMP contracting process on a pilot basis. 
+Following an agreement signed with the 
+Department of Education in the Capital 
+District of Bogotá, all the documents related 
+to SMP procurement in Bogotá became visible 
+to all stakeholders via the national SECOP  
+e-procurement platform. At the same time, 
+school meal committees were created to 
+monitor the quality of the food provided, and 
+to suggest ways for improving the SMP. As 
+a result, the number of bids from suppliers 
+quadrupled, prices decreased (with savings 
+estimated at 10-15 per cent), and the quality 
+of meals improved thanks to the intensive 
+monitoring established along the entire chain, 
+from production plants to end beneficiaries.
+Open contracting implementation framework
+The implementation of open contracting requires 
+the involvement of stakeholders in the three 
+main steps of the process, as summarized below 
+and illustrated in Figure 1 . —Step 1: Information about tendering, along 
+with supporting documents, is shared with 
+the general public. These might include a 
+rationale for the project, basic information 
+about the cost and budget, technical 
+papers and feasibility studies, notice of 
+planned procurement, procurement method, 
+contracts awarded, names of contractors, 
+contract updates, performance indicators, 
+and appeals and decisions on procurement 
+challenges and debarred contractors 
+(Centre for Global Development, 2014). Such 
+information needs to be centralized on a 
+dedicated, national online platform, such as 
+the SECOP in Colombia.
+ —Step 2 : Various stakeholders are offered the 
+opportunity to provide feedback and raise 
+concerns at several stages of the procurement 
+process. This might take the form of integrity 
+pacts, like the 2003 initiative on textbooks 
+implemented by the Argentinean Ministry of 
+Education and the NGO Poder Ciudadano. In 
+this case, both companies and civil society 
+organizations were consulted at the pre-
+bidding stage to discuss criteria for textbook 
+selection, as well as bidding procedures.
+ —Step 3 : Public participation is sought, to 
+monitor the execution, completion, and 
+performance of the service provided. What 
+is often referred to as civic monitoring 
+of contract implementation consists in 
+mobilizing civil society groups, end users, 
+and/or young people to document contract 
+implementation, report possible irregularities 
+(such as low-quality products or late delivery), 
+and suggest improvements accordingly. The 
+CheckMySchool project in the Philippines 
+is an example of citizen involvement in the 
+ —
+IIEP Policy Brief / Open Government in Education N°3 / 2021
+© Duque Boteromonitoring of school textbook delivery, along
+with the monitoring of test results, enrolment, 
+and other education information of interest 
+(Parafina, 2018).
+Open contracting can be implemented 
+at all administrative levels. However, as 
+contracting procedures are often carried out 
+at the national level, some type of versatile 
+online platform is required for gathering all 
+contracting data in one place and making it 
+available. Beyond information platforms, the 
+digitalization of each step of the procurement 
+chain (i.e. e-procurement) can greatly facilitate 
+consultation, feedback, and monitoring 
+processes. This requires considerable 
+investment in time, expertise, and technology 
+by government authorities.
+Involving young people in open contracting
+In recent years, numerous experiments around 
+the world have involved students in open 
+contracting (OC). Several of these experiments 
+deal specifically with school construction, as 
+illustrated by the three examples provided 
+opposite from Finland, Italy, and Paraguay. 
+In the first case, the initiative has come from 
+the Finnish National Agency for Education 
+(EDUFI), which intends to better adapt 
+the design of new schools to pedagogical 
+requirements as well as to users’ needs 
+(students, teachers, and other school staff).IIEP Policy Brief / Open Government in Education N°3 / 2021
+Figure 1. Open contracting implementation steps
+Source : AuthorOpen Contracting in Finland
+Finland has recently introduced participatory 
+approaches to school construction, in large and 
+small municipalities alike. In the State-run Finnish-
+Russian School, for instance, the Finnish National 
+Agency for Education (EDUFI) has organized 
+dozens of workshops with school actors (including 
+students), together with benchmark visits to other new 
+schools. A designer and a pedagogical expert 
+were responsible for facilitating the translation 
+of users’ needs during the whole design and 
+construction process.
+For more details, see: Duthilleul et al., 2018.
+Open Contracting in Italy
+AMAPOLA is part of a joint EU/Transparency 
+International project aimed at improving transparency 
+in public procurement through the use of integrity 
+pacts. The project provides support to technical 
+high school students from the Sicilian region of 
+the Madonie, thus enabling them to carry out civic 
+monitoring activities. It trains them in how to do online 
+research, inspect construction sites, and conduct 
+interviews with Construction Agency officers. This 
+gives them hands-on experience in working on 
+public procurement launched by a local municipality.
+For more details, see Madonie Resilienti Laboratorio 
+di Futuro.
+Publication of tendering 
+information and other 
+supporting documentsMonitoring of service 
+delivery (desk review, site 
+visits, interviews)
+Raising complaintsSubmission of ideas for 
+improvement Identification of 
+irregularities (quality, 
+quantity, timeliness)Consultation with 
+stakeholders at various 
+stages of the process 
+(integrity pacts)Step 1  
+Publication of  
+tendering informationStep 2  
+Participation in  
+procurement proceduresStep 3  
+Civic monitoring of  
+contract implementationIn the two other cases, NGOs are in charge of 
+helping students to carry out civic monitoring 
+activities focused on ongoing public 
+procurement cases.Open contracting can help fight corruption
+Public contracting is often presented as the 
+first source of, and opportunity for, corruption 
+and fraud in government. The corruption 
+risks are multiple and well documented in the
+literature. They include: the falsification 
+of needs so as to channel benefits to an 
+individual or organization; so-called invitation 
+tenders that are not publicized; collusion 
+of bidders to inflate prices; favouritism or 
+payment of bribes in the selection process; 
+and cheating on the quantity or quality of 
+services, materials, and equipment provided 
+(Hallak and Poisson, 2007). In this context, 
+therefore, it is expected that by increasing 
+capacity to monitor contract bidding and 
+implementation, open contracting can help 
+identify red flags and anomalies, question 
+the appropriateness of the decisions taken, 
+and reveal deficiencies in contract execution 
+caused by corruption practices. IIEP Policy Brief / Open Government in Education N°3 / 2021
+Contact information 
+This brief was written by Muriel 
+Poisson, IIEP Programme Specialist 
+and Coordinator of the Institute’s 
+research project on ‘Open government 
+in education: Learning from 
+experience’. It has benefitted from an 
+initial document search carried out by 
+Sanskruti Gholsakar, Consultant. 
+For further information, contact:  
+Muriel Poisson 
+m.poisson@iiep.unesco.org
+IIEP-UNESCO
+7-9 rue Eugène Delacroix
+75016 Paris, France
+Tel: +33 1 45 03 77 00
+Fax: +33 1 40 72 83 66
+info@iiep.unesco.org
+www.iiep.unesco.orgReferences
+Brown, S.; Neumann, G. 2017 . Paraguay’s 
+transparency alchemists. Open contracting 
+stories. 2 October 2017 , https://medium.
+com/open-contracting-stories/paraguays-
+transparency-alchemists-623c8e3c538f
+Center for Global Development. 2014. 
+Publishing Government Contracts: 
+Addressing Concerns and Easing 
+Implementation.  Washington, DC: Center for 
+Global Development, https://www.cgdev.
+org/publication/ft/publishing-government-
+contracts-addressing-concerns-and-
+easing-implementation
+Duthilleul, Y.; Blyth, A.; Imms, W.; 
+Maslauskaite, K. 2018. Design and Learning 
+Environments in the City of Espoo, Finland . 
+Thematic Reviews Series. Paris: Council of 
+Europe Development Bank. https://coebank.
+org/media/documents/School_Design_and_
+Learning_Environments_in_the_City_of_
+Espoo_Finland.pdf
+Hallak, J.; Poisson, M.  2007. Corrupt 
+Schools, Corrupt Universities: What Can 
+Be Done? Paris: UNESCO Press, https://
+unesdoc.unesco.org/ark:/48223/
+pf0000150259.Further reading
+Duque Botero, J. D. 2021.  Open Contracting: 
+The School Meals Programme in Bogotá, 
+Colombia . Paris: IIEP-UNESCO. Bogotá: 
+Duque Botero Consultores, https://etico.
+iiep.unesco.org/sites/default/files/
+open_contracting_the_school_meals_
+programme_in_bogota_columbia_en.pdf
+Parafina, R. 2018. Philippines: Using open 
+school data to improve transparency 
+and accountability. Paris: IIEP-UNESCO, 
+https://unesdoc.unesco.org/ark:/48223/
+pf0000265938 .
+To learn more about IIEP’s research in the 
+area, consult the ETICO online platform  
+devoted to ethics and corruption in 
+education. You can also contact us by e-mail 
+at: etico@iiep.unesco.org .
+Also in this series of briefs: Poisson, M. 202I. 
+Open Government/Open Budgeting/Open 
+Policy-Making/Social Auditing: Illustrative 
+Forms of Open Government in Education. 
+Paris: IIEP-UNESCO.
+The designations employed and the presentation of material throughout this review do not imply the expression of any opinion whatsoever on the part of 
+UNESCO or IIEP concerning the legal status of any country, territory, city or area or its authorities, or concerning its frontiers or boundaries. 
+© UNESCO 2021 — This publication is available in Open Access under the Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) licence (http://creativecommons.
+org/licenses/by-sa/3.0/igo/). By using the content of this publication, the users accept to be bound by the terms of use of the UNESCO Open Access 
+Repository (http://www.unesco.org/open-access/terms-use-ccbysa-en). The present licence applies exclusively to the text content of the publication.Open Contracting in Paraguay
+In 2015, in the city of Ciudad del Este, a student 
+movement called reAcción decided to monitor 
+school infrastructure. High school students 
+conducted site visits, interviewed school 
+principals, and took photos of facilities; university 
+students looked for related data on government 
+portals. They also organized advocacy and 
+training activities for the whole school community 
+in this domain. As a result, the national Public 
+Procurement Agency agreed to facilitate access 
+to information on school contracting through 
+government portals.
+Source: Brown and Neumann, 2017 .

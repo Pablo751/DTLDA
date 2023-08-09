@@ -1,0 +1,666 @@
+Integrating Action for 
+Climate Empowerment into 
+Nationally Determined Contributions 
+A short guide for countriesIn partnership withEducation 
+Sector
+United Nations
+(GXFDWLRQDO6FLHQWL¿FDQG
+Cultural OrganizationThe Global Education 2030 Agenda
+UNESCO, as the United Nations’ specialized agency for education, is entrusted to lead and coordinate the Education 2030 Agenda, which is part of a global movement to eradicate poverty through 17 Sustainable Development Goals by 2030. Education, essential to achieve all of these goals, has its own dedicated Goal 4, which aims to “ensure inclusive and equitable quality education and promote lifelong learning opportunities for all. ” The Education 2030 Framework for Action provides guidance for the implementation of this ambitious goal and commitments. UNESCO Education Sector
+Education is UNESCO’s top priority because it is a basic human right and the foundation on which to build peace and drive sustainable development. UNESCO is the United Nations’ specialized agency for education and the Education Sector provides global and regional leadership in education, strengthens national education systems and responds to contemporary global challenges through education with a special focus on gender equality and Africa.
+Published in 2020 by the United Nations Educational, Scientific and Cultural Organization (UNESCO), 7, place de Fontenoy, 75352 Paris 
+07 SP , France
+© UNESCO 2020The designations employed and the presentation of material throughout this publication do not imply the expression of any opinion 
+whatsoever on the part of UNESCO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.  
+The ideas and opinions expressed in this publication are those of the authors; they are not necessarily those of UNESCO and do not 
+commit the Organization.
+Cover photo: Rawpixel.com/Shutterstock.com
+CLD 416.  ED-2020/WS/21 REV.1
+Integrating Action for Climate Empowerment into Nationally Determined Contributions“Education is crucial for climate action because it has the exceptional 
+power to make evolve mindsets and behaviours in the long run.  
+Because education can change minds, it can change the world. ”
+Audrey Azoulay, Director-General, UNESCO
+“The six elements of ACE – education, training, public awareness, 
+public access to information, public participation and international 
+cooperation on these – are essential for countries and communities to 
+counter climate change and adapt to its impacts. ”
+Patricia Espinosa, Executive Secretary, UN Climate Change
+Why this guide?
+In the framework of the 2020 review of Nationally Determined Contributions (NDCs) under the Paris Agreement, this 
+guide aims to provide countries with advice on how to enhance ambition and address the six elements of  ‘Action for 
+Climate Empowerment’ (ACE) – Education, Training, Public Awareness, Public Access to Information, Public Participation 
+and International Cooperation – in their respective NDCs. 
+In five simple questions and answers, it provides suggestions for elements that can be integrated into the NDCs in order 
+to make ACE an integral part of countries’ climate responses. The guide also shows why ACE is key to achieve the goals of 
+the Paris Agreement and its greenhouse gas emission targets.
+Acknowledgements
+This guide was developed by UNESCO in partnership with UN Climate Change, and with contributions from the United 
+Nations Alliance on Climate Change Education, Training and Public Awareness, which brings together 13 UN Agencies.
+Special thanks go to Miriam Tereick from UNESCO’s section of Education for Sustainable Development and to  
+Adriana Valenzuela from the UN Climate Change’s Action for Climate Empowerment team for the overall coordination 
+and drafting of the guidelines.
+Two existing UN publications have informed parts of this guide:
+• UNESCO/UNFCCC (2016): Action for Climate Empowerment: Guidelines for accelerating solutions through 
+education, training and public awareness  
+• UNDP (2019): Guide to Strengthening National Climate Plans by 2020 
+Our further thanks go to Reuben Sessa, FAO; Tahmina Mahmud and Olga Strietska-Ilina ( ILO); Environment and Climate 
+Change Team, OHCHR; Sam Barratt, UN Environment; Nataly Olofinskaya, UNDP; Amy Wickham, UNICEF; Angus Mackay, 
+UNITAR; Philip Vaughter, United Nations University; Yamide Dagnet, NDC partnership; Johanna Arriagada, Chile; Roberta 
+Ianna, Italy; and Marcia McKenzie, Sustainability and Education Policy Network (SEPN) for reviewing earlier versions of 
+the document. We also thank the various colleagues at UNESCO and UN Climate Change who have provided input and 
+support to the development of this guide.2
+Integrating Action for Climate Empowerment into Nationally Determined ContributionsList of acronyms
+ACE   Action for Climate Empowerment
+CCA   Climate change adaptation
+CCM    Climate change mitigation
+COP   Conference of the Parties
+ESD  Education for Sustainable Development
+GHG  Greenhouse gases
+IGO  Intergovernmental Organization
+IPCC   Intergovernmental Panel on Climate Change
+LTS  Long-term Emissions Reduction Strategy
+NAP   National Adaptation Plan
+NGO  Non-governmental Organization
+NDC   Nationally Determined Contribution
+SDG   Sustainable Development Goal
+TVET   Technical and vocational education and training
+UNESCO United Nations Educational, Scientific and Cultural Organization
+UNITAR  United Nations Institute for Training and Research
+UNFCCC United Nations Framework Convention on Climate Change3
+Integrating Action for Climate Empowerment into Nationally Determined Contributions A short guide for countries1) What is Action for Climate 
+Empowerment?
+Action for Climate Empowerment (ACE) denotes work 
+under Article 6 of the United Nations Framework 
+Convention on Climate Change (UNFCCC, 1992) and 
+Article 12 of the Paris Agreement (2015) and their six 
+elements: Climate Change Education, Training, Public 
+Awareness, Public Access to Information, Public 
+Participation, and International Cooperation on these 
+issues.
+Implementation of all six elements has increasingly 
+been recognized as crucial in solving the complex 
+challenges presented by climate change. This is also 
+reflected in the Sustainable Development Goals (for 
+example SDG targets 4.7 and 13.3) to which the ACE 
+agenda is closely related. 
+In line with the Doha work programme on Article 6 of 
+the Convention (2012-2020), ACE shall be guided by the 
+following principles: 
+• a country-driven approach according to the 
+national circumstances;
+• gender and an intergenerational approach; 
+• a phased approach integrating ACE into existing 
+climate change policies, programmes and 
+strategies;
+• an interdisciplinary multi-sectoral, multi-
+stakeholder and participatory approach;
+• promotion of partnerships, networks and 
+synergies; 
+• the principles of sustainable development. 2) What is the procedure for NDC review?
+The Paris Agreement requires Parties to communicate 
+a Nationally Determined Contribution (NDC) every five 
+years, each time representing a progression from previous 
+efforts and reflecting the maximum ambition that the 
+country can put together on the basis of its capacity. 
+By 2020, those countries that have already submitted 
+an NDC with a time frame up to 2025 are requested 
+to communicate a new NDC, and the countries with 
+an NDC with a time frame up to 2030 are requested to 
+communicate a new NDC or update their existing NDC.
+The need to step up efforts has taken on renewed urgency 
+in light of the 2018 IPCC special report on 1.5°C, which 
+underscored the need to halve emissions by 2030. Therefore, 
+the year 2020 offers countries the opportunity to assess 
+whether their NDCs reflect their highest possible 
+ambition and whether they could do more to contribute 
+to collective efforts towards achieving the goals of the 
+Paris Agreement. The NDC revision process is also a key 
+opportunity for countries to integrate ACE through 
+activities aimed at building political will, strengthening 
+societal ownership and engaging youth, civil society, 
+the private sector and other key stakeholders to build 
+a whole-of-society consensus over enhanced NDC 
+ambition. 
+In general, countries are encouraged to improve their 
+NDCs through a clear and inclusive process with high-
+level buy-in; align their NDCs with the Sustainable 
+Development Goals (SDGs); and communicate their NDCs 
+transparently. NDCs tend to be interdisciplinary in nature, 
+requiring involvement from multiple different ministries 
+and implementing agencies as well as participation and 
+understanding of the civil society. For overall guidance on 
+how to establish a multi-stakeholder NDC enhancement 
+process, please refer to the UNDP “Guide to Strengthening 
+National Climate Plans by 2020”. Table 1 • ACE elements - scope and objectives
+Scope Objectives
+Education Change habits in the long-term Foster a better understanding of, and 
+ability to address  climate change and its 
+effects Training Develop practical skills
+Public Awareness Reach people of all ages and walks of life Promote community engagement, 
+creativity and knowledge in finding 
+climate change solutions Public Access to information Make information freely available
+Public ParticipationInvolve all stakeholders in decision-
+making  and implementation Engage all stakeholders in debate and 
+partnership to respond collectively to 
+climate changeInternational CooperationStrengthen cooperation, joint efforts  
+and knowledge exchange
+Source : UNESCO/UNFCCC 20164
+Integrating Action for Climate Empowerment into Nationally Determined Contributions3) Why integrate ACE into NDCs?
+Activities regarding all six priority elements of ACE 
+are essential, both for climate change mitigation and 
+adaptation: ACE prepares individuals, decision makers, 
+government entities, productive sectors and society 
+at large for the challenges that climate change brings, 
+and empowers them to act upon these:
+ ØEducation enables people to understand the 
+causes and consequences of climate change, to 
+make informed decisions and to take appropriate 
+actions to address it. 
+ ØTraining provides the core technical and soft skills 
+as well as advanced knowledge needed to support 
+the transition to green economies and sustainable, 
+inclusive climate-neutral and resilient societies. 
+ ØSuccessful public awareness campaigns engage 
+communities and individuals in the common effort needed to foster climate-friendly behaviour, 
+sustainable lifestyles and implement national, 
+regional, sectoral and international climate change 
+policies. 
+ ØPublic access to information strengthens 
+connections between knowledge production, 
+knowledge sharing and decision-making, and 
+provides people with the tools they need to play 
+an active role in addressing climate change.
+ ØPublic participation ensures ownership by 
+encouraging people to be more attentive 
+to policy-making and participate in the 
+implementation of climate policies.
+ ØThese five elements can all be strengthened 
+through international cooperation. Governments 
+and organizations can support each other with 
+resources, technical expertise, ideas and inspiration 
+for developing climate action programmes.
+Table 2  • Characteristics of each ACE element
+Education  
+Education seeks to achieve profound, long-term 
+changes in understanding, particularly among 
+young people. It involves developing educational 
+curricula, training of trainers and teachers and 
+adequate pedagogies. The results of a successful 
+programme would ultimately be a population 
+whose deep-seated appreciation of the climate 
+challenge leads to greater national action and 
+commitment. Public access to information 
+Programmes to engage citizens and CSOs in 
+addressing climate change can be improved by 
+ensuring that information is freely available. This 
+is crucial in order to develop and implement 
+effective policies and to engage people actively in 
+implementing these policies. Technologies such as 
+databases and the internet facilitate the provision 
+of climate information, data and statistics to all 
+citizens.
+Training
+Training programmes seek to spread specific 
+practical skills that can have an immediate practical 
+application. Examples include the ability to gather 
+and interpret climate data, conduct inventories of 
+national emissions, and identify climate-friendly 
+technologies. Training is about learning by doing – 
+individuals, communities and organizations can all 
+benefit from ongoing learning.Public participation 
+By ensuring that people can participate effectively 
+in climate change decision-making and implement 
+climate mitigation and adaptation activities, 
+governments should seek to integrate civil society 
+perspectives and mobilize the general public. In 
+some places, this will prompt profound changes 
+to how political leaders and civil servants are 
+accustomed to working and encourage people to 
+be more attentive to policy-making. 
+Public awareness 
+Many governments and non-governmental 
+organizations (NGOs), intergovernmental 
+organizations and UN agencies have already 
+launched major public awareness programmes. 
+But there remains an enormous unmet need for 
+more outreach. Creating a successful outreach 
+programme that truly changes behaviour involves 
+targeted and systematic communications. International cooperation 
+International cooperation and exchange can play 
+a major role in strengthening ACE efforts. Many 
+governments and relevant stakeholders need 
+access to expertise and financial and technical 
+resources so they can develop their own climate 
+change programmes. All countries can benefit 
+from sharing success stories, exchanging personnel 
+and strengthening institutional capacity.
+Source : UNESCO/UNFCCC 2016
+5
+Integrating Action for Climate Empowerment into Nationally Determined Contributions A short guide for countriesACE is a key cross-cutting instrument involving all 
+levels of governance and all actors in the society 
+in climate action and in support of all elements of 
+mitigation and adaptation. It has the potential to 
+provide the social and political will for action, in addition 
+to the required scientific and technological knowhow. 
+ACE commitments, as non-GHG targets, can help 
+accelerate the achievement of the GHG-related 
+targets, and should, therefore, be included in NDC 
+target-setting in concrete and measurable ways.
+4) What is the mandate? 
+At COP24 in Katowice, Poland (2018), Parties recognized 
+the importance of ACE in the Katowice Climate Package 
+– the Paris Agreement Work Programme – which includes 
+“Ways of enhancing the implementation of education, 
+training, public awareness, public participation and public 
+access to information so as to enhance actions under the 
+Paris Agreement” . By this decision, Parties agreed: 
+“to continue to promote the systematic 
+integration of gender-sensitive and 
+participatory education, training, public 
+awareness, public participation, public access 
+to information, and regional and international 
+cooperation into all mitigation and adaptation 
+activities implemented under the Convention, 
+as well as under the Paris Agreement, as 
+appropriate, including into the processes of 
+designing and implementing their nationally 
+determined contributions” (Decision 17/CMA.1, 
+paragraph 5)
+In order to raise ambition that addresses the Paris 
+Agreement holistically, and to present an inclusive NDC, it 
+is therefore crucial to integrate considerations of ACE into 
+the NDC review process. 
+5) How to integrate ACE into NDCs?
+The first step to integrate ACE into an NDC in a holistic 
+way is to commit – if this is not already the case – to 
+developing a national ACE strategy and to integrating 
+ACE into climate change and sectoral policy. For 
+this, it is important that all ACE and NDC focal points 
+and education stakeholders come together, arrange 
+knowledge transfer and engage in regular exchanges and 
+collaboration.ACE national strategy 
+The ACE strategy should be developed and implemented 
+through a multi-sectoral and multi-stakeholder 
+participatory process. In order to ensure co-creation and 
+ownership for all ACE measures from the beginning, it is 
+important to:
+ ØInvolve key stakeholders (relevant government 
+Ministries, regional and local authorities, 
+businesses, workers, education and training 
+institutions, youth organizations, inter alia) in the 
+policy design and implementation process to 
+foster effective governance and coherent policy 
+coordination;
+ ØEncourage collaboration and information-sharing 
+between Ministries of Education and Ministries of 
+Environment as well as other Ministries concerned 
+with climate change and media/communications. 
+This includes involving the Ministry of Education in 
+climate change mitigation (CCM) and adaptation 
+(CCA) strategies; 
+ ØLink the ACE Strategy to national development, 
+education and sectoral strategies and priorities 
+and integrate ACE into core interventions 
+regarding climate change, including climate 
+change laws, Long-term Emissions Reduction 
+Strategies (LTS), National Adaptation Plans (NAPs) 
+and climate financing; 
+ ØIntegrate ACE into formal monitoring and 
+reporting in relation to the NDC.
+The ACE strategy and its implementation should respect, 
+protect and fulfil human rights, particularly the rights to 
+education, participation and access to information. They 
+should be gender-responsive and pay specific attention 
+to the needs and knowledge/skills of vulnerable and 
+marginalized groups of the population, including 
+women, children and youth, migrants, indigenous people, 
+people with disabilities and elderly low-skilled individuals. 
+It should also take into account the situation of workers 
+in declining sectors as well as those most affected by the 
+green transition (for example communities reliant on coal 
+mining).
+It is also recommended that the ACE strategy and 
+its implementation be closely aligned with the 
+implementation and follow-up/review mechanisms 
+of the Sustainable Development Goals, the new 
+global framework on Education for Sustainable 
+Development “ESD for 2030”,  and the international 
+frameworks on access to information and public 
+participation.6
+Integrating Action for Climate Empowerment into Nationally Determined ContributionsObjectives and targets
+Below is a list of objectives, as well as suggested targets, 
+for each of the six elements of ACE, that can be adapted 
+to the specific national/regional contexts and addressed 
+in NDCs. It is recommended to integrate these into 
+the core NDC components rather than place them in 
+a separate section, as strategies/means to achieve the 
+respective mitigation and adaptation commitments.
+Education 
+ ØPromote, facilitate, develop and implement 
+formal, non-formal and informal climate 
+education programmes that encourage 
+climate-friendly behaviour, focusing on both 
+mitigation and adaptation;
+ ØInclude climate change at all levels and across 
+disciplines in both school and higher education 
+curricula, as well as in technical and vocational 
+education and training (TVET) and adult 
+education, addressing the entire population;
+ ØDevelop pedagogical resources/material that 
+take into account different knowledge systems, 
+including indigenous knowledge, as well as 
+local languages;  ØImplement quality pre-service and in-service 
+teacher training focused on climate change. 
+Examples of concrete targets:
+We recommend that the above be integrated into 
+the NDC with specific, simple and measurable 
+targets. For example:
+ ÊBy 2025, include climate learning into  
+(a) national education policies, (b) curricula,  
+(c) teacher education and (d) assessment, 
+including cognitive as well as socio-emotional 
+and behavioural learning objectives.
+ ÊIntroduce an integral inter-disciplinary climate 
+module into all higher education degrees. By 
+2030, ensure that all university students have 
+an opportunity to take this module before 
+graduation.
+ ÊDevelop an integral component on climate 
+change mitigation and adaptation for all 
+teacher training. By 2030, ensure that x% of 
+teachers have completed this component.Guide on how to develop an ACE national strategy
+For a detailed step-by-step guide on how to develop an ACE national strategy and action plan, please see the “ ACE: guidelines 
+for accelerating solutions through education, training and public awareness ” developed by UNESCO and the UNFCCC 
+Secretariat (2016).
+Education, training and awareness-raising activities
+Any education, training and awareness-raising activities promoted by an ACE commitment in the NDCs should be 
+underpinned by the principles and ambitions of Education for Sustainable Development (ESD). 
+Today, traditional education and training systems (both formal and non-formal), pedagogy and content require a major 
+transformation to accommodate the massive and complex changes that have taken place in the world over the past century, 
+and to target the three dimensions of learning: the cognitive, socio-emotional and behavioural dimension. ESD addresses 
+not only learning content, but also learning outcomes, pedagogy and the learning environment. Through ESD, learners 
+are empowered with the knowledge, skills (technical and soft), values and behaviour to achieve a sustainable, inclusive and 
+greener future. (see: https://en.unesco.org/themes/education-sustainable-development)7
+Integrating Action for Climate Empowerment into Nationally Determined Contributions A short guide for countriesTraining 
+ ØIdentify and anticipate current and future skills 
+and training needs for the green transition, 
+taking into account different population 
+groups and ensuring equitable access;
+ ØIntegrate and mainstream climate change 
+learning into the curricula of institutions 
+that provide formal training at all levels, 
+including professional bodies, apprenticeship 
+programmes and trade bodies; 
+ ØDevelop training materials in accordance with 
+national circumstances, sectoral approaches 
+and the cultural context;
+ ØCooperate in, promote, facilitate, develop and 
+implement training programmes (including 
+training of trainers) focused on climate change for 
+groups with a key role, such as policy and decision 
+makers, scientific, technical and managerial 
+personnel in the public and private sectors, 
+journalists, women, youth and community 
+leaders at the local, national, subregional, regional, 
+sectoral and international levels;
+ ØFacilitate non-formal training through the 
+engagement and participation of youth in local 
+and national climate change events, and build 
+the capacity of youth as future leaders.
+Examples of concrete targets:
+We recommend that the above be integrated into 
+the NDC with specific, simple and measurable 
+targets. For example:
+ ÊBy 2025, ensure that x% of government 
+employees at a) national and b) sub-national 
+levels have received training on CCA and CCM.
+ ÊTrain x% of municipalities on proper waste 
+management and separation, energy efficiency, 
+water management/efficiency, green 
+infrastructure and other climate change related 
+issues. 
+ ÊOrganize x number of gender-balanced 
+capacity-building workshops for youth 
+organizations on skills for green jobs.
+ ÊCollaborate with private sector partners to 
+ensure that by 2030, x% of male and female 
+employees in key sectors of the economy 
+(e.g. utilities, energy, transportation, food and 
+agriculture) are trained in CCM and CCA skills 
+and measures specific to their area of work.Public Awareness
+ ØCooperate in, promote, facilitate, develop 
+and implement inclusive public awareness 
+programmes on climate change and its effects 
+at the local, regional and national levels as 
+appropriate;
+ ØCreate key messages that make it simple and 
+fun for people to take climate action and 
+develop and implement action campaigns to 
+encourage people to do small, easy things that 
+can lead to lasting change, such as reducing 
+their personal water or electricity use;
+ ØEncourage, by means of popular media, 
+personal action and contributions to address 
+climate change, support climate-friendly policies 
+and foster behavioural changes, noting the 
+important role that social media and digital 
+platforms and strategies can play in this context;
+ ØCollaborate with civil society and private sector 
+partners to ensure wide dissemination of public 
+awareness-raising activities and limit the spread 
+of ‘fake news’ and disinformation campaigns;
+ ØConduct surveys to establish a baseline of 
+public awareness, which can serve as a basis for 
+further work and support the monitoring of the 
+impact of activities; 
+ ØRecognize and engage youth as knowledge 
+holders and support the participation of youth 
+as agents of change and/or trainers in public 
+awareness campaigns.
+Examples of concrete targets:
+We recommend that the above be integrated into 
+the NDC with specific, simple and measurable 
+targets. For example:
+ ÊDevelop and roll-out a public awareness 
+campaign, including through national 
+broadcasting media, explaining the components 
+of the country’s NDC and climate policy. 
+ ÊUse advertising, social media and public 
+events to advocate for behavioural changes 
+to promote sustainable consumption, energy 
+efficiency and other climate-friendly actions, 
+while also outlining the economic advantages 
+of such behavioural change. Where possible, 
+collect sex-disaggregated data on the 
+impact of these activities on individuals and 
+communities.8
+Integrating Action for Climate Empowerment into Nationally Determined ContributionsPublic Access to Information 
+ ØGuarantee public access to information and 
+related data on good practices, climate change 
+initiatives, policies and results of actions, so 
+that the public can understand and respond to 
+climate change. This effort should harness new 
+information technologies, taking into account 
+factors such as quality of Internet access, 
+literacy, gender and language issues.
+Examples of concrete targets:
+We recommend that the above be integrated into 
+the NDC with specific, simple and measurable 
+targets. For example:
+ ÊProvide comprehensive, accurate and 
+accessible information related to climate 
+change on a) national and b) sub-national 
+government websites.
+ ÊDevelop guidance supporting accurate 
+reporting on climate change in news outlets.
+ ÊDevelop effective regulations for transparency 
+and full disclosure of information related to 
+climate change by the private sector.
+ ÊTranslate into appropriate languages and 
+distribute popularized versions of key 
+documents on climate change, including 
+assessment reports and other reports by the 
+Intergovernmental Panel on Climate Change.
+Public Participation 
+ ØFoster the participation of intergovernmental 
+organizations (IGOs), regional and local 
+authorities, non-governmental organizations 
+(NGOs) and community-based organizations, as 
+well as the private and public sectors, in order 
+to raise awareness and increase understanding 
+of the causes and impacts of climate change, 
+as well as solutions that lead to measurable 
+outcomes; ØCreate and support open and accessible multi-
+stakeholder platforms for public participation 
+and dialogue engaging youth, civil society, 
+academia and the private sector in order to 
+reach whole-of-society consensus on climate 
+action and NDC ambition;
+ ØPromote social dialogue and inclusive public 
+participation in addressing climate change 
+and its effects and in developing adequate 
+responses, by facilitating feedback, debate and 
+partnership in climate change activities and 
+in governance, noting the important role that 
+social media platforms and strategies can play 
+in this context;
+ ØStrengthen the science, policy and society 
+interface by encouraging the participation of 
+citizens as co-producers of knowledge (citizen 
+science).
+Examples of concrete targets:
+We recommend that the above be integrated into 
+the NDC with specific, simple and measurable 
+targets. For example:
+ ÊOrganize x number of consultations (through 
+public meetings, workshops, online surveys, 
+etc.) with public, private, and civil society 
+stakeholders, including youth organizations, to 
+advise on the development of a national ACE 
+Strategy and its implementation.
+ ÊEstablish a multistakeholder advisory 
+committee bringing together x number of 
+government agencies, x non-governmental 
+organizations, and x private sector 
+representatives to be consulted on all major 
+CCM and CCA measures, and to support the 
+implementation of the national ACE strategy.
+ ÊEstablish a gender-balanced citizen 
+consultation council on climate change 
+to ensure a forum for citizen participation 
+(including with wide participation from the 
+private sector, civil society organizations and 
+academia) and create working groups for 
+specific ACE, CCM and CCA sectorial reforms. 9
+Integrating Action for Climate Empowerment into Nationally Determined Contributions A short guide for countriesInternational Cooperation 
+ ØFoster subregional, regional, sectoral and 
+international cooperation in undertaking 
+activities within the scope of ACE to enhance 
+the collective ability of Parties and non-Party 
+stakeholders to implement the Convention and 
+the Paris Agreement;
+ ØDocument and share knowledge between 
+countries regarding experiences, lessons 
+learned, good practices and challenges in the 
+implementation of ACE and promote peer-
+learning, so that Parties, IGOs and NGOs that 
+have the resources to do so might effectively 
+target their efforts at providing appropriate 
+support;
+ ØDevelop and encourage international 
+exchange programmes between government 
+professionals, teachers, students and 
+researchers with respect to training on climate 
+change.Examples of concrete targets:
+We recommend that the above be integrated into 
+the NDC with specific, simple and measurable 
+targets. For example:
+ ÊAppoint a national focal point for ACE to 
+reinforce direct exchange and collaboration 
+on ACE with other ACE national focal points 
+around the world, as well as with UNFCCC, 
+UNESCO, UNITAR and other UN agencies, 
+and participate in annual ACE dialogues and 
+training opportunities for ACE focal points.
+ ÊUse existing mechanisms of collaboration to 
+share good practices on all elements of ACE, for 
+example during annual meetings of regional 
+multilateral organizations.
+ ÊOrganize a bilateral/multilateral annual 
+exchange programme with x number of 
+countries to exchange government officials 
+working on ACE, CCA and CCM measures 
+during a period of 6 months.
+Public participation and public access to information activities
+Public participation and public access to information activities promoted by an ACE commitment in the NDCs should be 
+underpinned by the principles and ambitions of other international frameworks such as: 
+• Principle 10 of the Rio Declaration
+• Aarhus Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in 
+Environmental Matters
+• Bali Guidelines adopted by the UNEP Governing Council as a tool to assist countries in filling gaps in national and 
+sub-national legislation in order to facilitate broad access to information, public participation and access to justice in 
+environmental matters
+• Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin 
+America and the Caribbean
+How to nominate an ACE Focal Point
+The UNFCCC National Focal Point is requested to send a letter to secretariat@unfccc.int with copy to ACE@unfccc.int 
+indicating: name of the nominee, title, institution and contact details. Once the communication is received, the newly 
+nominated National Focal Point for ACE will be added to the network of National Focal Points for ACE.
+For more information about ACE Focal Points and their terms of reference, see UNESCO/UNFCCC (2016), page 7, box 1.10
+Integrating Action for Climate Empowerment into Nationally Determined ContributionsWay ahead
+In support of countries to implement ACE in the 
+framework of their NDCs, UNESCO and UN Climate 
+Change, in collaboration with all members of the 
+UN Alliance, will continue their work in support of 
+Climate Change Education, Training, Public Awareness, 
+Public Access to Information, Public Participation and 
+International Cooperation, including with respect to the 
+upcoming Climate Change Conferences and the future 
+work programme on ACE, to be adopted at COP26 in 
+Glasgow, United Kingdom.For any questions or comments regarding these guidelines 
+please contact esd@unesco.org or ace@unfccc.int.International Cooperation activities
+The members of the UN Alliance on Climate Change Education, Training and Public Awareness and the NDC partnership 
+provide various online platforms, websites and networks to support countries to implement ACE.  
+For example:
+• UNFCCC website with information on ACE  and the NDC interim registry 
+• NDC Partnership website 
+• UNDP: Mission 1.5 –Global Platform for Public Participation, which provides a platform for citizens to learn about 
+climate policy and vote on climate solutions they would like to see implemented in their country
+• UNESCO Associated Schools Network and the UNITWIN/UNESCO Chairs Programme
+• UNESCO Resource bank for educators on the SDGs
+• UN CC: Learn platform: The One UN Climate Change Learning Platform11
+Integrating Action for Climate Empowerment into Nationally Determined Contributions A short guide for countriesFurther reading
+• ILO (2019): Skills for a greener future: A global view. Based on 32 country studies [chapter 3.1.5: The role of skill 
+development measures in NDCs, pp. 67-69]
+• ILO (2019): Policy brief: Skills for a greener future: Challenges and enabling factors to achieve a just transition
+• UNDP (2019): Guide to Strengthening National Climate Plans by 2020 
+• UNESCO (2013): Climate change in the classroom: UNESCO course for secondary teachers on climate change 
+education for sustainable development
+• UNESCO (2016): Getting climate-ready: a guide for schools on climate action
+• UNESCO (2017): Education for Sustainable Development Goals: Learning Objectives
+• UNESCO (2017): Greening technical and vocational education and training: a practical guide for institutions 
+• UNESCO (2018): Getting the message across: reporting on climate change and sustainable development in Asia 
+and the Pacific. A handbook for journalists 
+• UNESCO (2019): Country progress on climate change education, training and public awareness: an analysis of 
+country submissions under the United Nations Framework Convention on Climate Change 
+• UNESCO/UNFCCC (2016): Action for Climate Empowerment: Guidelines for accelerating solutions through 
+education, training and public awareness
+• UNICEF (2012): Climate Change and Environmental Education
+• UNICEF (2012): Climate Change Adaptation and Disaster Risk Reduction in the Education Sector. Resource Manual. 
+• UNICEF (2019): Are climate change policies child-sensitive? A guide for action: summary
+• UNICEF/Brookings Institute/Plan International (2019): Girls’ education in climate strategies: Opportunities for 
+improved policy and enhanced action in Nationally Determined ContributionsSustainable 
+Development
+Goals
+In the framework of the 2020 review of Nationally Determined Contributions 
+(NDCs) under the Paris Agreement, this guide aims to provide countries with 
+advice on how to enhance ambition and address the six elements of ‘Action for 
+Climate Empowerment’ (ACE) – Education, Training, Public Awareness, Public 
+Access to Information, Public Participation and International Cooperation –  
+in their respective NDCs. In five simple questions and answers, it provides 
+suggestions for elements that can be integrated into the NDCs in order to make 
+ACE an integral part of countries’ climate responses. The guide also shows why 
+ACE is key to achieve the goals of the Paris Agreement and its greenhouse gas 
+emission targets.Integrating Action for Climate Empowerment 
+into Nationally Determined Contributions 
+A short guide for countriesIn partnership with

@@ -1,0 +1,611 @@
+ASSESSING
+INTERNET
+DEVELOPMENT IN
+Using UNESCO’s Internet
+Universality ROAM-X IndicatorsTHAILAND
+UNESCO SERIES OF INTERNET UNIVERSALITY NATIONAL ASSESSMENTSASSESSING 
+INTERNET 
+DEVELOPMENT IN 
+Using UNESCO’s Internet
+Universality ROAM-X IndicatorsTHAILAND
+UNESCO Bangkok Office
+Communication and Information (CI) Unit
+Mom Luang Pin Malakul Centenary Building
+920 Sukhumvit Rd., Prakanong,
+Klongtoei, Bangkok 10110, Thailand
+ci.bgk@unesco.org 
++66 2 391 0577
+https://bangkok.unesco.org
+ @unescobangkok2
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsIntroductionKey Findings and RecommendationsKey Findings and  
+Recommendations
+Introduction
+UNESCO’s Internet Universality Concept and Indicators Project
+UNESCO’S Internet Universality Indicators (IUI) were adopted by countries around the world in 2018, following 336 
+online submissions and 46 consultation events held throughout the world between March 2017 and September 2018.1 
+Whereas many agencies such as International Telecommunications Union (ITU) adopt a technical and economic approach to  
+the Internet development, UNESCO’s approach focuses on human rights and social impacts, while also including economic 
+indicators and technical considerations. The outcome is a holistic assessment that looks at the current state of Internet and its 
+fundamental role in a country’s society. It allows some benchmarking with other countries while allowing that, as the Internet 
+becomes more socially embedded each country pursues its own path.
+The framework of Internet Universality consists of 303 indicators, of which 109 ‘core’ ones. UNESCO uses the five category 
+ROAM-X model to give a balanced picture of this overall development:
+R – that the internet be based on human Rights
+O – that it is Open
+A – that it is Accessible to all, and
+M – that it is nurtured by Multistakeholder participation
+X – Cross-cutting issues
+The assessment is primarily based on a narrative for each category, but is carefully structured using ‘themes’, each of which 
+includes a number of questions and associated indicators. By evaluating a given country’s Internet environment against  
+the ROAM-X indicators, the national assessment process aims to:
+• Present a substantive understanding of the national Internet environment and policies;
+• Assess their alignment to UNESCO’s ROAM principles and their contribution to sustainable development;
+• Develop policy recommendations and practical initiatives that will enable the country to improve their Internet 
+ecosystem.
+Thai Assessment Initiative and Methodology
+The IUI assessment for Thailand was carried out between 2018 and 2020. Initial data were collected by Pirongrong 
+Ramasoota, Chulalongkorn University, and Artihit Suriyawingkul, Thai Netizen Network. The final report was developped 
+by the internal expert, Simon Ellis. The project was managed by Misako Ito, Advisor for Communication and Information, 
+and UNESCO Bangkok Office.
+1 UNESCO’s Internet Universality Indicators; a framework for assessing internet development, Paris (2018), en.unesco.org/themes/internet-universality-indicators3
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsIntroductionKey Findings and RecommendationsThe study was carried out through a combination of interviews with key stakeholders and a review of secondary literature 
+and other sources. In the first instance many reports were consulted in the original Thai language. Wherever possible 
+reference is made to English language versions in keeping with the need to address both a Thai and an international 
+audience. Important comments by government, civil society, and business representatives through several meetings of  
+the multi-stakeholder groups have been included.
+The Thai report includes all the core ROAM-X indicators. Thailand should be seen within an Asian context where for example 
+there are certain leading social media platforms that are less relevant than other regions of the world (e.g. Line, Kakao) and 
+where some areas of Thai society Internet developments are more ‘advanced’ than in many other countries (e.g. consumer 
+electronic payment systems). The indicators are used to bring out areas where Thailand is ‘advanced’ or action needs to be 
+taken, and to describe the overall character of the Internet in the country.
+In Thailand, the Ministry of the Digital Economy and Society (MDES) is responsible for Internet policy with the Electronic 
+Transactions Development Agency (ETDA) as its executive arm while the National Broadcasting and Telecommunications 
+Commission (NBTC) is responsible for broadcasting policy and regulation.
+The most commonly cited data source is the National Statistics Office (NSO)/MDES, The 2018 Household Survey on  
+the use of Information and Communication Technology. References are also made to NSO/MDES The 2018 Establishment 
+Survey on the Use of Information and Communication Technology and some major legal documents such as the 2017 
+Constitution and the Computer-related Crime Act.
+In general, there is no shortage of data to complete the suite of IUI indicators, or to address the needs of policy makers in 
+Thailand. Statistical data are of good quality, there is a wide range of government sources of data, and active civil society 
+organisations both prepare substantive reports and provide online comments on recent events. There are thus very few major 
+‘gaps’ in information, but rather some areas in which the relevant data might be extended. Some areas where this applies 
+are:
+• More disaggregated data on the use of ICT and the internet by gender, age, ethnicity, disability and other forms of 
+disadvantage;
+• A particular lack of data on the use of ICT in schools as well as children and youth attitudes to the Internet and ICT 
+skills of children and youth.
+The report has not relied solely on the interviews or report of a single incident or action, but has based its observations on 
+repeated or continuing actions and activities. The conclusions of the report are thus based throughout on more than one 
+observation or authority, and cannot be said to represent a specific personal opinion or ‘anecdotal evidence’.
+Background of Internet Development in Thailand
+Prior to the five ROAM-X categories, the indicator framework proposes a number of contextual indicators to provide  
+the background information of Thailand. These indicators measure the environment for Internet development in Thailand from 
+six dimensions: economy, demography, social development, equality, governance, and ICT development.
+Thailand is a middle income country of 70 million people. In common with other ASEAN countries, it has known good 
+economic growth for the last decade or longer, though the current global economic uncertainty is leading to a downward 
+revision in forecasts.2 The continued economic growth that has seen incomes rise and allowed major expansion in infrastructure 
+including ICTs for both personal and business use. The annual rate of growth has slowed since the 1990s and has also 
+been subject to international crises in 1998 and 2009.3 The service sector has made an increasing contribution to GDP as 
+Thailand moves away from being purely a centre of manufacturing, as well as being due to the major expansion of tourism. 
+In 2019 tourism accounts for nearly 20% of the GDP of Thailand, while its sharp decline caused by COVID-19 pandemic 
+has severely hit service sector development of the country in 2020.
+2 World Bank data on GDP for Thailand shows annual growth of 3-10% since the 1970s apart from regional/global recession in 1998 and 2009.
+3 In 1998 the crisis was the regional Asian financial crisis and in 2009 it was the global financial crisis. At the time of writing all countries will expect another economic 
+crisis because of the impact of COVID-19.4
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsIntroductionKey Findings and RecommendationsFormal unemployment has remained under 1% for over twenty years. This reflects a large informal economy, with a large 
+population who would be seen as ‘under-employed’, but it also reflects a society in which people are very entrepreneurial 
+and seek work of any kind. This situation leads to a very wide range of incomes, with households in Bangkok able to 
+afford the latest ICTs and phones while those in rural villages4 may be working on subsistence agriculture with little use for 
+technology.
+The population of Thailand grew steadily from 20 million people in 1950 to 60 million in 2004. Since the 1970s growth 
+has slowed. Economic growth has brought benefits in education and health leading to demographic changes such as later 
+marriage and smaller families. Understood to have passed through the first ‘demographic dividend’ in the 1990s, Thailand 
+is going through rapid demographic change with one of the fastest ‘ageing’ populations in Asia. While the younger age 
+cohorts are very familiar with ICTs and Internet use this is a significant problem for the older generation. The World Bank 
+estimates that in 2019 49.3% of the Thai population lived in rural areas.5 Rural children are attracted to opportunities in  
+the cities. Thus both demographic and economic factors combine to leave a large elderly population, often concentrated in 
+rural areas,6 with the ‘digital divide’.
+Another element complicating the demographic profile of Thailand has been international migration, especially within  
+the Southeast Asian region. In Thailand many ‘undocumented’ migrants may either move to the cities to look for work, or 
+more significantly for this report, remain in provinces that adjoin their country of origin; provinces where online services are 
+seldom used or less available.
+In 1990 Thailand had a score of under 0.574 on the UNDP Human Development Index. Over the years this has risen to  
+a score of 0.765 in 2019 when it ranked 77th in the world. Thailand’s position is supported by its strong economy, while 
+it is underplayed somewhat by inequality of income and education outcomes. The Thai population aged 25 and over had 
+an average of 8.45 years of school in 2018. This figure is below those of Singapore and Malaysia and similar to that for 
+the Philippines. Data from UNESCO Institute for Statistics indicates a high literacy rate for Thailand.
+Equality has an important qualitative dimension. In many formal indicators Thailand scores relatively highly with regard to 
+equalities of income, education, and social participation compared to other countries, and yet inequalities of opportunity 
+between Thais from different provinces and between men and women remain the major source of many social and economic 
+problems faced by the country during the modern era (See full report in particular Categories A and X). Besides, Internet 
+connectivity and services for disabled people and in minority languages are necessary to help meet the needs of vulnerable 
+groups.
+Thailand has been through many political changes in recent times involving both change in government structures from a ruling 
+council to a parliamentary system and a royal succession. While there has been some continuity between administrations 
+it can be difficult to judge whether practices that took place even two or three years ago are entirely applicable today. 
+In 2020 the World Justice Project ranks Thailand as 71st in the world with a score of 0.49. Scores are ranked from 1 to 0 
+with higher scores being more desirable. Thailand ranks highest on ‘Order and Security’ and lowest on ‘Criminal justice’.7
+Some of the international ICT Development indices have not been compiled for several years (the data used to create  
+the indices begin even older) and do not reflect recent economic and technological developments in Thailand (e.g. the ITU’s 
+ICT Development Index has been in abeyance since 2017). But in general, Thailand is classified as one of the leading 
+countries in Asia in mobile connectivity and e-commerce.
+Thailand has a very open commercial market. In telecoms this is regulated to a limited number of telecom and broadcasting 
+suppliers. Overall Internet access (hardware and data costs) is among the cheapest in the world. This is not to say that 
+everyone can afford a full ‘smartphone’ but rather that comparatively speaking Internet access is ‘affordable’.
+4 For an extremely thorough long view of Thai village economics see the Thai-Townsend project.
+5 https:/ /data.worldbank.org/indicator/SP.RUR.TOTL.ZS?end=2019&locations=TH&start=1960&view=chart
+6 See various papers in Z. Zhao and A. Hayes edd Routledge Handbook of Asian Demography  (2017).
+7 https:/ /worldjusticeproject.org/our-work/wjp-rule-law-index/wjp-open-government-index/global-scores-rankings5
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsApplication of ROAM-X Indicators: Key FindingsKey Findings and RecommendationsOf course there can be other barriers to Internet access. Survey by the NSO suggests that many people cannot see the use 
+of the Internet. This is likely to reflect a lack of familiarity and a lack of skills. Many children begin using the Internet before 
+the age of ten, again reflecting both Thailand’s open society and the need for skills and education in how to best to use  
+a smartphone.
+Application of ROAM-X Indicators: Key Findings
+Category R – Rights
+Theme A – Policy Legal and Regulatory Framework
+Theme B – Freedom of Expression
+Theme C – Right of Access to Information
+Theme D – Freedom of Association and the Right to take part in the Conduct of Public Affairs
+Theme E – The Right to Privacy
+The Constitution of the Kingdom of Thailand B.E.2560 (2017) and legal framework gives due emphasis to the enjoyment 
+and enforcement of human rights in conformity with international standards. The Constitution clearly includes rights to freedom 
+of expression, freedom of the press and academic freedom. The right of access to information stems from the Official 
+Information Act of 1997.
+Thais are generally very active online. The 2018 Household Survey on the Use of ICTs indicates that 32% of those over 
+the age of six used the Internet to upload information in the form of photos, music or text. A number of major civil society 
+organisations have important websites, and there is greater activity of groups and individuals on social media. There is 
+little evidence of systematic blocking of any internet platforms except during periods of major unrest. Ex ante and ex post 
+censorship of online content take place. Provisions of media self-censorship and interference by the state are illustrated in 
+various laws such as lèse majesté, sedition, computer crime, cybersecurity, National Referendum law and broadcasting law.
+All Thais are able to take part in online social economic and cultural activity. The Thai government has a range of policies 
+to promote e-government and websites that give access to a wide range of information including draft legislation, while 
+active consultation and participation is rare. There are e-strategies for health and education, but not for employment. 
+The government is enhancing the online presence of cultural heritage sites.
+One major gap until present has been in the area of data protection. Both academic and civil society analyses suggest 
+that Thai law does not protect privacy sufficiently as the concepts concerned are not defined precisely enough. To this end, 
+Thailand’s Personal Data Protection Act (PDPA) was enacted in May 2019 and has been announced to take effect in June 
+2022. It is based on the European Union’s General Data Protection Regulation (GDPR)8.
+Like many countries across the world, Thailand is grappling with issues of cybersecurity; balancing freedom of expression 
+with the need to protect against slander and ‘fake news’, as well as the cyber-bullying and harassment of children and 
+women. The Computer-related Crimes Act (CCA 2017, amended 2019) and Thailand’s Cybersecurity Act that came into 
+effect in 2019 were introduced to address such issues. Both the CCA and the Cybersecurity Act hold providers responsible 
+for offending content which must be removed within a period between seven and fifteen days.
+However, the CCA has been proved particularly contentious as there are concerns that it imposes unnecessary limits on 
+freedom of expression9 and challenges aspects of people’s right of access to information. Law enforcement has intervened 
+to prosecute personal conversations and remarks on social media. Civil society organisations consider that enforcement 
+8 https:/ /gdpr-info.eu/
+9 For example at the time of writing government has suggested that businesses must keep a record of all Internet activity to protect public security,  
+but this is held to be an infringement of privacy and an administrative burden. See www.bangkokpost.com/learning/easy/1768204/digital-economy-and-society-
+ministrys-wifi-demand-draws-flak  9 October 2019 and www.bangkokpost.com/tech/1768499/wifi-rule-sparks-call-for-change#cxrecs_s  10 October 2019.6
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsApplication of ROAM-X Indicators: Key FindingsKey Findings and Recommendationsmechanisms do not ensure that there are appropriate checks and balances to ensure the independence of the judicial system. 
+Businesses are concerned that the CCA compels them to monitor and provide to the government details of all online activity 
+by both staff and clients.
+Category O – Openness
+Theme A – Policy legal and regulatory framework
+Theme B – Open Standards
+Theme C – Open Markets
+Theme D – Open Content
+Theme E – Open Data and Open Government
+The national regulations have attempted to open the telecoms and data ‘market’ to a variety of commercial interests, but there 
+is no overarching adoption of the full principles of openness and transparency. The 2007 Constitution of Thailand included 
+the right to receive and to get access to public information, except in cases when certain enumerated interests and rights 
+were protected, but this provision has not been maintained in subsequent versions of the Constitution up to the current 2017 
+version. In 2013 NBTC implemented regulations to allow other authorized operators to connect to its telecommunications 
+network under reasonable cost, and made it obligatory for the licensed domestic mobile phone network operators to allow 
+other operators to be able to provide service across networks especially in the area where there is no mobile reception, 
+in order to support free market and fair competition, encouraging small providers to enter the market.
+The regulation of the communication markets is undertaken by NBTC and ETDA following government guidance and 
+legislation. The Thai telecoms market is dominated by a small number of major providers. Nevertheless, prices are relatively 
+cheap and there is a significant level of competition based on special offers, price structures etc. Users can choose between 
+about 24 Internet service providers (ISPs) reflecting relevant telecoms companies. There are no restrictions preventing users 
+from accessing all major Internet platforms.
+Government initiatives to encourage Internet start-ups and innovation have been confined to incentives for business support 
+rather than legal frameworks, with the exception of encouraging universal e-payment. Overall the business environment 
+for internet start-ups is good with a small administrative burden, government support and available finance. Since 2017 
+e-payment systems in Thailand have been rapidly expanded with the support of government and the Bank of Thailand’s 
+Payment Systems Committee. E-payment has become almost universal for everyday transactions. The volume of digital 
+payments has risen by 83% from 2016 to 2018.10
+Thailand has a full range of copyright protection, though Thailand has not signed the WIPO Copyright Treaty. The Department 
+for Intellectual Property (ipthailand.go.th) is responsible for IP enforcement. Copyright is protected until 50 years after  
+the author’s death stemming from the Copyright Law of 1994, but the facility for ‘fair use’ of copyrighted material is covered 
+by the law and includes use for research, journalism, and personal use. In 2015 it was amended to address certain aspects 
+of digital reproduction and piracy and in 2019 it was amended to allow reproduction of an existing work so that it may 
+be reproduced in media suitable for the disabled (e.g. Brail).11 Thailand’s open and competitive environment and cheap 
+internet costs (i.e. including both hardware and Internet fees) is one reason why take up of open source software is slow.12 
+There is some evidence for the use of open source standards in intellectual property, but activities are limited and fragmented.
+Commercial analysis sees future business opportunities in e-heath and education, but policy perspectives on each sector 
+differ. In the case of e-health there is a strong national strategy, but it concerns administrative systems rather than patients’ 
+access to their medical records. The principal Open Education Resources initiative in Thailand is the Thai Open Education 
+Resources project (oer.learn.in.th) set up in 2015 by the Ministry of Education and the Ministry of Science and Technology. 
+10 Bank of Thailand Payment Systems Roadmap 4  (2019–21), p. 14.
+11 2015 https:/ /wipolex.wipo.int/en/legislation/details/15713 , 2019 https:/ /wipolex.wipo.int/en/text/491785
+12 See https:/ /a4ai.org/affordability-report/data/?_year=2018&indicator=INDEX  showing Thailand as the 9th cheapest in the world in 2018.7
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsApplication of ROAM-X Indicators: Key FindingsKey Findings and RecommendationsA consortium of Thai higher education institutions has established Massive Online Open Courses through Thai MOOC 
+(mooc.thaicyberu.go.th). In September 2019 the site was recording 422,930 registrations on 406 courses run by 95 
+institutions. Several universities have repositories for academic resources.
+Government agencies are required to make a certain level of information available to the public. One quarter of individuals 
+and one third of businesses use the Internet to visit government websites, and limited services are available in languages other 
+than Thai. The Thai government has made big strides in making data freely available13 but users may experience technical 
+problems in accessing and using the datasets, and websites do not facilitate interactive exchange and consultation. QR 
+payment systems have been installed in over 8,000 government offices by 2018, but more offices need to be integrated.
+Category A – Accessibility to All
+Theme A – Policy, Legal and Regulatory Framework
+Theme B – Connectivity and Usage
+Theme C – Affordability
+Theme D – Equitable Access
+Theme E – Local Content and Language
+Theme F – Capabilities and Competencies
+The Thai government and telecoms providers are actively pursuing universal access of the Internet, especially through 
+programmes to extend access and use in remoter rural areas. In 2017, Thai government started its ‘Thailand 4.0’ project 
+implemented in line with the 20-Year National Strategy, the 12th National Economic and Social Development Plan, and 
+the Digital Economy and Society Development Plan. These projects all aim at expanding high-quality digital infrastructure 
+throughout Thailand, making it accessible, available, and affordable to everyone. The Pracharat (State of the People) Internet 
+project or village broadband internet project, was divided into two parts, Net Pracharat14 and Net Chaikob. It is a clear 
+demonstration of the Thai government’s commitment to deliver on universal access.
+In Thailand, broadband, mobile handsets and smart phones are affordable and available to all sectors of society except for 
+certain remote and rural areas (North and Northeast regions of the country, with further areas of limited use in the far South). 
+The vast majority of the population subscribes to broadband services, and the most common way to access the Internet 
+is through a personal mobile phone. The 2018 Household Survey on the Use of ICTs indicates that 68% of households 
+nationwide connect to the Internet at home. Use of the Internet has expanded rapidly but is most limited in the north and 
+north-east regions of the country, with further areas of limited Internet use in the far south. Slightly less women use the Internet 
+than men. Over 80% of those aged 15–34, but less than 20% of those aged over 50 use the Internet. This clearly argues 
+that Internet training for the elderly should be a priority, especially as the elderly are often concentrated in more remote rural 
+communities when younger people often migrate to the cities to look for work.
+The number of domains in Thailand has grown steadily. THNIC is the only official authority charged with register top level 
+domains in Thailand (.th). In March 2020 there were 72,224 registered domain names up from 67,505 in January 2018. 
+Domains can be registered in Thai or Western script, but the vast majority of Thai people and businesses prefer to set up sites 
+in English, indicating that most Thais hope to use the Internet to interact with foreigners. The principal languages available 
+on leading online services are Thai and English, which should cover around 95% of the population. Ethnic and minority 
+language supports are rare on digital services, with an exception of banking services such as ATM machines. Minorities and 
+minority languages are a significant issue especially in the border provinces (north, west, south). The use of local languages 
+such as Hmong, Karen, Khmer, Laotian and others would help these groups’ access government services. The southern 
+provinces of Narathiwat, Pattani and Yala have a majority population with both a Malay language Yawi combined with 
+the Muslim religion. The lack of local services suited to the culture of this group has largely contributed to discontent and 
+violence.
+13 See in particular open education resources at oer.learn.in.th, and open public data at data.go.th.
+14 http:/ /netpracharat.com8
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsApplication of ROAM-X Indicators: Key FindingsKey Findings and RecommendationsICT and Internet skills were incorporated in national curriculum which divided into 8 learning areas, but ICT resources, and 
+trained teachers, are not widespread in institutions outside metropolitan areas despite several national campaigns since  
+the 1990s. At the higher education level the ICT curriculum depends on the university and the discipline concerned.  
+There are limited media and information literacy programmes but the public awareness is belied by differences in 
+understanding of the concepts and issues involved.
+To meet with international standards, the Thai Government embraces policies and its practice to ensure Internet accessibility 
+for persons with disabilities. NBTC has set up a number of projects to address the needs of the disabled. Unfortunately, 
+the resources devoted to these programmes are limited and the devices offered are out-dated.
+Category M – Multi-stakeholder participation
+Theme A – Policy, Legal and Regulatory Framework
+Theme B – National Internet Governance
+Theme C – International and Regional Internet Governance
+The development of the Internet has been characterised by multi-stakeholder participation. Assessments of multi-stakeholder 
+participation should consider whether participation is genuinely balanced and includes the interests of all parts of  
+the community not just those that are explicitly and directly concerned with the development of the Internet.
+Thailand has a comprehensive National ICT Master Plan. The first master plan for 2001 to 2010 was recognized by ITU  
+as ‘an exemplary model for the development of an effective telecommunications/ICT regulatory environment.’15 Transparency 
+and accountability are included as part of good governance strategy inside Thailand ICT Policy Framework (2011–
+2020), which also discussed open standards and open government data. In July 2018, the National Legislative Assembly 
+passed the National Strategy Act, which creates a 20-year strategic plan for national development. An early outcome of  
+the government strategy was the ‘Net Pracharat’ project to bring internet access to rural areas.
+There are four principal institutions that oversee government accountability, while their role has been weakened progressively 
+since 2001. In 2019 the Cybersecurity Act specifically established the National Cybersecurity Agency as a public company 
+rather than a government agency thus placing it outside government accountability provisions as well as outside the Labour 
+laws.16
+The Thai government did establish policies and mechanisms for public participation in national policy processes. However, 
+the evidence showing that consultation has influenced policy is not obvious. Currently local netizens and online activists have 
+been able to use online petitioning platforms and anonymous features like hashtags (#) to connect like-minded individuals 
+and channel their association into public policy planning.
+There are a limited number of professional and civil society groups that engage with the national formulation of Internet 
+policy, but their actions are either fragmented or limited in time and did not lead to achieving impacts on Internet policy and 
+governance issues. The development of national Internet policies and legislation falls under the purview of the Ministry of 
+Digital Economy and Society.
+In the past Thailand has had active government representation in international meetings regarding the Internet (e.g. ITU 
+Committees, ICANN) but since 2017 attendance has become less frequent involving more junior representation. In another 
+respect civil society members, particularly those related to online rights and freedom are the most active in terms of participation 
+in international fora related to ICTs and the Internet. The first, and last Thai national Internet Governance Forum took place 
+in 2015.
+15 https:/ /www.itu.int/en/ict-sdg-award/2015/Pages/thailand.aspx
+16 Manushya Foundation, Thailand’s Cybersecurity Act: Towards A Human-Centered Act Protecting Online Freedom And Privacy, While Tackling Cyber Threats (2019; 
+32).9
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsApplication of ROAM-X Indicators: Key FindingsKey Findings and RecommendationsCategory X – Cross-cutting indicators
+Theme A – Gender
+Theme B – Children
+Theme C – Sustainable development
+Theme D – Trust and Security
+Theme E – Legal and Ethical Aspects of the Internet
+The category X draws together five themes containing cross-cutting indicators: gender, children, sustainable development, 
+trust and security, and legal and ethical aspects of the Internet. These dimensions are crucial to the effectiveness with which 
+the Internet can be used to enhance rights and development, and need to be considered in any overall assessment of  
+the evolving Internet environment within a country.
+In Thailand men and women use the Internet equally and freely. There is no significant gender digital divide in Internet access 
+and awareness, although this does not necessarily mean that websites and applications are equally devoted to women’s 
+interests as to those of men. Women are included as members of top management of the main agencies responsible for  
+the Internet in Thailand (ETDA, NBTC, MDES), but they represent less than half of the board members concerned.17 Women’s 
+rights are equally protected in law, but in practice there is evidence of a significant level of online gender-based harassment 
+and violence of women.
+In 2017 a national policy framework was passed entitled ‘Strategy in Protecting and Safeguarding Children in Online 
+Media Use B.E.2560–2563 (2017–2020)’. The framework aimed to create by 2020 a system and mechanism to promote 
+children’s and youth’s digitally literacy, as well as safe and creative use of online media based on laws and effective 
+knowledge management. DTAC, a leading telecoms company, has initiated a Safe Internet programme for children. While 
+the goal and main rationale of the framework and programme are worthwhile, their actual implementation especially on  
+the empowerment of youth in their online experience remains to be seen.
+ICTs and the Internet have a central place in many national development strategies of Thailand, and people are able to 
+use major online services in their daily life. In 2018 14.1% of those over the age of 19 used government websites, 7.8% 
+used online banking, 7.7% used online shopping, and 0.7% used online educational services. 29.6% of businesses used 
+the Internet, and 4.9% sold goods or services online. A wide range of bodies monitor Internet activity from government, 
+civil society and the private sector. E-waste18 in Thailand has risen up the national and international agenda, and is key to 
+the recycling of rare metals, but risks the poisoning of both environment and workforce.19 Both government and telecoms 
+companies have responded to this agenda, but much more needs to be done.
+The national cybersecurity strategy mainly presents in Thailand’s Cybersecurity Act that came into effect in 2019. Thailand 
+does have a national Computer Emergency Response Team (CERT) named ThaiCERT.20 Apart from that there are also have 
+few other industry CERTs. The most active non-government CERT is the banking industry’s TB-CERT, which is a collaboration of 
+15 financial institutions with a support from by the Thai Banker’s Association.21 In the last few years there have been several 
+data breaches at both public and private institutions that had caused threats to network and citizen’s information security.  
+In general, there has been a positive improvement among Internet users in terms of cybersecurity awareness, especially when 
+it comes to private messaging and financial activities. However, there are still large gaps between awareness and knowing 
+how to actually provide practical protection for oneself and for others.
+17 ETDA: four out of nine Board members are women – ETDA Internet User Profile 2018, NBTC: one out of nine Commissioners in 2018 is a woman - https:/ /www.nbtc.
+go.th/About/Commissioners/CommitteeProfile54.aspx , MDES: six out of fifteen High-level Executives in 2020 are women - https:/ /www.mdes.go.th/about
+18 E-waste – discarded ICT and electronic equipment can be a major source of recycled rare elements, including metals such as cobalt.
+19 On e-waste health hazards in Thailand see R. Seith et al ‘Self-Reported Health and Metal Body Burden in an Electronic Waste Recycling Community in Northeastern 
+Thailand’ J Occup Environ Med. (2019) 61.1 1, pp. 905–909.
+20 https:/ /www.thaicert.or.th
+21 https:/ /www.facebook.com/TB-CERT-217387235466490/10
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsRecommendations for Various StakeholdersKey Findings and RecommendationsAccording to the Thailand Internet User Behavior 2020 by ETDA, the top 3 internet usage problems were the same as 2019, 
+namely the amount of annoying online advertisements (76.6%), slow internet connection/speed (72.9%), and uncertainty 
+of information reliability (48.9%).22 There is no apparent reporting mechanism for online harassment or abuse in platforms 
+provided by local online service operators. While reporting function does exist in some local online services, it is meant for 
+reporting of content malpractices – copyright infringement, foul language, sedition, and defamation – rather than abuse or 
+harassment in particular. Notably, statistics with respect to online harassment have been sparsely and periodically collected 
+by different organizations for different purposes.
+Recommendations for Various Stakeholders
+Government
+• Rights. The government should seek to minimize restrictions on freedom of expression, including the lese-majeste law, 
+in line with international rights and standards.
+• The government should enforce the new Personal Data Protection Act, and reinforce the authority and the independence 
+of the Office of the Personal Data Protection Committee.
+• The CCA and Cybersecurity Acts should be amended to allow for ‘public interest’ defences especially in cases of 
+professional journalistic reporting and to conform to international standards of freedom of the press.23
+• Government should advance cultural rights by ratifying the UNESCO 2005 Convention on the Diversity of Cultural 
+Expressions and by implementing the UNESCO 1980 Recommendation on the Status of the Artist.24
+• Openness. The Thai government should improve the interactivity of government websites, including those concerned 
+with provision of education resources, public information or open data, and e-government.
+• The Thai government will shortly be issuing licenses for 5G services. The range of providers should be chosen carefully 
+to extend market competition and encourage innovation as the country moves towards the ‘Internet of Things’.
+• Thailand could take further action to extend the use of independent IXPs and adoption of IPv6. This would improve 
+Thailand’s ability for international exchange including further development of electronic payment systems beyond 
+local purchases, allowing fuller exploitation of 5G and the ‘Internet of Things’.
+• The government should introduce a policy of net neutrality in line with international standards to guarantee  
+Thai netizens’ quality of service, freedom of expression, and equality of access.
+• Accessibility. Government initiatives to connect local communities must continue and should take into account  
+the particular needs for local communities such as apps/programmes for access to local market prices or testing of 
+new agricultural products.
+• All efforts should be made to reduce costs in rural areas. Subsidies should be provided to the consumer, rather than 
+to the supplier, in order to stimulate increased choice and increased demand.
+• The government should continue to support the development of mobile phones and services that address the needs 
+of the disabled and other minorities.
+• The use of ethnic minority languages such as Hmong, Karen, Khmer, Laotian and others on digital services should 
+be supported for these groups to access to government services.
+22 Thailand Internet User Behavior 2019–2020, courtesy of ETDA.
+23 This was already the recommendation proposed by Article 19 Thailand: Computer Crime Act; legal analysis  (January 2017).
+24 See https:/ /en.unesco.org/creativity/governance/status-artist  and related pages on the appropriate conventions.11
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsRecommendations for Various StakeholdersKey Findings and Recommendations• Internet training for the elderly should be a priority.
+• The government should encourage the National Statistics Office to collect more data through their annual Household 
+Survey on the Use of ICT on access to ICTs and the internet for disadvantaged groups (minorities, disabled), to conduct 
+a full survey of adult and youth ICT skills following current international standards,25 and ensure all data disaggregated 
+by genders to ensure gender-based analysis.
+• Multi-stakeholder. It is proposed that MDES supports the creation of a national Multi-stakeholder Advisory Board on 
+Internet Governance to guide the development of Internet related policy and regulations.
+• The forum on Internet policy should meet at least once a year. Decisions of the meeting would not be binding on 
+any parties, but proceedings of the meeting must be publicly available, so that it will be clear that all parties have 
+heard each other’s viewpoint.
+• Government websites for public consultation should be more accessible and more metadata should be provided to 
+help users. Tools should be provided to help users submit comments and discuss policy issues with officials.
+• The Thai government should continue to participate in international and regional fora regarding governance of  
+the Internet by nominating high-level representation. The government should support the participation of civil society 
+groups in the debates of Internet Governance and in international fora such as ICANN.
+• The government should widen consultation on Internet issues to include more stakeholders such as a wider section of 
+businesses to promote e-commerce, and consumer organizations to identify further opportunities for e-governance, 
+build online communities and services to those most in need.
+• The government should provide early publicity on proposed Internet developments to allow full debate in the press 
+and other public fora. Proposed developments could be supported by opinion surveys.
+• The government should collaborate International organizations such as UNESCO, ITU and other UN agencies to 
+strengthen the multi-stakeholder approach to national Internet governance and policy development, and to support 
+the establishment of the Multi-stakeholder Advisory Board.
+• X-cutting. Laws regarding online behaviour should be used to support gender equality and women’s empowerment.
+• Government should set an example by moving rapidly towards equal numbers of men and women in decision-making 
+positions.
+• There is a notable lack of data about the place of ICTs in schools. This is especially significant since the data are 
+required for global SDG indicators. This should be undertaken by education authorities or the National Statistics Office.
+• There is also a lack of data on children’s perceptions of Internet, which would be an important source of both for 
+meeting their needs and for identifying vulnerabilities and harassment. This could be undertaken either by the National 
+Statistics Office or telecoms providers.
+• New legislation on data protection and e-waste need to be fully and sensitively implemented to improve sustainability 
+and security for online activities.
+• Business use of the Internet remains limited, especially amongst smaller companies. The government should pursue 
+programmes to encourage their adoption in a manner that will increase sustainability by, for example, increasing 
+online management and collaboration reducing the need for business travel.
+25 This is required under reporting of Global SDG Indicators 4.4.1 and 4.4.2 based on the EU standard as adopted by both ITU and UNESCO Institute for Statistics.12
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsRecommendations for Various StakeholdersKey Findings and RecommendationsCivil Society
+• Rights. Systematic and co-ordinated monitoring of Internet-related rights by civil society would allow more clarity on 
+the impacts of government policy and support the development of evidence-based policy.
+• Civil Society should report on implementation of new Data Protection legislation and corresponding breaches of 
+privacy by government and commercial interests.
+• Civil Society should report on implementation of new Cybersecurity legislation, the nature of the crises addressed 
+and its independence from the political process.
+• Openness. Civil Society organizations should advocate for Open Access to knowledge and open solutions to 
+increase community involvement and build on early Thai initiatives in the fields of agriculture, health, and education.
+• Accessibility. With cheap services and open commercial environment, access issues in Thailand will continue to be 
+concentrated on population groups that become ‘left behind’. Net Pracharat has addressed the current lag in rural 
+services, but the forthcoming development of 5G services will create a further divide between metropolitan and rural 
+areas. It will require sustained support from civil society groups to ensure that local communities continue to benefit 
+as technology advances.
+• Civil society should support the government and introduce training and familiarization for rural and older people 
+centralizing on apps and services that are particularly useful for their communities (e.g. access to rural markets, farm 
+management systems), and support the development of apps/services in local languages especially in the Northern 
+provinces and southern border provinces.
+• Multi-stakeholder.  Civil society should advocate for and initiate the creation of a national Multi-stakeholder Advisory 
+Board to lead the national discussion on Internet related policy and regulations.
+• Civil society groups should coordinate and combine their efforts to provide feedback to Government in upcoming 
+legislation and developing policy.
+• Civil society groups should consider how to mobilise support to best ensure that their views reach government, local 
+communities, and other relevant bodies such as relevant industry associations.
+• There should continue to be widespread civil society participation in international and regional meetings on Internet 
+issues.
+• X-cutting. Greater co-ordination of women’s groups in civil society will be one way of ensuring that women’s rights 
+are upheld. This should be accompanied with more civil society groups adopting an explicit gender based approach 
+to their work.
+• Children in Thailand are exposed to the Internet from a very early age. Civil society groups and families require 
+great support in addressing issues of exploitation, bullying and online harassment. This may particularly be the case 
+outside the main metropolitan areas where children may be less prepared to meet these challenges. The extension 
+of child support for online activity to many local and rural areas would help meet these needs.
+Private Sector and Technical Community
+• Rights. The private sector should publish regular reports on government initiatives to hold companies liable for online 
+content, and on government requests for data under the CCA and Cybersecurity Acts.
+• The private sector should do its part to ensure that rights enshrined in Thai law are respected:
+• Personal data should be available to data owners and request by citizens to see their data, or to have them 
+deleted, should be promptly complied with;13
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsRecommendations for Various StakeholdersKey Findings and Recommendations• International and open commercial standards should be used for transactions to ensure activities are transparent 
+and customers can transfer between platforms;
+• ISPs and other companies should publicise and promote customers’ rights to information and inform them about 
+data transferred to the government.
+• Private sector broadcasters and online platforms should support freedom of expression by journalists and bloggers.
+• Openness While Internet access is cheap there is still a need to support Open Source standards development beyond 
+the government programmes in e-payment and transport ticketing. Two potential sectors are:
+• Health. Thailand was an early leader with HospitalOS in 2007.26 One area for further development would be in 
+public health awareness and sanitation in remote communities.
+• Agriculture. There are several small Open Source farm management systems in development. The potential for 
+remote management is important as many of Thai farms pass from a locally- based older generation to a younger 
+population who are most likely urban based.
+• Commercial opportunities identified in the areas of agriculture, health and education should be harnessed to extend 
+the benefits of online services to the more remote areas of the country that are underserved by Internet services, 
+as well as minority communities for whom Thai is not their mother tongue.
+• The private sector should take advantage of the competitive advantages offered by Thailand through the adoption 
+of universal e-payment and e-ticketing for public transport by:
+• Extending e-commerce into new businesses and to all local communities;
+• Adapting open source and integrated application to other areas of the Thai economy.
+• Accessibility Telecoms operators and ISPs should:
+• Subsidise access for disadvantaged people to reduce their costs and stimulate demand;
+• Develop strategies to meet the needs of rural people such as apps/programmes for agriculture;
+• Consider services and devices to increase access for those with minority languages;
+• Promote services and hardware such as smart phones that are easier for use by older people and the disabled; 
+for example speech-based services for the blind and text-based services for the deaf.
+• Multi-stakeholder Private sector should actively participate in the national Multi-stakeholder Advisory Board to lead 
+the nationwide debate and discussion on Internet related policy and regulations.
+• With e-payment systems becoming universal and expanding rapidly, all businesses should consider the impact of 
+government policy, technological change (5G), and the regulatory environment. They should work through professional 
+associations and sectoral bodies to ensure government receives the feedback to maintain a competitive environment.
+• X-cutting Data demonstrates that children have access to smartphones and the Internet before the age of ten. This leads 
+to many potential issues of online harassment, bullying and exploitation. While government has a role of children’s 
+protection, the most direct response will come from front line service providers.
+26 en.wikipedia.org/wiki/Hospital_OS , sourceforge.net/projects/hospital-os/14
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsRecommendations for Various StakeholdersKey Findings and Recommendations• In the private sector, use of the Internet for business purposes remains limited, especially amongst smaller companies. 
+Larger companies can help by supporting Internet developments along their supply chain to increase their own 
+efficiency, as well as sustainability.27
+• It has been suggested that e-waste legislation has not been fully implemented. The private sector should support this 
+development by adopting sustainable company-wide disposal and recycling strategies, and requiring the same of 
+their suppliers.
+• Continuing security breaches in private sector companies demonstrate that the private sector needs to adopt stronger 
+technical solutions for personal data.
+• Private sector companies, both ISPs and other services, need to be more cognizant of the risks of online harassment 
+suffered by their clients, especially children and women. Online services should be designed to support these 
+communities rather than leaving them open to abuse.
+Academia
+• Rights It will be extremely important for academic studies to evaluate and monitor all aspects of online freedoms 
+in Thailand under the government elected in 2019, especially as concerns the impact of recent legislation such as  
+the Data Protection and Cybersecurity Acts.
+• Openness Higher Education institutions should support the development of Open Source applications in agriculture, 
+health and education, and further develop the effectiveness of existing applications.
+• This report has identified a gap in the provision of universal training in the use of the Internet. Given this and  
+the current move to online learning due to problems associated with the COVID-19 epidemic, there is likely to be  
+a major increase in demand for online learning that could be met by major expansion of relevant MOOCs.
+• Accessibility Higher education institutions can help achieve universal access in Thailand by researching solutions 
+(technical and social) that can overcome the barriers faced by rural people and disadvantaged groups such as  
+the disabled.
+• Local further and higher education institutions have a particular role to play in developing applications for their local 
+communities, including in minority languages.
+• Multi-stakeholder Academia should actively participate in the national Multi-stakeholder Advisory Board to lead  
+the nationwide debate and discussion on Internet related policy and regulations.
+• X-cutting There are signs that in practice women still face harassment online and in the workplace. Data are deficient 
+on these issues and more studies and discussions would be welcome.
+• There have been a number of studies on the use of ICTs in Thai schools, but these have not formed a necessary base 
+for a realistic systematic provision of ICTs throughout the country. A major national study of ICTs in schools, adopting 
+a realistic view of costs of national roll out and a comprehensive view of requirements would form a firm foundation 
+for future strategy.
+• Businesses could benefit from academic analysis on how to effectively implement ICTs and e-commerce in smaller 
+companies, and in supply chains.
+• Higher education institutions have an important role to play in identifying the social and economic impacts of 
+technological change such as 5G and the ‘Internet of Things’. The results of academic research on technology impacts 
+should be widely publicized to allow full discussion amongst all stakeholders (business, government, civil society).
+27 See for example the joint EU, ILO, OECD project ‘Responsible Supply Chains in Asia – Thailand’ https:/ /www.ilo.org/asia/projects/WCMS_678345/lang--en/
+index.htm15
+Assessing Internet Development in Thailand • Using UNESCO’s Internet Universality ROAM-X IndicatorsConclusionsKey Findings and Recommendations• Technical solutions need to be developed to protect personal and commercial data.
+• Ethical aspects of the Internet are becoming increasingly fraught balancing freedom of expression against ‘fake news’ 
+and online harassment. Academic studies have a role to play in setting out appropriate principles that balance Thai 
+cultural traditions, the needs of society and the needs of the individual. Only by building social consensus on such 
+issues will governance be able to move forward with the full support of civil society.
+Conclusions
+Thailand’s Internet development emerges from this report with something of a mixed picture. On the positive side is the 
+commercial environment. In Thailand, the Internet can be accessed relatively cheaply with relatively low costs including 
+phones, computers, phone lines, and Internet access fees. Though there are some barriers, innovation and e-commerce are 
+encouraged by government and finance is available. One current major succes is the use of electronic payment system. 
+As Thailand becomes an early adopter of 5G, one can be sure that it will quickly be adopted and adapted by both 
+businesses and consumers.
+On the negative side there are two major issues. Firstly, there is a clear ‘digital divide’ with people over 50 years of age, 
+rural, and ‘outer’ provinces being the disadvantaged groups. While efforts are being made to address this, it is an issue that 
+will not disappear without a considerable effort because of a rapidly ‘ageing’ population and rapidly advancing technology. 
+This requires partnership of government, civil society and the private sector.
+Secondly there is a governance issue. While trying to secure safety and naitonal security, the dialogue between government 
+and civil society has been restricted, and there has been increasing evidence of loss of freedom of expression. The online 
+activities of, in particular, children and women require protection but the Internet must equally remain a place of open debate. 
+Dialogues between government and civil society, as well as with academia and the private sector are needed so that 
+regulation can be drafted sensitively to meet the needs of all parties. To address this issue MDES should establish a national 
+forum on Internet policy for consultation.
+There have been both big successes and stalled developments in the history of Internet development in Thailand. It is 
+important that the successes are built on and that lessons are drawn from failures. An early success from Thai innovators 
+was the development of Open Source applications. This initiative should be revived as they can be key to reducing costs, 
+and creating adaptations for rural and disadvantaged communities that are not easily served by mainstream commercial 
+services. One current major success is the use of electronic payment system. The momentum from this should not be lost. The 
+platforms created should be used to promote further e-commerce application in business and for consumers. In all of these 
+reforms and innovations higher education institutions have as ever a vital role in technical research and evaluation, identifying 
+the direction of future technological development and its impact on the economy and society. The role of ICTs in the school 
+system also needs major strengthening despite several earlier national initiatives.
+This Executive Summary has introduced the key assessment results of Thailand’s Internet Universality and major recommendations 
+which are set out in each category under the ROAM-X model for different authorities. Further details on specific themes, 
+questions, indicators and the recommendations combined across different categories are elaborated in the full report. 
+Several indicators in several categories may be duplicated or partly overlapped. Similarly one recommendation may draw 
+on evidence provided in different categories and themes. The full report will provide explanations on how one action can 
+take forward Internet development across several dimensions of the ROAM-X model.
+Finally, the IUI guidance suggests that consideration be given to when the assessment should be repeated next time. In the 
+Thailand’s context this would best be in the space of three to five years. This would give sufficient time to assess the impact of 
+the new government structures put in place in 2019, as well as the technological impact of 5G. It would also allow sufficient 
+time to lapse for new patterns of behaviour to have been established following the current global COVID-19 epidemic which 
+has ‘moved’ many activities online.ASSESSING
+INTERNET
+DEVELOPMENT IN
+Using UNESCO’s Internet
+Universality ROAM-X IndicatorsTHAILAND
+UNESCO SERIES OF INTERNET UNIVERSALITY NATIONAL ASSESSMENTSASSESSING 
+INTERNET 
+DEVELOPMENT IN 
+Using UNESCO’s Internet
+Universality ROAM-X IndicatorsTHAILAND
+UNESCO Bangkok Office
+Communication and Information (CI) Unit
+Mom Luang Pin Malakul Centenary Building
+920 Sukhumvit Rd., Prakanong,
+Klongtoei, Bangkok 10110, Thailand
+ci.bgk@unesco.org 
++66 2 391 0577
+https://bangkok.unesco.org
+ @unescobangkok
+TH/DOC/CI/21/053-ENGThis booklet is available in Open Access under the Attribution-ShareAlike 3.0 IGO (CC-BY-SA 
+3.0 IGO) license (http://creativecommons.org/licenses/by-sa/3.0/igo/). By using the content 
+of this publication, the users accept to be bound by the terms of use of the UNESCO Open Access 
+Repository (http://www.unesco.org/open-access/terms-use-ccbysa-en).
+The designations employed and the presentation of material throughout this booklet do not imply 
+the expression of any opinion whatsoever on the part of UNESCO concerning the legal status of 
+any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers 
+or boundaries.  
+The ideas and opinions expressed in this booklet are those of the authors; they are not necessarily 
+those of UNESCO and do not commit the Organization.Published in 2021 by the United Nations Educational, Scientific and Cultural Organization,  
+7, place de Fontenoy, 75352 Paris 07 SP, France and UNESCO Bangkok Office
+© UNESCO 2021

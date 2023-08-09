@@ -1,0 +1,584 @@
+ CI-22/COUNCIL.33/ 7 
+Paris, 30  September 2022 
+Original:  English  
+ 
+Distribution limited  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+Thirty- third session of the Intergovernmental Council  
+of the International programme for the  
+Development of Communication  
+ 
+24-25 November 2022  
+  
+ 
+ 
+ 
+Item 9 of the provisional agenda: Global Report on the implementation of Access to 
+Information Laws  
+ 
+ 
+ 
+ 
+         CI-22/COUNCIL.33/ 7 – page 2 
+ 
+1. Executive Summary  
+ 
+This report is submitted to the Intergovernmental Council of the International Programme for 
+the Development of Communication (IPDC) in line with the  Decision  of the Council adopted at 
+32nd session requesting the Secretariat to "continue publishing a biennial report on worldwide 
+progress towards SDG indicator 16.10.2.” 1 
+ 
+The present report responds to the IPDC Council mandate by taking stock of the global 
+progress on the adoption and implementation of legal guarantees on Access to Information, 
+based primarily on information provided by Member States through UNESCO’s 2021 survey 
+on indicator 16.10.2, the results of which were published in : To recovery and beyond: 2021 
+UNESCO report on public access to information (SDG 16.10.2) , and t he 2022 survey , the 
+results of which will be published later in 2022 . 
+ Its conclusion provides insight into  the main tendencies in the implementation of legal 
+guarantees for public Access to I nformation worldwide. The findings enable a better 
+understanding of the gaps and challenges that need to be addressed by countries in their efforts towards ach ieving this SDG indicator . 
+ 
+2. Background and Context  
+ As custodian agency for SDG indicator 16.10.2, in 2021 and in 2022, UNESCO invited all UN Member States, to participate in annual surveys on SDG indicator 16.10.2. The surveys took 
+place from April to June  2021 and from April to May 2022. As many as 102 countries and 
+territories, responded to the survey in 2021, while in 2022 the number of respondent  countries 
+and territories reached 123.  
+ 
+Figure 1.  Number of jurisdictions that participated in UNESCO survey exercise in 
+2020- 2022  
+Year  2020 2021 2022 
+Number  69 102 123 
+ 
+In July 2021, the UN’s Inter -Agency and Expert Group on the Sustainable Development Goal 
+Indicators (IAEG -SDGs) validated the updated metadata guidance for indicator 16.10.2, which 
+includes the use of the UNESCO survey to collect the data annually.  The survey comprises 8 
+questions2, each  with values between 0 and 2. Upon the completion of the survey, a country 
+can get a total s core of 0- 9, enabling it to track progress over time. The total score of each 
+country is the basis for a global analysis  of trends as reported here.    
+ 
+An example of the usage of such data relates to the importance of oversight bodies.  Thus, t he 
+global analysis of data collected in 2022 shows  that countries and territories with legal 
+guarantees on Access to Information  that include provision for an oversight body, have an 
+average score of 7.2 , while those  with guarantees but no oversight institution score on average 
+3.3 points. This finding suggest s that countries  and territories  that have a specialised Access 
+to Information oversight body are generally likely to perform better than those without  it.  
+ 
+1 Thirty -second session of the Intergovernmental Council of the International Programme for the 
+Development of Communication (IPDC) Decisions,  
+https://unesdoc.unesco.org/ark:/48223/pf0000374994/PDF/374994eng.pdf.multi   
+2 The questions were based on what can be called ‘ Principles of Access to Information ’, and which 
+highlight  essential components for effective implementation of access to information at the country level. 
+These Principles are synthesized from existing frameworks and documents recognised internationally. 
+These include Article 10 of the United Nations Convention against Corruption; resolutions of the UN 
+General Assembly and Human Rights Council; the Commonwealth’s Model Freedom of Information Bill; 
+Organization of American States (OAS)’s Model Law on Access to Information; African Union’s Model 
+Law on Access to Information and reports from the UN the Special Rapporteur on the promotion and  
+protection of the right to freedom of opinion and expression.  CI-22/COUNCIL.33/ 7 – page 3 
+ 
+  
+In order to help establish a reporting link for SDG indicator 16.10.2 at the national level, 
+UNESCO sent the 2021 and 2022 survey invitations to both the central oversight institutions 
+responsible for A ccess to Information (e.g. information commission/er; data protection or 
+privacy commission/er; national human rights institution; ombuds institution; department/ ministry/ agency) and national SDG focal points (usually the national statistics offices). In some 
+countries  and territories, the invitation was sent to only one of these entities, due the absence 
+of one or another.  
+ UNESCO also joined forces with networks of oversight institutions responsible for A ccess to 
+Information, such as the International Conference of Information Commissioners
+ (ICIC) , 
+regional associations : Red de Transparencia y Acceso a la Información  (regional Latin 
+American network of information commissioners) and the African Network of Information 
+Commissioners (ANIC),  so as  to increase participation of countries and territories in the survey. 
+Such outreach is important as these networks play an important role in advocating for SDG 
+monitoring and reporting, as well as mobilising their members in taking part in global activities related to the SDGs.  
+ 
+3. Tracking progress in 2022 
+3.1 Legal frameworks for Access to Information: growth of reporting on adopting and 
+implementing legal and policy guarantees for access to information 
+ Out of the 123 countries and territories that responded to the survey  in 2022, 93% (114) 
+indicated that they have constitutional, statutory and/or policy guarantees for A ccess to 
+Information . In 2021, out of the 102 respondent countries and territories, 89% or 91 jurisdictions 
+indicated hav ing such guarantees.  
+ Five countries indicated in 2022 an absence of any Access to Information guarantees, 
+including one country noting that the right is only ‘ indirectly mentioned’ in their legislation on 
+print and publishing, on s tatistics and on the environment , as articles in these legislations 
+‘required the publication of certain information to the public. ’ Another country acknowledged 
+having a non- binding policy on A ccess to I nformation that makes ‘ more Government data 
+available to the public. ’  
+ Four  countries further reported that they are ‘in progress’ in adopting such guarantees.  
+ 
+In 2021, two countries  reported to UNESCO that they had adopted legal guarantees, while 
+three more countries  reported in 2022 that they too had passed and enforced their national 
+laws on A ccess to I nformation.  One country  reported that its new Open Government Act 
+replaces  the now defunct Freedom of Information Act , and contains a number of important 
+changes, including the establishment of the permanent independent Advisory committee on public access and information management.  
+ Thus, a steady growth of both the number of national regulation systems conducive to A ccess 
+to Information is evident from the 2021 and 2022 surveys.   
+ 
+Out of the 114 jurisdictions with A ccess to Information guarantees, 90% (103) reported in 2022 
+that these provisions  specify the need of a dedicated oversight institution(- s).  Out of these  114 
+jurisdictions , 79% (90) pointed in their 2022 reports that these guarantees specifically provide 
+for the need for public bodies (ministry/agency/department ) to appoint public information 
+officers or a specific unit /s to handle A ccess to I nformation. Out o f the 90, 89% (80) said that 
+these requirements are for all  public bodies, while the rest – only to some  of the bodies.  In 
+2021, 71% (65) countries and territories (out of the 91 with Access to Information guarantees  
+at the time ) reported the need to  appoint public information officers or units . In 62 countries  
+and territories , this provision applied to ‘all public bodies’ and in three more – only to ‘some 
+public bodies .’ 
+  CI-22/COUNCIL.33/ 7 – page 4 
+ 
+  
+The statistics point to the importance of oversight bodies  and to the requirem ent for the public 
+bodies to appoint officers handling Access to Information issues.  
+ 
+3.2 Exemptions: limited scope, but overall existence to protect public interests and human 
+rights  
+ 
+Permissible exemptions that are elaborated in well -defined categories allow the withholding by 
+authorities of certain categories of information, in terms of international standards of Access to 
+Information . Exemptions should apply only where there is a ris k of substantial harm to a 
+protected interest (as per the list in Figure 2 below) or human right, and where the possible harm is greater than the overall public interest in having Access to I nformation. These 
+exemptions are typically cited in jurisdiction’ s legal guarantees on Access to Information in 
+relation to the procedures for requests for information, and also in regard to rationales for 
+refusals in requests.  
+ 
+Out of the 114 responding jurisdictions with Access to Information  legal guarantees, the overall 
+majority – 96% (110) – reported in 2022 that their respective guarantees explicitly mention 
+having permissible exemptions that are elaborated in well -defined categories and terms of 
+which certain requests for information may be lega lly denied. In 2021, out of the 91 responding 
+countries and territories with Access to Information guarantees at the time , such exemptions 
+were mentioned by 9 1% (83).  
+ 
+Figure 2 below shows the proportion of permissible exemptions in Access to Information legal 
+guarantees, as indicated by the respondents  in 2021 and in 2022 . 
+ Figure 2. Permissible exemptions in Access to Information  legal guarantees (in 
+percentage)  
+Permissible exemptions  Percentage  
+ 2021 2022 
+National security  87 96 
+International relations  67 68 
+Public health and safety  62 58 
+Prevention, investigation and prosecution of legal wrongs  69 82 
+Privacy 85 91 
+Legitimate commercial and other economic interests  75 77 
+Management of the economy  39 40 
+Fair administration of justice & legal advice privilege 58 54 
+Conservation of the environment  32 23 
+Legitimate policy making and other operations of public bodies  48 46 
+ 
+  CI-22/COUNCIL.33/ 7 – page 5 
+ 
+ Going further, Access to Information oversight institutions in 28  out of 4 4 countries and 
+territories that provided  specific data on ‘ Access to Information requests’ in 2021 reported that 
+they kept disaggregated data on the reasons for non- disclosure and partial disclosure on the 
+basis of the legitimate exemptions. As it relates to specific data on ‘Appeals’ in the same period, 
+33 out of 60  respondents repor ted that they also kept disaggregated data.  The proportion of 
+the number of countries  and territories  keeping disaggregated data has increased in 2022 from 
+the previous year from 60% to 67% in relation to requests for Access to Information and 
+decreased in relation to appeals from 57% to 55%.  
+ 
+Figure 3. Countries and territories that keep disaggregated data for non- disclosure 
+and partial disclosure on the basis of the permissible exemptions in 2020 and in 2021  
+ Countries and territories 
+keeping disaggregated data  Countries and territories not 
+keeping disaggregated data  
+(ATI Requests ) in 2020  24 (60%)  16 (40%)  
+(ATI Requests ) in 2021  28 (67%)  16 (33%)  
+(Appeals) in 2020  29 (57%)  22 (43%)  
+(Appeals) in 2021  33 (55%)  27 (45%)  
+ 
+These data confirm the overall existence of a limited scope of exemptions for protected 
+interests: human rights (such as privacy) and public interests (such as national security) , that 
+are explicitly mentioned in the national Access to Information  guarantees, but the number of  
+countries  and territories  that keep disaggregated data on refusals to Access to Information  
+requests on the basis of exceptions is low.   
+ 
+3.3. Oversight mechanism: growth in numbers and broadness of mandates to implement 
+the laws  
+ 
+Oversight mechanism s, which were in the focus of the 2022 survey,  may take the form of an  
+institution tasked  with ensuring the process of supervision, monitoring, evaluation  of 
+performance and review, in order to ensure compliance with laws, regulations and policies. 
+They are  an essential element to ensure  accountability for the implementation of Access to 
+Information . The same or another body may also review  appeals, although hearing appeals  is 
+a distinct function from oversight and is often  done by a separate body , as well as by a court 
+of law . This is why in some countries, there  exists more than one oversight institution, 
+depending on the  different tasks that they perform.  
+ 
+In 2022, out of the 114  responding countries and territories with Access to Information 
+guarantees, 90% (103) reported that these guarantees specify the need of a dedicated 
+oversight institution (-s). In 2021, 87% (79) of the 91 countries  and territories  with Access to 
+Informatio n guarantees at the time confirmed  that their guarantees recognized such a need.   
+ 
+In 2022 , Information Commission/er s were the most  common type of oversight mechanism  (47 
+countries/territories reported having an Information Commission/er ), followed by governmental 
+department s/ministries /agencies (33) and ombudspersons /institution s (29). Other oversight 
+mechanisms include converged bodies  that combine data/privacy protection and A ccess to 
+Information  (27), data protection or privacy commission/er s (16), and human rights 
+commission s (10). In 22 cases , the reports of the countries and territories with A ccess to 
+Information  guarantees  pointed to ‘Other ’ in the list of oversight institutions.3 The picture from 
+the 2021 report is not much different  (see Figure 4) , with the exception of the executive  bodies, 
+which had a less prominent role at the time.  
+ 
+3 A detaile d review of their answers, however , discovers some misunderstanding as the ‘other 
+institutions ’ turned out also to include information commissions under a different name (board, council, 
+authority and agency), ‘ personal data authorities ’, government bodies, other than the ministries and 
+departments, as well as courts and prosecution services which anyway have a general right to overview 
+compliance with a law. In two cases , it was recorded in 2022 that the Access to Information oversight i s 
+done by a media regulator (Media Commission and Office of the Inspector of Journalist Ethics).  CI-22/COUNCIL.33/ 7 – page 6 
+ 
+  
+In the majority of countries  and territories, these oversight institutions reportedly operate at the 
+national level,  with only few of them –  typically federative states –  indicating the existence 
+(also) of  the subnational  level.  Both in 2021 and in 2022, subnational institutions  accounted for  
+less than 10 per cent  of existing oversight institutions . 
+ 
+Figure 4. Types of oversight institution  
+Type  Number of countries and 
+territories (percentage)  
+ 
+2021  2022  
+Information Commission/er  34 (43 %)  47(46 %)  
+Department/Ministry/Agency  17 (22 %)  33(32 %)  
+Ombudsperson/institution  17(22 %)  29 (28 %)  
+A converged body that combines data/privacy 
+protection and ATI  18 (23 %)  27 (26 %)  
+Data protection or privacy commission/er  9 (12 %)  16 (16 %)  
+Human Rights Commission  3 (4 %)  10 (10 %)  
+Other  11 (15 %)  22 (21 %)  
+ These figures point to an overall majority of countries and territories with Access to Information  
+legal guarantees providing for  an oversight body , typically a national one. In almost half of the 
+cases this body takes the form of an Information Commission or Commissioner. There is a 
+significant number of the national executive bodies (such as Department/Ministry/Agency) 
+taking over the oversight rol e.  
+ 
+The mandates of the oversight institutions in 91 out of the 103 countries and territories that 
+provide for  them, according to their 2022  submissions to UNESCO, authorize the oversight 
+bodies  to conduct  an oversight (legal responsibility to ensure implementation of the Access to 
+Information  guarantee) and the same number also conduct  monitoring of Access to Information 
+implementation.
+4  
+ 
+Review of the appeals is reportedly possible by 80 oversight Acces s to Information institutions, 
+while the same number of oversight bodies have the authority to enforce compliance with the 
+Access to Information legal guarantee(s). Just 43 countries and territories reported that their 
+institutions may take the role of mediation, an alternative solution to resolve a dispute before 
+proceeding to any formal procedure  on Access to Information  issues. Figure 5 puts these 
+figures in comparison with those from the 2021 reports, when 79 of 91 jurisdictions with access 
+to inform ation guarantees noted that they provide for an oversight mechanism . 
+  
+ 
+4 For this question, respondents could choose one or more branches of government, as applicable.  CI-22/COUNCIL.33/ 7 – page 7 
+ 
+  
+Figure 5. Roles of ATI oversight institutions as mandated by  the legal guarantees  
+Mandated role  Number of countries and territories 
+(percentage)  
+ 
+2021  
+ 2022  
+Oversight ( legal responsibility to 
+ensure implementation of the ATI 
+guarantees)  63 (80 %)  
+ 91 (88 %)  
+Monitoring of ATI implementation  74 (94 %)  
+ 91 (88 %)  
+Review of the appeals  65 (82 %)  
+ 80 (78 %)  
+Enforcement of compliance with the 
+ATI guarantee(s)  55 (70 %)  80 (78 %) 
+Mediation  32 (41 %)  
+ 43 (42 %)  
+ Oversight and monitoring of the implementation of the Access to Information  legal guarantees 
+remain the prime task of the oversight institutions in the majority of countries and territories 
+that responded to the surveys. Other important tasks  cited by respondents  are the review of 
+appeals and the enforcement of compliance. Mediat ion is still largely undeveloped as a 
+mandated role of such bodies.  
+ 
+The independence of oversight institutions  is essential for them to  play an effective role. 
+Factors such as the appointment process of the head of the oversight institution, the way 
+institution is financed, and to whom it reports , determine the independence of the oversight 
+body.  
+ 
+The 2022 survey revealed that , out of the 103 responding countries and territories with Access 
+to Information  legal guarantees that specify the need of a dedicated oversight institution( -s), 
+the majority ( 63) indicated that the head of the A ccess to Information oversight institution is 
+appointed by the ‘Executive’.
+5 The ‘Legislative’ branch is the second most answered ( 36), 
+followed with ‘Other’ ( 21)’6 and ‘Judiciary’ ( 3). 
+ 
+In response to the survey question about the approval of the budget for the access to 
+information oversight institution, 62 respondents indicated that this budget is approved by the 
+’Legislative’ branch, while 47 indicated that it is approved by the ’Executive’, and three 
+indicated that it is approved by the ’Judiciary’. Meanwhile, 12 countries indicated ‘Other’ in their 
+responses, explaining, for example,  that the budget of the A ccess to Information institution 
+comes from that of the Ministry of Justice, or is approved through a complex procedure 
+involving different stakeholders.  
+ In response to the survey question about to whom the Access to Information oversight 
+institution directly reports about its activities
+7, 68 respondents indicated that the budget is 
+approved by the ’Legislative’ branch, while 49  indicated that it is approved by the ’Executive’, 
+and four indicated that it is approved by the ’Judiciary’ . 
+ 
+For the latter, some respondents said  that the institution report s to ‘the public ’, while others 
+explained they do not report to any branches  of state power . Meanwhile several  countries 
+either put ‘ government ’, a specific ‘ministry ’ or ‘parliament ’ under ‘Other’ .  
+  
+ 
+5 For this question, respondents could choose one or more branches of  government, as applicable.  
+6 Such as the Head of State or a complicated procedure involving several branches of power.  
+7 For this question, respondents could choose one or more branches of government, as applicable.  CI-22/COUNCIL.33/ 7 – page 8 
+ 
+  
+Figure 6 puts these figures in comparison with those from the 2021 reports, when 79 of 91 
+jurisdictions noted that they provide for an oversight mechanism . 
+ 
+Figure 6. ATI oversight institutions: Appointment, financing and reporting  
+Who appointed the Head of ATI 
+oversight institution( -s)? Number of countries and territories 
+(percentage)  
+2021  
+ 2022  
+Legislative  
+ 44 (56 %)  
+ 36 (35 %)  
+Executive  
+ 27 (34 %)  
+ 63 (61 %)  
+Judiciary  
+ 1 (1 %)  
+ 3 (3 %)  
+Other  
+ 16 (20 %)  
+ 21 (20 %)  
+ 
+Who approved the budget of ATI 
+oversight institution( -s)? Number of countries and territories 
+(percentage)  
+2021  
+ 2022  
+Legislative  
+ 34 (43 %)  
+ 62 (60 %)  
+Executive  
+ 47 (59 %)  
+ 47 (46 %)  
+Judiciary  
+ 0 (0 %)  
+ 3 (3 %)  
+Other  
+ 16 (20 %)  
+ 12 (12 %)  
+ 
+To whom ATI oversight institution  
+(-s) reports on its activities?  Number of countries and territories 
+(percentage)  
+ 
+2021  
+ 2022  
+Legislative  
+ 30 (38 %)  
+ 68 (66 %)  
+Executive  
+ 55 (70 %)  
+ 49 (48 %) 
+Judiciary  
+ 1 (1 %)  
+ 4 (4 %)  
+Other  
+ 13 (16 %)  
+ 19 (18 %)  
+ 
+Looking at the trends related to independence of the oversight  bodies , there is a  significant  
+change in the reporting process : the recipient of the oversight  reports is increasingly the 
+legislative rather than the executive branch of power . The legislatures are also specified as 
+approv ing the budget for oversight activities, while the appoint ment  of the head of the oversight 
+institution  is more often made by the execut ive.  
+ 
+In response to the survey question whether reporting on the activities performed by such 
+institution( -s) is required, 98 out of the 103 countries and territories with Access to Information 
+guarantees for a dedicated oversight institution( -s) indicated a positive reply to the question, 
+but only 83 countries and territories said that an annual report was indeed published in 2021.  
+  CI-22/COUNCIL.33/ 7 – page 9 
+ 
+  
+In response to the survey question about the types of activities actually performed by the 
+dedicated oversight institutions in 2021,  the respondents indicated that these bodies : provided 
+implementation guidance and/or offered training to officials from public bodies 
+(ministry/agency/department ) in 84 cases; were engaged in activities to raise public awareness 
+– in 87 cases ; kept statistics on requests and/or appeals –  in 82 cases; and/or requested public 
+bodies to keep statistics of their activities and decisions –  in 65 cases . However, there is a 
+caveat here. Some countries and territories that reported on keeping statistics did not provide 
+specific  data to UNESCO in their response to the relevant questions. On the other hand, a few 
+others reported that they did not keep statistics, but still pro vided specific  data in their reports. 
+This may speak of  some inconsistencies in record -keeping practices.  
+ 
+Figure 7. Activities of ATI oversight institutions 
+Activity  Number of countries and territories 
+(percentage)  
+2021 (total 79)  2022 (total 103)  
+Publish an annual report  78 (99 %)  83 (81 %)  
+Provide implementation guidance 
+and/or offer training to officials from 
+public bodies  72 (91 %)  84 (82 %)  
+Activities to raise public awareness  78 (99 %)  87 (8 %)  
+Keep statistics on requests and/or 
+appeals  70 (89 %)  82 (80 %)  
+Request public bodies to keep 
+statistics of their activities and 
+decisions  50 (63 %)  65 (63 %)  
+78 A number of survey responses from 2022 pointed to other activities of the Access to 
+Information  oversight institutions, such as : proactive publication of information, for example  
+minutes of Cabinet meetings; facilitation of access to people wit h disabilities;  establishing 
+transparency platforms; strengthening public awareness on C OVID -19 vaccination.  These 
+activities  can be considered good practices  in terms of Access to Information standards . 
+ 
+In addition, good practices with regard to promoting gender equality in A ccess to Information 
+were described in 24 reports  in 2022 . These included such activities as implementing action 
+plans and specific policies on gender mainstreaming, as well as awareness raising through 
+seminars and other programmatic activities . Some of the reports  from Latin America provided 
+more detailed answers, such as : an agreement between the Institute for Access to Public 
+Information and the Attorney General’s Office ‘to strengthen women’s rights’ ; ‘a workshop with 
+women’s organizations and feminist movement to articulate a roadmap on transparency, 
+gender and A ccess to I nformation’ (in one country) ; ‘incorporation of actions for the inclusion 
+of women in the strategy of access to public information of the Office of the Attorney General’ ; 
+and a reference in the  resolution of the ICT Ministry to request the subjects of A ccess to 
+Information  Law to include on their website s specific markings pointing to the information that 
+might be of interest to  women (in one country ). 
+ 
+For ensuring optimum Access to Information, i t remains crucial to assess, both qualitatively 
+and quantitatively, the implementation of this right , so that jurisdictions can take corrective 
+actions where needs be.  
+ CI-22/COUNCIL.33/ 7 – page 10  
+ 
+ In 2022, 59 out of the 103 oversight institutions reportedly confirmed that they had received 
+reports on Access to Information  requests from the public bodies (ministry/agency/department) 
+at the national level.  
+ 
+An important  indicator that can help monitor effectiveness of the oversight bodies is the 
+availability of data on the number of requests re ceived by them and the manner  they were 
+responded. Out of the 114  responding countries and territories with A ccess to Information  
+guarantees  in 2022, only  51 (45%) could provide meaningful data on the number of requests ; 
+moreover , 12 of the se 51 response s (24%) were not based on the year 2021 as reporting year, 
+submitting instead data from 2020, 2019, or even from 2018, as the latest available. Of the 
+remaining 63 countries  and territories  without data, it  is important to note that quite a few still 
+confirmed  keeping statistics on requests and/or appeals  even though they were unable to 
+mobilise such data for the survey response.  
+ 
+From the data made available in 2022 by 39  countries and territories, the majority of A ccess 
+to Information  requests were granted ( 3,531,063 or 77 % of the received requests ) in full or in 
+part. Although the range of the number of requests for information received is tremendous – from several requests to hundred s of thousands per year per jurisdiction , these figures  
+generally show that there is both the demand for and positive response by these countries and 
+territories in implementing Access to Information  guarantees.  Whether this means that such 
+information should have been proactively availed is worth asking, since such practice avoids 
+the situation of citizens needing to request and authorities having to respond.  
+ 
+From the data available in 2021 submissions as reported by the 40 countries and territories, 
+the majority of A ccess to Information requests were granted (75% of cases) and only 13% 
+were denied, with the remainder being dismissed as ineligible (8%) and pending (4%).  
+ 
+Figure 7. Access to Information requests  granted (percentage of all requests)  
+Request s granted according to 2021 survey  75% 
+Requests granted according to 2022 survey  77% 
+ 
+Thus , a trend of about three quarters  of all requests being granted can be observed from the 
+submissions in 2021 and 2022. However, this trend is detected based on rather small number 
+of countries that provided statistics on the numbers of actual requests submitted.  
+ 
+4. Conclusion  
+ 
+The number and ratio of responding countries and territories that indicated to have 
+constitutional, statutory and/or policy guarantees for Access to Information  is increasing, year 
+to year, since UNESCO started to monitor SDG 16.10.2 in 2019.    
+Legal and policy guarantees largely include the need for an oversight body and a requirement 
+for the public bodies to appoint officers handling Access to Information issues.  The oversight 
+body  is typically a national one, and in almost half of the cases this body takes the form of an 
+Information Commission or Commissioner.  One of the key aspects of such body is its 
+independence. The International Conference of Information Commissioners defines in its 
+Charter independence as institutional, operational and decision-m aking independence, which 
+includes the ability to allocate and manage their resources as they see fit to fulfil their 
+respective mandates.
+8 
+ 
+A trend of about three quarters of all requests being granted is detected, but it is  based on 
+rather small number of countries that provided statistics on the numbers of actual requests submitted.  
+  
+ 
+8 https://www.informationcommissioners.org/the- icic-johannesburg- charter/   CI-22/COUNCIL.33/ 7 – page 11  
+ 
+  
+Monitoring SDG  indicator  16.10. 2 since 2019 provided UNESCO with sufficient data  on current 
+developments in the field of Access to Information  laws and its implementation.  These trends 
+enable the Secretariat to update the 2004 UNESCO Policy Guidelines for the Development 
+and Promotion of Governmental Public Domain Information. 9 
+ 
+5. Draft Decision  
+ IPDC Council Decision on the Monitoring and Reporting of Sustainable Development Goal 
+(SDG) indicator 16.10.2 (Access to Information)  
+ The Intergovernmental Council of the IPDC:  
+ 
+Recalling  the relevance of the Decision adopted by the 32 nd session of the Intergovernmental 
+Council of the IPDC which encourages the Secretariat to "continue publishing a biennial report 
+on worldwide progress towards SDG indicator 16.10.2”, 
+ 
+Welcoming the 2021 and the upcoming 2022 UNESCO Report on the Monitoring and 
+Reporting of SDG indicator 16.10.2 (Access  to Information), and its utility in providing 
+evidence- based analysis for the improvement of access to information as a driver  for 
+sustainable development, 
+ 
+Thanking those Member States that provided information on their national progress on access 
+to information through responding to UNESCO ’s 2021 and 2022 survey s on SDG indicator 
+16.10.2, noting the positive developments reported therein; and encouraging additional 
+measures to address identified gaps , 
+ 
+Acknowledging that the data generated by UNESCO, as custodian agency of Indicator 16.10.2, 
+has led to the upgrading of the indicator from Tier II to Tier I status indicator, and encouraging continued annual contributions to the global monitoring by the UN Secretary General , 
+ 
+Appreciating those Voluntary National Reports (VNRs) which have included analysis based on 
+Indicator 16.10.2, among other data for assessing progress ,  
+ 
+Welcoming the IPDC Bureau’s decisions to support projects aimed at strengthening capacity 
+at national levels to monitor and report on SDG indicator 16.10.2 as part of measuring progress towards SDG 16, therefore:  
+ 
+1. Encourages  Member States to enhance legal regulatory frameworks on access to  
+information at the national level as well as the effective implementation of these frameworks,  
+as part of their commitments to advance the 2030 Sustainable Development Agenda;  
+ 
+2. Further encourages  Member States to continue monitoring and reporting progress on SDG 
+indicator 16.10.2 through forthcoming Voluntary National Reviews and through responding to 
+UNESCO’s annual survey, and to engage - where applicable - the oversight  bodies responsible 
+for access to information in the collection of data;  keeping in mind as well the utility of such 
+data to national stakeholders as well as for exercises such as the Universal Periodic Review ;  
+ 
+3. Invites  the IPDC Bureau to continue supporting grass -roots projects that will help Member  
+States in data- collection and reporting on SDG indicator 16.10.2 on access to information,  
+including strengthening monitoring and reporting capacities of oversight bodies responsible for  
+access to information;  
+ 
+4. Requests  the IPDC Secretariat  to:  
+ 
+ 
+9 https://unesdoc.unesco.org/ark:/48223/pf0000134082.locale=en  CI-22/COUNCIL.33/ 7 – page 12  
+ 
+ a. Further strengthen  collaboration with other UN agencies, civil society organizations, 
+networks of oversight bodies, in particular with the International Conference of 
+Information Commissioners ( ICIC) and its African subnetwork, responsible for access 
+to information, intergovernmental bodies, and other concerned stakeholders in advocacy, capacity building and awareness raising efforts on i ndicator 16.10.2;  
+ 
+b. Continue publishing a biennial report on worldwide progress towards SDG indicator 
+16.10.2, with a view to giving visibility to national efforts to monitor and report on access 
+to information, to contributing data to the International Day for Universal Access to 
+Information, and to further sensitizing relevant stakeholders on the crosscutting 
+significance of access to information in achieving the Sustainable Development Goals;  
+ 
+c. P resent  to the next IPDC Council session the draft document, developed together with 
+civil society and networks of oversight bodies, aimed at updating the Policy Guidelines 
+for the Development and Promotion of Governmental Public Domain Information;  
+ 
+d. Report  to the IPDC Bureau in 2023 and 2024, and to the Council in 2024, about the 
+progress made on the above.  

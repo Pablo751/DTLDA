@@ -1,0 +1,767 @@
+COVID-19: 
+The role of judicial operators 
+in the protection and 
+promotion of the right to 
+freedom of expression
+GUIDELINES
+Highlights
+• Judges and courts, both at national and regional levels, will find these guidelines useful to ensure the 
+application of international and regional human rights standards of freedom of expression and privacy 
+when ruling on cases involving States’ responses to the COVID-19 outbreak that have an impact to 
+freedom of expression, press freedom, access to information, privacy and safety of journalists.
+• When resorting to state of emergency powers to cope with the COVID-19 pandemic, States must 
+comply with requirements, criteria and procedures established by international and regional legal 
+instruments to safeguard citizens’ fundamental rights and prevent abuses and arbitrariness.
+• While reporting on the pandemic, journalists may become targets of attacks and intimidations and 
+face limitations due to imposed restrictions. Their work should be considered as the provision of an 
+essential service, therefore protection must be provided and any violations to their safety should be 
+thoroughly investigated and prosecuted. 
+• The development of health data collection tools to track infections and properly identify potential 
+disseminators of the virus should consider the effects on the right to privacy, and therefore, observe 
+international standards regarding data protection.
+• Measures to counter disinformation should avoid general prohibitions on the dissemination of 
+information and assess the impacts on freedom of expression, applying always the three-part test 
+(provided by a law, pursuing a legitimate aim, and necessary and proportional in a democratic society) 
+to check the conformity with international human rights standards. 
+CI-2020/FEJ/ME-1COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+1Foreword
+The COVID-19 pandemic and the measures taken worldwide in response to the outbreak 
+have had significant implications for human rights. Over the past months, several national 
+authorities have declared states of emergency, restricting many fundamental rights including 
+freedom of expression, access to information and privacy. In addition, some governments 
+have adopted laws to fight disinformation, and it is likely that judicial authorities will soon 
+have to rule on cases related to freedom of the press and freedom of expression in relation to 
+these measures.
+As the United Nations’ specialized agency with a specific mandate to promote and protect 
+freedom of expression and its corollaries, press freedom and access to information, 
+UNESCO seeks to sensitize all relevant actors, and in particular those working in judicial 
+systems, such as judges, prosecutors and lawyers on the importance of guaranteeing these 
+fundamental human rights. To that effect, since 2013, UNESCO and its partners have 
+trained over 17,000 judicial actors and representatives of civil society from Latin America 
+and Africa on international and regional standards related to freedom of expression.
+These guidelines were developed in continuity with this project, and specifically follow 
+a series of three webinars (in Spanish , English, and French ) for judicial operators on 
+legal challenges on freedom of expression in relation with the COVID-19 pandemic. The 
+webinars were organized in partnership with the Bonavero Institute of Human Rights 
+(Faculty of Law, University of Oxford), the Reuters Institute for the Study of Journalism 
+(Department of Politics and International Relations, University of Oxford), the Knight 
+Center for Journalism in the Americas, the Office of the Special Rapporteur of Freedom of 
+Expression at the Inter-American Commission on Human Rights, as well as with regional 
+human rights courts such as the Inter-American Court of Human Rights, the African 
+Court on Human and Peoples’ Rights, and the ECOW AS Court of Justice. They also notably 
+benefited from the support of Open Society Foundations.
+The aim of these guidelines is to provide support for judges and members of the judiciary 
+for the protection and promotion of the right to freedom of expression during and in the 
+aftermath of the COVID-19 pandemic. It is our hope at UNESCO that those using these 
+guidelines will gain a deeper understanding of the theoretical frameworks underpinning the 
+right to freedom of expression, as well as the skills to put this theory into practice, during 
+and beyond this time of crisis.
+Freedom of Expression and Safety of Journalists Section
+Communication and Information Sector
+UNESCOCOVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+21 https://www.achpr.org/pressrelease/detail?id=483Introduction
+The rapid emergence of COVID-19 has led to an unprecedented global crisis. This serious 
+crisis exerts pressure and affects governments, which not only adopted exceptional 
+decisions in relation to an unexpected situation, but are also placed under due scrutiny 
+from the citizens, who would expect appropriate measures and adequate information 
+from those who have the responsibility to guarantee public health.
+The governance systems of liberal and democratic societies have been at least temporarily 
+altered. Campaigns and elections have been postponed, parliamentary sessions are taking 
+place with a reduced number of participants or via videoconference, functioning of justice 
+bodies is suspended or slowed, and the provision of essential public services is seriously 
+affected.  The right to information is put on hold in many cases, affecting citizens’ access 
+to comprehensive data about infection rates, testing regimes, government contracting 
+arrangements, and the spending of public funds during the pandemic. 
+In other words, the institutional mechanisms that are at the very heart of the rule of law 
+systems and their checks-and-balances systems have been strongly impacted. Several 
+countries have also used the special circumstances associated with the pandemic in order 
+to tighten up already existing restrictions to fundamental rights, to introduce new ones, 
+and to increase the control of the activities of citizens.
+In particular, the exercise of freedom of expression, the situation and activity of 
+journalists and the media, and citizens’ right of access to public information have been 
+specially affected by this major crisis. Many emergency provisions as well as existing 
+laws and regulations have been used to directly restrict the exercise of such rights and to 
+introduce further controls using the rationale of the need to protect public health.
+Besides of the fundamental character of rights that require protection, there is also 
+evidence that respect for rights is also fundamental for countering the COVID-19 
+pandemic and its effects. For example, press freedom enables the media to investigate and 
+expose dangerous falsehoods about the virus, providing an alternative to incorrect content 
+that is circulated without challenge within closed messaging apps. Freedom of expression 
+allows the public to debate policy responses to the pandemic, and hold duty-bearers 
+accountable for their actions.
+Avoiding a “binary choice” about safeguarding rights versus preserving economic life,   
+the African Commission on Human and Peoples’ Rights, has called for respect of both. 
+“The African Commission recognizes the legitimacy of the concerns regarding the socio-
+economic impacts of some of the measures for preventing and containing COVID-19 
+particularly for the socio-economically vulnerable sections of society and, recalling its 
+statement of 28 February on COVID-19, reiterates the obligation of States to ensure that 
+the measures adopted comply with the principle of legality, are necessary and proportional 
+to the objective of safeguarding public health and are accompanied by contextually 
+tailored policy measures for mitigating the adverse impacts, particularly on the most 
+vulnerable section of society. ” 1 The Commission goes on to stress the need for compliance 
+with the principles of legality, non-discrimination and equality, access to information, 
+protection of vulnerable groups, and monitoring measures, amongst others.
+In the coming months and years, judges and courts, both at national and regional levels, 
+will be increasingly requested to review some of the decisions adopted in this crisis 
+context, as well as hear cases about the interpretation of these decisions in regard to how 
+they are actually being enforced by agents of the state.
+The purpose of this document is to support judicial operators in these processes. 
+In particular, these guidelines promote the proper consideration and correct 
+understanding of applicable international and regional standards, thus upholding the 
+adequate and effective protection of the fundamental right of freedom of expression 
+and freedom of information beyond the specificities of the respective national laws. COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+3Pandemic and 
+state of emergency
+According to international law, during times of public emergency which threatens the life 
+of nations, States may take measures derogating from certain of their human rights 
+obligations and commitments under international and regional law instruments to the 
+extent strictly required by the exigencies of the situation. Such a provision can be found in 
+article 4 of the International Covenant on Civil and Political Rights (the Covenant)2, article 
+27 of the Inter-American Convention on Human Rights (the Inter-American Convention)3 
+and article 15 of the European Convention on Human Rights (the European Convention)4.
+The African Charter on Human and People’s Rights (the African Charter)5 does not contain 
+any provision in this specific area. In any case, besides the possibility of applying derogations 
+provided for in regional instruments, when available, any state can adopt emergency 
+measures on the basis of the rules, principles and constraints included in the mentioned 
+article 4 of the Covenant.
+General Comment number 29 of the United Nations Human Rights Committee (the 
+HRCttee) is devoted to the issue of states of emergency within the framework of the 
+mentioned article 4 of the Covenant. This General Comment provides a wide range of 
+criteria and recommendations regarding the interpretation of this article. The most relevant 
+ones in this context are the following:
+• States must act within their constitutional and other provisions of law that 
+govern the proclamation of the state of emergency and the exercise of emergency 
+powers. These norms usually establish specific conditions, requirements and 
+procedures regarding the adoptions of these exceptional regimes. This being said, 
+such provisions must be interpreted in line with international and regional 
+standards. 
+• In situations other than an armed conflict, States should carefully consider the 
+justification and reasons why such a measure is necessary and legitimate in the 
+circumstances.
+• Measures are limited to the extent strictly required by the exigencies of the 
+situation. This requirement relates to the duration, geographical coverage and 
+material scope of the state of emergency and any measures of derogation resorted 
+to because of the emergency. 
+• Some of the provisions of the Covenant cannot be subject to derogation in any 
+case. Other articles in the Covenant (including article 19, protecting freedom of 
+expression) cannot be subjected to derogations at will, even where a threat to 
+the life of the nation exists. States hold the legal obligation to narrow down all 
+derogations to those strictly required by the exigencies of the situation. 
+No measure derogating from the provisions of the Covenant may be inconsistent 
+with the State party’s other obligations under international law, particularly the 
+rules of international humanitarian law. 
+• State availing themselves of the right of derogation must immediately inform 
+the other states parties, through the United Nations Secretary-General, of the 
+provisions they derogated from and of the reasons for such measures.
+2 https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx 
+3 https://www.cidh.oas.org/basicos/english/basic3.american%20convention.htm 
+4 https://www.echr.coe.int/Documents/Convention_ENG.pdf 
+5 https://www.achpr.org/legalinstruments/detail?id=49 COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+46 https://www.ohchr.org/Documents/HRBodies/CCPR/COVIDstatementEN.pdf
+7 A/HRC/44/L.18/Rev.1. Available online at: https://undocs.org/A/HRC/44/L.18/Rev.1The European Convention and the Inter-American Convention contain similar (and 
+complementary) regimes in this area, including the regime of notification to the relevant 
+body of the respective regional organization.
+The HRCttee has also adopted, on 24 April 2020, a specific statement on derogations from 
+the Covenant in connection with the COVID-19 pandemic. The statement reminds and 
+reiterates the general principles and recommendations contained in General Comment 
+number 29. It also contains relevant specific indications, including the following6:
+• Competent authorities should replace COVID-19-related measures that prohibit 
+activities relevant to the enjoyment of fundamental rights with less restrictive 
+measures that allow such activities to be conducted, while subjecting them as 
+necessary to public health requirements, such as physical distancing.
+• States shall not derogate human rights protections if they are able to obtain their 
+public health objectives on the basis of non-exceptional provisions. This is 
+particularly relevant vis-à-vis possible restrictions to the right to freedom of 
+expression inasmuch as according to article 19 of the Covenant (together with 
+article 13 of the Inter-American Convention, article 10 of the European Convention 
+and Principle 9.3 of the Principles on Freedom of Expression and Access to 
+Information in Africa), this right can be subject to certain restrictions provided 
+by law and are necessary and proportionate (three-part test) for the protection of 
+public health. 
+• Freedom of expression and access to information and a civic space where a public 
+debate can be held constitute important safeguards for ensuring that States 
+parties resorting to emergency powers in connection with the COVID-19 
+pandemic comply with their obligations under international and regional 
+human rights standards. 
+Additionally, on 14 July 2020, the United Nations Human Rights Council has adopted a res-
+olution that requires States to “refrain from using (…) public health laws to restrict the right 
+to freedom of opinion and expression in ways that are contrary to their obligations under 
+international law, including by ensuring that all measures taken to counter threats related to 
+(…) public health are in full compliance with international human rights obligations (…)”7 .
+Within this general framework, judicial operators need to particularly consider the follow-
+ing additional factors:
+• Some national authorities may use the public health crisis to unduly legitimise 
+the adoption of restrictive measures to the right to freedom of expression 
+and freedom of information that may be too broad in their enunciation to 
+respect the principle of legal certainty, not proven necessary within an open, 
+pluralistic and democratic society to protect public health, or turn out to impose 
+a disproportionate restriction to the mentioned right. These measures may also 
+be accompanied by exceptional restrictions and derogations to other connected 
+fundamental rights, imposed without following the requirements, criteria and 
+procedure established by international and regional law.
+• Despite the existence of international and regional mechanisms of notification and 
+supervision of state of emergency declarations and the corresponding measures, 
+national courts and judges are the first instance in the protection of human 
+rights. National judicial operators are thus to play a fundamental role in 
+reviewing the mentioned decisions.  
+In addition to the previous documents and standards, and still from a general perspective, 
+it is important to note that the Inter-American Commission on Human Rights adopted its COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+58 Available online at: https://www.oas.org/en/iachr/decisions/pdf/Resolution-1-20-en.pdf 
+9 Available online at: http://www.corteidh.or.cr/tablas/alerta/comunicado/Statement_1_20_ENG.pdf 
+10 Available online at: https://rm.coe.int/sg-inf-2020-11-respecting-democracy-rule-of-law-and-human-rights-in-th/16809e1f40  
+11 See Michèle Oliver, “The relevance of ‘soft law’ as a source of international human rights” , Comparative and International Law Journal of Southern 
+Africa, Volume 35, Issue 2, Nov 2002, p. 289 – 307. 
+12 https://www.un.org/africarenewal/news/coronavirus/cross-regional-statement-%E2%80%9Cinfodemic%E2%80%9D-context-covid-19
+13 A/HRC/44/49. Available online at: https://freedex.org/wp-content/blogs.dir/2015/files/2020/04/A_HRC_44_49_AdvanceEditedVersion.pdf See 
+also the common statement of 19 March 2020 issued by the UN Special Rapporteur on Freedom of Opinion and Expression, the OSCE Representa-
+tive on Freedom of the Media and the OAS Special Rapporteur on Freedom of Expression, available online at: 
+https://www.osce.org/representative-on-freedom-of-media/448849
+14 See the Statement of 14 April 2020 released by the International Conference of Information Commissioners. Available online at: 
+https://www.informationcommissioners.org/covid-19Pandemic and the fundamental 
+right to freedom of expression: 
+derogation vs reinforcement
+As mentioned by the HRCttee, the adjudication of exceptional powers, particularly regard-
+ing the scope and exercise of important fundamental rights, increases the need to count on a 
+solid system of checks and balances in order to prevent any abuse or arbitrariness.
+It has also been indicated that judges and courts of all levels must definitely play a central 
+role in guaranteeing accountability of public authorities in these circumstances. Besides the 
+traditional rule of law mechanisms, the right to freedom of expression and freedom of 
+information supports a series of conclusions of fundamental importance. As the United 
+Nations Special Rapporteur on the promotion and protection of the right to freedom of 
+opinion and expression (the Special Rapporteur) has expressed in a report particularly 
+focusing on disease pandemics and the mentioned right13,  “(i)ndividuals and their 
+communities (…) cannot protect themselves against disease when information is denied to 
+them, when they have diminished trust in sources of information, and when propaganda 
+and disinformation dominate the statements of public authorities” . The proper protection 
+of this right will therefore facilitate and preserve keeping the public educated about the 
+pandemic, ensuring that health-care professionals have access to global information 
+about the disease and the steps to address it, guaranteeing that the public have access 
+to information held by public authorities concerning the pandemic and media and 
+journalists are properly able to report about the different aspects and implications of the 
+pandemic14 .Resolution 1/2020 on “Pandemic and Human Rights in the Americas”8, the Inter-American 
+Court on Human Rights published a statement on “COVID-19 and Human Rights”9, and 
+the Secretary General of the Council of Europe released the document “Respecting democ-
+racy, rule of law and human rights in the framework of the COVID-19 sanitary crisis. A 
+toolkit for member states” 10. 
+It needs to be noted that despite the fact that most of the mentioned documents do not con-
+stitute per se sources of binding international law, they may be considered, in many cases, as 
+elements of soft law. Moreover, due to their direct connection with binding international le-
+gal obligations such as human rights protections, they can legitimately be seen and acknowl-
+edged as indicators regarding the way state authorities need to fulfil their obligations in such 
+area. In other words, the mentioned documents create an expectation of - and reliance upon 
+- compliance by states11. It is also important to highlight that this perspective enjoys the 
+support of more than 130 United Nations member countries and official observers who have 
+issued a cross-regional statement that steps to counter COVID-19 should be based, inter 
+alia, on respect of freedom of expression and press freedom 12.COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+6Main challenges 
+for freedom 
+of expression 
+and freedom of 
+information
+Access to information
+As explained in the UNESCO 2019 in-focus report on 
+access to information (ATI)15, this right is founded 
+on the broader right to freedom of expression, The right to freedom of expression 
+entails according to international 
+law standards (and particularly 
+Article 19.3 of the Covenant) 
+duties and responsibilities for 
+those who exercise it, although 
+these should never legitimize 
+an unjustified restriction of this 
+freedom.
+This means that, in order to be 
+legitimate, all restrictions on 
+freedom of expression must 
+comply with a three-part test, 
+whereby those restrictions must 
+follow these principles:
+■ Principle of legality. Any 
+restriction to the freedom of 
+expression must be expressly, 
+straightforwardly, and clearly 
+prescribed by law in its formal 
+and material aspects. 
+■ Principle of legitimacy. 
+Any restriction must serve to 
+attain the imperative objectives 
+expressly enumerated in the 
+ICCPR to ensure the protection 
+of the rights of others, national 
+security, public order, public 
+health, and morals. 
+■ Principle of necessity and 
+proportionality. Any restriction 
+must be strictly necessary in 
+a democratic society for the 
+attainment of its imperative 
+aims. It must also be strictly 
+proportionate to the aim 
+pursued, and reasonably 
+suited to the attainment of 
+its imperative aim. The test 
+of necessity is applied in a 
+stringent way and, requires a 
+demonstrated imperative or 
+absolute need to introduce 
+restrictions.
+15 Available online at: https://unesdoc.unesco.org/ark:/48223/pf0000371485 The 3-Part TestThis means that rather than supporting the imposition 
+of limitations or conditions to the right to freedom of 
+expression and freedom of information, the current 
+context of public health crisis requires that public 
+authorities, including the judiciary, provide special 
+protection to the different angles of the exercise of 
+such right. In other words, freedom of expression 
+and unfettered access to public information are to 
+be considered as powerful instruments to fight the 
+pandemic and improve the health of the population in 
+the current difficult circumstances. 
+This being said, there may be a few areas where 
+due to exceptional material circumstances or the 
+imperative necessity to avoid infections caused by 
+physical contact, specific and exceptional restrictions 
+to the mentioned rights might need to be imposed. In 
+such cases, and as already pointed out, no particular 
+derogation is needed but rather the establishment 
+of such limitations in line with the general regime 
+established in article 19 of the Covenant (and the 
+related articles of the regional instruments), and 
+particularly, respecting the so-called three-part test.     COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+7which encompasses not only the right to impart 
+opinion and information, but also the right to 
+seek and receive such content. ATI as a right 
+is particularly relevant as regards official 
+information held by public authorities16. In 2015, 
+the UN General Assembly adopted 17 Sustainable 
+Development Goals (SDGs)17. Goal 16 calls on 
+all UN Member States to promote peaceful and 
+inclusive societies for sustainable development, 
+provide access to justice for all and build effective, 
+accountable and inclusive institutions at all levels, 
+and Target 16.10 refers to “ensure public access to 
+information and protect fundamental freedoms, 
+in accordance with national legislation and 
+international agreements” . 
+In the already mentioned report on disease pandemics and freedom of opinion and expres-
+sion18, the United Nations Special Rapporteur points at a series of fundamental elements 
+with regards to the need to properly protect the right to access to information in the context 
+of the pandemic: 
+• Procedures and mechanisms to provide access to public information may suffer 
+temporary disruptions. Such disruptions are acceptable inasmuch as they are 
+directly caused by the need to protect staff or avoid physical contact with the citi-
+zens. Longer processing and response timelines are now the norm, but they should 
+not be an excuse for failing to carry out activities for which there are alternative 
+means available (for example, via the use of new technologies) or where there is no 
+limited-capacity justification. 
+• Additionally, information commissioners must not suspend their obligations 
+to provide access to information without clarifying whether they have the legal 
+ground to delimit their responsibilities.
+• Public authorities need to provide media access to officials, documentation 
+and all possible and available information resources. This may include regular 
+press briefings by public health and other officials. Independent journalists and 
+representatives of different types and categories of media need to be granted ac-
+cess to these briefings. The need to avoid physical contact between journalists and 
+public officials cannot justify the establishment of measures that may restrict the 
+capacity of journalists and media actors to participate at these events and to ask 
+questions.  
+• The goal in a public health crisis must be for government to provide accurate 
+information, or information that is as accurate as possible and, in that case, 
+framed appropriately as uncertain or evolving, and clear and honest guidance. 
+Failure to comply with this principle may represent a violation of citizens’ right to 
+ATI. Further efforts are also to be made to ensure easy, prompt, effective and practi-
+cal access to government information of public entities. 
+• From a general point of view, any restrictions imposed to the right to access to 
+information need to respect the already mentioned three-part test (see the box 
+included in page 6).   
+16 See the Joint Declaration by the UN Special Rapporteur on Freedom of Opinion and Expression, the OSCE Representative on Freedom 
+of the Media and the OAS Special Rapporteur on Freedom of Expression on access to information and secrecy legislation of 6 December 
+2004 (available online at https://www.article19.org/resources/joint-declaration-access-information-secrecy-legislation/) and the report 
+by the UN Special Rapporteur on Freedom of Opinion and Expression A/68/362 on the right to access to information (available online at 
+https://undocs.org/A/68/362.)   
+17 https://sustainabledevelopment.un.org/ 
+18 A/HRC/44/49, paras 18 to 23.COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+8Access to the internet
+Access to the internet has become a basic 
+pre-condition for the effective and full exercise 
+of the rights to freedom of expression and free-
+dom of information. 
+In 2011, the Special Rapporteur, the Special 
+Rapporteur for Freedom of Expression of the 
+Inter-American Commission on Human Rights 
+of the Organization of American States (OAS), 
+the Organization for Security and Cooperation in 
+Europe Representative (OSCE) on Freedom of the 
+Media, and the African Commission on Human 
+and Peoples’ Rights (ACHPR) Special Rappor -
+teur on Freedom of Expression, issued a joint declaration establishing guidelines to protect 
+freedom of expression on the Internet, which advocates for promoting universal access to 
+the internet and establishes that “cutting off access to the Internet, or parts of the Internet, 
+for whole populations or segments of the public (…) can never be justified, including on 
+public order or national security grounds” . Likewise, in a report issued in 2017, the Special 
+Rapporteur underscores that network shutdowns invariably fail to meet the standard of 
+necessity19. This is also applicable to disruptions in the access to specific online services 
+or platforms. In the landmark case of Ahmed Yildirim v Turkey , the European Court of Hu-
+man Rights20 established that blocking a whole domain name for the purpose of dealing 
+with a specific piece of allegedly illegal content always requires “ascertaining whether a 
+less far-reaching measure could have been taken” . More recently, on 25 June 2020, the Eco-
+nomic Community of West African States (ECOW AS) Court of Justice has ruled that Togo’s 
+government decision to shut down the Internet in 2017 during a wave of protests did not 
+meet their obligations to implement all the necessary safeguards with regards to the right to 
+freedom of expression of the Togolese people21.  
+Focusing on the pandemic situation, the Special Rapporteur has underscored the following22 :
+• In a moment of global pandemic, access to the Internet is a critical element of 
+health-care policy and practice, public information and even the right to life.
+• Internet shutdowns during a pandemic affect citizens in general who seek reliable 
+information about Government measures, health recommendations or health 
+services, but also affect in particular health care workers who need to access 
+appropriate information regarding the pandemic. Restrictions to Internet access at 
+the time of a health emergency affect everyone from the most local to the global 
+level. 
+• The importance of digital access to health-care information highlights the profound 
+need for expanding infrastructure to allow access in the first place. 
+In addition to this, the resolution of the United Nations Human Rights Council of 14 July 
+2020 establishes that States must refrain from “imposing restrictions that are inconsistent 
+with article 19 of the International Covenant on Civil and Political Rights, including on the 
+19 A/HRC/35/22, para. 14. Available online at: https://undocs.org/A/HRC/35/22
+20 Judgement of 18 December 2012. Available online at: http://hudoc.echr.coe.int/fre?i=001-115705 
+21 See the press release of the decision published by Access Now: https://www.accessnow.org/internet-shutdowns-in-togo-illegal/  Access 
+Now has also reported that on 3 June 2020 a panel of judges of the Jakarta State Administrative Court ruled that the deliberate 2019 inter -
+net shutdowns in Papua and West Papua were illegal. See the press release here: 
+https://www.accessnow.org/court-rules-the-internet-shutdowns-in-papua-and-west-papua-are-illegal/ 
+22  A/HRC/44/49, paras 24 to 29.COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+9free flow of information and ideas, including through practices such as the use of Internet 
+shutdowns to intentionally and arbitrarily prevent or disrupt access to or the dissemination 
+of information online” .
+Safety of media and journalists
+Protecting media and journalists from attacks or 
+intimidations of all nature, preventing such threats, 
+and the issue of impunity constitute fundamental el-
+ements at the core of the effective and full enjoyment 
+of the right to freedom of expression and freedom 
+of information. Safety of journalists (including 
+physical, psychological and legal angles) has been 
+placed at the top of the priorities in the human 
+rights agenda of most relevant international and 
+regional organizations including the United Na-
+tions23 , UNESCO24 , the Council of Europe25 , the 
+OAS26 , and the ACHPR27 .  
+In the particular context of the pandemic, there are several areas where journalists’ safety 
+can be particularly compromised, and therefore particular protection must be provided:
+• Journalists may be forced to use official sources of information solely or other -
+wise face serious legal repercussions. This will be further tackled in the paragraphs 
+below.
+• Journalists may be arrested and/or questioned by law enforcement on the broad 
+basis of the existence of an emergency and exceptional situation.
+• Journalists may face limitations to report on the situation and possible disrup-
+tions in the operation of hospitals, health care facilities, public transportation 
+or other public spaces on the basis of extensive interpretation of the need to avoid 
+any contact or infection.
+• Journalists reporting on the pandemic may be attacked, intimidated or deni-
+grated by public officials in order to avoid the dissemination of non-official narra -
+tives and information.
+• By doing their job during the pandemic crisis journalists may be putting their 
+own health at risk. Therefore, journalists’ work should be considered as the provi -
+sion of an essential service and protected and enabled accordingly, including by 
+granting access to protective masks and other relevant gear.
+• Special attention needs to be paid to the protection of the work of international 
+press representatives and the situation of imprisoned journalists.
+23 Human Rights Council Resolution 33/2 of 29 September 2016, on the safety on journalists, available online at: 
+https://undocs.org/A/HRC/RES/33/2. Plan of Action on the Safety of Journalists and the Issue of Impunity, available online at: 
+https://en.unesco.org/un-plan-action-safety-journalists 
+24 UNESCO Journalists’ Safety Indicators. Available online at: https://en.unesco.org/themes/safety-of-journalists/journalists-safety-indicators 
+25 Recommendation CM/Rec(2016)4[1] of the Committee of Ministers to member States on the protection of journalism and safety of jour -
+nalists and other media actors. Available online at: https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016806415d9#_ftn1 
+26  Resolution of the General Assembly of the OAS (2017) on the right to freedom of thought and expression and safety of journalists and 
+media workers. Available online at: http://www.oas.org/en/iachr/expression/showarticle.asp?artID=1068&lID=1 
+27 185 Resolution on the Safety of Journalists and Media Practitioners in Africa, adopted by the African Commission at its 49th Ordinary 
+Session, held in Banjul, The Gambia, from 28 April – 12 May 2011. Available online at: https://www.achpr.org/sessions/resolutions?id=181COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+10The disinfodemic
+The World Health Organization (WHO) has 
+emphasised that “the right message at the right 
+time from the right messenger through the 
+right medium can save lives” , and thus “misin-
+formation or mixed messages can cost lives”28. In 
+particular, the WHO is using the term infodemic  
+to refer to the issue of a massive proliferation of 
+messages that make it difficult to distinguish 
+information from inaccurate content (disinfor -
+mation and misinformation) within the context of 
+the COVID-19 health crisis. 
+The problem of false content (misleadingly and 
+overly-narrowly also referred to as fake news) goes beyond and existed prior to the pandem-
+ic situation, yet it was this context where it has become even more relevant than before.  
+According to international freedom of expression standards, the following main criteria and 
+principles need to be considered when dealing with such content:
+• General prohibitions on the dissemination of information based on vague and 
+ambiguous ideas, including “false news” or “non-objective information” , are 
+incompatible with international standards for restrictions on freedom of expres-
+sion. 
+• State actors should not make, sponsor, encourage or further disseminate state -
+ments which they know or reasonably should know to be false (disinformation) 
+or which demonstrate a reckless disregard for verifiable information (propagan-
+da). 
+• State actors should, in accordance with their domestic and international legal obli-
+gations, and their public duties, take care to ensure that they disseminate reliable 
+and trustworthy information, including matters of public interest, such as the 
+economy, public health, security and the environment. 
+• In order to avoid and discourage disinformation and counter its negative effects, 
+public authorities must promote a free, independent and diverse communica-
+tions environment, including media diversity, ensure the presence of strong, 
+independent and adequately resourced public service media, and take measures 
+to promote media and digital literacy 29. 
+UNESCO has warned that falsehoods have spread as fast as the virus itself30. These false-
+hoods can be categorised both as disinformation (produced and shared with malicious 
+motivation), and misinformation (when lies are spread without bad intentions). 
+The volume and velocity of false information within the infodemic  points to the existence of 
+a toxic disinfodemic  of disinformation and misinformation, as is described in two recent 
+UNESCO policy papers on this subject31. These papers contain recommendations address-
+ing several stakeholders, including judicial operators. Regarding the latter, it is stressed that:
+28 https://www.who.int/teams/risk-communication/infodemic-management 
+29 See the Joint Declaration on freedom of expression, “fake news” , disinformation and propaganda adopted on 3 March 2017 by the Special 
+Rapporteur, the OSCE Representative on Freedom of the Media, the OAS Special Rapporteur on Freedom of Expression and the ACHPR Special 
+Rapporteur on Freedom of Expression and Access to Information. Available online at: https://www.osce.org/files/f/documents/6/8/302796.pdf 
+30 Issue brief on “Journalism, press freedom and COVID-19” . 
+Available online at: https://en.unesco.org/sites/default/files/unesco_covid_brief_en.pdf
+31 Available online at: https://en.unesco.org/covid19/disinfodemic 
+COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+11“Judicial operators, particularly judges, could pay special attention 
+when reviewing cases related to addressing measures to fight disinfor -
+mation, guaranteeing that international standards on freedom of ex-
+pression and privacy are fully respected within those measures”. 
+The Special Rapporteur has also enunciated32, in line with generally applicable international 
+standards, the following guidelines regarding pandemic disinformation:
+• State actors must refrain from disseminating or endorsing unverified and often 
+reckless claims about the origins of the COVID-19 virus, the responsibility for the 
+pandemic, the presence or extent of COVID-19 in their country and the availability 
+of drugs to counter the symptoms, and other harmful assertions.
+• Consumer protection laws can be vital tools in the effort to protect public health by 
+restricting and punishing practices of promising cures which actually constitute 
+a fraud.  These laws must respect the three-part test when imposing restrictions on 
+speech.
+• Any government efforts to counter disinformation should be based on the full, 
+honest and evolving communication with the public, the promotion and protec-
+tion of an independent press, and the careful and public correction of misinfor -
+mation that could lead to public health harm. 
+• States should take steps to ensure an enabling environment for independent 
+media and educational settings that promote media literacy and otherwise give 
+individuals critical-thinking tools to distinguish between verifiable and unverifiable 
+claims. 
+• Measures to combat disinformation must never prevent journalists and media 
+actors from carrying out their work or lead to content being unduly blocked 
+on the Internet33. In this sense, any imposition on media and journalists to 
+exclusively rely on official sources in their reporting activities will represent an 
+excessive and unjustified interference in their right to freely seek and disseminate 
+information.
+In this context it is of particular importance to point at the role of social media, especially 
+large and global companies in the dissemination of all forms of speech, including potentially 
+harmful speech (yet not illegal in all the cases).
+The United Nations Human Rights Council declared in its decision of 4 July 201834 that “the 
+same rights that people have offline must also be protected online, in particular freedom of 
+expression,  which is applicable regardless of frontiers and through any media of one’s choice, 
+in accordance with articles 19 of the UDHR and ICCPR. ” The already mentioned internation-
+al mandate-holders on freedom of expression, in their Joint Declaration of 1 June 2011 on 
+freedom of expression and the Internet35, stated that “(w)hen assessing the proportionality 
+of a restriction on freedom of expression on the Internet, the impact of that restriction on 
+the ability of the Internet to deliver positive freedom of expression outcomes must be 
+weighed against its benefits in terms of protecting other interests” . 
+32 A/HRC/44/49, paras 41 to 53.
+33 See the communique by the Council of Europe Commissioner for Human Rights “Press freedom must not be undermined by measures to 
+counter disinformation about COVID-19, available online at:  
+https://www.coe.int/en/web/commissioner/-/press-freedom-must-not-be-undermined-by-measures-to-counter-disinformation-about-covid-19
+34 A/HRC/38/L.10/Rev.1. Available online at: https://undocs.org/en/A/HRC/38/L.10/Rev.1
+35 Available online at: http://www.osce.org/fom/78309 COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+12Also, according to general international standards, online media platforms (including 
+social media) must be regulated with a focus on ensuring company transparency and 
+remediation to enable the public to make choices about how and whether to engage in 
+online forums. Authorities must only seek to restrict content pursuant to an order by an 
+independent and impartial judicial authority, and in accordance with due process and 
+standards of legality, necessity and legitimacy. States should also refrain from establishing 
+laws or arrangements that would require the proactive monitoring or filtering of 
+content,  which is both inconsistent with the right to privacy and likely to amount to pre-
+publication censorship36. 
+There are no complete statistics with regards to the real extension of the disinfodemic , 
+although there is some data that shows a very worrying initial picture. On the other hand, 
+despite the commitment expressed by big tech companies to properly tackle disinformation 
+about the pandemic37, lack of full transparency makes it difficult to assess to what extent and 
+how this phenomenon is dealt with38. 
+The Special Rapporteur has stressed the challenges being faced by search engines and social 
+media during the period of the pandemic. It needs to be noted that precisely due to the 
+constraints derived from the health crisis, social media companies have generally reduced 
+their content moderation taskforce and relied in a much higher degree on automated 
+tools. This creates clear concerns of over-removal of content and increases the possibility 
+of committing mistakes by eliminating legitimate content. In particular, the Special 
+Rapporteur delivers the following indications to online platforms:
+• They must conduct ongoing due diligence to determine the impact their content 
+policies are having on the rights to health and to life. 
+• They should aim towards maximum transparency of their policies and engage, 
+on an urgent basis, not only with public health authorities but with affected 
+communities wherever they operate. 
+• They should especially review their policies and practices to ensure that content 
+moderators are available as soon as possible to review COVID-19 information, as 
+reliance solely on automation may have a deleterious impact on health and human 
+rights. 
+Last but not least, the eruption of the pandemic has also brought a rise of hate speech 
+against certain groups. Despite the fact that hate speech can be disseminated on the basis 
+of false information, it must be clearly differentiated from disinformation, in that as much 
+as they are often combined, the two phenomena can exist independently of each other (for 
+instance, false cures for COVID-19 are not a case of hate speech). National authorities 
+have the international law obligation to prohibit hate speech, defined as the “advocacy 
+of national, racial or religious hatred that constitutes incitement to discrimination, hostility 
+or violence” (article 20.2 ICCPR). On the other hand, international legal standards 
+would tolerate falsehoods unless these were deployed to violate rights such as reputation 
+(defamation by false claims), property (expressions designed to defraud persons as in cases 
+of peddling false cures), public safety and public health.
+As the NGO Access Now has denounced, since the pandemic broke out, a surge in “hate 
+36 See the report of the Special Rapporteur of 6 April 2018 on the regulation of user-generated online content. A/HRC/38/35, available online at: 
+https://undocs.org/en/A/HRC/38/35
+37 “Major tech platforms say they’re ‘jointly combating fraud and misinformation’ about COVID-19” , The Verge 16 Mars 2020. Available 
+online at: https://www.theverge.com/2020/3/16/21182726/coronavirus-covid-19-facebook-google-twitter-youtube-joint-effort-misinforma-
+tion-fraud 
+38 See the data provided by the mentioned UNESCO brief on “Journalism, press freedom and COVID-19”” , pages 4-7.COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION
+13speech and stigmatization targeting people of particular ethnic backgrounds and those 
+presumed to be infected or in contact with people who are ill with the virus” can be noticed, 
+both online and offline39. Being true that article 20.2 ICCPR contains a broad and also 
+probably vague definition of hate speech, it is the responsibility of the national legislator, 
+as well as national judicial operators, to make a proper assessment of each piece of 
+content on the basis of principles, rules and conditions established in international law. 
+In particular, it is important to note the threshold test on hate speech extracted from the 
+Rabat Plan of Action40, which permits to assess if a particular statement reaches the level of 
+incitement to discrimination, hostility or violence.  The Rabat framework test lays out six 
+parameters to check if a statement may amount to a criminal offence. On a case-by-case 
+basis, the test looks into the context, speaker, intent, content, extent of the speech, and 
+likelihood of harm41.
+39 “Fighting disinformation and defending free expression during COVID-19: Recommendations for States” . Available online at: 
+https://www.accessnow.org/cms/assets/uploads/2020/04/Fighting-misinformation-and-defending-free-expression-during-COVID-19-recommendations-for-states-1.pdf
+40 https://undocs.org/A/HRC/22/17/Add.4 
+41 https://www.ohchr.org/EN/NewsEvents/Pages/Hate-speech-threshold-test.aspx 
+42 See the report of the Special Rapporteur of 17 April 2013 on the implications of States’ surveillance of communications for the exercise 
+of the human rights to privacy and to freedom of opinion and expression. A/HRC/23/40, available online at: 
+https://www.ohchr.org/Documents/HRBodies/HRCouncil/RegularSession/Session23/A.HRC.23.40_EN.pdf 
+43 A/HRC/44/49, paras 54 to 57.Privacy issues
+The legitimate need to be able to track infections 
+and properly identify potential disseminators of 
+the virus has led to the implementation, in several 
+countries, of tools that allow for the collection of 
+individual health data.
+The development of data surveillance tools may 
+have an impact not only on the fundamental 
+right to privacy, but also on the exercise of the 
+right to freedom of expression and freedom of 
+information, as some international documents 
+have declared in the course of the last years42.
+In this particular area, and considering the circumstances related to the global health crisis, 
+the Special Rapporteur has outlined43 the following:
+• Health data collection must be accompanied by strict personal data protection 
+guarantees and be time limited while also promoting the public’s right to know 
+the outcomes of such collection.
+• Any authorization of surveillance should be contained in precise and publicly 
+accessible laws and only be applied when necessary and proportionate.
+• Authorization of surveillance of specified individuals should be based on inde-
+pendent evaluation,  preferably by a judicial authority.
+• Rigorous record-keeping should be required so that individuals and oversight 
+bodies can ascertain that surveillance was conducted for legitimate public health 
+purposes.
+• Any personal data collected should be subject to strict privacy protections to en-
+sure against disclosure of personal information to anyone not authorized for public 
+health purposes.
+•  Some personal data should be expressly excluded from collection to ensure 
+against any government or third-party misuse of such data.COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION14Challenges for the justice systems
+The United Nations Special Rapporteur on the 
+Independence of Justice and Lawyers has pub-
+lished a statement on the challenges for justice 
+systems derived from the COVID-19 emergen-
+cy44. He points at the fact that the critical situa-
+tion “demands specific urgent actions to prevent 
+blockages of the justice systems and to guarantee 
+now a functioning and independent justice”  and 
+calls the attention to a series of crucial aspects. On 
+the basis of such document, and considering the 
+important role that judicial operators must play 
+regarding the effective protection of the most 
+fundamental rights and preventing the abuse of 
+power,  the following principles or criteria must be outlined:
+• Countries may decide to streamline the services being provided by the justice sys-
+tems considering the circumstances. In such cases, guaranteeing the protection of 
+human rights (including freedom of expression) is to be considered and urgent-
+ly declared as a priority.
+• Judicial operators are indispensable actors to ensure that authorities do not abuse 
+their emergency powers and fundamental rights are properly respected. 
+• Judicial systems need to incorporate the necessary tools which will allow for the 
+continuation of the provision of this fundamental public service under the cir -
+cumstances of the pandemic.
+• The use of new technologies to facilitate access to justice during times of health 
+crisis needs to take place avoiding social exclusion and excessive or unnecessary 
+rigidity, while keeping respect for procedural safeguards. 
+• Competent authorities need to provide, as a matter of priority, sufficient financial 
+resources  in order for the previously mentioned tools and measures to be properly 
+implemented.
+• Competent authorities need to consider supporting these reforms beyond the 
+period of the pandemic. 
+44 Available  online at : https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=25810&LangID=E COVID-19: THE ROLE OF JUDICIAL OPERATORS IN THE PROTECTION AND PROMOTION 
+OF THE RIGHT TO FREEDOM OF EXPRESSION15 15• National courts and judges are the first instance in the protection of human rights and 
+play a fundamental role in reviewing the decisions regarding the declaration of state of 
+emergency and/or exceptional measures affecting fundamental rights.
+• The current context of public health crisis requires that public authorities, including 
+the judiciary, provide special protection to the different angles of the exercise of the 
+right to freedom of expression and freedom of information. Freedom of expression and 
+unfettered access to public information are to be considered as powerful instruments 
+to fight the pandemic and protect the health of the population. 
+• During a public health crisis, state authorities - including the judiciary - must 
+guarantee that the information they provide to the public is accurate, or accurate as 
+possible framing them appropriately as uncertain or evolving.  These authorities should 
+also provide clear and honest guidance. Failure to comply with this principle may 
+represent a violation of citizens’ right to access to information.
+• In a moment of global pandemic, access to the Internet is a critical element of health-
+care policy and practice, public information and even the right to life.
+• Journalists shall be properly protected from arrests and/or questioning by law 
+enforcement, limitations to report on the situation and possible disruptions in the 
+operation of hospitals, health care facilities, public transportation or other public 
+spaces. They must also be protected from attacks and intimidation by public officials 
+in order to avoid the dissemination of non-official narratives and information, on the 
+broad basis of the existence of a health emergency and exceptional situation.
+• Journalists’ work should be considered as the provision of an essential service and 
+protected and enabled accordingly, including by granting access to protective masks 
+and other relevant gear.
+• Judicial operators, particularly judges, could pay special attention when reviewing 
+cases related to addressing measures to fight disinformation, guaranteeing that 
+international standards on freedom of expression and privacy are fully respected 
+within those measures.
+• When considering possible hate speech cases, it is the responsibility of national 
+judicial operators, to make a proper assessment of each piece of content on the basis of 
+principles, rules and conditions established in international law.  
+• Health data collection must be accompanied by strict personal data protection 
+guarantees and be time limited while also promoting the public’s right to know the 
+outcomes of such collection.
+• Justice systems need to incorporate the necessary tools which will allow for 
+the continuation of the provision of this fundamental public service under the 
+circumstances of the pandemic.Conclusions/recommendations16About these guidelines
+The publication of the guidelines was made possible thanks to the support of the Open Society Foundations.
+About the author
+Joan Barata works on freedom of expression, media regulation and access to information. He has published a large 
+number of articles and books on these subjects. He is regularly involved in projects with international organizations 
+such as UNESCO, the Council of Europe, the OAS or the OSCE, where was the principal advisor to the Representative 
+on Media Freedom.
+Published in 2020 by the United Nations Educational, Scientific and Cultural Organization,
+7, place de Fontenoy, 75352 Paris 07 SP, France ©UNESCO. This document is available in 
+Open Access under the Attribution ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) License. By 
+using the content of this publication, the users accept to be bound by the terms of use of 
+the UNESCO Open Access Repository. The designations employed and the presentation of 
+material throughout this publication do not imply the expression of any opinion whatsoever 
+on the part of UNESCO concerning the legal status of any country, territory, city or area or 
+of its authorities, or concerning the delimation of its frontiers or boundaries. The ideas and 
+opinions expressed in this publication are those of the authors; they are not necessarily those
+of UNESCO and do not commit the Organization. 

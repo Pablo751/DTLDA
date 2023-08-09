@@ -1,0 +1,331 @@
+ASSESSING 
+INTERNET 
+DEVELOPMENT IN 
+Using UNESCO’s Internet 
+Universality ROAM-X IndicatorsGERMANY
+Leibniz Institute for Media Research | Hans-Bredow-Institut
+Note: This is an assessment of 109 core indicators and 21 contextual indicators instead of the full set 
+of 303 indicators, and it is therefore not intended to cover all dimensions of the digital ecosystem in the country, 
+but serves to take stock of significant progress and signal those gaps in a need to be improved in adhering to 
+ROAM framework. As the Internet environment is changing very fast, so are the data collected and analysis and 
+recommendations made upon. UNESCO encourages countries to continue the dialogues about the findings, and to 
+update the assessment after due time while also keeping track of the latest developments to monitor and adapt and 
+sometimes strengthen the recommendations to further enhance their impact, as appropriate.Executive Summary
+An analysis based on the UNESCO Internet Universality Indicators 
+(ROAM-X)
+UNESCO’s position on Internet issues has been guided, since 2015, by the concept of Internet 
+Universality. At its core is an Internet where human rights are respected, protected and guaranteed 
+through the creation of national Internet policies that promote the development of knowledge 
+societies and are based on sustainable digitalisation and digitalised sustainability.
+UNESCO has defined the principles that underpin its Internet Universality concept and these 
+are known as the ROAM-X principles. These advocate for an Internet that is based on Human 
+Rights, that is Open and Accessible to all and is designed and developed with Multi-stakeholder 
+participation.
+An assessment of the state of the Internet on the basis of the ROAM-X principles is essential if 
+progress is to be made in the development of a national digital policy. This basis provides a 
+holistic tool for the assessment of the Internet development level and thus allows evidence-based 
+policy improvements to be made. These can, in turn, foster Internet Universality as a positive 
+factor for sustainable development.
+Project team
+Professor Dr. Wolfgang Schulz is Director of the Leibniz Institute for Media Research | 
+Hans-Bredow-Institut (HBI), Director of the Humboldt Institute for Internet and Society (HIIG) and 
+Professor of Public Law and Media Law at the University of Hamburg. Professor Dr. Matthias 
+C. Kettemann, is Research Programme Head at the HBI and Professor of Innovation, Theory 
+and Philosophy of Law at the University of Innsbruck, and Research Group Head at the HIIG. 
+Dipl.-Soz. Hermann-Dieter Schröder is Senior Researcher at the HBI. Ass. Jur. Anna 
+Sophia Tiedeke and Martin Fertmann are Junior Researchers at the HBI. Katharina 
+Mosene, MA is an expert in research cooperation and strategy at the HBI and the HIIG. 
+Corinna Endreß is an intern at the HBI and Julius Böke, Linda Schleif and Anna 
+Zapfe are student assistants at the HBI.
+3
+Assessing Internet Development in Germany • Using UNESCO’s Internet Universality ROAM-X IndicatorsLeibniz Institute for Media Research | Hans-Bredow-Institut
+The Leibniz Institute for Media Research | Hans-Bredow-Institut (HBI) researches media change and 
+the related structural shifts in public communication. It combines basic research and research on 
+knowledge transfer from cross-media, interdisciplinary and independent scholarly perspectives. 
+Thus, the Institute is a valued provider of problem-specific knowledge for policy, economy and 
+civil society.
+This problem-oriented research includes a special interest in the respective ‘new’ media where 
+the Institute is eager to make a contribution to their understanding and design. The Institute 
+combines conducting long-term investigations based on research fundamentals with practice-
+oriented expertise in the service of policy, economy and civil society. The HBI’s work is always 
+committed to the standards of excellence in research and the principle of the independence of 
+research.
+In its research, the Institute combines a variety of research disciplines. The focus is on the 
+perspective of an empirically underpinned social science and a legal analysis oriented 
+towards regulatory processes. The combination of these two perspectives is one of the special 
+characteristics that distinguish the Institute from other research organizations in Germany and 
+abroad.
+International comparative research is of increasing importance for the Institute. The Institute is 
+increasingly establishing itself as a hub in an international network of research organizations 
+with its cooperation projects at European and global levels, the exchange of researchers as 
+well as international conferences and specialist events.
+Executive Summary
+This report presents the findings of the application to Germany of the Internet Universality 
+Indicators, developed by UNESCO with a view to promoting inclusive knowledge societies1; 
+the research and analysis for this report was carried out in December 2020 by a team at the 
+Leibniz Institute for Media Research | Hans-Bredow-Institut. The report contains the findings for 
+all the core indicators proposed by UNESCO as well as for the contextual indicators.
+The evaluation followed a multi-stakeholder approach and was based on the UNESCO evaluation 
+guidelines. The process was reported on at various stages at national and international Internet 
+governance events. A multistakeholder advisory board made up of German Internet policy 
+experts provided support in developing the recommendations, which were also discussed in a 
+validation workshop in November 2020.
+1 UNESCO (2019a).
+4
+Assessing Internet Development in Germany • Using UNESCO’s Internet Universality ROAM-X IndicatorsExecutive Summary
+The Internet in Germany: a public good, a fundamental right  
+and the backbone of digitalisation
+In the country where Gutenberg’s letterpress printing technique launched a media revolution, 
+the overall state of the Internet is good. The review of all the key digitalisation categories – 
+rights, openness, access, multi-stakeholder participation and social framework – on the basis 
+of the ROAM-X indicators developed by UNESCO showed a future-oriented evolution. Under 
+the conditions of digitalisation, in 2020, this means that security sensitive Internet access and 
+competence-based confident Internet use are essential and will become increasingly important.
+The focus of this research investigation was admittedly ‘the Internet’ in Germany. However, in 
+the research report, the term has been understood very broadly, in the sense of the ROAM-X 
+principles. There was not merely an examination of the Internet in the narrower sense, such as its 
+stability and Internet access, but also of the change processes - economic, social, cultural, legal 
+and political - that were initiated as a result of the permeation of information and communication 
+technologies into all areas of society, thus, ‘digitalisation’. ‘Digitalisation’ is indeed more than 
+the ‘Internet’, however, Internet-mediated communication is a key feature of digitalisation.
+Despite sensible steps such as creating a digital budget and the publication of the digital 
+dashboard for the implementation of the digitalisation strategy, nevertheless, potential for 
+improvement was still be identified, above all, by improving the coherence of policy development, 
+by coordinating digital support measures and by ensuring the use of the Internet by all people 
+in accordance with fundamental rights.
+Some 91% of people in Germany already use the Internet and 16.5 million .de domains have 
+been registered. German policy makers have committed themselves, at the highest level, to the 
+right to Internet access for everyone. Internet access in Germany has been realised, with a few 
+exceptions, on a nationwide basis and is stable and affordable. It should be emphasised that 
+in 2020 there was no network overload at any time during the COVID-19 pandemic, despite 
+the increased telephone use, video conferencing and streaming. Yet, in Germany, too, gender, 
+immigrant backgrounds, non-traditional educational trajectories and employment histories as 
+well as age are powerful factors that jeopardise the full realisation of all human rights on the 
+Internet and through the Internet. We have too few reliable data about those who do not use 
+the Internet, about the use of the Internet by people with immigrant backgrounds and about 
+those who have (often multiple) experiences of discrimination and exclusion in Germany - 
+mediated by the Internet and amplified by the platform logic -, those confronted with ‘digital 
+violence’ or even with people radicalised on the Internet in offline contexts. A development that 
+is jeopardising both individual rights and social cohesion is the prevalence of hate speech and 
+digital violence on the Internet. This particularly affects women as well as people and groups 
+who have experienced marginalisation.
+5
+Assessing Internet Development in Germany • Using UNESCO’s Internet Universality ROAM-X IndicatorsExecutive Summary
+The full and equal participation of everyone has to be ensured in all areas of activity of 
+government with a digital aspect by using the right tools and measures. This includes being alert 
+to problems with respect to data collection, better promotion of gender sensitive cultural change 
+in the technology industry as well as the structural and substantive expansion of the protection of 
+the fundamental rights of vulnerable groups – especially those who are exposed in multiple ways.
+Important legislative amendments in the digital arena relating to the ROAM-X principles result from 
+the need to implement EU law, which is why its effect, especially in the area of media regulations 
+and the governance of intermediaries, is essential. Existing regulations at the European level are 
+also characterised by conceptual dependencies, overlaps and certain contradictions, especially 
+since the ‘Internet’ regulatory area is affected by various European legal acts.
+In the discussion about formulating German digital foreign policy, safeguarding international 
+communication flows and understanding, regardless of borders, so that they are protected, in 
+particular in a way as set the UN civil pact, plays an important role. Germany is making a 
+constructive contribution to the reform processes related to the architectures for digital cooperation 
+and is providing substantial support for global multi-stakeholder-based Internet governance. 
+Germany supports the reform processes related to the architectures for digital cooperation and 
+is one of the largest national supporters of a global, multi-stakeholder-based digital policy and 
+Internet governance.
+The comprehensive guaranteeing of cybersecurity internally and contributing to enhancing 
+cybersecurity through responsible state behaviour externally are key state functions that have to 
+be taken seriously by all authorities, especially the judiciary and administration. Particularly in 
+view of the growing differentiation in responsibility for cybersecurity, close interlinking of EU, 
+federal and federal state authorities is just as important as clarifying the lines of responsibility 
+within the national cybersecurity architecture.
+A properly understood digitalisation policy can make an important contribution to securing 
+people’s livelihoods and, with the appropriate democratic control, safeguarding individual 
+spheres of freedom as well as strengthening the cohesion of societies. Beyond the 2030 target 
+year of the UN sustainability goals, digitalisation should be put at the disposal of sustainability 
+across all policy areas.
+R - Rights
+Digitally relevant fundamental and human rights are protected by German authorities and courts 
+on the basis of the Basic Law and European and international human rights. The German Network 
+Enforcement Act (NetzDG) - the first piece of legislation worldwide enacted to regulate the 
+content governance practices of platforms - was perceived internationally as a significant legal 
+initiative to bind platform content to national law. However, it also raised serious European and 
+constitutional concerns and was imitated in countries where the rule of law is considered to be 
+6
+Assessing Internet Development in Germany • Using UNESCO’s Internet Universality ROAM-X IndicatorsExecutive Summary
+significantly less robust. In any case, a mandatory human rights impact assessment (including the 
+consequences of a possible role model function for other states) as part of the digital legislative 
+process seems desirable.
+O - Openness
+Germany has earned a place among the top ten countries in the Network Readiness Index. 
+This index measures the innovative use of information and communication technology (ICT) by 
+countries, although the favourable ranking was also achieved through Germany’s economic 
+strength. Every fifth newly founded company has strong digital relevance. However, there is a 
+lack of meaningful figures on digital accessibility. The teaching of digital skills is now a part of 
+education programmes. The federal structure can open up space for experimental work here. 
+With its E-government Act, Germany has taken another step towards transparent government 
+activity and open data.
+A - Access
+According to various sources, between 91% and 94% of households in Germany use the Internet. 
+In the group of young adults (16–24 years), almost 100% now use the Internet. In an international 
+comparison, the costs of Internet access are still high in terms of household income, but have 
+recently fallen. Broadband expansion in Germany is clearly lagging behind when compared 
+internationally. Although the speed of Internet connections in Germany has doubled overall in 
+the past three years, there are still regional differences in relation to rural regions, the eastern 
+federal states and small towns.
+There are large differences regarding Internet use with regard to employment - some 96% of 
+Germans who have jobs use the Internet compared to only 68% of the unemployed. Education is 
+also important – 96% of Germans with a higher level of education are online, in contrast to this 
+only around 60% of Germans with a low level of education are online. The Federal Government 
+has committed itself to ensuring that everyone can connect to the Internet anytime and that their 
+fundamental right to privacy protection is respected. The basis for this was provided by the 
+coalition agreement of 2018, including the plan to create a legal right to nationwide access to 
+high-speed Internet by 2025. More data needs to be collected on the issues of which particular 
+challenges arise when people with an immigration background use the Internet, and how the 
+advantages of using the Internet independently and on the basis of skills could be conveyed to 
+people who are not yet online.
+M - Multistakeholder
+Germany is effectively helping to shape the guidelines of future Internet governance internationally 
+and is constantly and strategically advocating Internet governance based on the multi-stakeholder 
+7
+Assessing Internet Development in Germany • Using UNESCO’s Internet Universality ROAM-X IndicatorsExecutive Summary
+approach. The Federal Government is committed to actively involving interest groups in the 
+development of national Internet guidelines and Internet-related legislative projects; however, 
+the interaction is not systematic; moreover, short deadlines for comments are counterproductive. 
+Comprehensive consultation procedures and the digital summit are welcome, as are ad hoc 
+participation models conducted by citizens. Most recently, the Federal Government organised the 
+successful Internet Governance Forum 2019, in Berlin, and successfully endeavoured to integrate 
+operators such as medium-sized enterprises that are not as strongly represented in digital policies. 
+X - Cross-cutting Issues
+Making the effects of digitalisation and the use of algorithmic systems non-discriminatory and, 
+thus, helping to reduce gender inequalities is a key goal of the Federal Government. Greater 
+efforts are needed to identify potentials for more intersectional consideration of discrimination 
+factors and, particularly, the access, use and rights of people with physical and cognitive 
+disabilities. Measures must also be taken here, including at the European regulatory level, to 
+ensure transparency and accountability. Women are underrepresented in ICT and Internet-related 
+leadership positions. Increasing the collection of disaggregated data would be beneficial for 
+dealing with not just gender-specific hate speech but also the set of issues related to digital 
+violence in a way that is sensitive to fundamental rights. Collecting such data would also facilitate 
+a better digitalisation policy approach to the specific challenges of integrating people with an 
+immigration background and people who do not use the Internet. Greater participation of groups 
+and genders historically less strongly represented in the technical community in the development 
+of IC technologies and products is also crucial for the further development of ICT in Germany 
+that is sensitive to fundamental rights and non-discriminatory.
+The most important recommendations for a sustainable digitalisation 
+policy and a policy of sustainable digitalisation
+The ‘Internet’ policy field is firmly anchored in German politics. Digital policy is increasingly 
+perceived as a task for all societal creative forces. Important agendas relevant to digitalisation 
+are the responsibility of different ministries. This requires the mutual recognition of the role and 
+importance of different specialist policies, such as those for the network and media, the economy 
+and industry, education, integration and culture (each with their own operators, instruments and 
+logics) for sustainable digitalisation within the framework of a coherent digitalisation policy in 
+Germany. Therefore, it makes sense to transition from various Internet policies (or policies with 
+relevance for the Internet) to a cross-disciplinary, sustainable digitalisation policy; yet, at the 
+same time, this needs to be a policy that is sustainable, protects fundamental rights, promotes 
+cohesion and drives innovation.
+8
+Assessing Internet Development in Germany • Using UNESCO’s Internet Universality ROAM-X IndicatorsExecutive Summary
+Key Policy Recommendations
+Government
+• Implementation of the coalition agreement with the plan to create a legal right to nationwide 
+access to high-speed Internet by 2025 and the implementation of the requisite infrastructure 
+measures, possibly in cooperation with the private sector
+• Design and implementation of measures to overcome the ‘digital divide’ in Internet use 
+between Germans with a job (96%) and the unemployed (68%) and to counteract differences 
+due to educational backgrounds
+• Ongoing special consideration of the interests and needs of intersectionally2 discriminated 
+groups in national digital political strategies, especially regarding the use of algorithmic 
+systems
+• Greater promotion of Internet use by people with an immigration background on the basis 
+of reliable data collection
+• Promotion of comprehensive equal treatment of girls and women in all areas of the Internet, 
+from ICT education and the promotion of the learning of STEM subjects to the provision of tools 
+to combat discrimination and exclusion on the Internet, also with regard to ‘digital violence’
+• Investments in the technical and personnel requirements for the digitalisation of schools, with 
+due regard for educational federalism, in particular through the impact-oriented application 
+of the ‘DigitalPact School’
+• More systematic promotion of openly licensed teaching and learning resources (OER) through 
+prioritisation within the framework of political and regulatory framework processes
+• Increased and systematic promotion of ICT-related teacher training
+• Expansion of digital administrative services as part of the implementation of the Online Access 
+Act and promotion of digital innovations in administration
+• Enforcement and evaluation of existing transparency and moderation obligations of companies 
+while taking into account the recommendation of the Council of Europe on the role and 
+responsibility of states and Internet intermediaries (2018)
+• Increased involvement of civil society and academia in public consultations, workshops 
+and working groups on digital policy issues, setting appropriate deadlines and promoting 
+academic access to public and private data as a basis for science-based policy
+2 The term intersectionality is understood to mean the way various structural categories that generate inequality are linked and 
+affect each other; associated structural categories are: gender, ethnicity, class, nationality, sexuality, age, etc.
+9
+Assessing Internet Development in Germany • Using UNESCO’s Internet Universality ROAM-X IndicatorsExecutive Summary
+• Introduction of a mandatory human rights impact assessment as part of the legislative process 
+for digital issues and subsequent regular evaluation of the legislation
+• Further engagement in international cooperation formats within the framework of a digital 
+policy based on human and international rights and committed to the principles of multi-
+stakeholder governance
+Judiciary
+• Realisation of the right to Internet access by upholding the relevant case law, which sees 
+Internet access as a prerequisite for full participation in the social communication structures 
+of society
+• Expansion of the Internet-related training modules in training all those involved in the judicial 
+sector
+• Special consideration of the dangers and manifestations of digital violence during training 
+for all levels of use of the judiciary
+• Taking into account the goal of the greatest possible ‘compatibility’ for the legal systems 
+to ensure global accessibility within the scope of legal leeway when deciding on the 
+extraterritorial effects of judgments (for example, by paying due regard the instruments of the 
+Internet Jurisdiction Network)
+• Development of cyber forensics capabilities in all areas of the judiciary
+• Increasing the number of prosecutors specialising in cybercrime
+• Putting in place dedicated officers for hate speech (and digital violence) at the Public 
+Prosecuting Agencies
+Private Sector
+• Implementation of the existing transparency and moderation obligations, depending on the 
+size of the platform, paying due regard to the recommendation of the Council of Europe on 
+the role and responsibility of states and Internet intermediaries (2018)
+• Greater involvement of stakeholders to raise awareness of the impact of design features and 
+user management of the products and platforms that are provided, as well as the involvement 
+of private application partners in applied research on digital sovereignty in human-technology 
+interaction
+• Securing the highest possible level of protection for data while taking due account of European 
+legal developments
+• Protection of employee rights in the structural change processes that are driven by digitalisation
+10
+Assessing Internet Development in Germany • Using UNESCO’s Internet Universality ROAM-X IndicatorsExecutive Summary
+ Executive Summary• Overcoming the underrepresentation of women in the STEM area and targeted involvement 
+of all genders in the development of ICT
+Technical Community
+• Development of Internet access alternatives for people with special access needs or with 
+non-linear educational and employment biographies
+• Strengthening cooperation with schools to highlight IT as a separate subject in addition to 
+the cross-sectional treatment of digitalisation
+• Optimisation of apps and websites with a view to cross-generational usability
+• Providing technical solutions to achieve the highest possible level of privacy protection in the 
+development of technical standards and products
+• Greater involvement of groups and genders historically less represented in the technical 
+community in the development of IC technologies and products
+Civil Society
+• Use of the increased opportunities for participation through Internet activism, e.g., through 
+online participation of the population
+• More conscious engagement of civil society organizations at local and regional levels 
+beyond specifically ‘digital policy’ organizations in order to understand the value and effect 
+of digitalisation on and for civil society engagement in all its ramifications
+• Expansion of the offering for children and parents to minimise risks related to content and 
+interaction as well as commercial risks online, but also to deal with problematic user-generated 
+content and to self-regulate the duration of use
+Academia
+• Development of meaningful human rights assessment methods in order to implement procedures 
+for assessing human rights impacts
+• Continuation and stepping up of the critical monitoring of network policy and digital legislation 
+at national and European levels, including the development of specific options for action
+• Development and reinforcement of transfer research formats to optimise the ‘translation’ of 
+academic knowledge in a way that is tailored to recipients
+• Entering a process of self-reflection about the extent to which the visibility and acceptance 
+of open access can be increased in the entire German academic system
+11
+Assessing Internet Development in Germany • Using UNESCO’s Internet Universality ROAM-X IndicatorsExecutive Summary
+• Collection of valid figures and statistics on, among other things, digital violence using 
+diversity-sensitive categories and being aware of intersectional relationships and exclusion 
+systems
+• Formulation of target group and risk-specific approaches to help children and adolescents 
+leverage the potential of the Internet and to provide them and their parents with a healthy 
+understanding of risk
+12
+Assessing Internet Development in Germany • Using UNESCO’s Internet Universality ROAM-X IndicatorsExecutive Summary

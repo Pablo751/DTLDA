@@ -1,0 +1,393 @@
+Journalism, press freedom and COVID-191Journalism, 
+press freedom 
+and COVID-19
+Issue brief in the UNESCO series:  
+World Trends in Freedom 
+of Expression and Media DevelopmentKey trends:
+ ÆFueling the pandemic, a dangerous “disinfodemic” has arisen 
+ ÆAgainst soaring demand for verified information, independent media have risen to the challenge
+ ÆTechnology companies are taking action, but more transparency is needed
+ ÆSome regulatory measures have led to new restrictions of human rights
+ ÆTo keep the public informed, journalists are putting their own safety at risk
+ ÆThe economic impact of COVID-19 
+may pose an existential threat to 
+journalism
+ ÆAmid the crisis, there are new 
+opportunities to stand up for 
+journalism
+#WorldPressFreedomDayJournalism, press freedom and COVID-192I. Fueling the pandemic, a 
+dangerous “disinfodemic” has arisen 
+As the novel coronavirus has reached nearly every country on earth, there has 
+also been mass circulation of falsehoods that have spread as fast as the virus itself. These lies have helped pave the path for the infection, and they have sewn mayhem in how societies are responding to the pandemic.  
+Recognizing the danger, United Nations Secretary-General António Guterres 
+has warned that “our enemy is also the growing surge of misinformation”. 
+The World Health Organization has described - as a “second disease” 
+accompanying the COVID-19 pandemic - an “infodemic”, which is “an over-
+abundance of information – some accurate and some not – that makes it hard for people to find trustworthy sources and reliable guidance when they need it”. 
+Journalism is key to supplying credible information within the wider “infodemic”, 
+and to combating the myths and rumours. Without it, false content can run rampant. 
+Falsehoods in circulation can be categorized as both disinformation (produced 
+and shared with malicious motivation), and misinformation, when these lies are spread without bad intentions. 
+But in the context of COVID-19, the effects of both can be equally deadly. 
+The volume and velocity of false information 
+within the “infodemic” points to the existence of a toxic disinfodemic of disinformation and misinformation, as is described in two recent UNESCO policy papers on this subject. 
+While information empowers, the disinfodemic 
+disempowers.  It endangers lives and leads to confusion and discord. 
+This graphic is part of UNESCO’s campaign 
+materials for World Press Freedom Day 2020.Journalism, press freedom and COVID-193Statistics to track trends on the scope and spread of the disinfodemic are 
+scarce. But some figures point to a massive scale. 
+•	Based on a machine learning analysis of 112 million public social media 
+posts, in 64 languages, related to the COVID-19 pandemic, researchers at the Bruno Kessler Foundation found 40% of posts came from unreliable 
+sources.
+•	Another study using machine learning techniques, by the Foundation’s COVID-19 Infodemic Observatory, found that almost 42% of over 178 million tweets related to COVID-19 were produced by bots, and 40% were “unreliable”. 
+•	Roughly 1/3 of social media users have reported seeing false or 
+misleading information about the coronavirus, says a study by the Reuters Institute carried out in six countries. Research by  Pew  suggests 
+that people who receive their news primarily through social media are more likely to be exposed to false content.
+•	In March, about 40 million problematic posts related to COVID-19 on Facebook were identified (and  had  warnings  placed  next to them), according to the company. “Hundreds of thousands of pieces of misinformation about the virus that could lead to imminent physical harm,” were also removed, it added. 
+•	Approximately 19 million out of nearly 50 million (38%) tweets related 
+to COVD-19 analyzed using artificial intelligence by Blackbird.AI were deemed to be “manipulated content”. 
+•	Newsguard identified 191 websites in Europe and North America that have 
+published false information about the virus.
+•	The CoronaVirusFacts Alliance has discovered - and disproved - more 
+than 3,500 false or misleading pieces of information, in more than 70 countries and in more than 40 languages. 
+In much of the disinfodemic, there have also been themes of xenophobia, racism and hate speech. 
+The problem is not only the volume of falsity, but also its combination with 
+emotional content and the fact that it is spread by actors with influence. Journalism, press freedom and COVID-194II. Technology companies are 
+taking action, but more 
+transparency is needed
+Large social media, messaging and search companies help billions of people 
+around the world to find and share information. Yet these platforms have also become hotbeds for the disinfodemic. 
+Their business models — designed to capture and keep user attention and 
+gather data for targeted advertising — have made them susceptible to the 
+disinfodemic, including in their advertisements. 
+In response, these companies have taken action, possibly even at a greater 
+scale and speed than with other types of false content in the past. On 16 March 2020, Facebook, Google, LinkedIn, Microsoft, Reddit, Twitter and YouTube issued a joint statement on their commitment to fight coronavirus-related misinformation.
+Overall, social media, social networking and search engine companies have 
+addressed the disinfodemic through:
+•	Content moderation: removing, downranking or labelling COVID-19 
+disinformation. This is increasingly through automated systems powered by artificial intelligence. These were already in place but are now more widely applied as human moderators are required to stay at home. But sometimes legitimate expression is caught in the net, and wrongly identified  
+and taken down.
+•	Donations to fact-checkers and journalists.
+•	Directing users towards official health information, including through partnering with national public health and international organizations like the WHO, as well as through information centres that direct users to 
+official information at the top of news feeds or in search results.
+•	Advertising policies: companies have banned advertisements that 
+include COVID-19 disinformation, but still there are people online able to peddle falsehoods for profit.
+Telecommunications companies around the world have taken more than 190 measures to expand internet access, including to suspend data caps, provide additional bandwidth, zero-rate access to public health information, and offer free WiFi to medical professionals.5Content 
+moderationFacebook
+* Based on selective information made public by the companies, at different times over the past month. This is not a comprehensive list of all actions taken.TABLE: Actions by tech companies, in numbers*
+Google Twitter WhatsApp YouTube
+Donations to journalism
+Directing users 
+to official health information
+Advertising 
+policies40 million posts related to COVID-19 received warnings placed next to them, 
+and hundreds of 
+thousands of pieces 
+of misinformation about the virus that could lead to 
+imminent physical 
+harm were also 
+removed. 
+$25 million in 
+local grants to 
+North American 
+media through the Facebook Journalism Project; 
+$1 million in grants 
+to local news; 
+$1 million to fact-checking organizations.
+Directed 2 billion 
+users to resources from WHO and other health authorities COVID-19 Information Centers on Facebook and Instagram, with 350 million click throughs. The centers also feature a section “Get the Facts” with information from professional fact-checkers. 
+Ban of ads that 
+promote fake corona virus cures, and safety review of 
+all ads. Temporary 
+suspension of ads 
+with content related to coronavirus in languages besides 
+English.8 million 
+coronavirus scam emails are being blocked by Google 
+on Gmail every day.
+$6.5 million 
+to Journalism 
+Emergency Relief 
+Fund in 130 countries and territories around 
+the world
+Fact check section in 
+the COVID-19 topic of Google News (currently USA only)
+Ban on ads that 
+promote miracle cures and home medical equipment 
+at inflated pricesChallenged 3.4 
+million accounts targeting manipulative 
+discussions  
+around COVID-19
+$1 million to 
+International 
+Women’s Media 
+Foundation and Committee to Protect Journalists
+10 billion views of 
+content from official health organizations
+Only brands with a 
+direct relationship with Twitter’s ads team can advertise 
+with mentions of the 
+pandemic and how 
+they can discuss itLimits placed on the number of chats to which a popular message can be 
+forwarded at a time.
+$1 million to 
+International Fact-
+Checking Network
+Bots answer users’ 
+questions through the WHO Health Alert
+Ban on content that 
+contradicts WHO on COVID-19 “Thousands and thousands of removals” – CEO Susan Wojcicki
+(subsidiary of 
+Google)
+Box below videos 
+related to COVID-19 that redirects viewers to the WHO’s website.
+All content for 
+monetization must be fact-checked by its authors and 
+guidelines must be 
+followed.
+Where they detect 
+violations, the 
+company will 
+either remove the 
+offending COVID-19-related-content, limit its monetization, or 
+temporarily disable 
+monetization on the 
+channel.Journalism, press freedom and COVID-196Is it enough?
+In the absence of comprehensive statistics from the companies, it is hard 
+to assess the real significance of the figures that they do release. First, the proportion of disinformation in relation to the total volumes of content and adverts carried is not evident. Second, the extent of circulation of false content before being identified, and the role of “super spreaders” in the chain, is not made public.  
+However, the online activist network Avaaz has found that 41% of misinformation 
+which the organization identified and brought to the attention of Facebook remained up without warning labels. Of these posts, 65% of this figure had also been debunked by Facebook’s own fact-checking partners. 
+The Reuters Institute found in a sample of 225 pieces of misinformation, that 
+on Twitter, 59% of posts rated as false by fact-checkers remained online. The figures on YouTube were that 27% remained. On Facebook, 24% remained up, and without warning labels.
+While the donations to fact-checking and media can help, the amounts are 
+small in relation to the companies’ earnings. They do not offset the losses in media organizations’ advertising revenue, a downward trend that has preceded the current crisis.
+UN Secretary-General Antonio Guterres has urged that: “Social media 
+companies must do more to root out hate and harmful assertions about COVID-19”. In this context, the UN Guidelines on Business and Human Rights are more relevant than ever. Internet companies should align their codes of conduct and practice with international standards of human rights: where the default is freedom of expression and restrictions are the exception and subject to strict conditions. 
+Companies should not be arbitrators of truth, but they can still take a strong and 
+clear position against enabling the circulation of proven falsehoods - in their content, ads and search services, a point made by UN Special Rapporteur on Freedom of Expression and Opinion, David Kaye.Journalism, press freedom and COVID-197
+OK Google, how many ads has your subsidiary YouTube blocked 
+or removed that contained COVID-19 disinformation? How do you ensure that legitimate content, protected under international law, isn’t being taken down?
+@Twitter, how many of the 3.4 million accounts circulating false 
+information have you closed? How many were bots? How many tweets of false information on COVID-19 you have removed? How many appeals have you considered?
+Hey Siri, the Apple Store news-subscriptions – can the company 
+channel a bigger share to the news media? What’s the app that Apple is developing for contact tracing, and what impact does that have on privacy?Hey Facebook, what have you done to make credible journalism 
+more visible and sharable on your platform?
+What’s up, WhatsApp? Per country, how many inauthentic “super 
+spreader” accounts are you identifying each week?
+...
+...
+...
+...
+...Without greater transparency, questions remain.
+Imaginary questions for a conversation with a chatbot 
+Journalism, press freedom and COVID-198III. Against soaring demand 
+for verified information, independent media have risen to the challenge
+This crisis has brought to the forefront the importance of the media and of 
+access to verified information. Free and independent media serve as a key source of credible and lifesaving information, and they help people by detecting and debunking the lies of the disinfodemic.
+Professional journalism – publishing verified facts and informed opinion – has 
+given people an alternative to disinformation and has helped to disprove the falsehoods. Operating in the glare of the public square, it contrasts with the hidden and hard-to-challenge content that is shared in private messaging services.
+Many media online have dropped their “paywalls” and provided coverage of 
+COVID-19 pandemic free of charge, in the name of public interest. 
+Professional journalism helps us monitor what we think we know and 
+what we do not know for sure.  It also helps us track the evolving science 
+about the virus, and about prevention and treatment, and the policy 
+responses being adopted.
+For example, in countering the conspiracy theory that 5G cellular 
+networks have helped spread the coronavirus, news reporting has 
+demolished this myth and delved into who is driving it. 
+Independent media enables the public to hold public authorities 
+to account, as well as helps to ensure evidence-based policy and 
+transparent practical steps about the crisis. 
+In contrast, transmitting government messages in state-owned media is 
+not effective if there is a lack of trust in these outlets.  What does journalism do?9Confirming that the news media provide invaluable service to the public in the 
+crisis, there has been a boost in their audiences:
+According to International Media Support, among its members, there has been a:•	49% audience growth for pan-Arabic news site DARAJ
+•	2,500,000 views on the Rappler’s COVID-19 Facebook Live session
+•	25% audience growth for Iraqi newspaper Al Menasa
+Web traffic to major news organizations has also increased. The New York 
+Times and The Washington Post seeing a 50 percent increase in one month. 
+Similarly, traffic to the Financial Times website grew 250% year-on-year in the 
+month. The FT’s coronavirus tracker page, which charts the daily numbers of deaths resulting from COVID-19, has become the news website’s most viewed article of all time.
+The number of unique visitors to The Guardian website almost doubled from a 
+record of 191 million in February 2020 to 366 million in March. The increased visits went hand in hand with many more web pages being viewed: 2.17 billion page views in March 2020, 750 million more than the paper’s previous record.
+A study by the Reuters Institute found that 60% of respondents in six countries 
+said the news media had helped them make sense of the pandemic, with trust in new media rated significantly higher than information received on social media. Journalism, press freedom and COVID-1910“I salute the journalists and others fact-checking the mountain of 
+misleading stories and social media posts.” 
+-- United Nations Secretary-General Antonio Guterres, 14 April 2020. 
+“In a world as profoundly interdependent as this crisis has shown ours 
+to be, every threat to or attack on the diversity of the press, the freedom 
+of the press and the safety of journalists concerns us all. Today, I wish 
+to call for a redoubling of our efforts. At this crucial moment and for our future, we need a free press, and journalists need to be able to count on all of us.”
+-- Audrey Azoulay, Director-General of UNESCO, on the occasion of 
+World Press Freedom Day, May 3, 2020
+Free, independent and pluralistic media play an indispensable role in 
+informing the public during the ongoing COVID-19 crisis. Everyone has 
+the right to comprehensible, accessible, timely and reliable information concerning the nature and level of the threat COVID-19 poses to their health, allowing them to follow evidence-based guidance on how to stay 
+safe.” 
+-- Groups of Friends on the Safety of Journalists at UNESCO, the United 
+Nations in New York and Geneva and the OSCE, 15 April 2020
+“Under these circumstances, our responsibility as publishers and 
+journalists is more important than ever. It is probably the greatest challenge we have faced in the past 100 years. The citizens of all 
+countries now have a greater need for our journalistic work… Never 
+have we been so necessary. Never has our role of social cohesion, of defending the democratic values, of stimulating solidarity and public awareness been so obvious. Never before has our desire to do 
+the best journalism been so great. Never has our commitment to the 
+truth been so laudable. It is an indispensable social and ethical duty.”  
+-- Fernando de Y arza López-Madrazo, President of WAN-IFRA, 30 March 
+2020
+In countries around the world, journalism is being considered as an “essential 
+service” and journalists as “essential workers”, with permission to continue reporting and to be exempt from movement restrictions. In some places, journalism has been called an “emergency” service. 
+This recognition of journalism’s essential public service value has also been 
+promoted by major newspaper and broadcast bodies. Going forward, public service media will be more key than ever.What do leaders say about the role of 
+journalists in the fight against COVID-19?Journalism, press freedom and COVID-1911IV. Some regulatory measures 
+have led to new restrictions of human rights
+The remedy to the disinfodemic is to enhance citizens’ critical thinking and 
+increase the availability of verified information, not decrease it. 
+A new report by UN Special Rapporteur for Opinion and Expression David 
+Kaye has highlighted that access to information, independent media and other free expression rights are critical to meeting the challenges of the pandemic. These are key for providing individuals and communities and individuals with life-saving information and helping to combat disinformation. 
+The report, along with recent guidance on COVID-19 by the Office of the High 
+Commissioner on Human Rights (OHCHR), advises that relevant information 
+about COVID-19 should reach all people, that internet access to essential, and that journalists and the media should be able to report on the pandemic without fear or censorship.
+A policy brief by the UN Secretary-General found that the COVID-19 public 
+health crisis has led to a “human rights crisis with impacts related a range of 
+human rights, including the rights to free expression, access to information, and privacy.
+In the urgency to address the public health crisis, more than 80 governments 
+around the world have declared states of emergency. Most of these countries have not notified the UN, as required by the International Covenant on Civil and Political Rights, and many of the emergency measures lack “sunset” clauses. 
+While temporary restrictions on the exercise of human rights on the grounds 
+of public health can be legitimate under international law, in cases these measures have led to disproportionate impacts and do not meet the 3-part test for restricting rights. The test requires a restriction to be (i) in law, (ii) necessary to the objective, and (iii) for legitimate purpose as defined in the International Covenant on Civil and Political Rights.Journalism, press freedom and COVID-1912Some restrictions linked to the pandemic are limiting people’s right to access 
+information and the media’s ability to fight against falsehoods. Threats here include: 
+•	Freedom of expression and press freedom have been limited through 
+laws proposed to counter disinformation or ‘fake news’. Such laws have put journalists at criminal risk – often simply for raising criticisms or reflecting policy debates.
+•	The right to access information has been strained due to suspension 
+in some cases of the public right to request information. The right is the other side of the coin to press freedom. It highlights the importance of governments making maximum information available. Access to the internet is equally important, whereas there is little relief from pre-existing disruptions in several countries. 
+•	Intrusions on privacy, through enhanced surveillance (often related to contact tracing and enforcing quarantines), are sometimes disproportionate and also risk being continued (and abused for other purposes) long after the pandemic. 
+Related to the global monitoring of press freedom: 
+The International Press Institute (IPI), through its media freedom monitoring, 
+recorded 140 instances of media freedom violations related to the 
+COVID-19 pandemic, including arrests and charges, censorship, restrictions on access to information, excessive ‘fake news’ regulations and verbal or physical attacks.
+This graphic is part of UNESCO’s campaign 
+materials for World Press Freedom Day 2020.Reporters Without Borders has documented 
+attacks against at least 125 journalists in 29 countries, including expulsions, arrests, interrogations, police violence, withdrawing of press passes, demands for public apologies, and seizing electronic devices. 
+More than 20 instances have been recorded 
+of journalists having been  blocked from reporting on COVID-19, according to Index on Censorship.Journalism, press freedom and COVID-1913V. To keep the public informed, 
+journalists are putting their own safety at risk
+Journalists are on the frontline in the fight against the distortion of truth. In light 
+of their essential role, their safety must be guaranteed.
+For journalists to monitor the human rights situation connected to COVID-19, 
+the Inter-American Court of Human Rights has called for special protection to 
+be provided for journalists and human rights defenders.
+The need to ensure the safety of journalists is also emphasized in a joint 
+statement by the Groups of Friends on the Safety of Journalists in New Y ork, Geneva, Vienna and Paris. Jointly signed by 41 Member States from all regions express, the statement expresses concern for journalists’ safety—ranging from arrest to physical and psychological threats—and welcomes efforts to protect it.
+Reporting on COVID-19 spreads the risk to 
+journalists’ safety across all dimensions:
+Physical safety
+In reporting, journalists risk their health through a lack of personal protective 
+equipment, like gloves and masks. 
+At least 16 journalists have died of COVID-19, reports the Poynter Institute, while 
+at officials in India stated that 53 journalists (out of a sample of 167) have tested positive for the coronavirus in  Mumbai. 
+Journalists around the world have also faced physical attacks, as well as 
+harassment connected to covering the pandemic – such as reporting on mobs as well as abuses by security forces. 
+Legal safetyOften as a result of overly broad legal restrictions justified as countering COVID-19 
+disinformation, journalists around the world have been arrested and detained. 
+This includes where they have raised questions about the limits of official statistics, 
+or provided a platform for debate about the extent of lock-down restrictions and the supply of personal protective equipment and ventilators. It is becoming dangerous to report on corruption and assault by state officials 
+who commit these crimes under the cover of the COVID-19 controls.
+The Poynter Institute has recorded more than 300 people in 40 countries 
+arrested and accused of spreading false information about COVID-19, with most arrests in the Asia-Pacific region. These included arrests of journalists among others.
+At least 38 journalists having been arrested and/or charged related to 
+COVID-19 coverage according to the International Press Institute.
+Psychological safetyJournalists face increased pressure, with extended hours and never-ending fact-
+checking, fears over job security, and trauma of reporting on severe illnesses. Some political leaders have subjected journalists doing critical reporting to harsh verbal attacks. 
+Digital safetyIncreased surveillance and hacking have undermined journalists’ ability to 
+ensure the confidentiality of their sources, at a time when some governments have cracked down on whistleblowers. 
+Ongoing Internet and social network shutdowns have also hampered the ability 
+of journalists to carry out reporting and to communicate.
+As online activity has increased during this period, women journalists, who 
+already have seen greater levels of harassment online, face increased risks.
+The Committee to Protect Journalists has put out a Safety Advisory for covering 
+the coronavirus outbreak that provides guidance to journalists on these issues. 
+PHYSICAL 
+RISKS
+LEGAL
+RISKSDIGITAL
+RISKS
+PSYCHOLOGICAL 
+RISKS14Journalism, press freedom and COVID-1915VI. Economic impact of 
+COVID-19 may pose an 
+existential threat to 
+journalism
+The threats to press freedom and the safety of journalists come at a time when the 
+economic stress of the crisis is pushing many media organizations to the brink of 
+extinction, at exactly the moment they are most needed.
+The economic fallout from the pandemic has led the International Monetary Fund to 
+predict that 2020 will see the worst economic recession since the Great Depression in 
+the 1930s. The International Labour Organization expects the loss of the equivalent of 
+195 million full-time jobs.
+In this context, media organizations have been hit hard.
+Despite record audience growth, the health of the news media industry is at risk.Advertising revenue has dropped suddenly. The Global Forum on Media Development 
+has reported that some of its members have seen 70% declines in advertising revenue, a trend observed globally, most dramatically for local and regional media, as well as in emerging markets.
+The losses in revenue at many media companies have led to layoffs, pay cuts and 
+furloughs in media organizations around the world.
+The current moment has been described as a “media extinction event”.
+In some cases, media organizations have folded operations, and some organizations, 
+especially local, may not survive. In the UK, The Guardian reported that the national 
+community radio association warns that 1/3 of community radio stations risk closure, a situation even more fragile in countries with local media with even fewer resources.
+The media organizations that fold may never come back – creating news deserts for 
+the public.  In the absence of verified information, disinformation fills the gap. 
+Of those who do survive, the fall in revenue from private advertising may jeopardize 
+their ability to provide independent coverage. 
+In many countries, the absence of enough private advertising revenue has made 
+media organizations become overly dependent on governmental advertisements. 
+Some have fallen victim to “media barons” who use their acquisitions for political 
+influence at the expense of coverage in public interest. The current crisis could worsen these trends.PHYSICAL 
+RISKS
+LEGAL
+RISKSDIGITAL
+RISKS
+PSYCHOLOGICAL 
+RISKSJournalism, press freedom and COVID-1916VII. Amid the crisis, there are 
+new opportunities to stand up for journalism
+The crisis sparked by the COVID-19 pandemic may have long-term impact on 
+access to information and press freedom around the world.
+It could lead to more restrictions and danger to journalists, and the suppression 
+of the rights of the press to impart information and the rights of people to seek and receive information.
+Yet this moment also offers an opportunity to recognize journalism as an essential 
+element of our lives and livelihoods, and as a moment for strengthening news media now and in the years come.
+During these difficult times, concerned stakeholders can stand up for:Human Rights: Efforts to fight the disinfodemic should respect international 
+standards for human rights, including the rights to freedom of expression, access to information, and privacy. Any new restrictions must be necessary and proportionate, in law and time-bound. 
+Freedom of expression can also be proactively protected. Actions by 
+authorities in this area can include supporting journalism in many ways, as well as practising transparency and respecting privacy in line with international standards. 
+Judicial operators worldwide should enjoy the independence to guarantee 
+that all legal and administrative measures in their countries respect these standards. 
+Journalists can be helped with legal support when their rights are infringed – 
+such as through the new Media Defence Fund administered by UNESCO.
+Access and accessibility: Reliable, life-saving information should be made 
+available through proactive disclosure by governments.  This includes releasing open data sources, with due respect for individual privacy issues, and being transparent about public spending related to the pandemic and its impacts. Journalism, press freedom and COVID-1917Access to internet connectivity should be opened up and extended. Closing 
+digital gaps between men and women, old and young, developed and developing countries has become increasingly urgent.
+Knowledge: The world needs more information as the foundation for knowledge. 
+A premium should be put on promoting fact-based science and policies, and on journalism’s contribution to these.
+Engagement and empowerment: Outstanding reportage on the crisis can 
+educate and inform, promote solutions and peace, and stimulate citizen participation and governmental accountability. Media and information literacy, including at schools and universities, can provide individuals with the critical thinking needed against the disinfodemic. 
+Transparency: Transparency and statistics are needed by technology 
+companies about their fight against the disinfodemic, and their decisions on content should respect international human rights standards.
+Solidarity: In support of the news industry, media organizations should be 
+offered support:
+•	By technology companies - through donations, sharing of advertising 
+revenue,  
+•	By governments - through inclusion in economic rescue packages, tax relief, subsidies, donations, or stimulus packages,
+•	Guarantees of editorial independence and a plurality of media must be part of the package.  
+Multi-lateral and multi-stakeholder cooperation: Combining forces within and between countries is vital in the face of the pandemic and the disinfodemic. Fragmented efforts will not be enough. 
+Global Monitoring: Research co-operation should be reinforced in all regions 
+of the world in order to more fully track the impact of COVID-19 responses on press freedom  Journalism, press freedom and COVID-1918
+About this brief
+This brief comes as part of the UNESCO series World Trends in Freedom of Expression and 
+Media Development. It covers key trends on how the COVID-19 pandemic is impacting press freedom and journalism. The brief is produced as part of the celebration of World Press Freedom Day and is designed to serve as a reference for UNESCO Member States, media organizations, NGOs and internet companies. The content was developed by Rachel Pollack, with contributions by Namara Burki and additional support from Oscar Castellanos, Valeria Nadal, Sara Gugliemi and Cecilia Gonzalez Fabeyro.
+The title font used was developed specifically for the campaign “Facts” developed for the 
+2020 celebration of World Press Freedom Day.
+For a list of resources which informed this Issue Brief, please visit: World Trends in Freedom 
+of Expression and Media Development.Multi-Donor Programme 
+on Freedom of Expression 
+and Safety of Journalists
+United Nations
+Educational, Scientiﬁc and
+Cultural Organization
+Published in 2020 by the United Nations Educational, Scientific and Cultural Organization, 7, place de Fontenoy, 75352 Paris 07 SP, France ©UNESCO. This document is available in Open Access under the Attribution ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) License. By using the content of this publication, the users accept to be bound by the terms of use of the UNESCO Open Access Repository. The designations employed and the presentation of material throughout this publication do not imply the expression of any opinion whatsoever on the part of UNESCO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimation of its frontiers or boundaries. The ideas and opinions expressed in this publication are those of the authors; they are not necessarily those of UNESCO and do not commit the Organization. This graphic is part of UNESCO’s campaign materials for World Press Freedom Day 2020.
+Cover photo: Nidal AlwahidiGraphic designer: Marc James

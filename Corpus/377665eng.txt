@@ -1,0 +1,1646 @@
+COVID 19, 
+technology-based 
+education 
+and disability:  
+The case of Bangladesh
+Emerging practices in inclusive 
+digital learning for students 
+with disabilitiesTypesetting: IP Guslisty 
+Photo credits: a2i, YPSA
+The views and opinions expressed in this publication are those of the authors 
+and do not necessarily represent those of UNESCO or IIEP-UNESCO. The designations employed and the presentation of material do not imply the expression of any opinion whatsoever on
+ 
+the part of UNESCO or 
+IIEP-UNESCO concerning the legal status of any country, territory, city, or area, or its authorities, or concerning its frontiers or boundaries.
+This publication was produced by UNESCO, in the context of the Global Programme Supporting Disability Inclusive Covid-19 Response and Recovery at National Level supported by the United Nations Partnership on the Rights of Persons with Disabilities (UNPRPD) Multi Partner Trust Fund.
+International Institutefor Educational Planning
+© UNESCO 20213
+COVID 19, technology-based education and  disability: The  case of BangladeshContents
+Acknowledgements 5
+List of bo
+xes
+ 6
+Abbr
+eviations and acronyms
+ 7
+Overvie
+w
+8
+Key implementers
+ 9
+a2i – Access to Information  9
+YPSA – Y
+oung Power in Social Action 9
+Partnerships
+10
+Impact of COVID-19 on disability-inclusive education in Bangladesh  11
+Liter
+ature review
+ 12
+Overall prevalence of disability  12
+Pr
+evalence of disability among children and young people 12
+National laws and policies on disability
+ 12
+Disability inclusion in education policies
+ 13
+Disability inclusion in ICT policies
+ 13
+Backgr
+ound and current status of the ARM initiative 
+ 13
+Objectives and methodology  15
+Objectives 15
+Methodology
+15
+Findings 16
+Relevance and appropriateness  17
+Effectiveness 
+ 18
+Efficiency	 18
+Impact 
+ 19
+Sustainability 21
+Other factors 
+ 22
+Barriers encountered with the ARM initiative  23
+Common barriers:  23
+Barriers
+	
+specific
+	
+to
+	
+COVID-19:	 23
+Recommendations 24
+Conclusion 25
+Other initiatives that complement ARM 26
+Education 	through	TV	broadcast 	(Sangsad+EduSkills)	 26
+Education thr
+ough social media (Facebook Live and YouTube)
+ 27
+Community r
+adio–based classes
+ 28
+MuktoPaath e-learning platform
+ 29
+Emporia web platform and mobile application
+ 30
+Empo
+werment of Persons with Disabilities including NDD [Neurodevelopmental
+ 
+Disabilities] through ICT
+ 31
+Synchr
+onous learning management system (LMS) for tertiary education and training      31
+References 32
+Glossary
+34
+Appendices
+35
+Appendix 1. Documents reviewed  35
+Appendix 2. Or
+ganizations consulted for the research
+ 35
+Appendix
+	
+3.
+	
+Participants
+	
+–
+	
+Key
+	
+informant
+	
+interviews
+	
+and
+	
+focus
+	
+group
+	
+discussions	 36
+About the authors 384
+COVID 19, technology-based education and  disability: The  case of BangladeshA student with a visual impairment using a smartphone to read accessible books.
+5
+COVID 19, technology-based education and  disability: The  case of BangladeshAcknowledgements
+The research would not have been possible without the contributions of key informants from the Min-
+istry of Education, Department of Social Service of the Ministry of Social Welfare, a2i of the ICT Division, 
+the non-governmental organization Young Power in Social Action, the United Nations Development Pro-
+gramme, the DAISY Consortium, the Accessible Book Consortium of the World Intellectual Property Organi-
+zation,	the	Primary	Education	 Development	 Programme	 4,	Bangladesh’s	 Visually	Impaired	 People’s	Society,	
+the Government’s Teachers’ Training College, and the Disabled Students’ Society of Chittagong University. 
+We also thank the participants of the focus group discussions (persons with disabilities and representatives 
+of OPDs, NGOs, CSOs, INGOs, students, teachers and a parent group) for their contribution to this study. Our 
+deepest appreciation goes to UNESCO’s International Institute for Educational Planning for giving us the op-
+portunity to engage in this timely research and for providing constant support and constructive feedback.6
+COVID 19, technology-based education and  disability: The  case of BangladeshList of boxes
+Box 1.1 Research themes and questions
+Box 1.2 Case study of Md.Shakil Khan, a student with visual impairment7
+COVID 19, technology-based education and  disability: The  case of BangladeshAbbreviations and acronyms
+a2i Access to Information/Aspire to Innovate
+ABC Accessible Book Consortium
+ARM Accessible Reading Materials
+BBS Bangladesh Bureau of Statistics
+BRAC Building Resources across Communities
+CSO civil society organization
+CRC  Convention on the Rights of the Child 
+CRPD Convention on the Rights of Persons with Disabilities
+DAISY Digital Accessible Information System
+DISSCU Disabled Students’ Society of Chittagong University
+DSS Department of Social Services 
+FGD focus group discussion 
+GPA  grade point average 
+ICT information and communication technology
+INGO international non-governmental organization
+IRCD  ICT and Resource Centre for Persons with Disabilities
+KII key informant interview
+MTB multimedia talking books
+NCTB National Curriculum and Textbooks Board 
+NGO non-governmental organization
+NPRP National Preparedness and Response Plan
+OPD organization of persons with disabilities
+SDG Sustainable Development Goal
+UDL Universal Design for Learning
+UGC University Grant Commission 
+UNDP United Nations Development Programme
+USAID United States Agency for International Development
+WIPO World Intellectual Property Organization8
+COVID 19, technology-based education and  disability: The  case of BangladeshOverview
+Throughout	 2020,	the	COVID-19	 pandemic	 posed	unprecedented	 challenges	 for	national	education	 systems.	
+All learners have been impacted by school closures and the disruption to learning; however, vulnerable 
+and marginalized learners, such as children and young people with disabilities, have been disproportionately 
+affected (UNESCO, 2020; World Bank, 2020). Bangladesh is no exception in this regard. Indeed, the coun-
+try’s	National	 Preparedness	 and	Response	 Plan	(NPRP)	for	COVID-19	 takes	a	national,	 pro-poor	 approach,	
+but	lacks	specific	mention	 of	ensuring	 inclusive	 and	accessible	 education	 for	children	and	young	people	
+with disabilities. Although the NPRP addresses the needs of vulnerable groups in more general terms – along 
+with the provision of emergency supplies, education, and emergency services to 5 million people – it offers 
+no precise plan for persons with disabilities. 
+This study sheds light on Bangladesh’s initiatives in the area of disability-inclusive education. The particu-
+lar focus is on the role of its Accessible Reading Materials (ARM) initiative and how this has contributed 
+to	ensuring	disability-inclusive	and	accessible	education	during	the	COVID-19	 pandemic	in	Bangladesh.	ARM	
+is a government-led initiative that was launched in 2014 by the then Access to Information (a2i) programme 
+of	the	Prime	Minister’s	 Office,	now	the	Aspire	to	Innovate	 Programme	 of		the	Information	 and	Communica-
+tion Technology (ICT) Division of the Government of Bangladesh. It was launched in recognition of the need 
+for solutions to ensure virtual, as well as regular reading access for all students, including children and young 
+people with barriers to reading. ARM is aimed at satisfying the educational needs of all students including 
+students with print and learning disabilities. 
+The main challenge in the area of accessible and inclusive education in Bangladesh is that most publications 
+remain locked in printed form or non-Unicode colonial font, and are inaccessible to persons with disabilities – 
+including those who need materials in accessible formats. This situation became more pronounced following 
+the countrywide lockdown and related closures of educational institutions. As a result of the closures, Bang-
+ladesh’s millions of schoolchildren found themselves deprived of learning materials. 
+This study’s focus is on the ARM initiative and its effectiveness during the pandemic. It has also considered 
+the additional complementary initiatives undertaken by the government during the pandemic to distribute 
+materials	 among	beneficiaries	 via	its	online,	offline,	and	media	platforms.	 These	are	included	 below	after	
+the section on the recommendations and conclusion of this study.9
+COVID 19, technology-based education and  disability: The  case of BangladeshKey implementers
+a2i – Access to Information
+Initiated	in	Bangladesh	 in	2007	by	the	Prime	Minister’s	 Office	(with	support	from	USAID	and	the	United	Na-
+tions Development Programme [UNDP]), the objective of the a2i programme is to increase transparency 
+and	improve	governmental	 efficiency	 in	public	service	delivery.	The	main	focus	of	a2i	is	to	make	information	
+and	services	available	 to	citizens	and	reducing	 inefficiencies	 in	terms	of	accessing	 governmental	 services	
+(Rahman, Aminuzzaman and Ahmed, 2019).
+Goal of the a2i programme: 
+To ensure easy, affordable and reliable access to quality public services for all citizens of Bangladesh. 
+a2i seeks to:
+• empower civil servants with the tools, expertise, knowledge, and resources they need for experi-
+menting with and innovating citizen-centric solutions to public service challenges;
+• establish both physical and online one-stop access points that scale innovative services 
+and make them available to citizens easily, reliably and in an affordable manner; 
+• encourage and support non-government actors, including small entrepreneurs, teachers, 
+and youth, to partner with government actors (a2i, 2020). 
+Read more: https://a2i.gov.bd/about/   
+YPSA – Young Power in Social Action 
+Established in 1985 by ‘socially conscious youths’, YPSA is an organisation that aims to ‘stop violence, and build 
+a peaceful Bangladesh.’ YPSA takes steps to prevent violence by arranging peacebuilding youth dialogues 
+and capacity-building workshops (YPSA, 2020).
+Goal of the organization:  YPSA envisions a society without poverty where everyone’s basic needs 
+and rights are ensured. YPSA exists to participate with the poor and vulnerable population with all 
+commitment to bring about their own and society’s sustainable development (YPSA, 2020).
+Read more: http://ypsa.org/about-us/  10
+COVID 19, technology-based education and  disability: The  case of BangladeshPartnerships
+The copyright for the accessible reading materials 
+developed for persons with print disabilities belongs 
+to the Bangladesh Government’s a2i programme 
+and YPSA. 
+‘a2i has been mandated to continue to bring about in-
+novation to solve daily challenges faced by students 
+with disabilities, while YPSA promises to continue to be 
+involved in activities that will ease the way of quality 
+and effective education for students with disabilities 
+in Bangladesh. The DSS [Department of Social Services] 
+within the Ministry of Social Welfare has been involved 
+from the very onset of this project since the department 
+is mandated to serve the interests of persons with disa-
+bilities. They facilitate the procurement and distribution 
+of the materials among users within the scope of differ -
+ent government projects.’
+~ Md. Arifur Rahman, Chief Executive, YPSA
+The National Curriculum and Textbook Board (NCTB) 
+has emerged as the key technical partner to this in-
+itiative: it has taken responsibility for updating con-
+tent and distributing the materials to school-aged 
+children. 
+‘DAISY Consortium admires the commitment 
+of the Bangladesh Government to provide its print dis -
+abled population with adequate learning materials. 
+Therefore, we are happy to be involved in the ARM initi-
+ative which could be considered as a model.’
+~ Dipendra Manocha, DAISY Consortium.
+In the international arena, the initiative has received 
+technical and advisory support from the DAISY 
+Consortium and the Accessible Books Consorti-
+um of the World Intellectual Property Organization 
+(WIPO). In addition to this, UNDP offers a2i addition-
+al	financial	 support,	 complementing	 funding	from	
+the Bangladesh Government.DAISY
+DAISY (Digital Accessible Information 
+System) is a technical standard for dig-
+ital audiobooks, periodicals, and com-
+puterized text. DAISY is designed to be 
+a complete audio substitute for print ma-
+terial	and	is	specifically	 designed	 for	use	
+by people with print disabilities, such as 
+blind learners, those with impaired vi-
+sion, and those with dyslexia. 
+Based on the MP3 and XML formats, 
+the DAISY format has advanced features 
+such as the ability for users to search, 
+place bookmarks, precisely navigate line 
+by line, and regulate speaking speed 
+without distortion. DAISY also provides 
+aurally accessible tables, references, 
+and additional information. As a result, 
+DAISY allows visually impaired listeners 
+to navigate something as complex as 
+an encyclopedia or textbook. 
+DAISY multimedia can come in the form 
+of a book, a magazine, a newspaper, 
+a journal, computerized text, or a syn-
+chronized presentation of text and audio. 
+It provides up to six embedded ‘naviga-
+tion levels’ for content, including embed-
+ded objects such as images, graphics, 
+and MathML. In the DAISY standard, 
+navigation is enabled within a sequen-
+tial and hierarchical structure consist-
+ing of (marked-up) text synchronized 
+with audio.11
+COVID 19, technology-based education and  disability: The  case of BangladeshImpact of COVID-19 on disability-inclusive 
+education in Bangladesh
+The	COVID-19	 crisis	has	had	an	enormous	 im-
+pact on learners’ access to quality and inclu-
+sive education in Bangladesh, as it has all over 
+the world. Children and young people with dis-
+abilities, however, have been disproportion-
+ately affected: the challenges of the pandemic 
+have been compounded by the barriers these 
+learners already face, such as lack of infor-
+mation and resources to effectively engage 
+in academic endeavor, typical discrimina-
+tion and stigma, lack of knowledge among 
+the teachers to satisfy their curricular needs, 
+and lack of access to learning materials or 
+teaching (World Bank, 2020). 
+In an attempt to bridge the ever-widening 
+gap between those with and without access 
+to quality education, the Bangladesh gov-
+ernment has implemented several initiatives 
+to ensure accessible, equitable and quality ed-
+ucation for students with disabilities. This has 
+included the conversion of all Grade 1–12 text-
+books through its ARM initiative, the provision 
+of accessible dictionaries, and the training of teachers in areas such as universal design for learning (UDL). In 
+order to evaluate and understand these initiatives, it is necessary to examine how relevant, appropriate, and ef-
+fective they have been; in particular, the role of the ARM initiative and its commitment of ensuring accessible 
+and disability-inclusive education during the pandemic.
+From 17 March 2020, all educational institutions in Bangladesh were closed, and remained so during the pan-
+demic.	The	direct	loss	of	learning	opportunities	 caused	by	this	was	the	most	immediate	 impact	of	COVID-19	 on	
+the education sector, and was particularly felt by learners with disabilities. An assessment conducted by Build-
+ing Resources across Communities (BRAC) revealed that 29 per cent of students with disabilities expressed 
+fear of being excluded from educational opportunities due to the sudden change in the education delivery 
+mechanism during the pandemic. This experience was disproportionately higher among female students 
+(17 per cent of females and 15 per cent of males reported this) (Salam, 2020). 
+Disability, however, is not the only factor that has affected access to education. Families and communities liv -
+ing	in	poorly	connected,	 rural	communities	 faced	further	difficulties	 in	ensuring	 access	to	education	 for	chil-
+dren and young people: it is at the intersection of poverty, remoteness, and disability where some of the most 
+marginalized learners are found. Factors such as limited access to education technology, little or no internet/
+electricity connectivity, and inaccessible remote teaching materials play major roles in the exclusion of learn-
+ers at this intersection. Even where learners have access to online education, children and young people 
+with disabilities face greater challenges in comparison with other learners. They are at risk of being left 
+behind due of the absence of appropriate assistive equipment, low-speed internet connections, accessible 
+reading materials, and support (UN, 2020; World Bank, 2020). 
+Many	initiatives	 that	are	targeted	 towards	children	with	disabilities	 have	faced	difficulties	 during	the	pan-
+demic due to a lack of prior experience with accessible learning materials, assistive technologies, or remote 
+learning. It is therefore necessary to examine and evaluate the contribution that the ARM initiative has made 
+in regard to expanding opportunities for students with disabilities and the enhancing of quality inclusive 
+education.
+A visually 
+impaired 
+student 
+is using screen 
+reading 
+software 
+and a keyboard 
+to read 
+and navigate 
+accessible 
+books. 12
+COVID 19, technology-based education and  disability: The  case of BangladeshLiterature review
+In order to establish the current capacity of remote learning and digital learning in Bangladesh, and the ef-
+fectiveness and impact of the ARM initiative in particular, a thorough review of the literature was conduct-
+ed. This included policy documentation, reports, and academic literature. This review is presented below 
+and structured under the following themes: overall prevalence of disability; prevalence of disability among 
+children and young people; national laws and policies on disability; disability inclusion in education poli-
+cies; disability inclusion in ICT policies; and background and current status of the ARM initiative. In struc-
+turing the literature review in this way, the policy climate, the current state of ICT initiatives, and the status 
+of the ARM initiative in particular are explored.  
+Overall prevalence of disability
+According to the Disability Information System, 1,810,821 people in Bangladesh have a disability (1,108,859 men, 
+699,473	women,	and	2,489	who	are	described	 as	third	gender)	(Bangladesh,	 2020).	However,	 the	preva-
+lence of disability in Bangladesh is unclear: the 2011 census reported disability prevalence to be 1.4 per cent 
+(1.3	per	cent	female,	1.5	per	cent	male)	(Disability	 Alliance	on	SDGs,	2019);	however,	 the	Household	 Income	
+and Expenditure Survey, conducted the previous year – a more in-depth study following the Washington 
+Group questions, also conducted by the Bangladesh Bureau of Statistics (BBS) – found the disability preva-
+lence rate to be above 9 per cent (BBS, 2014). Existing data on disability or persons with disabilities are not 
+adequate, reliable, or comprehensive. Reported data on disability rights are based on sample surveys or 
+micro-level initiatives generally undertaken by non-government organizations (NGOs) in their working areas. 
+The BBS and the Bangladesh Institute of Development Studies have yet to conduct any comprehensive map-
+ping of persons with disabilities in Bangladesh (Thompson, 2020). 
+Prevalence of disability among children and young people 
+There is a lack of information regarding the prevalence of disability among children and youth in Bangladesh. 
+According to the 2011 national census, between the age group of 0-19, approximately 3 million suffer from at 
+least one kind of disability (Bangladesh, 2011). Children with disabilities in Bangladesh are among the most 
+marginalized in terms of access to education. Even prior to the pandemic, while the primary school enrolment 
+rate in Bangladesh was 97 per cent, only 11 per cent of children with disabilities received any form of educa-
+tion (UNICEF, 2014). Primary schools are entrusted with the responsibility of identifying children with disabili-
+ties	within	respective	 catchment	 areas,	but	there	is	no	effective	system	in	place	for	such	identification,	 nor	are	
+identification	 questionnaire	 templates	 followed	 up	regularly.	 Schools	have	little	or	no	significant	 initiatives	
+for identifying children with disabilities (Thompson, 2020).
+National laws and policies on disability
+Bangladesh	 was	among	the	first	countries	 to	ratify	and	bring	into	force	the	two	most	significant	 United	Na-
+tions accords that protect the rights of children with disabilities: the Convention on the Rights of the Child 
+(CRC), in 1990, and the Convention on the Rights of Persons with Disabilities (CRPD), in 2007. The country has 
+also taken several legislative and policy actions towards nationalizing these global commitments, including 
+the Children Policy, adopted in 2011; a new Children Act, passed in June 2013; and the Rights and Protection 
+of	Persons	with	Disabilities	 Act	2013,	which	was	passed	in	October	2013.	Ratification	 of	the	CRPD	enhanced	
+a comprehensive government structure for accountability and coordination. This is reinforced by a vibrant 
+civil society, which plays a key role in promoting human rights and equity through the provision of basic social 
+services for children with disabilities. The government has also established a National Foundation for the De-
+velopment	 of	the	Disabled	 Persons	to	provide	financial	support	to	programmes	 implemented	 by	non-govern-
+mental	and	social	organizations.	 As	part	of	affirmative	 action,	the	government	 has	also	introduced	 a	10	per	
+cent ‘quota system’ for the employment of people with disabilities in the services of the republic. A National 
+Action Plan for issues relating to disability has also been developed (Thompson, 2020). 13
+COVID 19, technology-based education and  disability: The  case of BangladeshDisability inclusion in education policies
+The Education Policy 2010 addresses children with disabilities, as does the Comprehensive Early Childhood 
+Care and Development Policy 2013. Children with disabilities are addressed in these policies and there 
+is an emphasis on inclusion, beginning with early learning centres/preschools and other early childhood 
+development centres. Fewer initiatives, however, are in place for secondary school students with disabilities. 
+The National Skills Development Policy 2012, developed with technical support from the International Labour 
+Organization, includes the mainstreaming of disability in all governmental training programmes. The aim 
+is to ensure reasonable accommodation and to develop disability-inclusive training modules and curricula.
+Additionally, a National Strategy for Inclusion of Persons with Disabilities in Skills Development was drafted 
+in 2013 that aims to assist in strengthening disability inclusion in the sector (Thompson, 2020). While the Min-
+istry of Education and the Ministry of Primary and Mass Education in Bangladesh are both working to meet 
+the goal of providing free primary and secondary education to all children by 2030, children with disabilities 
+fall under the purview of the Ministry of Social Welfare, meaning that the educational needs of students 
+with disabilities are effectively siloed away from those in charge of education (UNICEF, 2014). In response 
+to concerns raised by the UN Committee on the Rights of Persons with Disabilities, the government of Bang-
+ladesh	has	offered	affirmation	 that	the	Disability	 Act	of	2013	guarantees	 the	right	to	access	to	education	
+for every person with a disability, including the right to participate in either general or special education, 
+and prohibits discrimination based on disability status. 
+Disability inclusion in ICT policies
+The Bangladesh Government’s ICT policy has prioritized the issue of inclusion and accessibility for persons 
+with disabilities in the service delivery mechanisms. Article 3 and strategic content 3.1.2, 3.1.3, and 3.1.8 em-
+phasize the accessibility of services and assistive devices, while article 4 focuses on implementing ICT-based 
+education at all levels and emphasizes access to education, materials, and mechanisms for students with spe-
+cial educational needs (BBS, 2018).
+Background and current status of the ARM initiative 
+The Bangladesh Government, along with non-governmental/private organizations, provides a range 
+of school services and inclusive education programmes for blind and partially sighted students. Although 
+some of the organizations use audiobooks as supplementary educational materials, there are no accessible 
+reading materials for many students with visual impairments. 
+YPSA	(along	with	a2i,	the	Prime	Minister’s	 Office	by	the	technical	 support	of	WIPO,	Accessible	 Books	Consorti-
+um, and the DAISY Consortium) have produced DAISY digital multimedia books, accessible e-books, and dig-
+ital Braille books for learners from Grades 1 to 10. These offer a higher level of accessibility and are more 
+cost-effective than the normal paper books that are used by students with visual disabilities, print disabilities, 
+and learning disabilities. As part of the project, all textbooks were converted into DAISY multimedia format, 
+which can be converted further into DAISY full text and full audio textbooks, Braille, and accessible e-books 
+from	the	DAISY	source	files.	The	digital	textbooks	 are	accessible	 for	all,	including	 students	 with	visual	disabil-
+ities, print disabilities, and learning disabilities. 
+After the successful completion of 33 primary school textbooks, YPSA produced all 72 secondary school text-
+books,	with	the	support	of	a2i.	In	an	initiative	formally	launched	 by	the	Honourable	 Prime	Minister	of	Bangla-
+desh, all students with a visual impairment in Bangladesh receive DAISY multimedia books each year. It is ex-
+pected that this will increase levels of terminal competencies in users by the end of the year. A randomized 
+controlled trial is being conducted by the Institute of Education Research of Dhaka University to measure 
+the effectiveness of this initiative. 14
+COVID 19, technology-based education and  disability: The  case of BangladeshThanks to this initiative, all learners can now receive equitable and quality primary and secondary education 
+leading to relevant and effective learning outcomes (Sustainable Development Goal [SDG] Target 4.1). Fur-
+thermore, education facilities have become child, disability, and gender sensitive, and provide safe, inclusive 
+and effective learning environments for all (SDG Target 4.a). The DAISY multimedia books have opened new 
+avenues for students who previously faced marginalization, and allow for greater access to educational re-
+sources	for	all	(Bhattacharjee,	Hossain,	and	Shiblee,	2019).	
+Students 
+receive 
+an Android-
+based 
+accessible 
+reading device 
+distributed 
+by YPSA  
+with the  
+support  
+of the ABC  
+of WIPO.
+Orientation 
+session 
+for students 
+on the use 
+of accessible 
+reading 
+materials.15
+COVID 19, technology-based education and  disability: The  case of BangladeshObjectives and methodology
+Objectives
+This study focuses on the Bangladesh Government’s ARM initiative and its effectiveness during the pandemic. 
+The	two	specific	objectives	are:
+1.  To assess the role of the ARM initiative in regard to ensuring inclusive and accessible education for learn-
+ers	with	disabilities	during	the	COVID-19	pandemic	in	Bangladesh.
+2.  To examine the relevance and use of ICTs in different segments of the initiative, particularly during 
+COVID-19	in	terms	of	access	to	learning	opportunities.	
+Methodology
+To assess the role of the ARM initiative, its 
+current status, effectiveness, and impact 
+(with a particular focus on ICTs) were ana-
+lysed	in	the	context	of	the	COVID-19	 pan-
+demic. A desk-based review of the litera-
+ture, focus group discussion (FGD), and key 
+informant interview (KII) methods were 
+used to collect qualitative data. Data were 
+collected from both primary and second-
+ary sources: primary data were collected 
+through 13 KIIs and 4 FDGs, and second-
+ary data were collected through desk 
+reviews of relevant documents of state 
+and	non-state	 offices,	research	 organiza-
+tions, relevant national and international 
+policies and commitments, and websites 
+of relevant ministries of the Bangladesh 
+Government. 
+DVD cover 
+page 
+of mulimedia 
+taking book, 
+Grades 6-10.
+A screen 
+of a DAISY 
+standard 
+multimedia 
+talking book.16
+COVID 19, technology-based education and  disability: The  case of BangladeshFindings
+The	findings	of	this	study	are	presented	 under	the	following	 themes:	relevance	 and	appropriateness;	 ef-
+fectiveness;	 efficiency;	 impact;	and	sustainability.	 This	section	will	present	findings	under	these	thematic	
+headings.
+Box 1. outlines the research questions that relate to each theme; these are included to provide the reader 
+with context and more information on how the study was carried out. 
+Box 1.1 Research themes and questions
+Relevance and appropriateness 
+• How	closely	aligned	is	the	Bangladesh	Government’s	national	policy/institutional	strategy	
+and its interventions and plans with national and global goals supporting disability-inclusive 
+COVID-19	responses?
+• How	aligned	is	the	ARM	initiative	with	its	commitment	of	ensuring	disability-inclusive	education	
+during	the	pandemic?
+• How	appropriate	is	the	national	and	institutional	current	approach	for	inclusion	of	disabled	stu-
+dents	in	formal	or	non-formal	education?
+Effectiveness
+• What role did the ARM initiative play during the pandemic in ensuring accessible education 
+for	children	and	young	people	with	disabilities?
+• To what extent has the initiative facilitated the teaching-learning process through the use 
+of	ICTs?
+• What	ICTs	and	advanced	(artificial	intelligence–enhanced)	ICTs/assistive	devices	are	being	used	
+during	the	ARM	initiative,	and	what	are	the	specific	objectives	in	mind?
+Efficiency
+• How	efficiently	have	the	resources	dedicated	to	the	ARM	initiative	been	used	to	deliver	
+high-quality	outputs	in	a	timely	fashion,	and	to	achieve	targeted	objectives?
+• How	efficient	was	the	initiative	during	the	COVID-19	pandemic?
+Impact – how successful has the ARM initiative been to date, and are there signs of impact of: 
+• Expanding	opportunities	for	students	with	disabilities?
+• Increasing equitable access to quality inclusive education for children and young people 
+with	disabilities	during	the	pandemic?
+Sustainability 
+• What	are	the	key	features	of	the	ARM	initiative	that	ensure	sustainability?	17
+COVID 19, technology-based education and  disability: The  case of BangladeshRelevance and appropriateness
+ICTs	have	the	potential	 to	make	significant	 improve-
+ments to the lives of persons with disabilities by allow-
+ing them to enhance their educational, social, cultural, 
+political, and economic integration within communities 
+(UNESCO, 2021; Watkins, Tokareva, and Turner, 2012). 
+Recognising this, the Bangladesh Government has 
+made ICTs an integral part of any disability-inclusive de-
+velopment agenda. In doing so, the government took 
+into	consideration	 the	findings	 of	different	 national	
+and international data that revealed a high prevalence 
+of disability, and subsequent illiteracy rate, in Bangla-
+desh (Tareque, Begum, and Saito, 2014). It introduced 
+the ARM initiative in 2014 in order to ensure acces-
+sible, equitable, and quality education for students 
+with disabilities.
+The main parties involved in the implementation 
+of this initiative were a2i and YPSA. During the KII, rep-
+resentatives	 from	both	organisations	 affirmed	 their	
+dedication and emphasized their approach regarding 
+the involvement of persons with disabilities and organ-
+izations of persons with disabilities (OPD) throughout 
+the initiative: the programme manager of this initiative 
+was also a person with visual impairment, who is also 
+the focal person for DAISY in Bangladesh. 
+During the preparation phase of the initiative, plan-
+ning meetings were held with groups of OPDs – along 
+with students with disabilities – in order to include their 
+opinions and suggestions. Persons with disabilities were 
+involved in a participatory process to identify problems. 
+The OPD members (along with teachers with disabilities 
+and teachers at the Government School for the Blind) 
+interacted with the target group and collected feed-
+back upon which the project was designed. Abdus Sam-
+ad, former head teacher at the Government School 
+for the Blind, Chittagong, and member of the expert 
+committee of the ARM initiative mentions in this context 
+that  ‘Persons with disabilities were not only involved 
+in the planning phase, but also in every phase of the im-
+plementation stage, such as the production and dissem-
+ination of accessible reading materials, the promotion 
+of training on the use of accessible reading materials 
+by the students and teachers, the use of digital Braille 
+by the Braille press and implementation, and the moni-
+toring and evaluation of the project’. 
+In summary, this initiative was designed by persons 
+with disabilities for persons with disabilities; this offers 
+a level of validity and relevance to the ARM initiative.‘There was a need to create a solution 
+that will be accessible for all, and satisfy 
+the educational needs of all schoolgoing 
+children in Bangladesh including 
+students with visual and print disabilities 
+all year round. So the government 
+undertook the ARM initiative 
+years ago which used open source 
+technologies and the power of ICTs 
+in line with the government’s vision 
+of creating a Digital Bangladesh. 
+All the textbooks of class 1-12 were 
+converted into different accessible 
+formats such as multimedia full text, 
+full audio, human-narrated talking 
+books, accessible e-books, and digital 
+Braille. After the closure of educational 
+institutions in March 2021, everything 
+was shifted online, and then 
+the byproduct of the ARM initiative 
+became a blessing for the government 
+in ensuring inclusive and accessible 
+education for students with disabilities 
+during the COVID-19 pandemic’.
+Dr. A K M Reazul Hassan,  
+Member (Primary Curriculum), 
+NCTB, Ministry of Education18
+COVID 19, technology-based education and  disability: The  case of BangladeshEffectiveness 
+The ARM initiative appeared to be appreciated by students with disabilities during the FGD and KII. The par-
+ticipants expressed that, since their introduction, these books have made learning more accessible during 
+lessons, and have continued to do so during school closures. They also agreed that with the help of these ac-
+cessible books, they are now able to access textbooks at the beginning of their academic calendar – even dur-
+ing the pandemic. The ARM initiative has reduced their dependency on others as they can operate the books 
+and study on their own; it also became clear that these books are encouraging many of their friends to study 
+technical subjects, e.g., the sciences and mathematics. 
+Prior to the initiative, learners struggled to access textbooks (and other educational content) due to the ab-
+sence	of	accessible	 study	materials.	 These	difficulties	 required	support	from	their	family	members	 or	friends.	
+Md.	Hassan,	a	government	 primary	school	teacher	(who	is	also	a	person	with	visual	disability),	 noted	that	
+‘prior	to	the	pandemic,	 sometimes	 it	was	difficult	to	get	accessible	 study	materials,	 but	after	the	pandemic,	
+everything shifted towards online, accessibility got top priority, and these materials became easily available 
+via different online platforms.’ Another FGD participant, Ms Lima Akter, a student with visual disability, stated: 
+‘When school closed, I returned to home without carrying a single printed Braille book because the books are 
+too	large	to	carry	and	I	did	not	think	that	schools	will	remain	closed	for	this	long.	Hence,	I	resorted	to	multi-
+media digital talking books and have been using these since through my Android phone.’
+The government and its partners have distributed thousands of assistive devices such as Android smart-
+phones, laptops, and book readers. With these, students with disabilities have been able to progress in terms 
+of their academic studies, especially during school closures. The government and its partners (such as YPSA) 
+have	been	distributing	 these	books	via	the	internet	to	students	 with	disabilities.	 Indeed,	one	of	the	findings	
+from the discussions with student and teacher groups was that these books are relatively easy to obtain; 
+many participants mentioned that they were able to download these books from websites such as www.ypsa.
+org, www.abcglobalbooks.org or www.accessiblebookbd.org.
+Some participants, however, expressed concern regarding the third-party distribution mechanism of accessi-
+ble materials and argued that the government should create a national online accessible books library. Sajjad 
+Hossain	Saju,	President,	 Disabled	 Students’	 Society	of	Chittagong	 University	 (DISSCU),	 stated	the	following:	
+‘Government needs to create an online accessible books platform of its own or an accessible Android applica-
+tion from where we can get all the books whenever we need and wherever we need. Also, tertiary-level books 
+are not fully accessible for students with disabilities.’
+Although issues were raised about the accessibility of these books, it appears that, in the opinion of the focus 
+groups and interview participants at least, the ARM initiative has been effective both in reaching marginalized 
+learners and offering an accessible alternative to basic textbooks. 
+Efficiency
+The Bangladesh Government has prioritized the issue of digital inclusion of persons with disabilities 
+within its Digital Bangladesh initiative, and has undertaken several ICT-based initiatives, such as ensuring in-
+clusive and equitable quality education for all. The ministry representatives, including the NCTB, emphasized 
+that the production of DAISY digital multimedia talking books, accessible e-books, and digital Braille books 
+have	been	popular	among	the	beneficiary	 groups	and	are	highly	cost-effective	 compared	 with	more	inacces-
+sible paper books. 
+Prior to the ARM initiative, students with disabilities (especially visually impaired students) struggled to access 
+Braille	books	for	their	studies.	These	books	were	too	heavy	to	carry	and	supply	was	insufficient	 compared	
+to the demand. Furthermore, there was no set time in the academic year when Braille books would be-
+come available to learners. ‘During the beginning of each year, we were sceptical whether we will get Braille 
+or not. Since the accessible reading materials became available in multiple formats, this problem became 
+our past. Even during this pandemic, as a teacher, I can assure all my students that they will get their books 19
+COVID 19, technology-based education and  disability: The  case of Bangladeshon	the	first	day	of	the	academic	 year,	without	any	delay’,	noted	Sheuli	Akhter,	teacher	of	the	Government	
+School	for	the	Blind	in	Chittagong.	 The	ARM	initiative	 has	also	proven	to	be	efficient	throughout	 the	shift	
+to	online	learning	during	the	COVID-19	 pandemic:	 due	to	their	digital	nature,	these	books	are	easy	to	distrib-
+ute online, making delivery easier and safer, at least to those with access to the internet.
+Students are 
+reading Braille 
+books in class.
+Impact 
+In Bangladesh, a large number of visually im-
+paired students are now studying at many 
+levels within various educational institutions. 
+According to the DSS, three-quarters passed 
+the	Higher	Secondary	 Exam	across	the	country	
+in the last year (with 3.54 per cent achieving 
+GPA-5, the highest score achievable). Thanks 
+to the ARM initiative, visual impairment did not 
+stop these students from competing with their 
+peers and succeeding in their studies. 
+This success indicates that, due to the ARM in-
+itiative, students with disabilities are succeed-
+ing academically and will, in the future, be able 
+to contribute to the national economy. The 
+partnership with NCTB and the DSS in the Min-
+istry of Social Welfare has enriched the ARM in-
+itiative and has taken Bangladesh a step closer 
+to providing inclusive and equitable quality ed-
+ucation for all. Currently, under this initiative, 
+multimedia talking books (MTB) are also being 
+developed for the university curriculum. 
+Previously,	 it	was	difficult	to	provide	Braille	
+books at the beginning of the year, but since 
+forming a partnership, the NCTB and a2i have 
+ensured that the revised multimedia talking 
+books and Braille books – along with other ‘Thanks to the ARM initiative, among the visually 
+impaired candidates, 73.93 per cent passed 
+and 3.54 per cent achieved GPA-5 in last 
+year’s Higher Secondary Exam.’ 
+Md. Zulfikar Haider, Director, Operation, 
+DSS, Ministry of Social Welfare, Government 
+of Bangladesh.
+‘Leaving no one behind is the centrepiece 
+of UNDP’s approach and strategies 
+to tackle inequality and build resilience 
+to sustain development results. To put it in action 
+in the education sector of Bangladesh, UNDP 
+collaborated with the government through 
+the a2i programme and undertook some brilliant 
+initiatives such as ARM, accessible book reader, 
+accessible dictionary, etc. Those innovative 
+initiatives have been proven instrumental 
+in realising the Bangladesh government’s deep 
+commitment of achieving the SDGs, especially 
+the SDG 4.’
+ Ashekur Rahman, Assistant Resident 
+Representative, UNDP, Bangladesh20
+COVID 19, technology-based education and  disability: The  case of Bangladeshtextbooks – are available on 1 January every year 
+for visually impaired and print-disabled students. 
+NCTB also stated that it distributed these books 
+among approximately 150,000 students with disabil-
+ities	on	the	first	day	of	the	academic	 year.	Further-
+more, the a2i programme stated that its multimodel 
+virtual	educational	 approach	 during	COVID-19	 has	in-
+corporated the use of ARM in all its relevant segments 
+to ensure disability inclusion and accessibility. It is es-
+timated that approximately 70,000-100,000 students 
+(around 10 per cent of the total viewers) with disa-
+bilities	have	benefited	 from	the	government’s	 online	
+education	 initiative	 during	COVID-19	 –	a	figure	that	
+is expected to grow in the near future. Among these 
+students, 50 per cent were girls with disabilities.
+In addition, with the support of WIPO and its Acces-
+sible Book Consortium (ABC), YPSA has distributed 
+around 2,000 Android smartphones among the most 
+marginalized students with disabilities (50 per cent 
+of whom were girls). ‘In collaboration with YPSA, 
+WIPO’s Accessible Books Consortium has distribut-
+ed hundreds of android devices, which have proved 
+their	effectiveness	 during	COVID	19,	as	students	 are	
+using these devices to access different online plat-
+forms and read digitally accessible books. Likewise, 
+during the pandemic we have noticed an increase 
+in the number of accessible recourses downloaded 
+from the ABC Global Book Service, from users locat-
+ed in Bangladesh’, said Santiago Streeter of WIPO/
+ABC.
+An accessible book reader, innovated by a2i, enhanc-
+es the accessibility of content for students with dis-
+abilities. a2i has distributed around 1,200 devices 
+(in	collaboration	 with	the	National	 Human	Rights	
+Commission, DSS, and UNDP) among students with dis-
+abilities; these have proven to be effective in enhanc-
+ing inclusive and accessible education, particularly 
+during	the	COVID-19	 pandemic.	 These	devices	are	
+helping recipients to access educational and infor-
+mational content, along with other online/e-services 
+provided by governmental and private-sector organ-
+izations.	During	the	COVID-19	 pandemic,	 YPSA’s	in-
+ternational exchange of books from the ABC Global 
+Book Service and Bookshare Library has increased 
+tenfold with the organizations recording more 
+than 5,000 book shares among the end users.‘YPSA has developed more 
+than 200,000 pages of DAISY standard 
+accessible reading materials for students 
+with disabilities in the last few years 
+which have proved to be the most 
+effective regarding education during 
+the COVID-19 pandemic. Since 
+the pandemic, we have distributed these 
+books to more than 10,000 (4,600+ 
+were girls with disabilities) students 
+with disabilities via email, WhatsApp, etc.’ 
+Rashedujjaman Chowdhury, Associate 
+Program	Officer,	ICT	and	Resource	
+Centre for Persons with Disabilities 
+(IRCD), YPSA
+‘Our multimodal education delivery 
+mechanism during COVID-19 incorporated 
+the use of ARM in all its relevant 
+segments to ensure disability inclusion 
+and accessibility, and approximately 
+70,000-100,000 students (around 10 per 
+cent of the total viewers) with disabilities 
+have benefited so far, among whom 
+at least 50 per cent were girls 
+with disabilities.’
+Md. Afzal Hossain Sarwar, Policy 
+Specialist	and	Head	of	Future	
+of Education, a2i, ICT Division, 
+Government of Bangladesh21
+COVID 19, technology-based education and  disability: The  case of BangladeshBox 1.2 Case study of Md. Shakil Khan, a student with visual impairment
+I am Md. Shakil Khan. My father, Md. Ayub Khan, is a middle-class businessman and my mother, 
+Farzana Begum, is a housewife. I have one brother and one sister, and two of us are visually impaired. 
+At the beginning of our student life, my sister and I had to face many adversities, but now I am studying 
+in the first year of honors in the Department of Political Science , University of Chittagong. My younger 
+sister, who is also visually impaired, is studying in the 10th class of Rahmania High School.
+Being visually impaired, it is almost impossible for us to read regular printed books. To make 
+the impossible possible, YPSA, with the help of a2i, published MTBs. Most of the visually impaired 
+students like me have been relieved of the grief of not being able to read books. Now we are able 
+to continue our studies successfully. Overall, visually impaired students are doing well. The real 
+example of which is me. I passed the 2019 Higher Secondary Examination with GPA-5 and got admitted 
+to the University of Chittagong. 
+I would like to point out more specifically that during the current Coronavirus pandemic, when all 
+educational institutions were declared closed and when regular study became inaccessible and impossible 
+for visually impaired students like me, accessible reading materials became the relief for my academic 
+continuity. The television-centric education programmes have been a savior for my younger sister. Also, 
+in 2018 I received a smartphone from YPSA which has been providing me with opportunities, especially 
+during the pandemic, that were previously inaccessible to me.  
+Sustainability
+The content developed under the ARM initiative is entirely digital 
+and easily accessible through low-cost assistive devices. These 
+books, therefore, will last and be relevant into the foreseeable 
+future – and will continue to be when updated versions of text-
+books are made available. Furthermore, as a result of the Bang-
+ladesh Government’s adoption of the UN CRPD, and the in-
+troduction of its own law titled Persons with Disability Rights 
+and Protection Act 2013 (which included a separate section on 
+ICT and accessibility, national ICT policy, and the Right to Infor-
+mation Act), issues of accessibility in the education sector are 
+gaining	priority:	the	government	 has	affirmed	that	it	will	support	
+the production of accessible books (Article 19, 2015). 
+‘Since Bangladesh is transforming into a digital Bangladesh, 
+it was a mandate of the government to ensure equal access 
+for all in the service and education sector; hence, through 
+the	ARM	initiative,	 the	government	 has	reaffirmed	 that	it	will	
+support the production of accessible books for making education inclusive and barrier-free for all including 
+students with disabilities’, said Faruque Ahmed, Consultant (Academic Research, Development and ICT), Pri-
+mary Education Development Programme 4, Government of Bangladesh.
+As a result, after amending the act and including Braille production issues in its mandate, the NCTB now pub -
+lishes accessible books on a yearly basis. The ownership fostered by NCTB will ensure that whenever there 
+is	any	modification	 to	the	national	curriculum,	 it	will	be	integrated	 into	the	accessible	 reading	materials,	 en-
+suring that updated content is available to students with or without disabilities. Furthermore, due to the use 
+of open source technology, the process of developing and producing the full-text and full-audio multimedia 
+books,	Braille	books,	and	accessible	 e-books	through	the	use	of	DAISY	is	easily	replicable	 (Bhattacharjee,	 Hos-
+sain,	and	Shiblee,	2019).	However,	 in	order	to	attain	maximum	 leverage	 from	this	innovation,	 it	is	necessary	‘The ratification 
+of the Marrakesh Treaty, 
+and the amendment 
+of the existing copyright law, 
+still remained as a huge barrier 
+for accessible book production’.
+Monsur Ahmed 
+Chowdhury, Founder/
+President, Bangladesh 
+Visually	Impaired	Peoples	
+Society	(BVPIS),	and	former	
+Member of the Monitoring 
+Committee, CRPD22
+COVID 19, technology-based education and  disability: The  case of Bangladeshto continuously implement innovations that complement the overall learning environment for students 
+with disabilities. The future of this initiative lies in making it independent of hardware type, and user-friendly 
+for students of any level of education. 
+One	factor	that	has	the	potential	 to	enhance	 the	sustainability	 of	this	initiative	 is	the	ratification	 of	the	Mar-
+rakesh	Treaty	(WIPO,	2016).	This	would	allow	for	copyright	 exceptions	 to	facilitate	 the	creation	of	accessible	
+versions of books and other copyrighted works for print-disabled students.
+Other factors 
+In addition to the key themes, other factors relating to the ARM 
+initiative were raised during this study. These include the move 
+from	CDs/DVDs	 to	accessible	 book	readers,	 the	coverage	
+of key subjects, accessibility for students in higher education, 
+and the awards won. 
+Any students with access to computers, tablets, or Android mo-
+biles can use the materials created under the ARM initiative. 
+Visually	impaired	 students	 can	participate	 in	learning	by	listen-
+ing to content that has been designed to make learning easy 
+and engaging. These books were initially developed in the form 
+of	CDs/DVDs	 which	required	 a	laptop	or	computer	 to	run.	To	
+address this dependency on computers, a portable DAISY-sup-
+ported accessible book reader was also developed for playing 
+these books. It has been designed in a way that will provide com-
+plete subtitles, along with audio subtitles for printed materials, 
+and	is	specifically	 designed	 to	be	used	by	students	 with	print	
+disabilities, including blindness, impaired vision, and dyslexia. 
+The ARM initiative has already encompassed all textbooks 
+for Grades 1–12, and works alongside all other existing 
+DAISY-supported/ePub books. It also uses several other open 
+source technologies. Therefore, it is able to cover key subjects 
+such as science, English, literature, Bangla, history, geography, 
+social science, and religion of the NCTB. 
+This project has developed more than 100 university books 
+and is working to increase this number. In order to establish an accessible inclusive education, especially 
+during	emergencies	 such	as	the	COVID-19	 pandemic,	 DAISY-standard	 accessible	 reading	materials,	 created	
+under the Bangladesh Government’s ARM initiative, have played a vital role. 
+This initiative, and its pioneers, have received several international awards thanks to its innovation and ef-
+fectiveness. These have included the UNESCO Prize for Digital Empowerment of Persons with Disabilities 
+in 2018, the World Summit on the Information Society Prize in 2017, the Accessible Books Consortium Award 
+for Accessible Publishing Initiative at the International Excellence Award in 2015, and the Information Society 
+Innovation	Fund	(ISIF	Asia)	award	in	2014	(Bhattacharjee,	Hossain	and	Shiblee,	2019).‘Before the ARM initiative, 
+it was difficult to create 
+an accessible lecture as there 
+was no Unicode text except 
+colonial fonts. Now that 
+the ARM has used several 
+open source technologies, 
+it became much easier for me 
+to engage with my students 
+who have disabilities. It is easier 
+for the teachers now to prepare 
+lectures in accessible formats 
+which has especially proven 
+its effectiveness during 
+the pandemic when everything 
+moved to online’.
+Mohammad Kabir Hossain, 
+Associate Professor, 
+Government Teachers’ 
+Training College, Comilla.23
+COVID 19, technology-based education and  disability: The  case of BangladeshBarriers encountered with the ARM 
+initiative
+During the KIIs and FGDs, the participants pointed out several barriers that they encountered regarding 
+the implementation of the ARM initiative and using the books created under the ARM initiative. They are 
+being presented in the following two segments. Participants also shared obstacles that they faced regarding 
+the	COVID-19	pandemic.	
+Common barriers:
+1 Lack of high-quality text-to-speech software in the Bangla language.
+2 Lack of Unicode text. 
+3Absence of copyright exception in the copyright law for the production of accessible reading materi-
+als in the country. 
+4Lack of established library service or effective online mechanism for distribution of accessible reading 
+materials.
+5 Lack of awareness on accessible digital contents.
+6 Lack of motivation among the teachers to use DAISY books.
+7 Scarcity of low-cost playback devices for accessible reading materials.
+Barriers specific to COVID-19:
+1Lack	of	collaborative	response	to	mitigate	the	inclusive	educational	challenges	posed	by	COVID-19.	
+2The stigma attached to using assistive technologies and online mechanisms in the education sector 
+in Bangladesh.
+3 Confusion about the changes in education delivery and assessment approaches driven by the pandemic.24
+COVID 19, technology-based education and  disability: The  case of BangladeshRecommendations
+• Conduct	a	dedicated	in-depth	national	survey	to	find	out	the	exact	prevalence	of	children	and	youth	
+with disabilities and their needs.
+• Make all accessible reading materials available through a national online accessible books platform, as 
+well as through an accessible Android application.
+• To provide access for students with all types of disabilities; all government e-learning platforms should be 
+made inclusive and accessible.
+• Ratify the Marrakesh Treaty urgently; the treaty will allow for copyright exceptions to facilitate the crea-
+tion of accessible versions of books and other copyrighted works for print-disabled students.
+• Include sign language in the government’s multimodal approach and promote the use of sign language 
+in all levels of education. 
+• Set	up	specific	plans	for	the	return	to	school,	with	clear	measures	for	children	with	disabilities.	Ensure	
+that information and instructions regarding the return to school (and social distancing measures) are 
+provided in multiple, accessible formats.
+• Changes	in	the	education	delivery	system	due	to	the	COVID-19	crisis	should	be	institutionalized	in	policy.
+• Initiate inclusive policy reforms to improve the quality of education for children with disabilities in con -
+sultation with representative organizations of children and youth with disabilities and their parents. 
+Ensure that policy reform addresses key enablers of inclusive education, such as appropriate investment 
+in teachers; inaccessibility of learning materials, methods and environment; and reasonable accommoda-
+tion provision.
+• Ensure that all learning materials prepared for the return to school are accessible, and that consultation 
+with children with disabilities and their families is made mandatory on any curricular or assessment 
+changes. 
+• Provide additional training and support to teachers and aides who teach and support children 
+with disabilities. 
+• Scale up the current innovations such as MTBs, accessible e-books and accessible book readers.25
+COVID 19, technology-based education and  disability: The  case of BangladeshConclusion
+In Bangladesh, education pathways and curriculum delivery have traditionally been generic and linear, 
+with	little	flexibility	 to	respond	to	individual	 student	needs.	With	the	aim	to	build	a	nation	and	a	workforce	
+ready to contribute to the 21st century, the Government of Bangladesh introduced ICTs into many aspects 
+of education; the ARM initiative is one introduction, among others (see below), that has opened new avenues 
+for students with disabilities to harness resources and continue learning, even when schools closed at the be-
+ginning of 2020.
+When	the	COVID-19	 pandemic	 hit	Bangladesh,	 the	government	 was	forced	to	identify	new,	innovative,	 in-
+clusive, and accessible ways to provide students with learning opportunities. The ARM initiative has proven 
+to be effective in this regard by ensuring inclusive and accessible education for students with disabilities, 
+and has contributed to a narrowing of the ‘digital divide’. It is necessary, however, to maintain levels of sup-
+port and to ensure that students have more, and better, opportunities to learn in the post-pandemic era. To 
+this end, policy reform must be pursued to ensure that remote learning options are maintained – that these 
+options are not only implemented in times of emergency, but are in place to provide continuous support 
+and remedial learning options for both classroom-based and home-based learners, with and without disabil-
+ities. If this support is provided in a sustainable and impactful manner, then – and only then – will the ARM 
+initiative reach its full potential. If delivered, and maintained, effectively, this ‘model of good practice’ will not 
+only	benefit	the	millions	of	learners	with	and	without	disabilities	 within	Bangladesh,	 but	will	act	as	an	exam-
+ple that the Global South can follow. The impactful and effective ARM initiative, co-designed with persons 
+with	disabilities,	 will	provide	a	strong	model	for	others	to	work	from	and,	in	turn,	may	benefit	countless	
+learners around the world. 26
+COVID 19, technology-based education and  disability: The  case of BangladeshOther initiatives that complement ARM 
+The ARM initiative is one of many ICT-based programmes that have allowed learning to continue during peri-
+ods	of	school	closures.	 Below,	five	others	are	listed.	These	are	not	‘competing’	 initiatives;	 each	complements	
+all of the others. This multilateral approach allows more learners to be reached by a greater number of initi -
+atives, depending on their location, their access to technology and the internet, and their particular learning 
+needs.
+Education through TV broadcast (Sangsad+EduSkills)
+Since national school closures, the state-run Sangsad Bangladesh Television has been broadcasting pre-re-
+corded lessons for primary, secondary, madrasah, and technical students under the supervision of respective 
+directorates (and with technical help from a2i). As of December 2020, a total of 501 classes for primary stu-
+dents,	1,260	classes	 for	secondary	 students,	 260	classes	 for	madrasah	 students,	 and	140	classes	 for	technical	
+students were telecast. These classes have been viewed by around 3.5 million students daily. The classes were 
+based on the annual lesson plan and students were given regular homework, as they would receive from 
+school-based	 classed.	The	first	class	was	aired	on	29	March	 2020	for	secondary	 students.	 Later	classes	for	pri-
+mary,  technical, and madrasah students started from 7 April, 19 April, and 5 May, respectively (a2i, 2020).
+Purpose
+• academic classes for students
+• live sessions for students, parents, and teachers (proposed).
+So far…
+2,100 + 
+Classes broadcast13 .6 million
+Students reached3,500  classes
+Target to broadcast by December 2020
+A class using 
+Facebook  
+Live during  
+the COVID-19  
+pandemic. 
+First TV broadcast 
+on 29 March 202027
+COVID 19, technology-based education and  disability: The  case of BangladeshEducation through social media (Facebook Live and YouTube)
+During the pandemic, social media have been an important platform for internet-based educational content 
+delivery	(Sobaih,	Hasanein,	 and	Abu	Elnasr,	2020).	Alongside	 television	 broadcasts,	 many	Facebook	 pages	
+and YouTube channels aired online classes for pre-primary to Grade 12 students. 
+A Facebook page named Ghore Boshe Shikhi, owned by the Directorate of Primary Education (DPE) and run 
+by a2i, aired more than 2,200  classes and had 10 million views in total. An a2i specialized platform for adoles-
+cents, Konnect Kishore Batayon, aired 378 classes for college students which had around 1.7 million views dai-
+ly.	According	 to	a2i’s	Teachers’	 Portal	online	class	dashboard,	 as	of	March	2021,	roughly	268,000	classes	 were	
+taken by more than 14,000 teachers from over 5,400 Facebook pages. Online classes were also broadcast 
+from the Konnect YouTube channel, which has around 87,000 subscribers. In addition to academic classes, 
+the Konnect Facebook page also aired numerous classes on ‘soft skills’, such as painting, web development, 
+film-making,	 and	game	design.	The	Konnect	online	counselling	 session	on	mental	health	and	well-being,	
+which was available through the same platform, was also widely viewed (a2i, 2020).
+Purpose 
+• online classes for students
+• additional support for students, parents, and teachers.
+So far… 
+90 ,000 + 
+Classes1.0 million
+Students per day
+1.5 million students
+Target to reach per day by December 2020
+Implementing agencies
+Ministry	of	Education,	 Ministry	of	Primary	and	Mass	Education,	 Directorate	 of	Secondary	 and	Higher	Educa -
+tion, Directorate of Primary Education, Directorate of Technical Education, Directorate of Madrasha Educa -
+tion, National Academy of Primary Education, National Curriculum and Textbook Board, Bangladesh Technical 
+Education	 Board,	Bangladesh	 Madrasah	 Education	 Board,	a2i	Programme,	 ICT	Division	(through	 a2i	official	
+facebook page, Konnect – Kishore Batayon Facebook Page and Youtube Channel, Teachers’ Portal Facebook 
+Page, Skills Portal Facebook Page and Youtube Channel, Imam Portal Facebook Page and Youtube Channel) 
+with	financial	support	from	UNICEF.‘After the countrywide 
+lockdown, all the educational 
+institutions were closed 
+and everything shifted online. 
+Then the reading materials 
+created under the ARM 
+initiative became handy 
+to continue the online education 
+delivery for ensuring inclusive 
+and accessible education 
+for students with disabilities’.
+Selina Islam, Deputy Direc-
+tor (Monitoring), Directorate 
+of	Secondary	and	Higher	
+Secondary Education, Ministry 
+of Education28
+COVID 19, technology-based education and  disability: The  case of BangladeshCommunity radio–based classes
+The state-run radio station Bangladesh Betar has been broadcasting classes for primary students, along-
+side	Sangsad	 Bangladesh	 Television,	 as	educational	 institutions	 remained	 closed	due	to	the	COVID-19	 pan-
+demic.	Classes	have	been	aired	through	Bangladesh	 Betar	and	16	community	 radio	stations	simultaneously,	
+from Sunday to Thursday from 4:05 p.m. to 4:45 p.m. Students can join these classes through radios or mo-
+bile phones. In addition, the a2i programme has conducted over 200 interactive radio classes with the help 
+of teachers from the Directorate of Technical Education, along with support from UNICEF, and have been able 
+to reach millions of students (Bangladesh National Portal, 2020).
+Purpose
+• academic content for different classes
+• live sessions with teachers
+• public service announcements for educational awareness.
+So far…
+450 + 
+classes for primary  
+and 200+ classes 
+for technical500 ,000
+Students  
+per day600 ,000 + students
+Target to reach per day  
+by December 2020
+Implementing agencies
+Primary agencies: Ministry of Primary and Mass Education, Directorate of Primary Education, National Acad-
+emy	of	Primary	Education	 and	National	Curriculum	 and	Textbook	 Board	with	the	financial	support	of	UNICEF	
+and Bangladesh Betar as broadcasting partner.
+Technical agencies: Implemented by Ministry of Education, Directorate of Technical Education, and Bang-
+ladesh	Technical	 Education	 Board	with	financial	 support	of	UNICEF	and	Bangladesh	 Betar	as	broadcasting	
+partner.29
+COVID 19, technology-based education and  disability: The  case of BangladeshMuktoPaath e-learning platform
+MuktoPaath has created opportunities for general, vocational, and lifelong education for many learners, in-
+cluding those with disabilities. Disadvantaged and marginalized groups are able to receive vocational educa-
+tion	on	MuktoPaath	 that	relates	to	and	is	beneficial	 in	terms	of	self-employment.	 Teachers,	 students,	 youths,	
+working people, outbound workers, migrant workers, or housewives, for example, are able to learn with Muk-
+toPaath. Currently, MuktoPaath has 1.1 million registered learners and offers more than 187 courses. During 
+the	pandemic,	 MuktoPaath	 played	a	significant	 role	as	a	first-hand	 responder	 in	the	health	and	education	 sec-
+tor.	MuktoPaath	 provides	 10	COVID-focused	 e-learning	 courses	for	doctors,	health	professionals,	 and	teach-
+ers in collaboration with governmental and non-governmental organizations, such as the Directorate Gen-
+eral	of	Health	Services,	 Bangabandhu	 Sheikh	Mujib	Medical	University,	 DPE,	the	Directorate	 of	Secondary	
+and	Higher	Education,	 BRAC,	and	John	Hopkins	University	 and	trained	around	50,000	doctors,	 100,000	health	
+professionals, and 300,000 teachers (a2i, 2020).
+Purpose  
+• providing e-learning facilities for learners.
+So far…
+180 + 
+Сourses1 million
+Learners100
+Partners
+A screen shot 
+of the  
+MuktoPaath  
+e-learning 
+platform.
+Implementing agencies
+a2i	Programme,	 ICT	Division,	 Cabinet	Division	and	UNDP	Bangladesh	 with	100+	government	 and	non-gov-
+ernment partners. 30
+COVID 19, technology-based education and  disability: The  case of BangladeshEmporia web platform and mobile application
+The Emporia application is composed of a web platform and a mobile application. The web platform pro-
+vides	access	to	an	e-learning	 platform	 and	job	portal	specifically	 designed	 for	persons	with	disabilities.	 Users	
+of the mobile application need to download the mobile application on an Android mobile device.
+Emporia includes ICT courses and a ‘dynamic exam’ system. The job portal allows persons with disabilities 
+easier access to jobs and a simpler way to apply for positions.  
+The app features:
+• dynamic responses, depending on type of disability
+• the	ability	for	users	to	complete	their	e-learning	course	both	in	online	or	offline	mode
+• the opportunity for learners to map their progress, retake exams, or comment/rate particular courses
+• the	ability	for	users	to	build	a	CV	and	to	search	and	apply	for	jobs	(Emporia,	2021).
+Purpose 
+· e-learning and job portal for persons with disabilities. https://emporia.bcc.gov.bd/
+Implementing agencies 
+Digital Bangladesh, ICT Division, genweb2, Bangladesh Computer Council. 
+Screenshots 
+from 
+the Emporia 
+application. 
+A screen shot 
+of the Emporia 
+web platform 
+(desktop).31
+COVID 19, technology-based education and  disability: The  case of BangladeshEmpowerment of Persons with Disabilities including NDD 
+[Neurodevelopmental Disabilities] through ICT
+This project aims to help persons with disabilities develop ICT skills that will promote their employment 
+and	allow	them	to	contribute	to	a	Digital	Bangladesh.	The	specific	goals	are:
+• to produce specialized audio and video tutorials on ICT training with voice and sign language help
+• to develop a specialized, interactive, accessible national e-learning platform (web portal) for persons 
+with disabilities
+• to establish a specialized ICT Resource Centre for persons with disabilities 
+• to popularize ICTs among persons with disabilities (Emporia, 2021).
+Purpose 
+• to help persons with disabilities develop ICT skills and become skilled employees (EPWDICT, 2020).
+Implementing agency
+Bangladesh Computer Council 
+Synchronous learning management system (LMS) 
+for tertiary education and training      
+On 23 June 2020, under the leadership of the Ministry of Education, the University Grant Commission (UGC) 
+and a2i, the ICT Division developed a virtual platform allowing for the organization of different types of live 
+classes and training sessions. For video conferencing, a range of software is being used (WebEx, Google meet, 
+and other video conferencing software along with Muktoclass conferencing software). Different types of mul-
+timedia and audio-visual content in different formats (pdf, PowerPoint etc.) can be shared as attachments.
+Purpose
+• to provide greater access to learning opportunities during the pandemic and beyond 
+(https://www.virtualclass.gov.bd/ )
+So far…
+47 
+Institutes reached 
+(34 universities/colleges 
+and 13 training institute) 5900 +
+Learners 
+reached570 +
+Learners 
+reached2850 +
+Virtual classes 
+organized
+(a2i, 2020).
+Implementing agencies
+Ministry of Education, University Grant Commission (UGC), a2i, ICT Division.32
+COVID 19, technology-based education and  disability: The  case of BangladeshReferences
+• a2i (Access to Information). 2020. ‘a2i: about’. Last accessed 13 April 2021: https://a2i.gov.bd/.
+• Article 19. 2015. ‘Country report: The right to information in Bangladesh’. Last accessed 15 March 2021: 
+www.article19.org/resources/country-report-the-right-to-information-in-bangladesh/. 
+• Bangladesh National Portal. 2020. ‘Ongoing projects’. Last accessed 15 April 2020: https://ictd.gov.bd/
+site/page/847fccce-adfa-4bf0-b0b2-cb18d6208000/On-going-Projects.
+• BBS. 2011. Bureau of Statistics. Bangladesh Bureau of Statistics: National Census 2011.  
+ Last accessed 13 April 2021: http://bbs.dhaka.gov.bd/sites/default/files/files/bbs.dhaka.gov.bd/law_pol-
+icy/6ed6b42c_2015_11e7_8f57_286ed488c766/Socio-Economic%20and%20demogr aphic%20Report%20
+2012.pdf.  
+• BBS.	2014.	Bureau	of	Statistics.	Household	Income	and	Expenditure	Survey.	Dhaka:	Bangladesh	Bureau	
+of Statistics.
+• BBS. 2018. ICT Division. Information and Communication Technology Policy 2018. 
+• Bhattacharjee,	V.;	Hossain,	S.;	Shiblee,	S.	2019.	‘Production	of	DAISY	standard	accessible	reading	mate-
+rials for the students with print disability of grade 1-10 of Bangladesh’. Alexandria, Egypt: Bibliotheca 
+Alexandrina.
+• Disability Alliance on SDGs. 2019. Sustainable Development Goals and Disability. Disability Alliance 
+on SDGs, Bangladesh. Last accessed on 12 March 2021: https://bdplatform4sdgs.net/wp-content/up -
+loads/2019/11/Sustainable-Development-Goals-and-Disability-A-Baseline-of-Bangladesh.pdf.
+• Emporia. 2021. ‘Emporia – Empowerment of Persons with Disabilities’, Google Play.  
+Last accessed 15 April 2021: https://play.google.com/store/apps/details?id=bd.gov.
+epwdict&hl=en_US&gl=US . 
+• EPWDICT (Empowerment of Persons with Disabilities including NDD through ICT). 2020. ‘About Empow-
+erment of Persons with Disabilities including NDD through ICT’.  
+Last accessed 15 April 2021: https://epwdict.com/. 
+• MoSW. 2020. Disability Information System. ‘Disability Information System’.  
+Last accessed 10 March 2021: www.dis.gov.bd/.  
+• Rahman, N.; Aminuzzaman, S.; Ahmed, N. 2019. ‘End-line evaluation of Access to In -
+formation (a2i) – II Project’. UNDP, Bangladesh. 
+ Last accessed 12 April 2021: https://erc.undp.org/evaluation/documents/download/15024 
+• Salam,	A.	2020.	‘Disability	inclusive	education	and	COVID	19	response:	Bangladesh	perspective’.	Last	ac -
+cessed 12 April 2021: https://bangkok.unesco.org/sites/default/files/assets/article/Inclusion%20and%20
+Gender%20Equality%20in%20Education/webinar%20ppt/Bangladesh.pdf . 
+• Sobaih,	A.E.E.;	Hasanein,	A.M.;	Abu	Elnasr,	A.E.	2020.	‘Responses	to	COVID-19	in	higher	education:	Social	
+media usage for sustaining formal academic communication in developing  countries’. In Sustainability, 
+12(16),	6520.
+• Tareque, M.I.; Begum, S.; Saito, Y. 2014. ‘Inequality in disability in Bangladesh’. In PLoS One 9(7).
+• Thompson,	S.	2020.	‘Bangladesh	Situational	Analysis:	Version	II	–	June	2020’.	Last	accessed	13	April	2021:	
+https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/15525/DID%20SITAN%20Bangla-
+desh%20Version%20II%20June%202020.pdf?sequence=1 . 
+• UN	(United	Nations).	2020.	‘Leaving	no	one	behind:	the	COVID-19	crisis	through	the	disability	and	gender	
+lens’.	UN/DESA	Policy	Brief	#69.	Rome:	UN/Department	of	Economic	and	Social	Affairs.33
+COVID 19, technology-based education and  disability: The  case of Bangladesh•UNESC O. 	 2020. 	 ‘Including 	 learners 	 with 	 disabilities 	 in 	 COVID-19 	 education 	 responses’. 	 Last 	 accessed
+14
+ 
+April 2021: https://en.unesco.org/news/including-learners-disabilities-covid-19-education-responses.
+•UNESC
+O. 2021. ‘ICTs for persons living with disabilities’. Last accessed 15
+ 
+April 2021:
+https://en.unesco.org/partnerships .
+•UNICEF
+. 2014. Situation Analysis on Children with Disabilities in Bangladesh 2014. UNICEF: Bangladesh.
+•W
+atkins, A.; Tokareva, N.; Turner, M. 2012. ‘ICTs in education for people with disabili-
+ties’.
+ 
+UNESCO Institute for Information Technologies in Education. Last accessed on 15
+ April 2021:
+https://iite.unesco.or
+g/pics/publications/en/files/3214644.pdf.
+•WIPO
+	(W
+orld
+	Intellectual
+	Pr
+operty
+	Or
+ganization).
+	2016.
+	Marr
+akesh
+	T
+reaty
+	to
+	Facilitate
+	Access
+	to
+	Published
+W
+orks
+	
+for
+	
+Persons
+	
+Who
+	
+Are
+	
+Blind,
+	
+Visually
+	
+Impaired
+	
+or
+	
+Otherwise
+	
+Print
+	
+Disabled.
+	
+Last
+	
+accessed
+	
+10
+	
+April
+2020: www
+.wipo.int/treaties/en/ip/marrakesh/.
+•W
+orld
+	
+Bank.
+	
+2020.
+	
+Leveraging
+	
+Lessons
+	
+from
+	
+the
+	
+COVID-19
+	
+Crisis
+	
+for
+	
+Learners
+	
+with
+	
+Disabilities:
+	
+Global
+Seminar. W
+ashington: World Bank.
+•YPSA (Y
+oung Power in Social Action). 2020. ‘About us’. Last accessed 14
+ April 2021:
+ht
+tp://ypsa.org/about-us/.34
+COVID 19, technology-based education and  disability: The  case of BangladeshGlossary
+1. Accessible reading materials are print- and technology-based readings and core materials that are 
+designed or converted in a way that makes them usable across the widest range of user needs.
+2. Information and communication technology (ICT) is a broader term for information technology, 
+and refers to all communication technologies, including the internet, wireless networks, cell phones, 
+computers, software, middleware, videoconferencing, social networking, and other media applications 
+and services.
+3. Inclusive education  means all children in the same classrooms, in the same schools. It means 
+real learning opportunities for groups who have traditionally been excluded – not only children 
+with disabilities but also, for example, speakers of minority languages.
+4. The Marrakesh Treaty was adopted on 27 June 2013, in Marrakesh and it forms part of the body 
+of international copyright treaties administered by WIPO. It has a clear humanitarian and social 
+development dimension and its main goal is to create a set of mandatory limitations and exceptions 
+for	the	benefit	of	the	blind,	visually	impaired,	and	otherwise	print	disabled.
+5. Remote learning occurs when the learner and instructor, or source of information, are separated 
+by time and distance and therefore cannot meet in a traditional classroom setting. 
+6.	Universal design for learning (UDL) is an approach that acknowledges that in a classroom of learners, 
+all are different. They understand, process, and express things differently from one to the next. UDL 
+asserts that teaching and learning should utilize a multitude of methods to support all learners, 
+including, but not limited to, learners with disabilities. UDL involves three key principles of teaching so 
+that it provides multiple means of: 1) engagement, by helping students stay motivated to learn through 
+a variety of methods; 2) representation, by having content presented in a variety of ways; and 3) action 
+and expression, by having students show what they have learned in a variety of ways. By employing 
+various means of these three principles, learning achievement for all students is improved.
+7. Unicode is a universal character encoding standard that assigns a code to every character and symbol 
+in every language in the world. Since no other encoding standard supports all languages, Unicode 
+is the only encoding standard that ensures that you can retrieve or combine data using any 
+combination of languages.35
+COVID 19, technology-based education and  disability: The  case of BangladeshAppendices
+Appendix 1. Documents reviewed
+1. Bangladesh	Preparedness	and	Response	Plan	for	COVID-19.
+2. United Nations Convention on the Rights of Persons with Disabilities.
+3. The Persons with Disabilities Rights and Protection Act 2013.
+4. National Education Policy 2010 of Bangladesh Government.
+5. National ICT Policy 2018 of Bangladesh Government. 
+6.	Eight Five-Year Plan, General Economics Division, Bangladesh Planning Commission, Government 
+of Bangladesh.
+7. Prospects	and	Challenges	of	Distance	Learning	During	COVID	19	Pandemic,	Campaign	for	Popular	
+Education (CAMPE), Bangladesh 2020.
+8. Online Educational Activities, a2i, ICT Division, Government of Bangladesh. 
+9. ‘Ensuring	an	inclusive	return	to	school	for	children	with	disabilities’,	UNICEF	East	Asia	and	Pacific	Region	
+COVID-19	Technical	Guidance.
+10. International Telecommunication Union Guidelines, ‘On how to ensure that digital information, services 
+and	products	are	accessible	by	all	people,	including	persons	with	disabilities	during	COVID-19’.
+11. Bangladesh Situational Analysis by the Institute of Development Studies. 
+12. ‘Pivoting	to	inclusion:	Leveraging	lessons	from	the	COVID-19	crisis	for	learners	with	disabilities’,	issues	
+paper by World Bank Group. 
+13. Situation analysis on children with disabilities in Bangladesh by UNICEF Bangladesh. 
+Appendix 2. Organizations consulted for the research
+Direct involvement of organizations of persons with disabilities: 
+1. BVPIS	(Bangladesh	Visually	Impaired	People’s	Society)	
+2. DISSCU (Disabled Students’ Society of Chittagong University)
+3. Disabled Development and Research Center–DDRC
+4. Disabled Welfare Association
+5. IRCD (ICT and Resource Centre for Persons with Disabilities)
+NGOs working for persons with disabilities whose representatives were involved: 
+1. CSID (Centre for Services and Information on Disability)
+2. CDD (Centre for Disability in Development)36
+COVID 19, technology-based education and  disability: The  case of BangladeshAppendix 3. Participants – Key informant interviews 
+and focus group discussions
+Table 1: List of KII participants
+Participants Number 
+of KIIs
+Key official 
+of relevant ministries Position: Member (Primary Curriculum)
+Organization: NCTB, Ministry of Education. 
+Deputy Director (Monitoring)
+Directorate	of	Secondary	and	Higher	Education
+Ministry of Education 2
+Position: Director, Operation.
+Organization: DSS, Ministry of Social Welfare1
+Position:	Policy	Specialist	and	Head	of	Future	of	Education
+Organization: a2i, ICT Division.1
+Representative 
+of development 
+partner 
+(international)Position: Director at Developing Countries Program
+Organization: DAISY Consortium1
+Position: Assistant Resident Representative
+Organization: UNDP, Bangladesh 1
+Position: Capacity Building Consultant
+Organization: ABC of WIPO1
+Representative of development partner (national)
+Position: Chief Executive
+Organization: YPSA 1
+Researcher
+Position: Consultant, Academic Research, Development and ICT
+Organization: Primary Education Development Programme 41
+Representative of disabled people’s organization)
+Position: Founder President 
+Organization:	BVPIS,	and	Former	Member	of	the	Monitoring	Committee,	CRPD1
+Representative of teachers 
+Position: Associate Professor, Bangladesh Civil Service (General Education)
+Organization: Government Teachers’ Training College, Comilla1
+Representative of parents
+Address:	Hamzerbag,	Muadpur,	Chittagong
+Other details: Mother of a visually impaired student (Shakil) who got a GPA-5 in the last 
+secondary	school	certification	examination	1
+Representative of students
+Class:	Honours	final	year
+Institution: University of Chittagong
+Position: President 
+Organization: DISSCU 1
+1337
+COVID 19, technology-based education and  disability: The  case of BangladeshTable 2: List of FGD participants
+Relevant stakeholders Number 
+of FGDs
+OPDs, NGOs and international NGOs 1
+Country Operational 
+Coordinator,
+Humanity	and	InclusionCoordinator, 
+BVPISExecutive Director, 
+Disabled Development 
+and Research Center- DDRC
+Executive Director, 
+Centre for Services 
+and Information Disability.Founder and Executive 
+Director, Disabled WelfareThematic expert,
+Inclusive Education, Centre 
+for Disability in Development
+Coordinator, Manusher 
+Jonno FoundationAssociate	Programme	Officer,	
+IRCD of YPSA
+Teachers 1
+Mohsena Model Government Primary 
+School, Patiya, ChittagongSurikora, Gonoboti, Government Primary 
+School, Choddogram, Comilla
+Nasirabad	Government	Girls’	High	School,	
+ChittagongGovernment School for the Blind, 
+Chittagong.
+Government	Visually	Impaired	School,	PHT	
+Centre, Mirpur, Dhaka North Rangcharpra Government Primary 
+School,	Valuka,	Mymensingh
+Barishal Primary School, Shilong, Barishal Temuria Government Primary School, 
+Murad Nagar, Comilla
+Manob Kollan Trust School, Pabna
+Parents and Caregivers 1
+Address: Sunnia Madrasa, Muradpur 
+ChittagongAddress: Shantirhat Patiya, Chittagong
+Address: Oxygen Shitol Jharna, Chittagong Address: Mohammadpur 124, Chittagong
+Address: Madam Bibirhat, Sitakund, 
+ChittagongAddress: Chandonaish, Chittagong
+Address: Ujirpara, Patiya, Chittagong Address: Dhaka
+Students 1
+Class: 12 
+Institution: Government City CollegeClass: 10
+Institution: Rohmania School
+Class: 2nd year
+Institution: Dhaka UniversityClass: 12
+Institution: Government City College
+Class: 12
+Institution:	Hajeratun	Degree	CollegeClass: 12
+Institution:	Hajeratun	Degree	College
+Class: 1st year
+Institution: Chittagong UniversityClass: 9
+Institution: Rahmaniya Girls School
+0438
+COVID 19, technology-based education and  disability: The  case of BangladeshAbout the authors 
+Vashkar	Bhattacharjee, 	a 	person 	with 	a 	visual 	disability , 	is 	curr ently 	serving 	as 	the 	National 	Consultant 	for 	Ac -
+cessibility
+	in
+	the
+	a2i
+	Pr
+ogram
+	of
+	the
+	ICT
+	Division
+	of
+	the
+	Bangladesh
+	Go
+vernment.
+	He
+	is
+	also
+	serving
+	as
+	the
+	disa
+-
+bility
+	focal
+	point
+	and
+	is
+	looking
+	after
+	the
+	disability
+	portfolio
+	of
+	YPSA.
+	His
+	curr
+ent
+	focus
+	is
+	on
+	bringing
+	inno
+vation	
+in inclusive education, including the cr
+eation of accessible reading materials, facilitating the government’s in-
+clusive
+	university
+	initiative
+	and
+	e-learning
+	for
+	persons
+	with
+	disabilities.
+	He
+	is
+	also
+	the
+	focal
+	person
+	in
+	Bangladesh 	
+for 
+DAISY, ABC, Bookshare and Federation of DPO’s Sitakund, and is working as the country representative 
+of
+	G3ict.
+	V
+ashkar
+	is
+	the
+	first
+	Bangladeshi
+	to
+	r
+eceive
+	the
+	UNESC
+O
+	Emir
+	Jaber
+	Prize
+	for
+	Digital
+	Empo
+werment
+	of
+	Per
+-
+sons
+	with
+	Disabilities
+	(2018/2019).
+	He
+	has
+	also
+	r
+eceived
+	the
+	Henry
+	Viscar
+di
+	Achie
+vement
+	Awar
+d
+	in
+	2017
+	and
+	Bang
+-
+ladesh’s
+	
+honorable
+	
+Prime
+	
+Minister’s
+	
+award
+	
+as
+	
+a
+	
+successful
+	
+person
+	
+with
+	
+a
+	
+disability
+	
+in
+	
+2016.
+Shahriar
+	Mohammad
+	Shiblee
+	is
+	curr
+ently
+	serving
+	as
+	the
+	r
+esearch
+	and
+	documentation
+	officer
+	at
+	YPSA.
+	Since
+	
+the 
+beginning of his career, he has been working on issues and challenges around disability and, especially, 
+on
+	the
+	issues
+	of
+	accessible
+	and
+	inclusive
+	education
+	and
+	r
+elevant
+	tr
+aining
+	facilities.
+	He
+	has
+	ten
+	years
+	of
+	e
+x-
+perience in the art and cultural sector. Shahriar is the recipient of the ICCR scholarship (2014) and the West 
+Bengal Showvik award of honour (2015).
+ 
+IITE/2021/PI/1

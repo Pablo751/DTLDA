@@ -1,0 +1,317 @@
+IIEP Policy Brief / Open Government in Education N°1 / 2021
+As part of its research project on ‘Open 
+government (OG) in education: Learning 
+from experience’, the UNESCO International 
+Institute for Educational Planning (IIEP) has 
+prepared five thematic briefs illustrating 
+various forms of OG as applied to the  education 
+field: open government, open budgeting, 
+open contracting, open policy-making and 
+crowd-sourcing, and social auditing. This 
+brief explains the overall concept of open 
+government.
+What is open government (OG)?
+Within the education sector, ‘open government’ 
+refers to opening up government data, decision-
+making, processes, and control mechanisms to 
+public involvement and scrutiny, with a view 
+to ensuring inclusive and equitable quality 
+education. The term entered public debate in 
+the United States after the Second World War, 
+due to increased demand for citizen oversight 
+of government activities. Later on, freedom of 
+(or right to) information acts became a template 
+for legislation in a growing number of countries, 
+including the USA (1966), France (1978), 
+Australia (1982), and Colombia (1985). More 
+recently, calls for renewed government–citizen 
+interaction, combined with the development of 
+new technologies, have led some governments 
+to explore innovative ways not only to share 
+information but also to actively consult and 
+engage citizens in education service delivery. Initiatives to introduce open government can 
+be carried out at all levels of the education 
+sector, from the central to the municipal 
+and school levels. At the moment, however, 
+they tend to focus on the local rather than 
+the national level. A local initiative ‘is deeply 
+specific and contextual, and touches directly 
+on lived experiences’ (Lipovsek, 2016), and 
+mainly targets school-level stakeholders 
+such as pupils, parents, teachers, principals, 
+members of school management committees, 
+and community members. Civil society Open Government in Education
+A conceptual framework
+© Shutterstock
+Useful resources
+The Open Government Declaration adopted 
+in September 2011 states that signing 
+countries must ‘foster a global culture 
+of open government that empowers and 
+delivers for citizens, and advances the 
+ideals of open and participatory 21st 
+century government’; it has been endorsed 
+by 78 countries so far.
+The OECD has produced an evidence-based 
+analysis  of open government initiatives 
+carried out around the world; it reviews the 
+challenges countries face in implementing 
+and co-ordinating them.
+The World Bank has mapped out the 
+general landscape of research focused on 
+the outcomes and impact associated with 
+open government reforms and interventions.organizations are often used as intermediaries 
+to facilitate the implementation of OG 
+initiatives. Open government can reach 
+various levels of maturity; Lee and Kwak (2012) 
+distinguish four of these, usually beginning 
+with data transparency and proceeding to 
+open participation, open collaboration, and, 
+finally, ubiquitous engagement. 
+‘Open government’ refers to the 
+opening up within the education 
+sector of government data, 
+decision-making, processes, and 
+control mechanisms to public 
+involvement and scrutiny, with a view 
+to ensuring inclusive and equitable 
+quality education.
+OG guiding principles
+Three main principles underlie the concept 
+of open government: (i) transparency, 
+which can be defined as ‘the extent to 
+which governments make available the 
+data and the documents the public needs 
+in order to assess government action and 
+exercise voice in decision making’ (Harrison 
+et  al., 2012); (ii) citizen engagement, which 
+consists of encouraging the participation 
+and collaboration of the general public 
+when planning, implementing, monitoring, 
+or evaluating a new policy or project; and 
+(iii) accountability, meaning government 
+authorities’ obligation to be responsive to 
+citizens’ needs, requests, and possibly also 
+complaints. These are shown in Figure 1 .
+OGP National Action Plans 
+As part of the multilateral Open Government 
+Partnership  (OGP) initiative launched in 2011, participating countries submit National Action 
+Plans (NAPs) co-created by governments 
+and civil society. NAPs outline how their 
+commitments to enhancing transparency, 
+public participation in government, and 
+accountability might be realized. In 2019, 49 
+of these countries and local entities were 
+engaged in co-creating new plans, while 
+50 were implementing recently developed 
+plans. The review of OGP commitments by 
+participating countries led to the identification 
+of 295 education-related commitments 
+by 60 countries, formulated between 2011 
+and 2019. The major topics being tackled 
+within this framework are e-government and 
+education service delivery; open educational 
+resources, open science, open source, and 
+open standards; and citizenship and anti-
+corruption education.
+Mapping of OG initiatives in the 
+education sector
+The education policy or project planning cycle 
+includes the following stages: diagnosis, 
+policy formulation, resource allocation, 
+policy implementation and monitoring, and 
+reporting and evaluation. Each of the steps in 
+this cycle allows for varying degrees of citizen 
+participation and inputs. These can apply to 
+any or all of the following four major areas:
+ —Open data: the sharing of educational 
+information with the general public, in 
+either paper or electronic format (Poisson, 
+2021). This covers the publishing of open 
+school data, i.e. primary data disaggregated 
+at school level, including such items 
+as school budgets, student enrolment, 
+teacher numbers and qualifications, 
+condition of school facilities, availability of 
+textbooks, and student test results.IIEP Policy Brief / Open Government in Education N°1 / 2021
+Figure 1. Open government: three underlying principles
+Source : Author.Citizen engagement Accountability TransparencyOpen government —Open policy: the use of collaborative 
+approaches to inform and develop 
+educational policy-making and projects 
+that meet the dynamic needs of citizens. For 
+example, new crowd-sourcing platforms 
+have been developed in recent years, 
+making it possible to use online consultation 
+to collectively find solutions to the complex 
+problems faced by education authorities.
+ —Open processes: these include open 
+budgeting, open contracting, and open 
+education in particular. They affect public 
+access to budgetary, contracting, and 
+curriculum design information and processes 
+related to education, with the opportunity 
+for citizens to participate in the budget, 
+contracting, and curriculum design cycle.
+ —Social auditing: the monitoring of an 
+educational project or policy by its direct 
+beneficiaries, with a view to meeting pre-
+defined objectives. Different methods 
+are used to achieve this, such as public 
+hearings, citizen or school report cards, 
+and community score-cards.
+As shown schematically in Figure  2, open 
+data is a unique domain of OG, since it is 
+both crucial to the success of the three other 
+domains, and also a separate domain of its own. In other words, open policy, open budgeting, 
+open contracting, and social auditing cannot 
+succeed if they are not sustained by an active 
+policy of sharing the relevant information and 
+data with the general public. 
+An example of open government
+In 2016, the ‘Open School Platform ’ was 
+launched in Ukraine by an NGO called the 
+‘Kherson Regional Charitable Fund Union’, with 
+the aim of standardizing financial reporting 
+by schools. The platform enables schools to 
+publish required information in an open data 
+format, and creates an online platform for 
+exchanges between school administrators, 
+parents, and private donors. The information, 
+published and accessible online, relates to the 
+school budget, and includes school income 
+(from both government and private sources), 
+school expenditures, and school needs, as 
+well as the names of vendors and providers. 
+The Open School Platform allows parents 
+to assess school needs, make donations, 
+and then track the subsequent reporting 
+of expenditures. The Kherson Regional 
+Charitable Fund Union collaborates with local 
+public authorities (LPAs) to inform school 
+actors about the platform’s existence and to 
+organize training in how to use it. IIEP Policy Brief / Open Government in Education N°1 / 2021
+Figure 2. Schematic typology of open government, showing the cross-cutting importance of 
+open data
+Open policy 
+Crowd-
+sourcingOpen 
+innovationsOpen 
+contracting Open 
+educationSocial 
+auditingOpen government
+Source : AuthorOpen data 
+Open 
+processes 
+Open  
+budgeting Using the same platform, school principals 
+can also publicly request funds for specific 
+needs from the local department of education, 
+before turning to parents for contributions. 
+Overall, the Open School Platform encourages 
+more transparent communication between 
+LPAs and schools (Huss and Keudel, 2021).
+Open government can help fight corruption
+The three principles of open government listed 
+above –  transparency, citizen engagement, 
+and accountability – are pivotal to fighting 
+corruption in education. Through open school 
+data, the public can indeed verify that their 
+governments are spending money fairly, 
+and in a way that maximizes educational 
+opportunities for marginalized populations. 
+Open policy promotes the involvement of 
+minorities in the formulation of policy, thereby 
+ensuring that policies and curricula are more 
+diverse and inclusive. Open procurement 
+can increase the level of transparency 
+and accountability in education contract management, ensuring that procured items 
+(school equipment, textbooks, etc.) actually 
+reach their beneficiaries. Another way in which 
+open government principles can contribute to 
+reducing corrupt practices is through social 
+auditing: community monitoring can help 
+ensure that school resources are used in the 
+correct manner.
+Speaking more globally, Sambuli (2016) 
+emphasizes that what open government is all 
+about is the recalibration of power dynamics 
+between the government and citizens. 
+In other words, it puts power back in the 
+citizens’ hands, on the understanding that 
+governing structures will thereby become 
+more democratic and empowering, and that 
+governing mechanisms will be enhanced 
+and made more effective by better aligning 
+government activities with the actual needs 
+and demands of citizens. At the same time 
+public authorities will be encouraged to 
+address shortcomings in educational services 
+more rapidly and adequately. IIEP Policy Brief / Open Government in Education N°1 / 2021
+Contact information 
+This brief was written by Muriel 
+Poisson, IIEP Programme Specialist 
+and Coordinator of the Institute’s 
+research project on ‘Open government 
+in education: Learning from 
+experience’. It has benefitted from an 
+initial literature review carried out by 
+Inga Støren, Consultant. 
+For further information, contact:  
+Muriel Poisson 
+m.poisson@iiep.unesco.org
+IIEP-UNESCO
+7-9 rue Eugène Delacroix
+75016 Paris, France
+Tel: +33 1 45 03 77 00
+Fax: +33 1 40 72 83 66
+info@iiep.unesco.org
+www.iiep.unesco.orgReferences
+Harrison, T. M. et al. 2012. ‘Open 
+government and e-government: Democratic 
+challenges from a public value perspective’. 
+In: Information Polity, 17 (2), 245–253.
+Huss, O.; Keudel, O. 2021. Open budget: 
+Learning from the Open School Platform in 
+Donetsk oblast, Ukraine. Paris: IIEP-UNESCO. 
+Bologna: Bologna University Press, https://
+etico.iiep.unesco.org/en/resource/open-
+budget-learning-open-school-platform-
+donetsk-oblast-ukraine .
+Lipovsek, V. 2016. ‘Multiple ways to go 
+deeper and wider’. In: T . Carothers (ed.), 
+Ideas for Future Work on Transparency and 
+Accountability. Washington, DC: Carnegie 
+Endowment for International Peace . 
+Lee, G.; Kwak, Y. H. 2012. ‘An open 
+government maturity model for social media-
+based public engagement’. In: Government 
+Information Quarterly, 29 (4), 492–503.
+Sambuli, N. 2016. Let’s admit it: Open 
+Government is political. Blog published on 
+medium.com, https://medium.com/omidyar-
+network/lets-admit-it-open-government-is-
+political-3de7fa52ccc1.Further reading
+Huss, O.; Keudel, O. 2020.  Open Government 
+in Education: Clarifying Concepts and 
+Mapping Initiatives. Paris: IIEP-UNESCO, 
+https://unesdoc.unesco.org/ark:/48223/
+pf0000373142.locale=en .
+Poisson, M.  2021. Open School Data: What 
+Planners Need to Know. Paris: UNESCO 
+Publishing, https://unesdoc.unesco.org/
+ark:/48223/pf0000376705.locale=en .
+To learn more about IIEP’s research in this 
+area, consult the ETICO online platform  
+devoted to ethics and corruption in 
+education. You can also contact us by e-mail 
+at: etico@iiep.unesco.org .
+Also in this series of briefs: Poisson, M. 202I. 
+Open Budgeting/Open Contracting/Open 
+Policy-Making/Social Auditing: Illustrative 
+Forms of Open Government in Education . 
+Paris: IIEP-UNESCO.
+The designations employed and the presentation of material throughout this review do not imply the expression of any opinion whatsoever on the part of 
+UNESCO or IIEP concerning the legal status of any country, territory, city or area or its authorities, or concerning its frontiers or boundaries.
+© UNESCO 2021 — This publication is available in Open Access under the Attribution-ShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) licence (http://creativecommons.
+org/licenses/by-sa/3.0/igo/). By using the content of this publication, the users accept to be bound by the terms of use of the UNESCO Open Access 
+Repository (http://www.unesco.org/open-access/terms-use-ccbysa-en). The present licence applies exclusively to the text content of the publication.
