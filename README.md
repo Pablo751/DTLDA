@@ -4,69 +4,6 @@
 ## Introduction
 This project focuses on text processing and analysis, providing functionalities such as topic modeling, sentiment analysis, and text cleaning. The detailed documentation below provides insights into the modules used, functions defined, and the methodologies implemented.
 
-## Table of Contents
-
-
-- [**1. imports and setup**](#)
-  - [Modules and libraries](#)
-  - [Nltk resources](#)
-  - [Clean_text_without_lemmatization(text)](#)
-  - [Clean_text_with_lemmatization(text)](#)
-  - [A. reading documents:](#)
-  - [B. cleaning:](#)
-  - [C. saving cleaned documents:](#)
-  - [5. creating a dictionary and corpus for topic modeling](#)
-  - [A. building a dictionary:](#)
-  - [B. building a corpus:](#)
-  - [C. applying term frequency-inverse document frequency (tf-idf):](#)
-  - [A. building the lda model:](#)
-  - [B. displaying topics:](#)
-  - [C. visualizing topics:](#)
-  - [A. getting dominant topic for each document:](#)
-  - [B. extracting a snippet from each document:](#)
-  - [C. storing results in a dataframe:](#)
-  - [D. saving results to csv:](#)
-  - [Calculating sentiment score:](#)
-  - [Categorizing sentiment:](#)
-  - [Storing results in a dataframe:](#)
-  - [A. setting visualization style:](#)
-  - [B. creating a bar plot:](#)
-  - [C. adding titles and labels:](#)
-- [**Modules and libraries**](#)
-- [**Nltk resources**](#)
-- [**2. directory definitions**](#)
-- [**3. text cleaning functions**](#)
-- [**Clean_text_without_lemmatization(text)**](#)
-- [**Clean_text_with_lemmatization(text)**](#)
-- [**4. processing the corpus**](#)
-- [**A. reading documents:**](#)
-- [**B. cleaning:**](#)
-- [**C. saving cleaned documents:**](#)
-- [**5. creating a dictionary and corpus for topic modeling**](#)
-- [**A. building a dictionary:**](#)
-- [**B. building a corpus:**](#)
-- [**C. applying term frequency-inverse document frequency (tf-idf):**](#)
-- [**6. topic modeling**](#)
-- [**A. building the lda model:**](#)
-- [**B. displaying topics:**](#)
-- [**C. visualizing topics:**](#)
-- [**7. assigning dominant topics to documents**](#)
-- [**A. getting dominant topic for each document:**](#)
-- [**B. extracting a snippet from each document:**](#)
-- [**C. storing results in a dataframe:**](#)
-- [**D. saving results to csv:**](#)
-- [**8. sentiment analysis**](#)
-- [**Calculating sentiment score:**](#)
-- [**Categorizing sentiment:**](#)
-- [**Storing results in a dataframe:**](#)
-- [**9. visualization**](#)
-- [**A. setting visualization style:**](#)
-- [**B. creating a bar plot:**](#)
-- [**C. adding titles and labels:**](#)
-
-## Detailed Documentation
-# Project Documentation
-
 ## 1. imports and setup
 In this section, the script prepares the environment for text processing and analysis. Here's a detailed breakdown:
 
