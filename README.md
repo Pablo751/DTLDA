@@ -54,11 +54,11 @@ These functions ensure that the text is in a clean and standardized format, suit
 In this section, the script reads documents from the source directory, cleans them, and then saves the cleaned documents to the output directory.
 
 Steps:
-### A. reading documents:
+- **A. reading documents:**
 The script lists all files in the source directory and reads them one by one.
-### B. cleaning:
+- **B. cleaning:**
 For each document, the script uses the clean_text_with_lemmatization function to clean and lemmatize the text.
-### C. saving cleaned documents:
+- **C. saving cleaned documents:**
 After cleaning, the processed text is saved to the output directory with the same filename as the original. This ensures that original files remain untouched, and cleaned versions are stored separately.
 
 This section ensures that all documents are ready for further analysis by converting them into a clean and standardized format.
@@ -67,11 +67,11 @@ This section ensures that all documents are ready for further analysis by conver
 Topic modeling requires two main structures: a dictionary and a corpus.
 
 Steps:
-### A. building a dictionary:
+- **A. building a dictionary:**
 A dictionary maps every word to a unique ID. This script uses the Gensim library to build a dictionary from the cleaned documents.
-### B. building a corpus:
+- **B. building a corpus:**
 A corpus is a collection of documents represented in a format suitable for topic modeling. In this script, the corpus is represented as a bag-of-words (BoW) format, where each document is a list of (word ID, word frequency) pairs.
-### C. applying term frequency-inverse document frequency (tf-idf):
+- **C. applying term frequency-inverse document frequency (tf-idf):**
 TF-IDF is a way to weight terms based on how frequent they are in a document versus how frequent they are across all documents. The script applies this weighting to the BoW corpus to create a TF-IDF corpus.
 
 By the end of this section, the script has created structures that are ready to be used for topic modeling.
@@ -81,11 +81,11 @@ By the end of this section, the script has created structures that are ready to 
 Topic modeling is a type of statistical model used for discovering abstract topics in a collection of documents. In this script, Latent Dirichlet Allocation (LDA) is employed as the topic modeling technique.
 
 Steps:
-### A. building the lda model:
+- **A. building the lda model:**
 Using the previously created dictionary and corpus, the script builds an LDA model. This model will try to discover a specified number of topics from the corpus.
-### B. displaying topics:
+- **B. displaying topics:**
 Once the model is built, it displays the topics discovered along with the top words associated with each topic. These words give an insight into what each topic might represent.
-### C. visualizing topics:
+- **C. visualizing topics:**
 The script uses pyLDAvis, a Python library, to visualize the topics. This visualization provides an interactive way to explore the topics, see their prevalence, and understand the words associated with each topic.
 
 This section enables the user to understand the major themes or topics that are present in the corpus of documents.
@@ -95,13 +95,13 @@ This section enables the user to understand the major themes or topics that are 
 After discovering the topics in the corpus, it's helpful to know which topic is most prominent in each document.
 
 Steps:
-### A. getting dominant topic for each document:
+- **A. getting dominant topic for each document:**
 For each document in the corpus, the script determines the topic that has the highest probability of representing that document. This is termed the dominant topic.
-### B. extracting a snippet from each document:
+- **B. extracting a snippet from each document:**
 To give context, the script extracts the first few words from each document as a representative snippet.
-### C. storing results in a dataframe:
+- **C. storing results in a dataframe:**
 The document index, dominant topic, topic probability, and representative text snippet are stored in a DataFrame. This tabular format makes it easier to analyze and visualize the results.
-### D. saving results to csv:
+- **D. saving results to csv:**
 Optionally, the results can be saved to a CSV file for further analysis or sharing.
 
 This section provides a clear mapping between each document and its dominant topic, allowing for an organized overview of the corpus.
@@ -129,17 +129,14 @@ This section offers insights into the emotional tone of the documents, which can
 Visualization provides an intuitive way to understand and interpret the results. In this section, the script visualizes the distribution of sentiment categories across the documents.
 
 Steps:
-### A. setting visualization style:
+- **A. setting visualization style:**
 The script uses the seaborn library to set a visual style for the plot.
-### B. creating a bar plot:
+- **B. creating a bar plot:**
 A bar plot is created to display the count of documents for each sentiment category (Positive, Neutral, Negative).
-### C. adding titles and labels:
+- **C. adding titles and labels:**
 Relevant titles and labels are added to the plot to provide context and clarity.
 
 This visualization offers a quick snapshot of the overall sentiment distribution in the corpus, making it easier to gauge the general tone of the documents.
-
-
-
 
 
 ## Installation and Setup
@@ -151,7 +148,7 @@ This visualization offers a quick snapshot of the overall sentiment distribution
 Contributions are always welcome! If you have suggestions, bug reports, or enhancements, please open an issue or send a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This work is licensed under the Creative Commons Attribution 3.0 License. To view a copy of this license, visit [https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/)
 
 ## Contact
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please reach out to [juanpablo.casadobissone@studio.unibo.it](mailto:juanpablo.casadobissone@studio.unibo.it).
